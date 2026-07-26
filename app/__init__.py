@@ -1,0 +1,2 @@
+"""Pokemon Daily application package."""
+
