@@ -37,6 +37,12 @@ class CatalogRepository:
             )
         )
 
+    async def first_available(self) -> Pokemon | None:
+        result = await self.session.execute(
+            self._ordered_catalog().limit(1)
+        )
+        return result.scalar_one_or_none()
+
     async def next_for_user(self, user_id: int) -> Pokemon | None:
         statement = (
             self._ordered_catalog()

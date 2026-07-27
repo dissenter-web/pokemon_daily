@@ -4,6 +4,9 @@ import json
 
 from app.clients.max_api import MaxAPIClient
 from app.clients.pokeapi import PokeAPIClient
+from app.bot.buttons import card_buttons
+from app.bot.formatter import format_card
+from app.repositories.catalog import CatalogRepository
 from app.config import get_settings
 from app.db.session import SessionFactory, engine
 from app.logging_config import configure_logging
@@ -66,6 +69,48 @@ async def delivery_run() -> None:
         result = await DeliveryService(session, client, settings).run_due_batch()
     print(json.dumps({"planned": result.planned, "attempted": result.attempted}))
 
+async def send_test_card(max_user_id: int) -> None:
+    settings = get_settings()
+
+    async with (
+        MaxAPIClient(
+            token=settings.max_bot_token.get_secret_value(),
+            base_url=settings.max_api_base_url,
+            ca_bundle=settings.max_ca_bundle,
+        ) as client,
+        SessionFactory() as session,
+    ):
+        catalog = CatalogRepository(session)
+
+        pokemon = await catalog.first_available()
+
+        if pokemon is None:
+            raise SystemExit(
+                "В каталоге нет готовых карточек. "
+                "Сначала выполни sync-catalog."
+            )
+
+        card = await catalog.card(pokemon.id)
+
+        message_id = await client.send_message(
+            max_user_id=max_user_id,
+            text=format_card(card),
+            buttons=card_buttons(card.pokemon_id, False),
+            image_url=card.image_url,
+        )
+
+    print(
+        json.dumps(
+            {
+                "status": "sent",
+                "max_user_id": max_user_id,
+                "pokemon_id": card.pokemon_id,
+                "pokemon": card.name_en,
+                "message_id": message_id,
+            },
+            ensure_ascii=False,
+        )
+    )
 
 def parser() -> argparse.ArgumentParser:
     root = argparse.ArgumentParser(prog="python -m app.cli")
@@ -79,6 +124,18 @@ def parser() -> argparse.ArgumentParser:
     )
     commands.add_parser("register-webhook")
     commands.add_parser("delivery-run")
+
+    test_card = commands.add_parser(
+        "send-test-card",
+        help="Отправить тестовую карточку напрямую пользователю MAX",
+    )
+    test_card.add_argument(
+        "--max-user-id",
+        type=int,
+        required=True,
+        help="Идентификатор пользователя в MAX",
+    )
+
     return root
 
 
@@ -93,6 +150,8 @@ async def async_main() -> None:
             await register_webhook()
         elif arguments.command == "delivery-run":
             await delivery_run()
+        elif arguments.command == "send-test-card":
+            await send_test_card(arguments.max_user_id)
     finally:
         await engine.dispose()
 
