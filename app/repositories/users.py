@@ -85,8 +85,9 @@ class UserRepository:
     async def active_without_delivery(
         self, delivery_date: date, limit: int
     ) -> list[User]:
-        has_unresolved = exists(
-            select(DailyDelivery.id).where(
+        has_unresolved = (
+            exists()
+            .where(
                 DailyDelivery.user_id == User.id,
                 DailyDelivery.status.in_(
                     [
@@ -96,7 +97,9 @@ class UserRepository:
                     ]
                 ),
             )
+            .correlate(User)
         )
+        
         result = await self.session.execute(
             select(User)
             .outerjoin(

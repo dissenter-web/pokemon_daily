@@ -3,7 +3,7 @@ services:
     ports: []
 
   app:
-    ports: []
+    ports: !reset []
     expose:
       - "8000"
 
