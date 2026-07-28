@@ -139,7 +139,7 @@ docker compose exec -T db pg_restore \
 | `PUBLIC_BASE_URL` | Публичный HTTPS-домен без пути |
 | `WEBHOOK_MAX_BODY_BYTES` | Максимальный размер webhook-body |
 | `POKEAPI_BASE_URL` | REST API каталога |
-| `EDITORIAL_CONTENT_PATH` | Локальный русский редакционный JSON |
+| `EDITORIAL_CONTENT_PATH` | Каталог с русским редакционным контентом |
 
 Полный список и безопасные примеры находятся в `.env.example`.
 
