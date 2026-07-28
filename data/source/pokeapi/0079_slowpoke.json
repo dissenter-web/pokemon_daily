@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 79,
+  "slug": "slowpoke",
+  "name_en": "Slowpoke",
+  "genera_en": [
+    "Dopey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is always so absent-minded that it won't react, even if its flavorful tail is bitten.",
+      "version": "crystal"
+    },
+    {
+      "text": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.",
+      "version": "red"
+    },
+    {
+      "text": "Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.",
+      "version": "yellow"
+    },
+    {
+      "text": "It lazes vacantly near water. If something bites its tail, it won't even notice for a whole day.",
+      "version": "gold"
+    },
+    {
+      "text": "A sweet sap leaks from its tail's tip. Although not nutritious, the tail is pleasant to chew on.",
+      "version": "silver"
+    },
+    {
+      "text": "SLOWPOKE uses its tail to catch prey by dipping it in water at the side of a river. However, this POKéMON often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
+      "version": "ruby"
+    },
+    {
+      "text": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water’s edge.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+      "version": "firered"
+    },
+    {
+      "text": "Incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lazes vacantly near water. If something bites its tail, it won’t even notice for a whole day.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A sweet sap leaks from its tail’s tip. Although not nutritious, the tail is pleasant to chew on.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it’s doing and often spends entire days just loafing at water’s edge.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its long tail often breaks off. It doesn’t really feel any pain, though, and the tail grows back, so Slowpoke isn’t particularly bothered.",
+      "version": "sun"
+    },
+    {
+      "text": "Alolan home cooking involves drying Slowpoke tails and then simmering them into a salty stew.",
+      "version": "moon"
+    },
+    {
+      "text": "There are some places where Slowpoke is worshiped because of a long-standing belief that whenever Slowpoke yawns, it rains.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Although their tails, which fall off naturally, can easily be found lying around, they’re a precious ingredient for cooking.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",
+      "version": "sword"
+    },
+    {
+      "text": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "abilities": [
+    "oblivious",
+    "own-tempo",
+    "regenerator"
+  ],
+  "height_dm": 12,
+  "weight_hg": 360,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/33/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/79/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/79/"
+  }
+}

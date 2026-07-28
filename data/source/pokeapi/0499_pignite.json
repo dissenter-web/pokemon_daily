@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 499,
+  "slug": "pignite",
+  "name_en": "Pignite",
+  "genera_en": [
+    "Fire Pig Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+      "version": "black"
+    },
+    {
+      "text": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.",
+      "version": "white"
+    },
+    {
+      "text": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "abilities": [
+    "blaze",
+    "thick-fat"
+  ],
+  "height_dm": 10,
+  "weight_hg": 555,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/257/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/499/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/499/"
+  }
+}

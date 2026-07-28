@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 38,
+  "slug": "ninetales",
+  "name_en": "Ninetales",
+  "genera_en": [
+    "Fox Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
+      "version": "red"
+    },
+    {
+      "text": "According to an enduring legend, 9 noble saints were united and reincarnated as this POKéMON.",
+      "version": "yellow"
+    },
+    {
+      "text": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+      "version": "gold"
+    },
+    {
+      "text": "Its nine beautiful tails are filled with a wondrous energy that could keep it alive for 1,000 years.",
+      "version": "silver"
+    },
+    {
+      "text": "It is said to live a thousand years, and each of its tails is loaded with supernatural powers.",
+      "version": "crystal"
+    },
+    {
+      "text": "NINETALES casts a sinister light from its bright red eyes to gain total control over its foe’s mind. This POKéMON is said to live for a thousand years.",
+      "version": "ruby"
+    },
+    {
+      "text": "Legend has it that NINETALES came into being when nine wizards possessing sacred powers merged into one. This POKéMON is highly intelligent - it can understand human speech.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It has long been said that each of the nine tails embody an enchanted power. A long-lived NINETALES will have fur that shines like gold.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+      "version": "firered"
+    },
+    {
+      "text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+      "version": "diamond"
+    },
+    {
+      "text": "Each of its nine tails is imbued with supernatural power, and it can live for a thousand years.",
+      "version": "black-2"
+    },
+    {
+      "text": "Ninetales casts a sinister light from its bright red eyes to gain total control over its foe’s mind. This Pokémon is said to live for a thousand years.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Legend has it that Ninetales came into being when nine wizards possessing sacred powers merged into one. This Pokémon is highly intelligent—it can understand human speech.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Legend has it that this mystical Pokémon was formed when nine saints coalesced into one.",
+      "version": "sun"
+    },
+    {
+      "text": "Said to live for a thousand years, this Pokémon uses its supernatural abilities to manipulate fire. It can burn its prey to a crisp as it pleases.",
+      "version": "moon"
+    },
+    {
+      "text": "It is vindictive and relentless by nature. Those who cross it even once will be cursed for a thousand years, along with their descendants.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "According to an enduring legend, nine noble saints were united and reincarnated as this Pokémon.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",
+      "version": "sword"
+    },
+    {
+      "text": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "flash-fire",
+    "drought"
+  ],
+  "height_dm": 11,
+  "weight_hg": 199,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/15/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/38/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/38/"
+  }
+}

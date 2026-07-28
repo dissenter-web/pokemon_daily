@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 204,
+  "slug": "pineco",
+  "name_en": "Pineco",
+  "genera_en": [
+    "Bagworm Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+      "version": "gold"
+    },
+    {
+      "text": "It hangs and waits for flying insect prey to come near. It does not move about much on its own.",
+      "version": "silver"
+    },
+    {
+      "text": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
+      "version": "crystal"
+    },
+    {
+      "text": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+      "version": "ruby"
+    },
+    {
+      "text": "A PINECO hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
+      "version": "emerald"
+    },
+    {
+      "text": "It hangs and waits for flying-insect prey to come near. It does not move about much on its own.",
+      "version": "firered"
+    },
+    {
+      "text": "It likes to make its shell thicker by adding layers of tree bark. The extra weight doesn’t bother it.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+      "version": "diamond"
+    },
+    {
+      "text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn’t bother it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "sturdy",
+    "overcoat"
+  ],
+  "height_dm": 6,
+  "weight_hg": 72,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/102/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/204/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/204/"
+  }
+}

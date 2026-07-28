@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 588,
+  "slug": "karrablast",
+  "name_en": "Karrablast",
+  "genera_en": [
+    "Clamping Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+      "version": "black"
+    },
+    {
+      "text": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+      "version": "white"
+    },
+    {
+      "text": "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
+      "version": "sword"
+    },
+    {
+      "text": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "swarm",
+    "shed-skin",
+    "no-guard"
+  ],
+  "height_dm": 5,
+  "weight_hg": 59,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/299/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/588/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/588/"
+  }
+}

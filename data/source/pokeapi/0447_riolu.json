@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 447,
+  "slug": "riolu",
+  "name_en": "Riolu",
+  "genera_en": [
+    "Emanation Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+      "version": "pearl"
+    },
+    {
+      "text": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+      "version": "platinum"
+    },
+    {
+      "text": "They communicate with one another using their auras. They are able to run all through the night.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It uses the shapes of auras, which change according to emotion, to communicate with others.",
+      "version": "black-2"
+    },
+    {
+      "text": "It can discern the physical and emotional states of people, Pokémon, and other natural things from the shape of their aura waves.",
+      "version": "sun"
+    },
+    {
+      "text": "It’s tough enough to run right through the night, and it’s also a hard worker, but it’s still just a youngster.",
+      "version": "moon"
+    },
+    {
+      "text": "It knows how people and Pokémon feel by looking at their auras. It doesn’t approach dangerous opponents.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It uses waves called auras to communicate with others of its kind. It doesn’t make any noise during this time, so its enemies can’t detect it.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It’s exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",
+      "version": "sword"
+    },
+    {
+      "text": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
+      "version": "shield"
+    },
+    {
+      "text": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "steadfast",
+    "inner-focus",
+    "prankster"
+  ],
+  "height_dm": 7,
+  "weight_hg": 202,
+  "generation": "generation-iv",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/232/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/447/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/447/"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 42,
+  "slug": "golbat",
+  "name_en": "Golbat",
+  "genera_en": [
+    "Bat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "version": "red"
+    },
+    {
+      "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and suck blood.",
+      "version": "yellow"
+    },
+    {
+      "text": "However hard its victim's hide may be, it punctures with sharp fangs and gorges itself with blood.",
+      "version": "gold"
+    },
+    {
+      "text": "It can drink more than 10 ounces of blood at once. If it has too much, it gets heavy and flies clumsily.",
+      "version": "silver"
+    },
+    {
+      "text": "When it plunges its fangs into its prey, it instantly draws and gulps down more than ten ounces of blood.",
+      "version": "crystal"
+    },
+    {
+      "text": "GOLBAT loves to drink the blood of living things. It is particularly active in the pitch black of night. This POKéMON flits around in the night skies, seeking fresh blood.",
+      "version": "ruby"
+    },
+    {
+      "text": "GOLBAT bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and POKéMON.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and POKéMON. It flits about in darkness and strikes from behind.",
+      "version": "emerald"
+    },
+    {
+      "text": "It clamps down on its prey with needle- sharp fangs and drains over 10 ounces of blood in one gulp.",
+      "version": "firered"
+    },
+    {
+      "text": "Once it bites, it will not stop draining energy from the victim even if it gets too heavy to fly.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It loves the blood of humans and Pokémon. It flies around at night in search of neck veins.",
+      "version": "diamond"
+    },
+    {
+      "text": "Once it starts sucking blood, it does not stop until it is full. It flies at night in search of prey.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+      "version": "platinum"
+    },
+    {
+      "text": "However hard its victim’s hide may be, it punctures with sharp fangs and gorges itself with blood.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood.",
+      "version": "black-2"
+    },
+    {
+      "text": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night. This Pokémon flits around in the night skies, seeking fresh blood.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Golbat bites down on prey with its four fangs and drinks the victim’s blood. It becomes active on inky dark moonless nights, flying around to attack people and Pokémon.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its thick fangs are hollow like straws, making them unexpectedly fragile. These fangs are specialized for sucking blood.",
+      "version": "sun"
+    },
+    {
+      "text": "Sometimes they drink so much blood, they can’t fly anymore. Then they fall to the ground and become food for other Pokémon.",
+      "version": "moon"
+    },
+    {
+      "text": "Every once in a while, you’ll see a Golbat that’s missing some fangs. This happens when hunger drives it to try biting a Steel-type Pokémon.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
+      "version": "sword"
+    },
+    {
+      "text": "Its feet are tiny, but this Pokémon walks skillfully. It sneaks up on sleeping prey before sinking in its fangs and slurping up blood.",
+      "version": "shield"
+    },
+    {
+      "text": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "abilities": [
+    "inner-focus",
+    "infiltrator"
+  ],
+  "height_dm": 16,
+  "weight_hg": 550,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/42/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/42/"
+  }
+}

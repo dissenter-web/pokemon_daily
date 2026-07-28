@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 117,
+  "slug": "seadra",
+  "name_en": "Seadra",
+  "genera_en": [
+    "Dragon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Capable of swim­ ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.",
+      "version": "red"
+    },
+    {
+      "text": "Touching the back fin causes numb­ ness. It hooks its tail to coral to stay in place while sleeping.",
+      "version": "yellow"
+    },
+    {
+      "text": "An examination of its cells revealed the presence of a gene not found in HORSEA. It became a hot topic.",
+      "version": "gold"
+    },
+    {
+      "text": "Its fin-tips leak poison. Its fins and bones are highly valued as ingredients in herbal medicine.",
+      "version": "silver"
+    },
+    {
+      "text": "The male raises the young. If it is approached, it uses its toxic spikes to fend off the intruder.",
+      "version": "crystal"
+    },
+    {
+      "text": "SEADRA sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this POKéMON’s poison barbs if they fail to notice it.",
+      "version": "ruby"
+    },
+    {
+      "text": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
+      "version": "sapphire"
+    },
+    {
+      "text": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.",
+      "version": "firered"
+    },
+    {
+      "text": "It is capable of swimming backwards by rapidly flapping its winglike pectoral fins and stout tail.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.",
+      "version": "black-2"
+    },
+    {
+      "text": "Seadra sleeps after wriggling itself between the branches of coral. Those trying to harvest coral are occasionally stung by this Pokémon’s poison barbs if they fail to notice it.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
+      "version": "sword"
+    },
+    {
+      "text": "Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "poison-point",
+    "sniper",
+    "damp"
+  ],
+  "height_dm": 12,
+  "weight_hg": 250,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/117/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/117/"
+  }
+}

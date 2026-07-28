@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 531,
+  "slug": "audino",
+  "name_en": "Audino",
+  "genera_en": [
+    "Hearing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "version": "black"
+    },
+    {
+      "text": "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+      "version": "white"
+    },
+    {
+      "text": "Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.",
+      "version": "black-2"
+    },
+    {
+      "text": "Audino’s sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino’s ears.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "healer",
+    "regenerator",
+    "klutz"
+  ],
+  "height_dm": 11,
+  "weight_hg": 310,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/271/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/531/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/531/"
+  }
+}

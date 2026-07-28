@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 89,
+  "slug": "muk",
+  "name_en": "Muk",
+  "genera_en": [
+    "Sludge Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+      "version": "red"
+    },
+    {
+      "text": "Smells so awful, it can cause fainting. Through degeneration, it lost its sense of smell.",
+      "version": "yellow"
+    },
+    {
+      "text": "They love to gath­ er in smelly areas where sludge ac­ cumulates, making the stench around them worse.",
+      "version": "gold"
+    },
+    {
+      "text": "Its body is made of a powerful poi­ son. Touching it accidentally will cause a fever that requires bed rest.",
+      "version": "silver"
+    },
+    {
+      "text": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
+      "version": "crystal"
+    },
+    {
+      "text": "From MUK’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this POKéMON’s body fluid can turn a pool stagnant and rancid.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, MUK are certain to gather.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making MUK reek like putrid kitchen garbage.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.",
+      "version": "firered"
+    },
+    {
+      "text": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+      "version": "diamond"
+    },
+    {
+      "text": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its body is made of a powerful poison. Touching it accidentally will cause a fever that requires bed rest.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+      "version": "black-2"
+    },
+    {
+      "text": "From Muk’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon’s body fluid can turn a pool stagnant and rancid.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The stench it gives off will make your nose scrunch up. Still, there are Muk fans who think that’s a good thing.",
+      "version": "sun"
+    },
+    {
+      "text": "After recent environmental improvements, this Pokémon is now hardly seen at all. People speculate that it may go extinct at some point.",
+      "version": "moon"
+    },
+    {
+      "text": "Their food sources have decreased, and their numbers have declined sharply. Sludge ponds are being built to prevent their extinction.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Because they scatter germs everywhere, they’ve long been targeted for extermination, leading to a steep decline in their population.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "stench",
+    "sticky-hold",
+    "poison-touch"
+  ],
+  "height_dm": 12,
+  "weight_hg": 300,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/38/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/89/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/89/"
+  }
+}

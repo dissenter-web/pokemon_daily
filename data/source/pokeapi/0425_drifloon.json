@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 425,
+  "slug": "drifloon",
+  "name_en": "Drifloon",
+  "genera_en": [
+    "Balloon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "version": "diamond"
+    },
+    {
+      "text": "It tugs on the hands of children to steal them away. However, it gets pulled around instead.",
+      "version": "pearl"
+    },
+    {
+      "text": "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”",
+      "version": "platinum"
+    },
+    {
+      "text": "It is whispered that any child who mistakes DRIFLOON for a balloon and holds on to it could wind up missing.",
+      "version": "heartgold"
+    },
+    {
+      "text": "These Pokémon are called the “Signpost for Wandering Spirits.” Children holding them sometimes vanish.",
+      "version": "black-2"
+    },
+    {
+      "text": "Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children.",
+      "version": "sun"
+    },
+    {
+      "text": "If for some reason its body bursts, its soul spills out with a screaming sound.",
+      "version": "moon"
+    },
+    {
+      "text": "Its round body is stuffed with souls and expands each time it leads someone away.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",
+      "version": "sword"
+    },
+    {
+      "text": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
+      "version": "shield"
+    },
+    {
+      "text": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "abilities": [
+    "aftermath",
+    "unburden",
+    "flare-boost"
+  ],
+  "height_dm": 4,
+  "weight_hg": 12,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/219/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/425/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/425/"
+  }
+}

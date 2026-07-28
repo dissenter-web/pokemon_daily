@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 151,
+  "slug": "mew",
+  "name_en": "Mew",
+  "genera_en": [
+    "New Species Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "version": "red"
+    },
+    {
+      "text": "When viewed through a micro­ scope, this POKéMON's short, fine, delicate hair can be seen.",
+      "version": "yellow"
+    },
+    {
+      "text": "Apparently, it appears only to those people who are pure of heart and have a strong desire to see it.",
+      "version": "gold"
+    },
+    {
+      "text": "Its DNA is said to contain the genet­ ic codes of all POKéMON, so it can use all kinds of techniques.",
+      "version": "silver"
+    },
+    {
+      "text": "Because it can learn any move, some people began research to see if it is the ancestor of all POKéMON.",
+      "version": "crystal"
+    },
+    {
+      "text": "MEW is said to possess the genetic composition of all POKéMON. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "version": "ruby"
+    },
+    {
+      "text": "A MEW is said to possess the genes of all POKéMON. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "version": "emerald"
+    },
+    {
+      "text": "A POKéMON of South America that was thought to have been extinct. It is very intelligent and learns any move.",
+      "version": "firered"
+    },
+    {
+      "text": "Because it can use all kinds of moves, many scientists believe MEW to be the ancestor of Pokémon.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "version": "black"
+    },
+    {
+      "text": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "synchronize"
+  ],
+  "height_dm": 4,
+  "weight_hg": 40,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/78/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/151/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/151/"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 108,
+  "slug": "lickitung",
+  "name_en": "Lickitung",
+  "genera_en": [
+    "Licking Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+      "version": "red"
+    },
+    {
+      "text": "Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its tongue has well-developed nerves that run to the very tip, so it can be deft­ ly manipulated.",
+      "version": "gold"
+    },
+    {
+      "text": "Its long tongue, slathered with a gooey saliva, sticks to any­ thing, so it is very useful.",
+      "version": "silver"
+    },
+    {
+      "text": "It has a tongue that is over 6’6’’ long. It uses this long tongue to lick its body clean.",
+      "version": "crystal"
+    },
+    {
+      "text": "Whenever LICKITUNG comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+      "version": "ruby"
+    },
+    {
+      "text": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.",
+      "version": "firered"
+    },
+    {
+      "text": "Its tongue can be extended like a chameleon’s. It leaves a tingling sensation when it licks enemies.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Instead of hands, it uses its tongue, which is twice its height. Its sticky saliva grips anything.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its tongue has well-developed nerves that run to the very tip, so it can be deftly manipulated.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its long tongue, slathered with a gooey saliva, sticks to anything, so it is very useful.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail.",
+      "version": "black-2"
+    },
+    {
+      "text": "Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It checks out whatever’s around it by licking everything. If you don’t clean off a spot where it’s licked you, you’ll break out in a rash!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it’s really clean is...questionable.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.",
+      "version": "sword"
+    },
+    {
+      "text": "Bug Pokémon are Lickitung’s main food source. This Pokémon paralyzes its prey with a lick from its long tongue, then swallows the prey whole.",
+      "version": "shield"
+    },
+    {
+      "text": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "own-tempo",
+    "oblivious",
+    "cloud-nine"
+  ],
+  "height_dm": 12,
+  "weight_hg": 655,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/48/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/108/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/108/"
+  }
+}

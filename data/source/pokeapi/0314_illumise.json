@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 314,
+  "slug": "illumise",
+  "name_en": "Illumise",
+  "genera_en": [
+    "Firefly Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+      "version": "ruby"
+    },
+    {
+      "text": "ILLUMISE leads a flight of illuminated VOLBEAT to draw signs in the night sky. This POKéMON is said to earn greater respect from its peers by composing more complex designs in the sky.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A nocturnal POKéMON that becomes active upon nightfall. It leads a VOLBEAT swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+      "version": "emerald"
+    },
+    {
+      "text": "It guides VOLBEAT to draw signs in night skies. There are scientists that study the patterns it creates.",
+      "version": "firered"
+    },
+    {
+      "text": "With its sweet aroma, it guides VOLBEAT to draw signs with light in the night sky.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its fragrance attracts a swarm of VOLBEAT, so they draw over 200 patterns in the night sky.",
+      "version": "heartgold"
+    },
+    {
+      "text": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+      "version": "black"
+    },
+    {
+      "text": "Its fragrance attracts a swarm of Volbeat, so they draw over 200 patterns in the night sky.",
+      "version": "x"
+    },
+    {
+      "text": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "oblivious",
+    "tinted-lens",
+    "prankster"
+  ],
+  "height_dm": 6,
+  "weight_hg": 177,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/157/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/314/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/314/"
+  }
+}

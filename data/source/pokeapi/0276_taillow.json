@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 276,
+  "slug": "taillow",
+  "name_en": "Taillow",
+  "genera_en": [
+    "Tiny Swallow Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+      "version": "ruby"
+    },
+    {
+      "text": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Although it is small, it is very courageous. It will take on a larger SKARMORY on an equal footing. However, its will weakens if it becomes hungry.",
+      "version": "emerald"
+    },
+    {
+      "text": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+      "version": "firered"
+    },
+    {
+      "text": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it gets cold, they migrate, flying over 180 miles a day. It hunts for tasty prey.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "guts",
+    "scrappy"
+  ],
+  "height_dm": 3,
+  "weight_hg": 23,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/138/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/276/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/276/"
+  }
+}

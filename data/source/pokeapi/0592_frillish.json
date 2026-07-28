@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 592,
+  "slug": "frillish",
+  "name_en": "Frillish",
+  "genera_en": [
+    "Floating Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+      "version": "black"
+    },
+    {
+      "text": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+      "version": "white"
+    },
+    {
+      "text": "If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return.",
+      "version": "black-2"
+    },
+    {
+      "text": "It wraps its veillike arms and legs around prey swimming by and drags them down to the depths of the ocean.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface.",
+      "version": "sword"
+    },
+    {
+      "text": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "abilities": [
+    "water-absorb",
+    "cursed-body",
+    "damp"
+  ],
+  "height_dm": 12,
+  "weight_hg": 330,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/301/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/592/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/592/"
+  }
+}

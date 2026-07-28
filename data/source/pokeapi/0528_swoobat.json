@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 528,
+  "slug": "swoobat",
+  "name_en": "Swoobat",
+  "genera_en": [
+    "Courting Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+      "version": "black"
+    },
+    {
+      "text": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+      "version": "white"
+    },
+    {
+      "text": "It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.",
+      "version": "black-2"
+    },
+    {
+      "text": "Emitting powerful sound waves tires it out. Afterward, it won’t be able to fly for a little while.",
+      "version": "sword"
+    },
+    {
+      "text": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    "unaware",
+    "klutz",
+    "simple"
+  ],
+  "height_dm": 9,
+  "weight_hg": 105,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/269/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/528/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/528/"
+  }
+}

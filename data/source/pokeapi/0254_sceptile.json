@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 254,
+  "slug": "sceptile",
+  "name_en": "Sceptile",
+  "genera_en": [
+    "Forest Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
+      "version": "ruby"
+    },
+    {
+      "text": "SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care.",
+      "version": "sapphire"
+    },
+    {
+      "text": "In the jungle, its power is without equal. This POKéMON carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
+      "version": "emerald"
+    },
+    {
+      "text": "The leaves on its forelegs are as sharp as swords. It agilely leaps about the branches of trees to strike.",
+      "version": "firered"
+    },
+    {
+      "text": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+      "version": "diamond"
+    },
+    {
+      "text": "It agilely leaps about the jungle and uses the sharp leaves on its arms to strike its prey.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The leaves growing on Sceptile’s body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "unburden"
+  ],
+  "height_dm": 17,
+  "weight_hg": 522,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/130/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/254/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/254/"
+  }
+}

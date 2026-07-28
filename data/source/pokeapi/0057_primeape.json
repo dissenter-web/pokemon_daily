@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 57,
+  "slug": "primeape",
+  "name_en": "Primeape",
+  "genera_en": [
+    "Pig Monkey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+      "version": "red"
+    },
+    {
+      "text": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+      "version": "yellow"
+    },
+    {
+      "text": "If approached while asleep, it may awaken and angrily give chase in a groggy state of semi-sleep.",
+      "version": "gold"
+    },
+    {
+      "text": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+      "version": "silver"
+    },
+    {
+      "text": "It will beat up anyone who makes it mad, even if it has to chase them until the end of the world.",
+      "version": "crystal"
+    },
+    {
+      "text": "When PRIMEAPE becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+      "version": "ruby"
+    },
+    {
+      "text": "When it becomes furious, its blood circulation becomes more robust, and its muscles are made stronger. But it also becomes much less intelligent.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.",
+      "version": "firered"
+    },
+    {
+      "text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it catches up.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+      "version": "diamond"
+    },
+    {
+      "text": "When Primeape becomes furious, its blood circulation is boosted. In turn, its muscles are made even stronger. However, it also becomes much less intelligent at the same time.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It has been known to become so angry that it dies as a result. Its face looks peaceful in death, however.",
+      "version": "sun"
+    },
+    {
+      "text": "Some researchers theorize that Primeape remains angry even when inside a Poké Ball.",
+      "version": "moon"
+    },
+    {
+      "text": "It will never forgive opponents who have angered it. Even after it has beaten them down until they can’t move, it never ever forgives.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "vital-spirit",
+    "anger-point",
+    "defiant"
+  ],
+  "height_dm": 10,
+  "weight_hg": 320,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/24/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/57/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/57/"
+  }
+}

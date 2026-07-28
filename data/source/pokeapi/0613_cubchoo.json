@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 613,
+  "slug": "cubchoo",
+  "name_en": "Cubchoo",
+  "genera_en": [
+    "Chill Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+      "version": "black"
+    },
+    {
+      "text": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+      "version": "white"
+    },
+    {
+      "text": "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
+      "version": "black-2"
+    },
+    {
+      "text": "When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn’t like.",
+      "version": "sword"
+    },
+    {
+      "text": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "snow-cloak",
+    "slush-rush",
+    "rattled"
+  ],
+  "height_dm": 5,
+  "weight_hg": 85,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/310/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/613/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/613/"
+  }
+}

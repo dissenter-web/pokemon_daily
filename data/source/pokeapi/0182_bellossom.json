@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 182,
+  "slug": "bellossom",
+  "name_en": "Bellossom",
+  "genera_en": [
+    "Flower Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+      "version": "gold"
+    },
+    {
+      "text": "Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",
+      "version": "silver"
+    },
+    {
+      "text": "When these dance together, their petals rub against each other, making pretty, relaxing sounds.",
+      "version": "crystal"
+    },
+    {
+      "text": "When BELLOSSOM gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This POKéMON’s dancing is renowned in the southern lands.",
+      "version": "ruby"
+    },
+    {
+      "text": "A BELLOSSOM grows flowers more beautifully if it has evolved from a smelly GLOOM - the stinkier the better. At night, this POKéMON closes its petals and goes to sleep.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
+      "version": "emerald"
+    },
+    {
+      "text": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+      "version": "diamond"
+    },
+    {
+      "text": "BELLOSSOM gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Bellossom gather at times and seem to dance. They say that the dance is a ritual to summon the sun.",
+      "version": "x"
+    },
+    {
+      "text": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon’s dancing is renowned in the southern lands.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "healer"
+  ],
+  "height_dm": 4,
+  "weight_hg": 58,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/182/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/182/"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 421,
+  "slug": "cherrim",
+  "name_en": "Cherrim",
+  "genera_en": [
+    "Blossom Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is docile as a bud, but turns cheerful when it blooms. It folds back into a bud if sunlight wanes.",
+      "version": "pearl"
+    },
+    {
+      "text": "If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.",
+      "version": "platinum"
+    },
+    {
+      "text": "During times of strong sunlight, its bud blooms, its petals open fully, and it becomes very active.",
+      "version": "heartgold"
+    },
+    {
+      "text": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+      "version": "sword"
+    },
+    {
+      "text": "Its folded petals are pretty tough. Bird Pokémon can peck at them all they want, and Cherrim won’t be bothered at all.",
+      "version": "shield"
+    },
+    {
+      "text": "Motionless, save for the occasional quiver. A rich array of Pokémon can be found gathered around it, drawn by the scent exuded from Cherrim's folded petals.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "flower-gift"
+  ],
+  "height_dm": 5,
+  "weight_hg": 93,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/217/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/421/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/421/"
+  }
+}

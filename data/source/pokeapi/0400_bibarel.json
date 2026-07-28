@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 400,
+  "slug": "bibarel",
+  "name_en": "Bibarel",
+  "genera_en": [
+    "Beaver Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+      "version": "diamond"
+    },
+    {
+      "text": "While its movements out of water are sluggish, it can swim as fast as any FEEBAS.",
+      "version": "pearl"
+    },
+    {
+      "text": "A river dammed by BIBAREL will never overflow its banks, which is appreciated by people nearby.",
+      "version": "platinum"
+    },
+    {
+      "text": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+      "version": "black"
+    },
+    {
+      "text": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal",
+    "water"
+  ],
+  "abilities": [
+    "simple",
+    "unaware",
+    "moody"
+  ],
+  "height_dm": 10,
+  "weight_hg": 315,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/207/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/400/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/400/"
+  }
+}

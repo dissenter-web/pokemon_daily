@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 54,
+  "slug": "psyduck",
+  "name_en": "Psyduck",
+  "genera_en": [
+    "Duck Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.",
+      "version": "red"
+    },
+    {
+      "text": "Always tormented by headaches. It uses psychic powers, but it is not known if it intends to do so.",
+      "version": "yellow"
+    },
+    {
+      "text": "It has mystical powers but doesn't recall that it has used them. That is why it always looks puzzled.",
+      "version": "gold"
+    },
+    {
+      "text": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+      "version": "silver"
+    },
+    {
+      "text": "The only time it can use its psy­ chic power is when its sleeping brain cells happen to wake.",
+      "version": "crystal"
+    },
+    {
+      "text": "PSYDUCK uses a mysterious power. When it does so, this POKéMON generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+      "version": "ruby"
+    },
+    {
+      "text": "If it uses its mysterious power, PSYDUCK can’t remember having done so. It apparently can’t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+      "version": "sapphire"
+    },
+    {
+      "text": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+      "version": "firered"
+    },
+    {
+      "text": "If its usual headache worsens, it starts exhibiting odd powers. It can’t remember doing so, however.",
+      "version": "diamond"
+    },
+    {
+      "text": "It never remembers using its odd powers, so it always tilts its head in puzzlement.",
+      "version": "pearl"
+    },
+    {
+      "text": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+      "version": "platinum"
+    },
+    {
+      "text": "It has mystical powers but doesn’t recall that it has used them. That is why it always looks puzzled.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power.",
+      "version": "black-2"
+    },
+    {
+      "text": "Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "If it uses its mysterious power, Psyduck can’t remember having done so. It apparently can’t form a memory of such an event because it goes into an altered state that is much like deep sleep.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon is troubled by constant headaches. The more pain it’s in, the more powerful its psychokinesis becomes.",
+      "version": "moon"
+    },
+    {
+      "text": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",
+      "version": "sword"
+    },
+    {
+      "text": "As Psyduck gets stressed out, its headache gets progressively worse. It uses intense psychic energy to overwhelm those around it.",
+      "version": "shield"
+    },
+    {
+      "text": "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "damp",
+    "cloud-nine",
+    "swift-swim"
+  ],
+  "height_dm": 8,
+  "weight_hg": 196,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/23/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/54/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/54/"
+  }
+}

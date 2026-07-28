@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 615,
+  "slug": "cryogonal",
+  "name_en": "Cryogonal",
+  "genera_en": [
+    "Crystallizing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
+      "version": "black"
+    },
+    {
+      "text": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+      "version": "white"
+    },
+    {
+      "text": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F.",
+      "version": "black-2"
+    },
+    {
+      "text": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+      "version": "y"
+    },
+    {
+      "text": "With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.",
+      "version": "sword"
+    },
+    {
+      "text": "When the weather gets hot, these Pokémon turn into water vapor. Cryogonal are almost never seen during summer.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 11,
+  "weight_hg": 1480,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/311/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/615/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/615/"
+  }
+}

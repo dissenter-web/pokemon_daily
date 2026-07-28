@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 465,
+  "slug": "tangrowth",
+  "name_en": "Tangrowth",
+  "genera_en": [
+    "Vine Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+      "version": "platinum"
+    },
+    {
+      "text": "When it remains still, it appears to be a large shrub. Unsuspecting prey that wander near get ensnared by its vines.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its vines grow so profusely that, in the warm season, you can’t even see its eyes.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Even if one of its arms is eaten, it’s fine. The Pokémon regenerates quickly and will go right back to normal.",
+      "version": "black-2"
+    },
+    {
+      "text": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+      "version": "sword"
+    },
+    {
+      "text": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
+      "version": "shield"
+    },
+    {
+      "text": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "leaf-guard",
+    "regenerator"
+  ],
+  "height_dm": 20,
+  "weight_hg": 1286,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/52/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/465/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/465/"
+  }
+}

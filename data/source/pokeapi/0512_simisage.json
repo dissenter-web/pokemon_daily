@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 512,
+  "slug": "simisage",
+  "name_en": "Simisage",
+  "genera_en": [
+    "Thorn Monkey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+      "version": "black"
+    },
+    {
+      "text": "It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.",
+      "version": "white"
+    },
+    {
+      "text": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "gluttony",
+    "overgrow"
+  ],
+  "height_dm": 11,
+  "weight_hg": 305,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/262/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/512/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/512/"
+  }
+}

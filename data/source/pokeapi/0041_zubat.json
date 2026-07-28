@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 41,
+  "slug": "zubat",
+  "name_en": "Zubat",
+  "genera_en": [
+    "Bat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has no eyes. Instead, it relies on its ultrasonic cries for echolocation to flit about in darkness.",
+      "version": "y"
+    },
+    {
+      "text": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
+      "version": "red"
+    },
+    {
+      "text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for ob­ jects in its way.",
+      "version": "yellow"
+    },
+    {
+      "text": "While flying, it constantly emits ultrasonic waves from its mouth to check its sur­ roundings.",
+      "version": "gold"
+    },
+    {
+      "text": "Capable of flying safely in dark places, it emits ultrasonic cries to check for any obstacles.",
+      "version": "silver"
+    },
+    {
+      "text": "During the day, it gathers with others and hangs from the ceilings of old buildings and caves.",
+      "version": "crystal"
+    },
+    {
+      "text": "ZUBAT remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+      "version": "ruby"
+    },
+    {
+      "text": "ZUBAT avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+      "version": "sapphire"
+    },
+    {
+      "text": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.",
+      "version": "firered"
+    },
+    {
+      "text": "It forms colonies in perpetually dark places and uses ultrasonic waves to identify and approach targets.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Even though it has no eyes, it can sense obstacles using ultrasonic waves it emits from its mouth.",
+      "version": "diamond"
+    },
+    {
+      "text": "Disliking sunlight, it sleeps deep in forests and caves until sundown.",
+      "version": "pearl"
+    },
+    {
+      "text": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+      "version": "platinum"
+    },
+    {
+      "text": "While flying, it constantly emits ultrasonic waves from its mouth to check its surroundings.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies.",
+      "version": "black-2"
+    },
+    {
+      "text": "Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Zubat avoids sunlight because exposure causes it to become unhealthy. During the daytime, it stays in caves or under the eaves of old houses, sleeping while hanging upside down.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It sleeps in caves during the day. It has no eyes, so to check its surroundings while flying, it emits ultrasonic waves.",
+      "version": "sun"
+    },
+    {
+      "text": "When exposed to sunlight, they suffer burns. The frequency of their ultrasonic waves can differ slightly from colony to colony.",
+      "version": "moon"
+    },
+    {
+      "text": "It has no eyeballs, so it can’t see. It checks its surroundings via the ultrasonic waves it emits from its mouth.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Their skin is so thin that they’ll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another’s bodies.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+      "version": "sword"
+    },
+    {
+      "text": "Zubat live in caves, down where the sun’s light won’t reach. In the morning, they gather together to keep each other warm as they sleep.",
+      "version": "shield"
+    },
+    {
+      "text": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "flying"
+  ],
+  "abilities": [
+    "inner-focus",
+    "infiltrator"
+  ],
+  "height_dm": 8,
+  "weight_hg": 75,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/17/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/41/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/41/"
+  }
+}

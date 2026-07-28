@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 441,
+  "slug": "chatot",
+  "name_en": "Chatot",
+  "genera_en": [
+    "Music Note Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "version": "diamond"
+    },
+    {
+      "text": "It keeps rhythm by flicking its tail feathers like a metronome. It imitates human speech.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.",
+      "version": "platinum"
+    },
+    {
+      "text": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "tangled-feet",
+    "big-pecks"
+  ],
+  "height_dm": 5,
+  "weight_hg": 19,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/228/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/441/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/441/"
+  }
+}

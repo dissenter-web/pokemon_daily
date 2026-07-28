@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 340,
+  "slug": "whiscash",
+  "name_en": "Whiscash",
+  "genera_en": [
+    "Whiskers Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "WHISCASH is extremely territorial. Just one of these POKéMON will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+      "version": "ruby"
+    },
+    {
+      "text": "If WHISCASH goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This POKéMON has the ability to predict real earthquakes.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.",
+      "version": "emerald"
+    },
+    {
+      "text": "It makes its nest at the bottom of swamps. It will eat anything - if it is alive, WHISCASH will eat it.",
+      "version": "firered"
+    },
+    {
+      "text": "It is very territorial. It repels foes by setting off tremors that extend over a three-mile radius.",
+      "version": "diamond"
+    },
+    {
+      "text": "As a result of causing tremors by thrashing about, it developed the ability to foretell real quakes.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+      "version": "platinum"
+    },
+    {
+      "text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It makes its nest at the bottom of swamps. It will eat anything--if it is alive, Whiscash will eat it.",
+      "version": "y"
+    },
+    {
+      "text": "Whiscash is extremely territorial. Just one of these Pokémon will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "If Whiscash goes on a wild rampage, it sets off a quake-like tremor with a radius of over three miles. This Pokémon has the ability to predict real earthquakes.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A glutton that devours anything that moves, it quietly lurks at the bottom of swamps, lying in wait for prey.",
+      "version": "sun"
+    },
+    {
+      "text": "Sighting Whiscash leaping from the water is believed to herald an earthquake.",
+      "version": "moon"
+    },
+    {
+      "text": "Whiscash shakes the ground at high intensities to intimidate its opponents. It swallows its prey whole—along with mud from the swamp floor.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",
+      "version": "sword"
+    },
+    {
+      "text": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "oblivious",
+    "anticipation",
+    "hydration"
+  ],
+  "height_dm": 9,
+  "weight_hg": 236,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/173/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/340/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/340/"
+  }
+}

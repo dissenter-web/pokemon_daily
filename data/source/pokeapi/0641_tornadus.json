@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 641,
+  "slug": "tornadus",
+  "name_en": "Tornadus",
+  "genera_en": [
+    "Cyclone Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+      "version": "black"
+    },
+    {
+      "text": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+      "version": "white"
+    },
+    {
+      "text": "In every direction it flies, creating winds so powerful, they blow everything away.",
+      "version": "black-2"
+    },
+    {
+      "text": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "flying"
+  ],
+  "abilities": [
+    "prankster",
+    "defiant"
+  ],
+  "height_dm": 15,
+  "weight_hg": 630,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/328/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/641/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/641/"
+  }
+}

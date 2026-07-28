@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 209,
+  "slug": "snubbull",
+  "name_en": "Snubbull",
+  "genera_en": [
+    "Fairy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+      "version": "gold"
+    },
+    {
+      "text": "It has an active, playful nature. Many women like to frolic with it because of its af­ fectionate ways.",
+      "version": "silver"
+    },
+    {
+      "text": "In truth, it is a cowardly POKéMON. It growls eagerly in order to hide its fear from its opponent.",
+      "version": "crystal"
+    },
+    {
+      "text": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
+      "version": "ruby"
+    },
+    {
+      "text": "By baring its fangs and making a scary face, it sends smaller POKéMON scurrying in terror. The SNUBBULL does seem a little sad at making its foes flee.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+      "version": "firered"
+    },
+    {
+      "text": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+      "version": "diamond"
+    },
+    {
+      "text": "By baring its fangs and making a scary face, Snubbull sends smaller Pokémon scurrying away in terror. However, this Pokémon seems a little sad at making its foes flee.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Despite its intimidating face, it’s quite cowardly. Its desperate attempts to appear threatening make it popular with people.",
+      "version": "sun"
+    },
+    {
+      "text": "Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.",
+      "version": "moon"
+    },
+    {
+      "text": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "intimidate",
+    "run-away",
+    "rattled"
+  ],
+  "height_dm": 6,
+  "weight_hg": 78,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/105/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/209/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/209/"
+  }
+}

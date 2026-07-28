@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 603,
+  "slug": "eelektrik",
+  "name_en": "Eelektrik",
+  "genera_en": [
+    "EleFish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+      "version": "black"
+    },
+    {
+      "text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "version": "white"
+    },
+    {
+      "text": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 12,
+  "weight_hg": 220,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/306/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/603/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/603/"
+  }
+}

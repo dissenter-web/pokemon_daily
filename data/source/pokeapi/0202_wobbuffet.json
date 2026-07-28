@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 202,
+  "slug": "wobbuffet",
+  "name_en": "Wobbuffet",
+  "genera_en": [
+    "Patient Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike.",
+      "version": "gold"
+    },
+    {
+      "text": "To keep its pitch- black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+      "version": "silver"
+    },
+    {
+      "text": "In order to con­ ceal its black tail, it lives in a dark cave and only moves about at night.",
+      "version": "crystal"
+    },
+    {
+      "text": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
+      "version": "ruby"
+    },
+    {
+      "text": "WOBBUFFET does nothing but endure attacks - it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the POKéMON will try to take the foe with it using DESTINY BOND.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Usually docile, a WOBBUFFET strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+      "version": "emerald"
+    },
+    {
+      "text": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+      "version": "firered"
+    },
+    {
+      "text": "It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+      "version": "diamond"
+    },
+    {
+      "text": "It hates light and shock. If attacked, it inflates its body to build up its counterstrike.",
+      "version": "heartgold"
+    },
+    {
+      "text": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "shadow-tag",
+    "telepathy"
+  ],
+  "height_dm": 13,
+  "weight_hg": 285,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/100/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/202/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/202/"
+  }
+}

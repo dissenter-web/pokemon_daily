@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 322,
+  "slug": "numel",
+  "name_en": "Numel",
+  "genera_en": [
+    "Numb Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "NUMEL is extremely dull witted - it doesn’t notice being hit. However, it can’t stand hunger for even a second. This POKéMON’s body is a seething cauldron of boiling magma.",
+      "version": "ruby"
+    },
+    {
+      "text": "NUMEL stores magma of almost 2,200 degrees F within its body. If it gets wet, the magma cools and hardens. In that event, the POKéMON’s body grows heavy and its movements become sluggish.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A NUMEL stores boiling magma in the hump on its back. It is a hardy POKéMON that can transport a 220-pound load. It has served humans at work since long ago.",
+      "version": "emerald"
+    },
+    {
+      "text": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+      "version": "firered"
+    },
+    {
+      "text": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+      "version": "diamond"
+    },
+    {
+      "text": "The flaming magma it stores in the hump on its back is the source of its tremendous power.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves.",
+      "version": "black-2"
+    },
+    {
+      "text": "The magma in its body reaches 2,200 degrees Fahrenheit. Its hump gets smaller when it uses Fire-type moves.",
+      "version": "y"
+    },
+    {
+      "text": "Numel is extremely dull witted—it doesn’t notice being hit. However, it can’t stand hunger for even a second. This Pokémon’s body is a seething cauldron of boiling magma.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "fire",
+    "ground"
+  ],
+  "abilities": [
+    "oblivious",
+    "simple",
+    "own-tempo"
+  ],
+  "height_dm": 7,
+  "weight_hg": 240,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/162/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/322/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/322/"
+  }
+}

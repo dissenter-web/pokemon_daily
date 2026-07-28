@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 462,
+  "slug": "magnezone",
+  "name_en": "Magnezone",
+  "genera_en": [
+    "Magnet Area Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "version": "diamond"
+    },
+    {
+      "text": "A group tried to use scientific means to make MAGNEZONE evolve, but their efforts ended in failure.",
+      "version": "platinum"
+    },
+    {
+      "text": "Exposure to a special magnetic field changed MAGNETON’s molecular structure, turning it into MAGNEZONE.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+      "version": "black"
+    },
+    {
+      "text": "Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move.",
+      "version": "black-2"
+    },
+    {
+      "text": "Three units generate magnetism. There have been many mistaken reports of UFO sightings when Magnezone flies through the night sky.",
+      "version": "sun"
+    },
+    {
+      "text": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin, while transmitting signals of unknown purpose.",
+      "version": "moon"
+    },
+    {
+      "text": "It uses radar to monitor its territory. Intruders are quickly disposed of with a hyper beam.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Some say that Magnezone receives signals from space via the antenna on its head and that it’s being controlled by some mysterious being.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.",
+      "version": "shield"
+    },
+    {
+      "text": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "abilities": [
+    "magnet-pull",
+    "sturdy",
+    "analytic"
+  ],
+  "height_dm": 12,
+  "weight_hg": 1800,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/34/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/462/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/462/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 396,
+  "slug": "starly",
+  "name_en": "Starly",
+  "genera_en": [
+    "Starling Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They flock in great numbers. Though small, they flap their wings with great power.",
+      "version": "diamond"
+    },
+    {
+      "text": "Usually with a large flock, it is barely noticeable when alone. Its cries are very strident.",
+      "version": "pearl"
+    },
+    {
+      "text": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+      "version": "platinum"
+    },
+    {
+      "text": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+      "version": "heartgold"
+    },
+    {
+      "text": "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "reckless"
+  ],
+  "height_dm": 3,
+  "weight_hg": 20,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/206/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/396/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/396/"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 349,
+  "slug": "feebas",
+  "name_en": "Feebas",
+  "genera_en": [
+    "Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
+      "version": "ruby"
+    },
+    {
+      "text": "While FEEBAS’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this POKéMON is also slow and dimwitted, making it an easy catch.",
+      "version": "sapphire"
+    },
+    {
+      "text": "FEEBAS live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few TRAINERS raise it.",
+      "version": "emerald"
+    },
+    {
+      "text": "Ridiculed for its shabby appearance, it is ignored by researchers. It lives in ponds choked with weeds.",
+      "version": "firered"
+    },
+    {
+      "text": "It is famous for its shabby appearance. While populous, they tend to cluster in set locations.",
+      "version": "diamond"
+    },
+    {
+      "text": "It eats anything, so it can even live in polluted streams and lakes. No one pays any attention to it.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+      "version": "platinum"
+    },
+    {
+      "text": "It is the shabbiest Pokémon of all. It forms in schools and lives at the bottom of rivers.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Feebas’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this Pokémon is largely ignored. It is capable of living in both the sea and in rivers.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "While Feebas’s body is in tatters, it has a hardy and tenacious life force that enables it to live anywhere. However, this Pokémon is also slow and dimwitted, making it an easy catch.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A tough Pokémon that is perfectly fine even in dirty water. However, due to its ragged, shabby appearance, it isn’t popular.",
+      "version": "sun"
+    },
+    {
+      "text": "Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research.",
+      "version": "moon"
+    },
+    {
+      "text": "They look ragged, so no one catches them. They look like they’d taste bad, so predators won’t eat them. And their numbers continue to grow.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas—and Feebas alone!",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "oblivious",
+    "adaptability"
+  ],
+  "height_dm": 6,
+  "weight_hg": 74,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/178/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/349/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/349/"
+  }
+}

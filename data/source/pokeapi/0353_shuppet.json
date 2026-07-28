@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 353,
+  "slug": "shuppet",
+  "name_en": "Shuppet",
+  "genera_en": [
+    "Puppet Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home.",
+      "version": "ruby"
+    },
+    {
+      "text": "SHUPPET grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+      "version": "sapphire"
+    },
+    {
+      "text": "This POKéMON roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+      "version": "emerald"
+    },
+    {
+      "text": "It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.",
+      "version": "firered"
+    },
+    {
+      "text": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+      "version": "diamond"
+    },
+    {
+      "text": "It uses its horn to feed on envy and malice, or so it’s said. It’s very active at night.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger.",
+      "version": "black-2"
+    },
+    {
+      "text": "It uses its horn to feed on envy and malice-- or so it’s said. It’s very active at night.",
+      "version": "x"
+    },
+    {
+      "text": "Shuppet is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this Pokémon will appear in a swarm and line up beneath the eaves of that person’s home.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Shuppet grows by feeding on dark emotions, such as vengefulness and envy, in the hearts of people. It roams through cities in search of grudges that taint people.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "insomnia",
+    "frisk",
+    "cursed-body"
+  ],
+  "height_dm": 6,
+  "weight_hg": 23,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/181/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/353/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/353/"
+  }
+}

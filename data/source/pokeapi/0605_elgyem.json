@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 605,
+  "slug": "elgyem",
+  "name_en": "Elgyem",
+  "genera_en": [
+    "Cerebral Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
+      "version": "black"
+    },
+    {
+      "text": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
+      "version": "white"
+    },
+    {
+      "text": "Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.",
+      "version": "black-2"
+    },
+    {
+      "text": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This Pokémon is shrouded in mystery. It’s said to have appeared from a UFO that fell from the sky about 50 years ago.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "telepathy",
+    "synchronize",
+    "analytic"
+  ],
+  "height_dm": 5,
+  "weight_hg": 90,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/307/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/605/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/605/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 401,
+  "slug": "kricketot",
+  "name_en": "Kricketot",
+  "genera_en": [
+    "Cricket Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+      "version": "diamond"
+    },
+    {
+      "text": "It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+      "version": "platinum"
+    },
+    {
+      "text": "When its antennae hit each other, it sounds like the music of a xylophone.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "shed-skin",
+    "run-away"
+  ],
+  "height_dm": 3,
+  "weight_hg": 22,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/208/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/401/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/401/"
+  }
+}

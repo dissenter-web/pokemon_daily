@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 504,
+  "slug": "patrat",
+  "name_en": "Patrat",
+  "genera_en": [
+    "Scout Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+      "version": "black"
+    },
+    {
+      "text": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.",
+      "version": "white"
+    },
+    {
+      "text": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "run-away",
+    "keen-eye",
+    "analytic"
+  ],
+  "height_dm": 5,
+  "weight_hg": 116,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/259/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/504/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/504/"
+  }
+}

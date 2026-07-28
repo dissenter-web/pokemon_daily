@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 862,
+  "slug": "obstagoon",
+  "name_en": "Obstagoon",
+  "genera_en": [
+    "Blocking Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+      "version": "sword"
+    },
+    {
+      "text": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "normal"
+  ],
+  "abilities": [
+    "reckless",
+    "guts",
+    "defiant"
+  ],
+  "height_dm": 16,
+  "weight_hg": 460,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/134/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/862/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/862/"
+  }
+}

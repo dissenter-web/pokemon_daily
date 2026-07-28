@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 294,
+  "slug": "loudred",
+  "name_en": "Loudred",
+  "genera_en": [
+    "Big Voice Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LOUDRED’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This POKéMON’s round ears serve as loudspeakers.",
+      "version": "ruby"
+    },
+    {
+      "text": "LOUDRED shouts while stamping its feet. After it finishes shouting, this POKéMON becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.",
+      "version": "emerald"
+    },
+    {
+      "text": "When it stamps its feet and bellows, it generates ultrasonic waves that can blow apart a house.",
+      "version": "firered"
+    },
+    {
+      "text": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+      "version": "diamond"
+    },
+    {
+      "text": "It shouts loudly by inhaling air, and then uses its well-developed stomach muscles to exhale.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Loudred’s bellowing can completely decimate a wood-frame house. It uses its voice to punish its foes. This Pokémon’s round ears serve as loudspeakers.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Loudred’s ears serve as speakers, and they can put out sound waves powerful enough to blow away a house.",
+      "version": "sword"
+    },
+    {
+      "text": "The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "soundproof",
+    "scrappy"
+  ],
+  "height_dm": 10,
+  "weight_hg": 405,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/145/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/294/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/294/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 490,
+  "slug": "manaphy",
+  "name_en": "Manaphy",
+  "genera_en": [
+    "Seafaring Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+      "version": "diamond"
+    },
+    {
+      "text": "Water makes up 80% of its body. This Pokémon is easily affected by its environment.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+      "version": "platinum"
+    },
+    {
+      "text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "hydration"
+  ],
+  "height_dm": 3,
+  "weight_hg": 14,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/250/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/490/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/490/"
+  }
+}

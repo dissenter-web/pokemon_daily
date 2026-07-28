@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 642,
+  "slug": "thundurus",
+  "name_en": "Thundurus",
+  "genera_en": [
+    "Bolt Strike Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+      "version": "black"
+    },
+    {
+      "text": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+      "version": "white"
+    },
+    {
+      "text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+      "version": "black-2"
+    },
+    {
+      "text": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "abilities": [
+    "prankster",
+    "defiant"
+  ],
+  "height_dm": 15,
+  "weight_hg": 610,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/329/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/642/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/642/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 586,
+  "slug": "sawsbuck",
+  "name_en": "Sawsbuck",
+  "genera_en": [
+    "Season Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.",
+      "version": "black"
+    },
+    {
+      "text": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+      "version": "white"
+    },
+    {
+      "text": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "normal",
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "sap-sipper",
+    "serene-grace"
+  ],
+  "height_dm": 19,
+  "weight_hg": 925,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/297/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/586/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/586/"
+  }
+}

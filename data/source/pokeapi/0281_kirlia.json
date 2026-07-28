@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 281,
+  "slug": "kirlia",
+  "name_en": "Kirlia",
+  "genera_en": [
+    "Emotion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
+      "version": "ruby"
+    },
+    {
+      "text": "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the POKéMON uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A KIRLIA has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.",
+      "version": "emerald"
+    },
+    {
+      "text": "The cheerful spirit of its TRAINER gives it energy for its psychokinetic power. It spins and dances when happy.",
+      "version": "firered"
+    },
+    {
+      "text": "It is highly perceptive of its Trainer’s feelings. It dances when it is feeling happy.",
+      "version": "diamond"
+    },
+    {
+      "text": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+      "version": "platinum"
+    },
+    {
+      "text": "It has a psychic power that enables it to distort the space around it and see into the future.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.",
+      "version": "x"
+    },
+    {
+      "text": "It is said that a Kirlia that is exposed to the positive emotions of its Trainer grows beautiful. This Pokémon controls psychokinetic powers with its highly developed brain.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "abilities": [
+    "synchronize",
+    "trace",
+    "telepathy"
+  ],
+  "height_dm": 8,
+  "weight_hg": 202,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/140/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/281/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/281/"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 207,
+  "slug": "gligar",
+  "name_en": "Gligar",
+  "genera_en": [
+    "Fly Scorpion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It flies straight at its target's face then clamps down on the star­ tled victim to inject poison.",
+      "version": "gold"
+    },
+    {
+      "text": "It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.",
+      "version": "silver"
+    },
+    {
+      "text": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+      "version": "crystal"
+    },
+    {
+      "text": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+      "version": "ruby"
+    },
+    {
+      "text": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+      "version": "emerald"
+    },
+    {
+      "text": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It sails on the winds with its limbs extended to strike from the sky. It aims for the prey’s face.",
+      "version": "diamond"
+    },
+    {
+      "text": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+      "version": "platinum"
+    },
+    {
+      "text": "It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it’s stunned with surprise.",
+      "version": "black-2"
+    },
+    {
+      "text": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "sand-veil",
+    "immunity"
+  ],
+  "height_dm": 11,
+  "weight_hg": 648,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/104/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/207/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/207/"
+  }
+}

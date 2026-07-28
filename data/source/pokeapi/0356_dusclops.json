@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 356,
+  "slug": "dusclops",
+  "name_en": "Dusclops",
+  "genera_en": [
+    "Beckon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "DUSCLOPS’s body is completely hollow - there is nothing at all inside. It is said that its body is like a black hole. This POKéMON will absorb anything into its body, but nothing will ever come back out.",
+      "version": "ruby"
+    },
+    {
+      "text": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS’s bidding.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",
+      "version": "firered"
+    },
+    {
+      "text": "Its body is hollow. It is said that those who look into its body are sucked into the void.",
+      "version": "diamond"
+    },
+    {
+      "text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+      "version": "platinum"
+    },
+    {
+      "text": "Anyone who dares peer into its body to see its spectral ball of fire will have their spirit stolen away.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Dusclops’s body is completely hollow—there is nothing at all inside. It is said that its body is like a black hole. This Pokémon will absorb anything into its body, but nothing will ever come back out.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Dusclops absorbs anything, however large the object may be. This Pokémon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops’s bidding.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "pressure",
+    "frisk"
+  ],
+  "height_dm": 16,
+  "weight_hg": 306,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/182/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/356/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/356/"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 618,
+  "slug": "stunfisk",
+  "name_en": "Stunfisk",
+  "genera_en": [
+    "Trap Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+      "version": "black"
+    },
+    {
+      "text": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+      "version": "white"
+    },
+    {
+      "text": "When its opponent can’t be paralyzed, it contorts itself with unexpected speed and flops away.",
+      "version": "black-2"
+    },
+    {
+      "text": "Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",
+      "version": "sword"
+    },
+    {
+      "text": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground",
+    "electric"
+  ],
+  "abilities": [
+    "static",
+    "limber",
+    "sand-veil"
+  ],
+  "height_dm": 7,
+  "weight_hg": 110,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/313/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/618/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/618/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 646,
+  "slug": "kyurem",
+  "name_en": "Kyurem",
+  "genera_en": [
+    "Boundary Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "version": "black"
+    },
+    {
+      "text": "It can produce ultracold air. Its body is frozen.",
+      "version": "white"
+    },
+    {
+      "text": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+      "version": "black-2"
+    },
+    {
+      "text": "Dwelling within it is a power even greater than that of Reshiram or Zekrom, but the extreme cold keeps that power bound.",
+      "version": "sword"
+    },
+    {
+      "text": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dragon",
+    "ice"
+  ],
+  "abilities": [
+    "pressure"
+  ],
+  "height_dm": 30,
+  "weight_hg": 3250,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/333/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/646/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/646/"
+  }
+}

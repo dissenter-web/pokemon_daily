@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 361,
+  "slug": "snorunt",
+  "name_en": "Snorunt",
+  "genera_en": [
+    "Snow Hat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SNORUNT live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this POKéMON steals away to live quietly among stalactites and stalagmites deep in caverns.",
+      "version": "ruby"
+    },
+    {
+      "text": "SNORUNT survives by eating only snow and ice. Old folklore claims that a house visited by this POKéMON is sure to prosper for many generations to come.",
+      "version": "sapphire"
+    },
+    {
+      "text": "They tend to move about in groups of around five SNORUNT. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is said that a home visited by a SNORUNT will prosper. It can withstand cold of minus 150 degrees Fahrenheit.",
+      "version": "firered"
+    },
+    {
+      "text": "In the snow country, certain folklore says a house will prosper if a SNORUNT lives there.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is said that several SNORUNT gather under giant leaves and live together in harmony.",
+      "version": "platinum"
+    },
+    {
+      "text": "It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+      "version": "black"
+    },
+    {
+      "text": "In the snow country, certain folklore says a house will prosper if a Snorunt lives there.",
+      "version": "y"
+    },
+    {
+      "text": "Snorunt live in regions with heavy snowfall. In seasons without snow, such as spring and summer, this Pokémon steals away to live quietly among stalactites and stalagmites deep in caverns.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Snorunt survives by eating only snow and ice. Old folklore claims that a house visited by this Pokémon is sure to prosper for many generations to come.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Their numbers seem to have rapidly increased in Alola. Custom has it that houses where Snorunt live will be prosperous for generations to come.",
+      "version": "sun"
+    },
+    {
+      "text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as -150 degrees Fahrenheit.",
+      "version": "moon"
+    },
+    {
+      "text": "It feeds mainly on ice and snow. It’s only able to survive in a limited number of places in the warm Alola region.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Rich people from cold areas all share childhood memories of playing with Snorunt.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
+      "version": "shield"
+    },
+    {
+      "text": "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "inner-focus",
+    "ice-body",
+    "moody"
+  ],
+  "height_dm": 7,
+  "weight_hg": 168,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/186/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/361/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/361/"
+  }
+}

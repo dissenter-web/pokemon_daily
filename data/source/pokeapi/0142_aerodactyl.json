@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 142,
+  "slug": "aerodactyl",
+  "name_en": "Aerodactyl",
+  "genera_en": [
+    "Fossil Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A ferocious, pre­ historic POKéMON that goes for the enemy's throat with its serrated saw-like fangs.",
+      "version": "red"
+    },
+    {
+      "text": "A savage POKéMON that died out in ancient times. It was resurrected using DNA taken from amber.",
+      "version": "yellow"
+    },
+    {
+      "text": "A vicious POKéMON from the distant past, it appears to have flown by spreading its wings and gliding.",
+      "version": "gold"
+    },
+    {
+      "text": "This vicious POKé­ MON is said to have flown in an­ cient skies while shrieking high- pitched cries.",
+      "version": "silver"
+    },
+    {
+      "text": "In prehistoric times, this POKéMON flew freely and fearlessly through the skies.",
+      "version": "crystal"
+    },
+    {
+      "text": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+      "version": "ruby"
+    },
+    {
+      "text": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
+      "version": "emerald"
+    },
+    {
+      "text": "It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.",
+      "version": "firered"
+    },
+    {
+      "text": "A ferocious, prehistoric POKéMON that goes for the enemy’s throat with its serrated, sawlike fangs.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+      "version": "diamond"
+    },
+    {
+      "text": "A vicious Pokémon from the distant past, it appears to have flown by spreading its wings and gliding.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This vicious Pokémon is said to have flown in ancient skies while shrieking high-pitched cries.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "A Pokémon from the age of the dinosaurs. It used its sawlike fangs to shred its prey before eating them.",
+      "version": "sun"
+    },
+    {
+      "text": "In ancient times, it ruled the skies. A widely accepted theory is that it went extinct due to a large meteor impact.",
+      "version": "moon"
+    },
+    {
+      "text": "Restored from DNA found in amber, this Pokémon exhibited ferocity that was greater than expected. Some casualties resulted.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It flew through the open skies over the ancient continent as if they were its own. When it touched ground, its walk was weak and slow.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+      "version": "sword"
+    },
+    {
+      "text": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "abilities": [
+    "rock-head",
+    "pressure",
+    "unnerve"
+  ],
+  "height_dm": 18,
+  "weight_hg": 590,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/71/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/142/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/142/"
+  }
+}

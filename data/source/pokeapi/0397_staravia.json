@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 397,
+  "slug": "staravia",
+  "name_en": "Staravia",
+  "genera_en": [
+    "Starling Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
+      "version": "pearl"
+    },
+    {
+      "text": "Recognizing their own weakness, they always live in a group. When alone, a STARAVIA cries noisily.",
+      "version": "platinum"
+    },
+    {
+      "text": "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+      "version": "black"
+    },
+    {
+      "text": "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "intimidate",
+    "reckless"
+  ],
+  "height_dm": 6,
+  "weight_hg": 155,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/206/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/397/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/397/"
+  }
+}

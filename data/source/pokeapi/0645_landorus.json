@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 645,
+  "slug": "landorus",
+  "name_en": "Landorus",
+  "genera_en": [
+    "Abundance Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
+      "version": "black"
+    },
+    {
+      "text": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+      "version": "white"
+    },
+    {
+      "text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "version": "black-2"
+    },
+    {
+      "text": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground",
+    "flying"
+  ],
+  "abilities": [
+    "sand-force",
+    "sheer-force"
+  ],
+  "height_dm": 15,
+  "weight_hg": 680,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/332/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/645/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/645/"
+  }
+}

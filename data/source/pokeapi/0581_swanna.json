@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 581,
+  "slug": "swanna",
+  "name_en": "Swanna",
+  "genera_en": [
+    "White Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+      "version": "black"
+    },
+    {
+      "text": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+      "version": "white"
+    },
+    {
+      "text": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "big-pecks",
+    "hydration"
+  ],
+  "height_dm": 13,
+  "weight_hg": 242,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/295/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/581/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/581/"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 193,
+  "slug": "yanma",
+  "name_en": "Yanma",
+  "genera_en": [
+    "Clear Wing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area.",
+      "version": "gold"
+    },
+    {
+      "text": "Its large eyes can scan 360 degrees. It looks in all directions to seek out insects as its prey.",
+      "version": "silver"
+    },
+    {
+      "text": "It can see in all directions without moving its big eyes, helping it spot attackers and food right away.",
+      "version": "crystal"
+    },
+    {
+      "text": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
+      "version": "ruby"
+    },
+    {
+      "text": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+      "version": "emerald"
+    },
+    {
+      "text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its eyes can see 360 degrees without moving its head. It won’t miss prey--even those behind it.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+      "version": "platinum"
+    },
+    {
+      "text": "By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem.",
+      "version": "black-2"
+    },
+    {
+      "text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "speed-boost",
+    "compound-eyes",
+    "frisk"
+  ],
+  "height_dm": 12,
+  "weight_hg": 380,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/95/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/193/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/193/"
+  }
+}

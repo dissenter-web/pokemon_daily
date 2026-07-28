@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 203,
+  "slug": "girafarig",
+  "name_en": "Girafarig",
+  "genera_en": [
+    "Long Neck Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+      "version": "gold"
+    },
+    {
+      "text": "Its tail, which also contains a small brain, may bite on its own if it notices an alluring smell.",
+      "version": "silver"
+    },
+    {
+      "text": "When it is in danger, its tail uses some sort of mysterious powers to drive away the enemy.",
+      "version": "crystal"
+    },
+    {
+      "text": "GIRAFARIG’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite.",
+      "version": "ruby"
+    },
+    {
+      "text": "GIRAFARIG’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A GIRAFARIG is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its tail also has a small brain. It bites to repel any foe trying to sneak up on it from behind.",
+      "version": "diamond"
+    },
+    {
+      "text": "While it sleeps, the head on its tail keeps watch. The tail doesn’t need to sleep.",
+      "version": "pearl"
+    },
+    {
+      "text": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent by biting.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Girafarig’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "abilities": [
+    "inner-focus",
+    "early-bird",
+    "sap-sipper"
+  ],
+  "height_dm": 15,
+  "weight_hg": 415,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/101/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/203/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/203/"
+  }
+}

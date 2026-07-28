@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 144,
+  "slug": "articuno",
+  "name_en": "Articuno",
+  "genera_en": [
+    "Freeze Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.",
+      "version": "red"
+    },
+    {
+      "text": "A legendary bird POKéMON. It freezes water that is contained in winter air and makes it snow.",
+      "version": "yellow"
+    },
+    {
+      "text": "The magnificent, seemingly translu­ cent wings of this legendary bird POKéMON are said to be made of ice.",
+      "version": "gold"
+    },
+    {
+      "text": "One of the legen­ dary bird POKéMON, it chills moisture in the atmosphere to create snow while flying.",
+      "version": "silver"
+    },
+    {
+      "text": "Legendary bird POKéMON. As it flies through the sky, it cools the air, causing snow to fall.",
+      "version": "crystal"
+    },
+    {
+      "text": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
+      "version": "ruby"
+    },
+    {
+      "text": "One of the legendary bird POKéMON. With its long tail trailing behind, its flying form is magnificent.",
+      "version": "firered"
+    },
+    {
+      "text": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+      "version": "diamond"
+    },
+    {
+      "text": "The magnificent, seemingly translucent wings of this legendary bird Pokémon are said to be made of ice.",
+      "version": "heartgold"
+    },
+    {
+      "text": "One of the legendary bird Pokémon, it chills moisture in the atmosphere to create snow while flying.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "version": "y"
+    },
+    {
+      "text": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "abilities": [
+    "pressure",
+    "snow-cloak"
+  ],
+  "height_dm": 17,
+  "weight_hg": 554,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/73/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/144/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/144/"
+  }
+}

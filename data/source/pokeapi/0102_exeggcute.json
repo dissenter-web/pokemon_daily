@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 102,
+  "slug": "exeggcute",
+  "name_en": "Exeggcute",
+  "genera_en": [
+    "Egg Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Using telepathy only they can receive, they always form a cluster of six EXEGGCUTE.",
+      "version": "silver"
+    },
+    {
+      "text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "version": "red"
+    },
+    {
+      "text": "The heads attract each other and spin around. There must be 6 heads for it to maintain balance.",
+      "version": "yellow"
+    },
+    {
+      "text": "The shell is very durable. Even if it cracks, it can survive without spilling the contents.",
+      "version": "gold"
+    },
+    {
+      "text": "If even one is separated from the group, the energy bond between the six will make them rejoin instantly.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, EXEGGCUTE is close to evolution.",
+      "version": "ruby"
+    },
+    {
+      "text": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+      "version": "emerald"
+    },
+    {
+      "text": "Even though it appears to be eggs of some sort, it was discovered to be a life- form more like plant seeds.",
+      "version": "firered"
+    },
+    {
+      "text": "It is often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+      "version": "diamond"
+    },
+    {
+      "text": "Their shells are very durable. Even if they crack, they can survive without spilling their contents.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Using telepathy only they can employ, they always form a cluster of six EXEGGCUTE.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.",
+      "version": "y"
+    },
+    {
+      "text": "This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its six eggs use telepathy to communicate among themselves. It is believed to carry plant genes and the genes of other species.",
+      "version": "sun"
+    },
+    {
+      "text": "Six of them together form a full-fledged Pokémon. It’s often hunted by Crabrawler, but uses psychokinesis to drive it off.",
+      "version": "moon"
+    },
+    {
+      "text": "Six of them form a single Pokémon. Should one of the six be lost, the next morning there will once more be six.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+      "version": "sword"
+    },
+    {
+      "text": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "harvest"
+  ],
+  "height_dm": 4,
+  "weight_hg": 25,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/45/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/102/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/102/"
+  }
+}

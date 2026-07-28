@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 575,
+  "slug": "gothorita",
+  "name_en": "Gothorita",
+  "genera_en": [
+    "Manipulate Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
+      "version": "black"
+    },
+    {
+      "text": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+      "version": "white"
+    },
+    {
+      "text": "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
+      "version": "black-2"
+    },
+    {
+      "text": "It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
+      "version": "sword"
+    },
+    {
+      "text": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "frisk",
+    "competitive",
+    "shadow-tag"
+  ],
+  "height_dm": 7,
+  "weight_hg": 180,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/293/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/575/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/575/"
+  }
+}

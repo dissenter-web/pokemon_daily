@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 468,
+  "slug": "togekiss",
+  "name_en": "Togekiss",
+  "genera_en": [
+    "Jubilee Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It will never appear where there is strife. Its sightings have become rare recently.",
+      "version": "diamond"
+    },
+    {
+      "text": "It shares many blessings with people who respect one another’s rights and avoid needless strife.",
+      "version": "platinum"
+    },
+    {
+      "text": "As everyone knows, it visits peaceful regions, bringing them gifts of kindness and sweet blessings.",
+      "version": "heartgold"
+    },
+    {
+      "text": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",
+      "version": "sword"
+    },
+    {
+      "text": "Known as a bringer of blessings, it’s been depicted on good-luck charms since ancient times.",
+      "version": "shield"
+    },
+    {
+      "text": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy",
+    "flying"
+  ],
+  "abilities": [
+    "hustle",
+    "serene-grace",
+    "super-luck"
+  ],
+  "height_dm": 15,
+  "weight_hg": 380,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/87/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/468/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/468/"
+  }
+}

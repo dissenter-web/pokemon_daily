@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 616,
+  "slug": "shelmet",
+  "name_en": "Shelmet",
+  "genera_en": [
+    "Snail Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+      "version": "black"
+    },
+    {
+      "text": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+      "version": "white"
+    },
+    {
+      "text": "When it and Karrablast are together, and both receive electrical stimulation, they both evolve.",
+      "version": "black-2"
+    },
+    {
+      "text": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+      "version": "sword"
+    },
+    {
+      "text": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "hydration",
+    "shell-armor",
+    "overcoat"
+  ],
+  "height_dm": 4,
+  "weight_hg": 77,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/312/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/616/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/616/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 270,
+  "slug": "lotad",
+  "name_en": "Lotad",
+  "genera_en": [
+    "Water Weed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LOTAD live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this POKéMON travels on land in search of clean water.",
+      "version": "ruby"
+    },
+    {
+      "text": "LOTAD is said to have dwelled on land before. However, this POKéMON is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+      "version": "sapphire"
+    },
+    {
+      "text": "This POKéMON lives in ponds with clean water. It is known to ferry small POKéMON across ponds by carrying them on the broad leaf on its head.",
+      "version": "emerald"
+    },
+    {
+      "text": "It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",
+      "version": "firered"
+    },
+    {
+      "text": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "water",
+    "grass"
+  ],
+  "abilities": [
+    "swift-swim",
+    "rain-dish",
+    "own-tempo"
+  ],
+  "height_dm": 5,
+  "weight_hg": 26,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/136/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/270/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/270/"
+  }
+}

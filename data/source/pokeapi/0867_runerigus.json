@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 867,
+  "slug": "runerigus",
+  "name_en": "Runerigus",
+  "genera_en": [
+    "Grudge Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",
+      "version": "sword"
+    },
+    {
+      "text": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "abilities": [
+    "wandering-spirit"
+  ],
+  "height_dm": 16,
+  "weight_hg": 666,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/287/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/867/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/867/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 493,
+  "slug": "arceus",
+  "name_en": "Arceus",
+  "genera_en": [
+    "Alpha Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+      "version": "platinum"
+    },
+    {
+      "text": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is told in mythology that this Pokémon was born before the universe even existed.",
+      "version": "pearl"
+    },
+    {
+      "text": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It is said to have emerged from an egg in a place where there was nothing then shaped the world.",
+      "version": "black-2"
+    },
+    {
+      "text": "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokémon. Hisuian mythology states that Arceus is the creator of all things.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "multitype"
+  ],
+  "height_dm": 32,
+  "weight_hg": 3200,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/254/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/493/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/493/"
+  }
+}

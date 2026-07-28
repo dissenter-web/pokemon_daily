@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 158,
+  "slug": "totodile",
+  "name_en": "Totodile",
+  "genera_en": [
+    "Big Jaw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
+      "version": "gold"
+    },
+    {
+      "text": "It is small but rough and tough. It won't hesitate to take a bite out of anything that moves.",
+      "version": "silver"
+    },
+    {
+      "text": "This rough critter chomps at any moving object it sees. Turning your back on it is not recommended.",
+      "version": "crystal"
+    },
+    {
+      "text": "Despite the smallness of its body, TOTODILE’s jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+      "version": "ruby"
+    },
+    {
+      "text": "Despite its small body, TOTODILE’s jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is small but rough and tough. It won’t hesitate to take a bite out of anything that moves.",
+      "version": "firered"
+    },
+    {
+      "text": "Its well-developed jaws are powerful and capable of crushing anything. Even its TRAINER must be careful.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "sheer-force"
+  ],
+  "height_dm": 6,
+  "weight_hg": 95,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/158/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/158/"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 160,
+  "slug": "feraligatr",
+  "name_en": "Feraligatr",
+  "genera_en": [
+    "Big Jaw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+      "version": "gold"
+    },
+    {
+      "text": "It is hard for it to support its own weight out of water, so it gets down on all fours. But it moves fast.",
+      "version": "silver"
+    },
+    {
+      "text": "Although it has a massive body, its powerful hind legs enable it to move quickly, even on the ground.",
+      "version": "crystal"
+    },
+    {
+      "text": "FERALIGATR intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+      "version": "ruby"
+    },
+    {
+      "text": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge the foe with incredible speed.",
+      "version": "emerald"
+    },
+    {
+      "text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears up its victim.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is hard for it to support its weight out of water, so it sometimes gets down on all fours. But it moves fast.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "sheer-force"
+  ],
+  "height_dm": 23,
+  "weight_hg": 888,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/160/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/160/"
+  }
+}

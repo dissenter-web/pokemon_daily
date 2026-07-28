@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 32,
+  "slug": "nidoran-m",
+  "name_en": "Nidoran♂",
+  "genera_en": [
+    "Poison Pin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+      "version": "red"
+    },
+    {
+      "text": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
+      "version": "yellow"
+    },
+    {
+      "text": "It is small, but its horn is filled with poison. It charges then stabs with the horn to inject poison.",
+      "version": "gold"
+    },
+    {
+      "text": "It raises its big ears to check its surroundings. It will strike first if it senses any danger.",
+      "version": "silver"
+    },
+    {
+      "text": "It constantly moves its large ears in many directions in order to detect danger right away.",
+      "version": "crystal"
+    },
+    {
+      "text": "The male NIDORAN has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this POKéMON’s notice.",
+      "version": "ruby"
+    },
+    {
+      "text": "The male NIDORAN has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this POKéMON’s notice.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its large ears are flapped like wings when it is listening to distant sounds. It extends toxic barbs when angered.",
+      "version": "firered"
+    },
+    {
+      "text": "It stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+      "version": "diamond"
+    },
+    {
+      "text": "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",
+      "version": "sword"
+    },
+    {
+      "text": "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "rivalry",
+    "hustle"
+  ],
+  "height_dm": 5,
+  "weight_hg": 90,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/13/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/32/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/32/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 540,
+  "slug": "sewaddle",
+  "name_en": "Sewaddle",
+  "genera_en": [
+    "Sewing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+      "version": "black"
+    },
+    {
+      "text": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+      "version": "white"
+    },
+    {
+      "text": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    "swarm",
+    "chlorophyll",
+    "overcoat"
+  ],
+  "height_dm": 3,
+  "weight_hg": 25,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/276/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/540/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/540/"
+  }
+}

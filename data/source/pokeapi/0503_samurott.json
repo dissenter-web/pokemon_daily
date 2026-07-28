@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 503,
+  "slug": "samurott",
+  "name_en": "Samurott",
+  "genera_en": [
+    "Formidable Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+      "version": "black"
+    },
+    {
+      "text": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.",
+      "version": "white"
+    },
+    {
+      "text": "In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",
+      "version": "black-2"
+    },
+    {
+      "text": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "shell-armor"
+  ],
+  "height_dm": 15,
+  "weight_hg": 946,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/258/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/503/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/503/"
+  }
+}

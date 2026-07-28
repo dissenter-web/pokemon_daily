@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 180,
+  "slug": "flaaffy",
+  "name_en": "Flaaffy",
+  "genera_en": [
+    "Wool Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+      "version": "gold"
+    },
+    {
+      "text": "Its fluffy fleece easily stores electricity. Its rubbery hide keeps it from being electrocuted.",
+      "version": "silver"
+    },
+    {
+      "text": "Because of its rubbery, electric­ ity-resistant skin, it can store lots of electric­ ity in its fur.",
+      "version": "crystal"
+    },
+    {
+      "text": "FLAAFFY’s wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
+      "version": "emerald"
+    },
+    {
+      "text": "As a result of storing too much electricity, it developed patches where even downy wool won’t grow.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+      "version": "diamond"
+    },
+    {
+      "text": "Not even downy wool will grow on its rubbery, nonconductive patches of skin that prevent electrical shock.",
+      "version": "black-2"
+    },
+    {
+      "text": "Flaaffy’s wool quality changes so that it can generate a high amount of static electricity with a small amount of wool. The bare and slick parts of its hide are shielded against electricity.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "In the places on its body where fleece doesn’t grow, its skin is rubbery and doesn’t conduct electricity. Those spots are safe to touch.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "static",
+    "plus"
+  ],
+  "height_dm": 8,
+  "weight_hg": 133,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/180/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/180/"
+  }
+}

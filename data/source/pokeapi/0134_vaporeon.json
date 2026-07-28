@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 134,
+  "slug": "vaporeon",
+  "name_en": "Vaporeon",
+  "genera_en": [
+    "Bubble Jet Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+      "version": "red"
+    },
+    {
+      "text": "Its cell structure is similar to water molecules. It will melt away and become invis­ ible in water.",
+      "version": "yellow"
+    },
+    {
+      "text": "When VAPOREON's fins begin to vi­ brate, it is a sign that rain will come within a few hours.",
+      "version": "gold"
+    },
+    {
+      "text": "It prefers beauti­ ful shores. With cells similar to water molecules, it could melt in water.",
+      "version": "silver"
+    },
+    {
+      "text": "As it uses the fins on the tip of its tail to swim, it blends with the water perfectly.",
+      "version": "crystal"
+    },
+    {
+      "text": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
+      "version": "ruby"
+    },
+    {
+      "text": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+      "version": "firered"
+    },
+    {
+      "text": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid’s.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has evolved to be suitable for an aquatic life. It can invisibly melt away into water.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+      "version": "platinum"
+    },
+    {
+      "text": "When VAPOREON’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It prefers beautiful shores. With cells similar to water molecules, it could melt in water.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Its cell composition is similar to water molecules. As a result, it can’t be seen when it melts away into water.",
+      "version": "black-2"
+    },
+    {
+      "text": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This Pokémon has the ability to freely control water.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its cells are composed of units much like water molecules. It lives close to water and is often mistaken for a mermaid.",
+      "version": "sun"
+    },
+    {
+      "text": "Blending in with the water and erasing all signs of its presence, it patiently waits for its prey, fish Pokémon.",
+      "version": "moon"
+    },
+    {
+      "text": "Clean, clear waters are its usual habitat. When it’s about to be attacked by an invading enemy, it dives into the water to hide.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its cell structure is similar to water molecules. It melts into the water and becomes invisible.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.",
+      "version": "sword"
+    },
+    {
+      "text": "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "water-absorb",
+    "hydration"
+  ],
+  "height_dm": 10,
+  "weight_hg": 290,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/134/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/134/"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 403,
+  "slug": "shinx",
+  "name_en": "Shinx",
+  "genera_en": [
+    "Flash Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its forelegs have a muscle-based system of generating electricity. Its body shines if endangered.",
+      "version": "pearl"
+    },
+    {
+      "text": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+      "version": "platinum"
+    },
+    {
+      "text": "The extension and contraction of its muscles generates electricity. Its fur glows when it’s in trouble.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.",
+      "version": "sword"
+    },
+    {
+      "text": "Electricity makes this Pokémon’s fur glow. Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.",
+      "version": "shield"
+    },
+    {
+      "text": "Shakes its body to generate electricity. Its stature belies its aggression—one must be patient to tame this Pokémon.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "rivalry",
+    "intimidate",
+    "guts"
+  ],
+  "height_dm": 5,
+  "weight_hg": 95,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/209/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/403/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/403/"
+  }
+}

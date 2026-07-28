@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 12,
+  "slug": "butterfree",
+  "name_en": "Butterfree",
+  "genera_en": [
+    "Butterfly Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "version": "red"
+    },
+    {
+      "text": "Its wings, covered with poisonous powders, repel water. This allows it to fly in the rain.",
+      "version": "yellow"
+    },
+    {
+      "text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+      "version": "gold"
+    },
+    {
+      "text": "Water-repellent powder on its wings enables it to collect honey, even in the heav­ iest of rains.",
+      "version": "silver"
+    },
+    {
+      "text": "It flits from flower to flower, collecting honey. It can even identify distant flowers in bloom.",
+      "version": "crystal"
+    },
+    {
+      "text": "BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "version": "ruby"
+    },
+    {
+      "text": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+      "version": "emerald"
+    },
+    {
+      "text": "The wings are protected by rain-repellent dust. As a result, this POKéMON can fly about even in rain.",
+      "version": "firered"
+    },
+    {
+      "text": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+      "version": "diamond"
+    },
+    {
+      "text": "Water-repellent powder on its wings enables it to collect honey, even in the heaviest of rains.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The wings are protected by rain-repellent dust. As a result, this Pokémon can fly about even in rain.",
+      "version": "y"
+    },
+    {
+      "text": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.",
+      "version": "sun"
+    },
+    {
+      "text": "When attacked by other Pokémon, it defends itself by scattering its poisonous scales and fluttering its wings.",
+      "version": "moon"
+    },
+    {
+      "text": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its wings, covered with poisonous powder, repel water. This allows it to fly in the rain.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "compound-eyes",
+    "tinted-lens"
+  ],
+  "height_dm": 11,
+  "weight_hg": 320,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/12/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/12/"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 229,
+  "slug": "houndoom",
+  "name_en": "Houndoom",
+  "genera_en": [
+    "Dark Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+      "version": "gold"
+    },
+    {
+      "text": "Upon hearing its eerie howls, other POKéMON get the shivers and head straight back to their nests.",
+      "version": "silver"
+    },
+    {
+      "text": "The pungent- smelling flame that shoots from its mouth results from toxins burn­ ing in its body.",
+      "version": "crystal"
+    },
+    {
+      "text": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
+      "version": "ruby"
+    },
+    {
+      "text": "In a HOUNDOOM pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
+      "version": "emerald"
+    },
+    {
+      "text": "Long ago, people imagined its eerie howls to be the call of the grim reaper.",
+      "version": "diamond"
+    },
+    {
+      "text": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+      "version": "platinum"
+    },
+    {
+      "text": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "In a Houndoom pack, the one with its horns raked sharply toward the back serves a leadership role. These Pokémon choose their leader by fighting among themselves.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "They spew flames mixed with poison to finish off their opponents. They divvy up their prey evenly among the members of their pack.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "abilities": [
+    "early-bird",
+    "flash-fire",
+    "unnerve"
+  ],
+  "height_dm": 14,
+  "weight_hg": 350,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/118/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/229/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/229/"
+  }
+}

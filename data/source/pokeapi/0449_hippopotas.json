@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 449,
+  "slug": "hippopotas",
+  "name_en": "Hippopotas",
+  "genera_en": [
+    "Hippo Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+      "version": "diamond"
+    },
+    {
+      "text": "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
+      "version": "pearl"
+    },
+    {
+      "text": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+      "version": "platinum"
+    },
+    {
+      "text": "It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.",
+      "version": "black-2"
+    },
+    {
+      "text": "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+      "version": "shield"
+    },
+    {
+      "text": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-stream",
+    "sand-force"
+  ],
+  "height_dm": 8,
+  "weight_hg": 495,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/233/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/449/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/449/"
+  }
+}

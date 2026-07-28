@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 418,
+  "slug": "buizel",
+  "name_en": "Buizel",
+  "genera_en": [
+    "Sea Weasel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+      "version": "diamond"
+    },
+    {
+      "text": "It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",
+      "version": "pearl"
+    },
+    {
+      "text": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+      "version": "platinum"
+    },
+    {
+      "text": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+      "version": "black-2"
+    },
+    {
+      "text": "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "water-veil"
+  ],
+  "height_dm": 7,
+  "weight_hg": 295,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/216/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/418/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/418/"
+  }
+}

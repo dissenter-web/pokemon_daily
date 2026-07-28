@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 49,
+  "slug": "venomoth",
+  "name_en": "Venomoth",
+  "genera_en": [
+    "Poison Moth Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "version": "red"
+    },
+    {
+      "text": "The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.",
+      "version": "yellow"
+    },
+    {
+      "text": "When it attacks, it flaps its large wings violently to scatter its poi­ sonous powder all around.",
+      "version": "gold"
+    },
+    {
+      "text": "The powder on its wings is poisonous if it is dark in color. If it is light, it causes paralysis.",
+      "version": "silver"
+    },
+    {
+      "text": "The scales it scatters will paralyze anyone who touches them, making that person unable to stand.",
+      "version": "crystal"
+    },
+    {
+      "text": "VENOMOTH is nocturnal - it is a POKéMON that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+      "version": "ruby"
+    },
+    {
+      "text": "VENOMOTH are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
+      "version": "emerald"
+    },
+    {
+      "text": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+      "version": "firered"
+    },
+    {
+      "text": "The dustlike scales covering its wings are color-coded to indicate the kinds of poison it has.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it attacks, it flaps its large wings violently to scatter its poisonous powder all around.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The powder on its wings is poisonous if it is dark in hue. If it is light in hue, it causes paralysis.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "shield-dust",
+    "tinted-lens",
+    "wonder-skin"
+  ],
+  "height_dm": 15,
+  "weight_hg": 125,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/20/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/49/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/49/"
+  }
+}

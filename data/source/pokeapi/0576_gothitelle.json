@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 576,
+  "slug": "gothitelle",
+  "name_en": "Gothitelle",
+  "genera_en": [
+    "Astral Body Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+      "version": "black"
+    },
+    {
+      "text": "They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans.",
+      "version": "white"
+    },
+    {
+      "text": "It can see the future from the movement of the stars. When it learns its Trainer’s life span, it cries in sadness.",
+      "version": "black-2"
+    },
+    {
+      "text": "It has tremendous psychic power, but it dislikes conflict. It’s also able to predict the future based on the movement of the stars.",
+      "version": "sword"
+    },
+    {
+      "text": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "frisk",
+    "competitive",
+    "shadow-tag"
+  ],
+  "height_dm": 15,
+  "weight_hg": 440,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/293/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/576/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/576/"
+  }
+}

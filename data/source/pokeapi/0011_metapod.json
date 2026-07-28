@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 11,
+  "slug": "metapod",
+  "name_en": "Metapod",
+  "genera_en": [
+    "Cocoon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "version": "red"
+    },
+    {
+      "text": "Hardens its shell to protect itself. However, a large impact may cause it to pop out of its shell.",
+      "version": "yellow"
+    },
+    {
+      "text": "Inside the shell, it is soft and weak as it pre­ pares to evolve. It stays motion­ less in the shell.",
+      "version": "gold"
+    },
+    {
+      "text": "It prepares for evolution by har­ dening its shell as much as possi­ ble to protect its soft body.",
+      "version": "silver"
+    },
+    {
+      "text": "This is its pre- evolved form. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "version": "crystal"
+    },
+    {
+      "text": "The shell covering this POKéMON’s body is as hard as an iron slab. METAPOD does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its shell is as hard as an iron slab. A METAPOD does not move very much because it is preparing its soft innards for evolution inside the shell.",
+      "version": "emerald"
+    },
+    {
+      "text": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+      "version": "firered"
+    },
+    {
+      "text": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+      "version": "diamond"
+    },
+    {
+      "text": "Inside the shell, it is soft and weak as it prepares to evolve. It stays motionless in the shell.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It prepares for evolution by hardening its shell as much as possible to protect its soft body.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "This Pokémon is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
+      "version": "y"
+    },
+    {
+      "text": "The shell covering this Pokémon’s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its shell is filled with its soft innards. It doesn’t move much because of the risk it might carelessly spill its innards out.",
+      "version": "sun"
+    },
+    {
+      "text": "Its shell is hard, but it’s still just a bug shell. It’s been known to break, so intense battles with it should be avoided.",
+      "version": "moon"
+    },
+    {
+      "text": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its hard shell doesn’t crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+      "version": "sword"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "shed-skin"
+  ],
+  "height_dm": 7,
+  "weight_hg": 99,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/4/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/11/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/11/"
+  }
+}

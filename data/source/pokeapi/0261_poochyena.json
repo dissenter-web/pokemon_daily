@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 261,
+  "slug": "poochyena",
+  "name_en": "Poochyena",
+  "genera_en": [
+    "Bite Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "At first sight, POOCHYENA takes a bite at anything that moves. This POKéMON chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+      "version": "ruby"
+    },
+    {
+      "text": "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This POKéMON tries to intimidate its foes by making the hair on its tail bristle out.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has a very tenacious nature. Its acute sense of smell lets it chase a chosen prey without ever losing track.",
+      "version": "firered"
+    },
+    {
+      "text": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+      "version": "diamond"
+    },
+    {
+      "text": "It chases its prey until the victim becomes exhausted. However, it turns tail if the prey strikes back.",
+      "version": "heartgold"
+    },
+    {
+      "text": "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    "run-away",
+    "quick-feet",
+    "rattled"
+  ],
+  "height_dm": 5,
+  "weight_hg": 136,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/133/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/261/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/261/"
+  }
+}

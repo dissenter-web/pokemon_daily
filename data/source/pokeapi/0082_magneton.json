@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 82,
+  "slug": "magneton",
+  "name_en": "Magneton",
+  "genera_en": [
+    "Magnet Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+      "version": "red"
+    },
+    {
+      "text": "Generates strange radio signals. It raises the tem­ perature by 3.6F degrees within 3,300 feet.",
+      "version": "yellow"
+    },
+    {
+      "text": "Three MAGNEMITE are linked by a strong magnetic force. Earaches will occur if you get too close.",
+      "version": "gold"
+    },
+    {
+      "text": "The MAGNEMITE are united by a mag­ netism so power­ ful, it dries all moisture in its vicinities.",
+      "version": "silver"
+    },
+    {
+      "text": "When many MAGNETON gather together, the resulting magnetic storm disrupts radio waves.",
+      "version": "crystal"
+    },
+    {
+      "text": "MAGNETON emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this POKéMON.",
+      "version": "ruby"
+    },
+    {
+      "text": "MAGNETON emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this POKéMON inside a POKé BALL.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is actually three MAGNEMITE linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+      "version": "emerald"
+    },
+    {
+      "text": "A linked cluster formed of several MAGNEMITE. It discharges powerful magnetic waves at high voltage.",
+      "version": "firered"
+    },
+    {
+      "text": "Formed by several MAGNEMITE linked together. They frequently appear when sunspots flare up.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is actually three MAGNEMITE linked by magnetism. A group can set off a magnetic storm.",
+      "version": "diamond"
+    },
+    {
+      "text": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+      "version": "platinum"
+    },
+    {
+      "text": "The MAGNEMITE are united by a magnetism so powerful, it dries all moisture in its vicinity.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.",
+      "version": "black-2"
+    },
+    {
+      "text": "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
+      "version": "x"
+    },
+    {
+      "text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+      "version": "y"
+    },
+    {
+      "text": "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "When three Magnemite link together, their brains also become one. They do not become three times more intelligent.",
+      "version": "sun"
+    },
+    {
+      "text": "It has about three times the electrical power of Magnemite. For some reason, outbreaks of this Pokémon happen when lots of sunspots appear.",
+      "version": "moon"
+    },
+    {
+      "text": "Delicate equipment can malfunction in areas inhabited by Magneton, which send out mysterious electrical signals.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When rain clouds form, many Magneton gather in high places to wait for lightning to strike.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is constantly putting out a powerful magnetic force. Most computers go haywire when a Magneton approaches.",
+      "version": "shield"
+    },
+    {
+      "text": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "abilities": [
+    "magnet-pull",
+    "sturdy",
+    "analytic"
+  ],
+  "height_dm": 10,
+  "weight_hg": 600,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/34/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/82/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/82/"
+  }
+}

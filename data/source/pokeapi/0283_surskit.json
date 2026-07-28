@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 283,
+  "slug": "surskit",
+  "name_en": "Surskit",
+  "genera_en": [
+    "Pond Skater Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",
+      "version": "ruby"
+    },
+    {
+      "text": "If SURSKIT senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some POKéMON that love eating this syrup.",
+      "version": "sapphire"
+    },
+    {
+      "text": "They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.",
+      "version": "emerald"
+    },
+    {
+      "text": "They usually live on ponds, but after an evening shower, they may appear on puddles in towns.",
+      "version": "firered"
+    },
+    {
+      "text": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+      "version": "diamond"
+    },
+    {
+      "text": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
+      "version": "heartgold"
+    },
+    {
+      "text": "From the tips of its feet, Surskit secretes an oil that enables it to walk on water as if it were skating. This Pokémon feeds on microscopic organisms in ponds and lakes.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "If Surskit senses danger, it secretes a thick, sugary syrup from the tip of its head. There are some Pokémon that love eating this syrup.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It moves as if skating on the surface of the water. It often fights with Dewpider over food.",
+      "version": "sun"
+    },
+    {
+      "text": "When this Pokémon senses danger, a sweet fluid oozes from the tip of its head. The taste of it disgusts bird Pokémon.",
+      "version": "moon"
+    },
+    {
+      "text": "If it’s in a pinch, it will secrete a sweet liquid from the tip of its head. Syrup made from gathering that liquid is tasty on bread.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug",
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "rain-dish"
+  ],
+  "height_dm": 5,
+  "weight_hg": 17,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/141/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/283/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/283/"
+  }
+}

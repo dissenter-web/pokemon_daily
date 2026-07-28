@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 424,
+  "slug": "ambipom",
+  "name_en": "Ambipom",
+  "genera_en": [
+    "Long Tail Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+      "version": "diamond"
+    },
+    {
+      "text": "They work in large colonies and make rings by linking their tails, apparently in friendship.",
+      "version": "pearl"
+    },
+    {
+      "text": "Split into two, the tails are so adept at handling and doing things, AMBIPOM rarely uses its hands.",
+      "version": "platinum"
+    },
+    {
+      "text": "They live on large trees. They are said to communicate by connecting their tails to those of others.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It is very difficult to dodge the consecutive strikes of its two tails.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+      "version": "black"
+    },
+    {
+      "text": "In their search for comfortable trees, they get into territorial disputes with groups of Passimian. They win about half the time.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "To affirm their kinship, members of this species will form a ring by linking their newly doubled tails together. On rare occasions, humans have been accepted into such rings.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "technician",
+    "pickup",
+    "skill-link"
+  ],
+  "height_dm": 12,
+  "weight_hg": 203,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/93/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/424/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/424/"
+  }
+}

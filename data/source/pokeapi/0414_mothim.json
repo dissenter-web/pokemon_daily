@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 414,
+  "slug": "mothim",
+  "name_en": "Mothim",
+  "genera_en": [
+    "Moth Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It loves the honey of flowers and steals honey collected by COMBEE.",
+      "version": "diamond"
+    },
+    {
+      "text": "It does not keep a nest. It flies over fields and mountains in constant search of floral honey.",
+      "version": "pearl"
+    },
+    {
+      "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from COMBEE.",
+      "version": "platinum"
+    },
+    {
+      "text": "It flutters around at night and steals honey from the COMBEE hive.",
+      "version": "heartgold"
+    },
+    {
+      "text": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
+      "version": "black"
+    },
+    {
+      "text": "It loves the honey of flowers and steals honey collected by Combee.",
+      "version": "x"
+    },
+    {
+      "text": "It flutters around at night and steals honey from the Combee hive.",
+      "version": "y"
+    },
+    {
+      "text": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "swarm",
+    "tinted-lens"
+  ],
+  "height_dm": 9,
+  "weight_hg": 233,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/213/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/414/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/414/"
+  }
+}

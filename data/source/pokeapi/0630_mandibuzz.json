@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 630,
+  "slug": "mandibuzz",
+  "name_en": "Mandibuzz",
+  "genera_en": [
+    "Bone Vulture Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+      "version": "black"
+    },
+    {
+      "text": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+      "version": "white"
+    },
+    {
+      "text": "They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease.",
+      "version": "black-2"
+    },
+    {
+      "text": "They adorn themselves beautifully with bones. This is supposedly an effort to attract males, but no male Mandibuzz have ever been found.",
+      "version": "sun"
+    },
+    {
+      "text": "It circles in the sky, keeping a keen eye out for Pokémon in a weakened state. Its choicest food is Cubone.",
+      "version": "moon"
+    },
+    {
+      "text": "It skillfully arranges the bones of its prey to construct its nest. Most of the bones are Cubone.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It’s always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Although it’s a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they’re ready to leave the nest.",
+      "version": "sword"
+    },
+    {
+      "text": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "abilities": [
+    "big-pecks",
+    "overcoat",
+    "weak-armor"
+  ],
+  "height_dm": 12,
+  "weight_hg": 395,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/320/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/630/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/630/"
+  }
+}

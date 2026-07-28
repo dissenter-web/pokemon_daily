@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 305,
+  "slug": "lairon",
+  "name_en": "Lairon",
+  "genera_en": [
+    "Iron Armor Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LAIRON tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This POKéMON makes its nest close to springs of delicious water.",
+      "version": "ruby"
+    },
+    {
+      "text": "LAIRON feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the POKéMON often clashes with humans mining the iron ore.",
+      "version": "sapphire"
+    },
+    {
+      "text": "When two LAIRON meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.",
+      "version": "emerald"
+    },
+    {
+      "text": "It habitually shows off its strength with the size of sparks it creates by ramming its steel body into boulders.",
+      "version": "firered"
+    },
+    {
+      "text": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+      "version": "diamond"
+    },
+    {
+      "text": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Lairon fight over territory, and when their steel bodies collide, sparks fly.",
+      "version": "black-2"
+    },
+    {
+      "text": "Lairon tempers its steel body by drinking highly nutritious mineral springwater until it is bloated. This Pokémon makes its nest close to springs of delicious water.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.",
+      "version": "sword"
+    },
+    {
+      "text": "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "steel",
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "rock-head",
+    "heavy-metal"
+  ],
+  "height_dm": 9,
+  "weight_hg": 1200,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/151/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/305/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/305/"
+  }
+}

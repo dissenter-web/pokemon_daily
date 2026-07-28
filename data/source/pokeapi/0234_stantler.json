@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 234,
+  "slug": "stantler",
+  "name_en": "Stantler",
+  "genera_en": [
+    "Big Horn Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The curved antlers subtly change the flow of air to create a strange space where real­ ity is distorted.",
+      "version": "gold"
+    },
+    {
+      "text": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+      "version": "silver"
+    },
+    {
+      "text": "The round balls found on the fallen antlers can be ground into a powder that aids in sleeping.",
+      "version": "crystal"
+    },
+    {
+      "text": "STANTLER’s magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
+      "version": "ruby"
+    },
+    {
+      "text": "STANTLER’s magnificent antlers were once traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+      "version": "diamond"
+    },
+    {
+      "text": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "intimidate",
+    "frisk",
+    "sap-sipper"
+  ],
+  "height_dm": 14,
+  "weight_hg": 712,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/120/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/234/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/234/"
+  }
+}

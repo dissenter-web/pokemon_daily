@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 253,
+  "slug": "grovyle",
+  "name_en": "Grovyle",
+  "genera_en": [
+    "Wood Gecko Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON adeptly flies from branch to branch in trees. In a forest, no POKéMON can ever hope to catch a fleeing GROVYLE however fast they may be.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Leaves grow out of this POKéMON’s body. They help obscure a GROVYLE from the eyes of its enemies while it is in a thickly overgrown forest.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its strongly developed thigh muscles give it astounding agility and jumping performance.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+      "version": "diamond"
+    },
+    {
+      "text": "It leaps from tree branch to tree branch quite swiftly. It shows astounding agility.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The leaves growing out of Grovyle’s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "unburden"
+  ],
+  "height_dm": 9,
+  "weight_hg": 216,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/130/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/253/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/253/"
+  }
+}

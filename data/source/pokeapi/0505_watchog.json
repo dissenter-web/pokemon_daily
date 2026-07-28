@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 505,
+  "slug": "watchog",
+  "name_en": "Watchog",
+  "genera_en": [
+    "Lookout Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+      "version": "black"
+    },
+    {
+      "text": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+      "version": "white"
+    },
+    {
+      "text": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "illuminate",
+    "keen-eye",
+    "analytic"
+  ],
+  "height_dm": 11,
+  "weight_hg": 270,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/259/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/505/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/505/"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 333,
+  "slug": "swablu",
+  "name_en": "Swablu",
+  "genera_en": [
+    "Cotton Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SWABLU has light and fluffy wings that are like cottony clouds. This POKéMON is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+      "version": "ruby"
+    },
+    {
+      "text": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A POKéMON that has wings like cottony clouds. After enduring winter, in which little food is available, SWABLU flocks move closer to towns in the spring.",
+      "version": "emerald"
+    },
+    {
+      "text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+      "version": "firered"
+    },
+    {
+      "text": "Its wings are like cotton tufts. If it perches on someone’s head, it looks like a cotton hat.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its wings bring cottony clouds to mind. It grooms with springwater and loves to sit on heads.",
+      "version": "heartgold"
+    },
+    {
+      "text": "For some reason, it likes to land on people’s heads softly and act like it’s a hat.",
+      "version": "black-2"
+    },
+    {
+      "text": "Swablu has light and fluffy wings that are like cottony clouds. This Pokémon is not frightened of people. It lands on the heads of people and sits there like a cotton-fluff hat.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",
+      "version": "sword"
+    },
+    {
+      "text": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "natural-cure",
+    "cloud-nine"
+  ],
+  "height_dm": 4,
+  "weight_hg": 12,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/168/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/333/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/333/"
+  }
+}

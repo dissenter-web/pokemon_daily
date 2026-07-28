@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 483,
+  "slug": "dialga",
+  "name_en": "Dialga",
+  "genera_en": [
+    "Temporal Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "version": "diamond"
+    },
+    {
+      "text": "A Pokémon spoken of in legend. It is said that time began moving when DIALGA was born.",
+      "version": "pearl"
+    },
+    {
+      "text": "A legendary Pokémon of Sinnoh. It is said that time flows when DIALGA’s heart beats.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart beats.",
+      "version": "black"
+    },
+    {
+      "text": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
+      "version": "x"
+    },
+    {
+      "text": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "steel",
+    "dragon"
+  ],
+  "abilities": [
+    "pressure",
+    "telepathy"
+  ],
+  "height_dm": 54,
+  "weight_hg": 6830,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/244/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/483/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/483/"
+  }
+}

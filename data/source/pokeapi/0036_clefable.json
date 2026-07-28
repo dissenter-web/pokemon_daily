@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 36,
+  "slug": "clefable",
+  "name_en": "Clefable",
+  "genera_en": [
+    "Fairy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
+      "version": "red"
+    },
+    {
+      "text": "They appear to be very protective of their own world. It is a kind of fairy, rarely seen by people.",
+      "version": "yellow"
+    },
+    {
+      "text": "With its acute hearing, it can pick up sounds from far away. It usually hides in quiet places.",
+      "version": "gold"
+    },
+    {
+      "text": "Its very sensitive ears lets it dis­ tinguish distant sounds. As a re­ sult, it prefers quiet places.",
+      "version": "silver"
+    },
+    {
+      "text": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+      "version": "crystal"
+    },
+    {
+      "text": "CLEFABLE moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+      "version": "ruby"
+    },
+    {
+      "text": "A CLEFABLE uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has an acute sense of hearing. It can easily hear a pin being dropped nearly 1,100 yards away.",
+      "version": "firered"
+    },
+    {
+      "text": "A timid fairy POKéMON that is rarely seen, it will run and hide the moment it senses people.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Rarely seen by people, it is said to be drawn by the full moon to play at deserted lakes.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its hearing is so acute it can hear a pin drop over half a mile away. It lives on quiet mountains.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its very sensitive ears let it distinguish distant sounds. As a result, it prefers quiet places.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
+      "version": "black-2"
+    },
+    {
+      "text": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+      "version": "y"
+    },
+    {
+      "text": "Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "They don’t like to reveal themselves in front of people. They live quietly in packs deep in the mountains.",
+      "version": "sun"
+    },
+    {
+      "text": "According to tradition, people who see a pair of Clefable skipping by can look forward to a happy marriage.",
+      "version": "moon"
+    },
+    {
+      "text": "It can’t help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren’t many people or Pokémon.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Some scientists believe that it gazes intently at the sky on nights with a full moon because it’s homesick.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "magic-guard",
+    "unaware"
+  ],
+  "height_dm": 13,
+  "weight_hg": 400,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/36/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/36/"
+  }
+}

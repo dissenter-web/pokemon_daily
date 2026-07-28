@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 595,
+  "slug": "joltik",
+  "name_en": "Joltik",
+  "genera_en": [
+    "Attaching Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+      "version": "black"
+    },
+    {
+      "text": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+      "version": "white"
+    },
+    {
+      "text": "Since it can’t generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity.",
+      "version": "black-2"
+    },
+    {
+      "text": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.",
+      "version": "sword"
+    },
+    {
+      "text": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "electric"
+  ],
+  "abilities": [
+    "compound-eyes",
+    "unnerve",
+    "swarm"
+  ],
+  "height_dm": 1,
+  "weight_hg": 6,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/303/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/595/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/595/"
+  }
+}

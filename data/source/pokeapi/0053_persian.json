@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 53,
+  "slug": "persian",
+  "name_en": "Persian",
+  "genera_en": [
+    "Classy Cat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "version": "red"
+    },
+    {
+      "text": "The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.",
+      "version": "yellow"
+    },
+    {
+      "text": "Many adore it for its sophisticated air. However, it will lash out and scratch for little reason.",
+      "version": "gold"
+    },
+    {
+      "text": "Its lithe muscles allow it to walk without making a sound. It attacks in an instant.",
+      "version": "silver"
+    },
+    {
+      "text": "Behind its lithe, elegant appearance lies a barbaric side. It will tear apart its prey on a mere whim.",
+      "version": "crystal"
+    },
+    {
+      "text": "PERSIAN has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the POKéMON’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+      "version": "ruby"
+    },
+    {
+      "text": "A PERSIAN’s six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
+      "version": "emerald"
+    },
+    {
+      "text": "Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.",
+      "version": "firered"
+    },
+    {
+      "text": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+      "version": "diamond"
+    },
+    {
+      "text": "Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon’s surrounding vicinity. It becomes docile if grabbed by the whiskers.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It has a violent temperament. It will attack anything that looks it in the eye. Its sharp claws inflict deep wounds.",
+      "version": "sun"
+    },
+    {
+      "text": "It has a high opinion of itself, although not to the same extent as the Alolan Persian. It’s quite difficult to make friends with this Pokémon.",
+      "version": "moon"
+    },
+    {
+      "text": "Although the jewel on its forehead appears to be a different color than those of Alolan Persian, it’s mostly made of the same material.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This Pokémon is popular with rich people. It’s also targeted by hunters who are after the jewel in its forehead.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",
+      "version": "sword"
+    },
+    {
+      "text": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "limber",
+    "technician",
+    "unnerve"
+  ],
+  "height_dm": 10,
+  "weight_hg": 320,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/53/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/53/"
+  }
+}

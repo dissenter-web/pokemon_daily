@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 358,
+  "slug": "chimecho",
+  "name_en": "Chimecho",
+  "genera_en": [
+    "Wind Chime Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "CHIMECHO makes its cries echo inside its hollow body. When this POKéMON becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+      "version": "ruby"
+    },
+    {
+      "text": "In high winds, CHIMECHO cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This POKéMON plucks berries with its long tail and eats them.",
+      "version": "sapphire"
+    },
+    {
+      "text": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
+      "version": "emerald"
+    },
+    {
+      "text": "It travels by riding on winds. It cleverly uses its long tail to pluck nuts and berries, which it loves to eat.",
+      "version": "firered"
+    },
+    {
+      "text": "To knock foes flying, it makes the air shudder with its cries. It converses using seven cries.",
+      "version": "diamond"
+    },
+    {
+      "text": "Emitting ultrasonic cries, it floats on winds to travel great distances.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+      "version": "platinum"
+    },
+    {
+      "text": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 6,
+  "weight_hg": 10,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/184/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/358/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/358/"
+  }
+}

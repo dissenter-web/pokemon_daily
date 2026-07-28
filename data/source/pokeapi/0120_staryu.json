@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 120,
+  "slug": "staryu",
+  "name_en": "Staryu",
+  "genera_en": [
+    "Star Shape Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.",
+      "version": "red"
+    },
+    {
+      "text": "As long as the center section is unharmed, it can grow back fully even if it is chopped to bits.",
+      "version": "yellow"
+    },
+    {
+      "text": "At night, the cen­ ter of its body slowly flickers with the same rhythm as a human heartbeat.",
+      "version": "gold"
+    },
+    {
+      "text": "Even if its body is torn, it can regenerate as long as the glowing central core re­ mains intact.",
+      "version": "silver"
+    },
+    {
+      "text": "When the stars twinkle at night, it floats up from the sea floor, and its body's center core flickers.",
+      "version": "crystal"
+    },
+    {
+      "text": "STARYU’s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these POKéMON look like the stars in the sky.",
+      "version": "ruby"
+    },
+    {
+      "text": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POKéMON simply regenerates the missing pieces and limbs.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+      "version": "emerald"
+    },
+    {
+      "text": "It appears in large numbers by seashores. At night, its central core flashes with a red light.",
+      "version": "firered"
+    },
+    {
+      "text": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+      "version": "diamond"
+    },
+    {
+      "text": "At night, the middle of its body slowly flickers with the same rhythm as a human heartbeat.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Even if its body is torn, it can regenerate as long as the glowing central core remains intact.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "As long as its red core remains, it can regenerate its body instantly, even if it’s torn apart.",
+      "version": "black-2"
+    },
+    {
+      "text": "Staryu’s center section has an organ called the core that shines bright red. If you go to a beach toward the end of summer, the glowing cores of these Pokémon look like the stars in the sky.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Staryu apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this Pokémon simply regenerates the missing pieces and limbs.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Large numbers of these Pokémon make their home at the seaside. At night, a strange red glow radiates from the center of their bodies.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon gets nibbled on by Lumineon and others. Thanks to its red core, it regenerates fast, so it’s unconcerned by their snack attacks.",
+      "version": "moon"
+    },
+    {
+      "text": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.",
+      "version": "sword"
+    },
+    {
+      "text": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "illuminate",
+    "natural-cure",
+    "analytic"
+  ],
+  "height_dm": 8,
+  "weight_hg": 345,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/56/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/120/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/120/"
+  }
+}

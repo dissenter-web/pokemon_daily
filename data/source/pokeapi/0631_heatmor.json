@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 631,
+  "slug": "heatmor",
+  "name_en": "Heatmor",
+  "genera_en": [
+    "Anteater Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+      "version": "black"
+    },
+    {
+      "text": "Using their very hot, flame-covered tongues, they burn through Durant’s steel bodies and consume their insides.",
+      "version": "white"
+    },
+    {
+      "text": "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+      "version": "black-2"
+    },
+    {
+      "text": "There’s a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",
+      "version": "sword"
+    },
+    {
+      "text": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "gluttony",
+    "flash-fire",
+    "white-smoke"
+  ],
+  "height_dm": 14,
+  "weight_hg": 580,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/321/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/631/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/631/"
+  }
+}

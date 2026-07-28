@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 563,
+  "slug": "cofagrigus",
+  "name_en": "Cofagrigus",
+  "genera_en": [
+    "Coffin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+      "version": "black"
+    },
+    {
+      "text": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+      "version": "white"
+    },
+    {
+      "text": "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.",
+      "version": "sword"
+    },
+    {
+      "text": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "mummy"
+  ],
+  "height_dm": 17,
+  "weight_hg": 765,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/287/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/563/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/563/"
+  }
+}

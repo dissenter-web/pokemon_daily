@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 368,
+  "slug": "gorebyss",
+  "name_en": "Gorebyss",
+  "genera_en": [
+    "South Sea Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "GOREBYSS lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this POKéMON’s body is unharmed by ordinary attacks.",
+      "version": "ruby"
+    },
+    {
+      "text": "Although GOREBYSS is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this POKéMON inserts its thin mouth into the prey’s body and drains the prey of its body fluids.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A GOREBYSS siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its swimming form is exquisitely elegant. With its thin mouth, it feeds on seaweed that grows between rocks.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its pink body becomes more vivid with the rise of water temperatures in the springtime.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Gorebyss lives in the southern seas at extreme depths. Its body is built to withstand the enormous pressure of water at incredible depths. Because of this, this Pokémon’s body is unharmed by ordinary attacks.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Although Gorebyss is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey’s body and drains the prey of its body fluids.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "hydration"
+  ],
+  "height_dm": 18,
+  "weight_hg": 226,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/188/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/368/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/368/"
+  }
+}

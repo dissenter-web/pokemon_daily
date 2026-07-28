@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 497,
+  "slug": "serperior",
+  "name_en": "Serperior",
+  "genera_en": [
+    "Regal Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
+      "version": "black"
+    },
+    {
+      "text": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
+      "version": "white"
+    },
+    {
+      "text": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "contrary"
+  ],
+  "height_dm": 33,
+  "weight_hg": 630,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/256/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/497/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/497/"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 389,
+  "slug": "torterra",
+  "name_en": "Torterra",
+  "genera_en": [
+    "Continent Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Some Pokémon are born on a Torterra’s back and spend their entire life there.",
+      "version": "white-2"
+    },
+    {
+      "text": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+      "version": "diamond"
+    },
+    {
+      "text": "Groups of this Pokémon migrating in search of water have been mistaken for “moving forests.”",
+      "version": "pearl"
+    },
+    {
+      "text": "Some Pokémon are born on a TORTERRA’s back and spend their entire life there.",
+      "version": "platinum"
+    },
+    {
+      "text": "Ancient people imagined that beneath the ground, a gigantic TORTERRA dwelled.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",
+      "version": "x"
+    },
+    {
+      "text": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass",
+    "ground"
+  ],
+  "abilities": [
+    "overgrow",
+    "shell-armor"
+  ],
+  "height_dm": 22,
+  "weight_hg": 3100,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/203/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/389/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/389/"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 407,
+  "slug": "roserade",
+  "name_en": "Roserade",
+  "genera_en": [
+    "Bouquet Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+      "version": "diamond"
+    },
+    {
+      "text": "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
+      "version": "pearl"
+    },
+    {
+      "text": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its sweet aroma attracts prey. Then it spews poison. The more toxic it is, the sweeter its aroma.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey.",
+      "version": "black-2"
+    },
+    {
+      "text": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+      "version": "sword"
+    },
+    {
+      "text": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
+      "version": "shield"
+    },
+    {
+      "text": "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "natural-cure",
+    "poison-point",
+    "technician"
+  ],
+  "height_dm": 9,
+  "weight_hg": 145,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/158/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/407/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/407/"
+  }
+}

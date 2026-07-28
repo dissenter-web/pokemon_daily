@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 212,
+  "slug": "scizor",
+  "name_en": "Scizor",
+  "genera_en": [
+    "Pincer Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads.",
+      "version": "gold"
+    },
+    {
+      "text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+      "version": "silver"
+    },
+    {
+      "text": "This POKéMON's pincers, which contain steel, can crush any hard object it gets a hold of into bits.",
+      "version": "crystal"
+    },
+    {
+      "text": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
+      "version": "ruby"
+    },
+    {
+      "text": "A SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. It flaps its wings to regulate its body temperature.",
+      "version": "emerald"
+    },
+    {
+      "text": "It swings its eye-patterned pincers up to scare its foes. This makes it look like it has three heads.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has a steel-hard body. It intimidates foes by upraising its eye-patterned pincers.",
+      "version": "diamond"
+    },
+    {
+      "text": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon’s pincers, which contain steel, can crush any hard object it gets ahold of into bits.",
+      "version": "x"
+    },
+    {
+      "text": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It uses its wings to adjust its body temperature. Otherwise, its metal body would become too hot and melt in the heat of battle.",
+      "version": "sun"
+    },
+    {
+      "text": "Once it has identified an enemy, this Pokémon smashes it mercilessly with pincers hard as steel.",
+      "version": "moon"
+    },
+    {
+      "text": "Its body is like steel. Its tough, heavy pincers are more suited to smashing enemies than grabbing them.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there’s nothing left but scraps.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Bulky pincers account for one third of Scizor’s body weight. A single swing of one of these pincers will crush a boulder completely.",
+      "version": "sword"
+    },
+    {
+      "text": "Though its body is slim, Scizor has tremendous attacking power. Even Scizor’s muscles are made of metal.",
+      "version": "shield"
+    },
+    {
+      "text": "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "abilities": [
+    "swarm",
+    "technician",
+    "light-metal"
+  ],
+  "height_dm": 18,
+  "weight_hg": 1180,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/58/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/212/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/212/"
+  }
+}

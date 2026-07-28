@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 538,
+  "slug": "throh",
+  "name_en": "Throh",
+  "genera_en": [
+    "Judo Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+      "version": "black"
+    },
+    {
+      "text": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+      "version": "white"
+    },
+    {
+      "text": "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+      "version": "black-2"
+    },
+    {
+      "text": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat.",
+      "version": "sword"
+    },
+    {
+      "text": "They train in groups of five. Any member that can’t keep up will discard its belt and leave the group.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "guts",
+    "inner-focus",
+    "mold-breaker"
+  ],
+  "height_dm": 13,
+  "weight_hg": 555,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/274/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/538/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/538/"
+  }
+}

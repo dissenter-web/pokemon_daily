@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 249,
+  "slug": "lugia",
+  "name_en": "Lugia",
+  "genera_en": [
+    "Diving Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+      "version": "gold"
+    },
+    {
+      "text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+      "version": "silver"
+    },
+    {
+      "text": "It has an incred­ ible ability to calm raging sto­ rms. It is said that LUGIA appears when storms start.",
+      "version": "crystal"
+    },
+    {
+      "text": "LUGIA’s wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
+      "version": "ruby"
+    },
+    {
+      "text": "LUGIA is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
+      "version": "emerald"
+    },
+    {
+      "text": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+      "version": "diamond"
+    },
+    {
+      "text": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    "pressure",
+    "multiscale"
+  ],
+  "height_dm": 52,
+  "weight_hg": 2160,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/127/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/249/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/249/"
+  }
+}

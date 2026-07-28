@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 98,
+  "slug": "krabby",
+  "name_en": "Krabby",
+  "genera_en": [
+    "River Crab Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+      "version": "red"
+    },
+    {
+      "text": "Its pincers are superb weapons. They sometimes break off during battle, but they grow back fast.",
+      "version": "yellow"
+    },
+    {
+      "text": "If it senses dan­ ger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+      "version": "gold"
+    },
+    {
+      "text": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walk­ ing sideways.",
+      "version": "silver"
+    },
+    {
+      "text": "If it is unable to find food, it will absorb nutrients by swallowing a mouthful of sand.",
+      "version": "crystal"
+    },
+    {
+      "text": "KRABBY live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these POKéMON can be seen squabbling with each other over territory.",
+      "version": "ruby"
+    },
+    {
+      "text": "KRABBY live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+      "version": "emerald"
+    },
+    {
+      "text": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+      "version": "diamond"
+    },
+    {
+      "text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The pincers break off easily. If it loses a pincer, it somehow becomes incapable of walking sideways.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "shell-armor",
+    "sheer-force"
+  ],
+  "height_dm": 4,
+  "weight_hg": 65,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/98/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/98/"
+  }
+}

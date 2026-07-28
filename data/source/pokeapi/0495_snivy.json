@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 495,
+  "slug": "snivy",
+  "name_en": "Snivy",
+  "genera_en": [
+    "Grass Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+      "version": "black"
+    },
+    {
+      "text": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+      "version": "white"
+    },
+    {
+      "text": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "contrary"
+  ],
+  "height_dm": 6,
+  "weight_hg": 81,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/256/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/495/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/495/"
+  }
+}

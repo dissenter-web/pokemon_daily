@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 520,
+  "slug": "tranquill",
+  "name_en": "Tranquill",
+  "genera_en": [
+    "Wild Pigeon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can return to its Trainer’s location regardless of the distance separating them.",
+      "version": "black"
+    },
+    {
+      "text": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+      "version": "white"
+    },
+    {
+      "text": "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
+      "version": "black-2"
+    },
+    {
+      "text": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
+      "version": "sword"
+    },
+    {
+      "text": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "big-pecks",
+    "super-luck",
+    "rivalry"
+  ],
+  "height_dm": 6,
+  "weight_hg": 150,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/266/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/520/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/520/"
+  }
+}

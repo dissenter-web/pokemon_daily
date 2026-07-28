@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 110,
+  "slug": "weezing",
+  "name_en": "Weezing",
+  "genera_en": [
+    "Poison Gas Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.",
+      "version": "red"
+    },
+    {
+      "text": "It lives and grows by absorbing dust, germs and poison gases that are contained in toxic waste and garbage.",
+      "version": "yellow"
+    },
+    {
+      "text": "If one of the twin KOFFING inflates, the other one deflates. It con­ stantly mixes its poisonous gases.",
+      "version": "gold"
+    },
+    {
+      "text": "Top-grade perfume is made using its internal poison gases by diluting them to the high­ est level.",
+      "version": "silver"
+    },
+    {
+      "text": "When it inhales poisonous gases from garbage, its body expands, and its insides smell much worse.",
+      "version": "crystal"
+    },
+    {
+      "text": "WEEZING loves the gases given off by rotted kitchen garbage. This POKéMON will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+      "version": "ruby"
+    },
+    {
+      "text": "WEEZING alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The POKéMON also becomes more putrid.",
+      "version": "sapphire"
+    },
+    {
+      "text": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To WEEZING, gases emanating from garbage are the ultimate feast.",
+      "version": "emerald"
+    },
+    {
+      "text": "Very rarely, a sudden mutation can result in two small KOFFING twins becoming conjoined as a WEEZING.",
+      "version": "firered"
+    },
+    {
+      "text": "Where two kinds of poison gases meet, two KOFFING can fuse into a WEEZING over many years.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+      "version": "diamond"
+    },
+    {
+      "text": "If one of the twin KOFFING inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.",
+      "version": "black-2"
+    },
+    {
+      "text": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "version": "x"
+    },
+    {
+      "text": "Very rarely, a sudden mutation can result in two small Koffing twins becoming conjoined as a Weezing.",
+      "version": "y"
+    },
+    {
+      "text": "Weezing loves the gases given off by rotted kitchen garbage. This Pokémon will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "This Pokémon lives and grows by absorbing poison gas, dust, and germs that exist inside garbage.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.",
+      "version": "sword"
+    },
+    {
+      "text": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "levitate",
+    "neutralizing-gas",
+    "stench"
+  ],
+  "height_dm": 12,
+  "weight_hg": 95,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/49/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/110/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/110/"
+  }
+}

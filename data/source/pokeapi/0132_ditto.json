@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 132,
+  "slug": "ditto",
+  "name_en": "Ditto",
+  "genera_en": [
+    "Transform Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it spots an enemy, its body transfigures into an almost-perfect copy of its opponent.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+      "version": "red"
+    },
+    {
+      "text": "When it spots an enemy, its body transfigures into an almost perfect copy of its oppo­ nent.",
+      "version": "yellow"
+    },
+    {
+      "text": "It can transform into anything. When it sleeps, it changes into a stone to avoid being attacked.",
+      "version": "gold"
+    },
+    {
+      "text": "Its transformation ability is per­ fect. However, if made to laugh, it can't maintain its disguise.",
+      "version": "silver"
+    },
+    {
+      "text": "When it encount­ ers another DITTO, it will move faster than normal to duplicate that opponent exactly.",
+      "version": "crystal"
+    },
+    {
+      "text": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
+      "version": "ruby"
+    },
+    {
+      "text": "A DITTO rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+      "version": "emerald"
+    },
+    {
+      "text": "It can freely recombine its own cellular structure to transform into other life- forms.",
+      "version": "firered"
+    },
+    {
+      "text": "Capable of copying an opponent’s genetic code to instantly transform itself into a duplicate of the enemy.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its transformation ability is perfect. However, if made to laugh, it can’t maintain its disguise.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",
+      "version": "black-2"
+    },
+    {
+      "text": "It can freely recombine its own cellular structure to transform into other life-forms.",
+      "version": "y"
+    },
+    {
+      "text": "Ditto rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this Pokémon manages to get details wrong.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It can reorganize its cells to make itself into a duplicate of anything it sees. The quality of the duplicate depends on the individual.",
+      "version": "sun"
+    },
+    {
+      "text": "With its astonishing capacity for metamorphosis, it can get along with anything. It does not get along well with its fellow Ditto.",
+      "version": "moon"
+    },
+    {
+      "text": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It transforms into whatever it sees. If the thing it’s transforming into isn’t right in front of it, Ditto relies on its memory—so sometimes it fails.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "limber",
+    "imposter"
+  ],
+  "height_dm": 3,
+  "weight_hg": 40,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/66/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/132/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/132/"
+  }
+}

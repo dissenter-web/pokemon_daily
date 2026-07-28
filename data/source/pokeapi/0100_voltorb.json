@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 100,
+  "slug": "voltorb",
+  "name_en": "Voltorb",
+  "genera_en": [
+    "Ball Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+      "version": "red"
+    },
+    {
+      "text": "It is said to camouflage itself as a POKé BALL. It will self-destruct with very little stimulus.",
+      "version": "yellow"
+    },
+    {
+      "text": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+      "version": "gold"
+    },
+    {
+      "text": "It was discovered when POKé BALLS were introduced. It is said that there is some connection.",
+      "version": "silver"
+    },
+    {
+      "text": "During the study of this POKéMON, it was discovered that its compo­ nents are not found in nature.",
+      "version": "crystal"
+    },
+    {
+      "text": "VOLTORB was first sighted at a company that manufactures POKé BALLS. The link between that sighting and the fact that this POKéMON looks very similar to a POKé BALL remains a mystery.",
+      "version": "ruby"
+    },
+    {
+      "text": "VOLTORB is extremely sensitive - it explodes at the slightest of shocks. It is rumored that it was first created when a POKé BALL was exposed to a powerful pulse of energy.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It bears an uncanny and unexplained resemblance to a POKé BALL. Because it explodes at the slightest shock, even veteran TRAINERS treat it with caution.",
+      "version": "emerald"
+    },
+    {
+      "text": "A life-form whose identity is unknown. It is said to SCREECH or suddenly SELFDESTRUCT.",
+      "version": "firered"
+    },
+    {
+      "text": "Usually found in power plants. Easily mistaken for a POKé BALL, it has zapped many people.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+      "version": "diamond"
+    },
+    {
+      "text": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.",
+      "version": "black-2"
+    },
+    {
+      "text": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "version": "y"
+    },
+    {
+      "text": "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "soundproof",
+    "static",
+    "aftermath"
+  ],
+  "height_dm": 5,
+  "weight_hg": 104,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/44/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/100/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/100/"
+  }
+}

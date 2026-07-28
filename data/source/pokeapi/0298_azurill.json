@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 298,
+  "slug": "azurill",
+  "name_en": "Azurill",
+  "genera_en": [
+    "Polka Dot Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "AZURILL spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these POKéMON managed to hurl itself a record 33 feet.",
+      "version": "ruby"
+    },
+    {
+      "text": "AZURILL’s tail is large and bouncy. It is packed full of the nutrients this POKéMON needs to grow. AZURILL can be seen bouncing and playing on its big, rubbery tail.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
+      "version": "emerald"
+    },
+    {
+      "text": "It battles by flinging around its tail, which is bigger than its body. The tail is a flotation device in water.",
+      "version": "firered"
+    },
+    {
+      "text": "A Pokémon that lives by water. It moves quickly on land by bouncing on its big tail.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its tail is filled with nutrients necessary for growth. It plays by bouncing on its tail.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its tail is packed full of the nutrients it needs to grow.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It swings its large, nutrient-filled tail around to fight opponents bigger than itself.",
+      "version": "black-2"
+    },
+    {
+      "text": "Azurill spins its tail as if it were a lasso, then hurls it far. The momentum of the throw sends its body flying, too. Using this unique action, one of these Pokémon managed to hurl itself a record 33 feet.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The ball on Azurill’s tail bounces like a rubber ball, and it’s full of the nutrients the Pokémon needs to grow.",
+      "version": "sword"
+    },
+    {
+      "text": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "abilities": [
+    "thick-fat",
+    "huge-power",
+    "sap-sipper"
+  ],
+  "height_dm": 2,
+  "weight_hg": 20,
+  "generation": "generation-iii",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/90/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/298/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/298/"
+  }
+}

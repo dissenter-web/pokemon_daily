@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 536,
+  "slug": "palpitoad",
+  "name_en": "Palpitoad",
+  "genera_en": [
+    "Vibration Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+      "version": "black"
+    },
+    {
+      "text": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+      "version": "white"
+    },
+    {
+      "text": "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
+      "version": "black-2"
+    },
+    {
+      "text": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+      "version": "sword"
+    },
+    {
+      "text": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "swift-swim",
+    "hydration",
+    "water-absorb"
+  ],
+  "height_dm": 8,
+  "weight_hg": 170,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/273/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/536/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/536/"
+  }
+}

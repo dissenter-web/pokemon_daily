@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 188,
+  "slug": "skiploom",
+  "name_en": "Skiploom",
+  "genera_en": [
+    "Cottonweed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.",
+      "version": "gold"
+    },
+    {
+      "text": "It spreads its petals to absorb sunlight. It also floats in the air to get closer to the sun.",
+      "version": "silver"
+    },
+    {
+      "text": "As soon as it rains, it closes its flower and hides in the shade of a tree to avoid getting wet.",
+      "version": "crystal"
+    },
+    {
+      "text": "SKIPLOOM’s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
+      "version": "ruby"
+    },
+    {
+      "text": "It blossoms when the temperature rises above 64 degrees F. Because its flower’s blooming changes with the temperature, it is sometimes used as a thermometer.",
+      "version": "emerald"
+    },
+    {
+      "text": "The bloom on top of its head opens and closes as the temperature fluctuates up and down.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+      "version": "diamond"
+    },
+    {
+      "text": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "leaf-guard",
+    "infiltrator"
+  ],
+  "height_dm": 6,
+  "weight_hg": 10,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/188/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/188/"
+  }
+}

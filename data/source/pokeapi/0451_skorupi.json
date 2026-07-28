@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 451,
+  "slug": "skorupi",
+  "name_en": "Skorupi",
+  "genera_en": [
+    "Scorpion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives in arid lands. It buries itself in sand and lies in wait for unsuspecting prey.",
+      "version": "pearl"
+    },
+    {
+      "text": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+      "version": "platinum"
+    },
+    {
+      "text": "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It lives in arid regions and can go without food for a year while waiting for prey.",
+      "version": "black-2"
+    },
+    {
+      "text": "After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.",
+      "version": "sword"
+    },
+    {
+      "text": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.",
+      "version": "shield"
+    },
+    {
+      "text": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "bug"
+  ],
+  "abilities": [
+    "battle-armor",
+    "sniper",
+    "keen-eye"
+  ],
+  "height_dm": 8,
+  "weight_hg": 120,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/234/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/451/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/451/"
+  }
+}

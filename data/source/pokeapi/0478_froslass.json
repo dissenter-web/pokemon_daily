@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 478,
+  "slug": "froslass",
+  "name_en": "Froslass",
+  "genera_en": [
+    "Snow Land Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
+      "version": "diamond"
+    },
+    {
+      "text": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
+      "version": "platinum"
+    },
+    {
+      "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as FROSLASS",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It freezes foes with an icy breath nearly -60 degrees Fahrenheit. What seems to be its body is actually hollow.",
+      "version": "x"
+    },
+    {
+      "text": "Legends in snowy regions say that a woman who was lost on an icy mountain was reborn as Froslass.",
+      "version": "y"
+    },
+    {
+      "text": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+      "version": "sun"
+    },
+    {
+      "text": "The soul of a woman lost on a snowy mountain possessed an icicle, becoming this Pokémon. The food it most relishes is the souls of men.",
+      "version": "moon"
+    },
+    {
+      "text": "It freezes hikers who have come to climb snowy mountains and carries them back to its home. It only goes after men it thinks are handsome.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It’s said that on nights of terrible blizzards, it comes down to human settlements. If you hear it knocking at your door, do not open it!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls.",
+      "version": "sword"
+    },
+    {
+      "text": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
+      "version": "shield"
+    },
+    {
+      "text": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice",
+    "ghost"
+  ],
+  "abilities": [
+    "snow-cloak",
+    "cursed-body"
+  ],
+  "height_dm": 13,
+  "weight_hg": 266,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/186/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/478/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/478/"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 248,
+  "slug": "tyranitar",
+  "name_en": "Tyranitar",
+  "genera_en": [
+    "Armor Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+      "version": "gold"
+    },
+    {
+      "text": "Extremely strong, it can change the landscape. It has an insolent nature that makes it not care about others.",
+      "version": "silver"
+    },
+    {
+      "text": "In just one of its mighty hands, it has the power to make the ground shake and moun­ tains crumble.",
+      "version": "crystal"
+    },
+    {
+      "text": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
+      "version": "ruby"
+    },
+    {
+      "text": "A TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+      "version": "firered"
+    },
+    {
+      "text": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+      "version": "diamond"
+    },
+    {
+      "text": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+      "version": "black-2"
+    },
+    {
+      "text": "In just one of its mighty hands, it has the power to make the ground shake and mountains crumble.",
+      "version": "x"
+    },
+    {
+      "text": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that’s not worthy, Tyranitar ignores it and wanders on.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "rock",
+    "dark"
+  ],
+  "abilities": [
+    "sand-stream",
+    "unnerve"
+  ],
+  "height_dm": 20,
+  "weight_hg": 2020,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/248/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/248/"
+  }
+}

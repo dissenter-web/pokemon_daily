@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 394,
+  "slug": "prinplup",
+  "name_en": "Prinplup",
+  "genera_en": [
+    "Penguin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its wings deliver wicked blows that snap even the thickest of trees. It searches for prey in icy seas.",
+      "version": "pearl"
+    },
+    {
+      "text": "Because every PRINPLUP considers itself to be the most important, they can never form a group.",
+      "version": "platinum"
+    },
+    {
+      "text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+      "version": "black"
+    },
+    {
+      "text": "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "competitive"
+  ],
+  "height_dm": 8,
+  "weight_hg": 230,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/205/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/394/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/394/"
+  }
+}

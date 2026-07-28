@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 101,
+  "slug": "electrode",
+  "name_en": "Electrode",
+  "genera_en": [
+    "Ball Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It stores electric energy under very high pressure. It often explodes with little or no provocation.",
+      "version": "red"
+    },
+    {
+      "text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+      "version": "yellow"
+    },
+    {
+      "text": "It is dangerous. If it has too much electricity and has nothing to do, it amuses itself by exploding.",
+      "version": "gold"
+    },
+    {
+      "text": "It stores an over­ flowing amount of electric energy inside its body. Even a small shock makes it explode.",
+      "version": "silver"
+    },
+    {
+      "text": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+      "version": "crystal"
+    },
+    {
+      "text": "ELECTRODE eats electricity in the atmosphere. On days when lightning strikes, you can see this POKéMON exploding all over the place from eating too much electricity.",
+      "version": "ruby"
+    },
+    {
+      "text": "One of ELECTRODE’s characteristics is its attraction to electricity. It is a problematical POKéMON that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+      "version": "sapphire"
+    },
+    {
+      "text": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+      "version": "emerald"
+    },
+    {
+      "text": "It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”",
+      "version": "firered"
+    },
+    {
+      "text": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+      "version": "diamond"
+    },
+    {
+      "text": "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "One of Electrode’s characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "soundproof",
+    "static",
+    "aftermath"
+  ],
+  "height_dm": 12,
+  "weight_hg": 666,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/44/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/101/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/101/"
+  }
+}

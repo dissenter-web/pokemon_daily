@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 562,
+  "slug": "yamask",
+  "name_en": "Yamask",
+  "genera_en": [
+    "Spirit Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+      "version": "black"
+    },
+    {
+      "text": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+      "version": "white"
+    },
+    {
+      "text": "These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.",
+      "version": "black-2"
+    },
+    {
+      "text": "It wanders through ruins by night, carrying a mask that’s said to have been the face it had when it was still human.",
+      "version": "sword"
+    },
+    {
+      "text": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "mummy"
+  ],
+  "height_dm": 5,
+  "weight_hg": 15,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/287/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/562/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/562/"
+  }
+}

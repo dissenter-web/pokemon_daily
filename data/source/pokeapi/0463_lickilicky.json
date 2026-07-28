@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 463,
+  "slug": "lickilicky",
+  "name_en": "Lickilicky",
+  "genera_en": [
+    "Licking Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+      "version": "diamond"
+    },
+    {
+      "text": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its saliva can decompose anything. It wraps its long tongue around things to coat them with its sticky saliva.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It has space in its throat to store saliva. It can also roll up its tongue and store it in the same spot.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.",
+      "version": "black-2"
+    },
+    {
+      "text": "A contest is under way to determine which one can stick its tongue out the farthest. The current record is...more than 82 feet.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Lickilicky’s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky’s tongue can stretch so far.",
+      "version": "sword"
+    },
+    {
+      "text": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky’s use of its fingers is clumsy.",
+      "version": "shield"
+    },
+    {
+      "text": "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky's height. Beware of the saliva, as it contains corrosive elements.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "own-tempo",
+    "oblivious",
+    "cloud-nine"
+  ],
+  "height_dm": 17,
+  "weight_hg": 1400,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/48/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/463/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/463/"
+  }
+}

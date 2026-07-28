@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 216,
+  "slug": "teddiursa",
+  "name_en": "Teddiursa",
+  "genera_en": [
+    "Little Bear Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+      "version": "gold"
+    },
+    {
+      "text": "Before food be­ comes scarce in wintertime, its habit is to hoard food in many hid­ den locations.",
+      "version": "silver"
+    },
+    {
+      "text": "It always licks honey. Its palm tastes sweet because of all the honey it has absorbed.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
+      "version": "ruby"
+    },
+    {
+      "text": "It licks its palms that are sweetened by being soaked in honey. A TEDDIURSA makes its own honey by blending fruits and pollen collected by BEEDRILL.",
+      "version": "emerald"
+    },
+    {
+      "text": "Before food becomes scarce in wintertime, its habit is to hoard food in many hidden locations.",
+      "version": "firered"
+    },
+    {
+      "text": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+      "version": "diamond"
+    },
+    {
+      "text": "If it finds honey, its crescent mark glows. It always licks its paws because they’re soaked with honey.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "pickup",
+    "quick-feet",
+    "honey-gather"
+  ],
+  "height_dm": 6,
+  "weight_hg": 88,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/110/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/216/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/216/"
+  }
+}

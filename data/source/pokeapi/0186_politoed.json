@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 186,
+  "slug": "politoed",
+  "name_en": "Politoed",
+  "genera_en": [
+    "Frog Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide.",
+      "version": "gold"
+    },
+    {
+      "text": "Whenever three or more of these get together, they sing in a loud voice that sounds like bellowing.",
+      "version": "silver"
+    },
+    {
+      "text": "When it expands its throat to croak out a tune, nearby POLIWAG and POLIWHIRL gather immediately.",
+      "version": "crystal"
+    },
+    {
+      "text": "The curled hair on POLITOED’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
+      "version": "ruby"
+    },
+    {
+      "text": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+      "version": "emerald"
+    },
+    {
+      "text": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gathering from far and wide.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It gathers groups of others as their leader. Its cries make POLIWAG obey.",
+      "version": "diamond"
+    },
+    {
+      "text": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+      "version": "black"
+    },
+    {
+      "text": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+      "version": "y"
+    },
+    {
+      "text": "The curled hair on Politoed’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this Pokémon earns from its peers.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "They gather on moonlit nights to form a large chorus. Their cries sound angry and not at all pleasant, but they are certainly distinctive.",
+      "version": "sun"
+    },
+    {
+      "text": "It’s the leader of Poliwag and Poliwhirl. When Politoed roars, they all cower in fear.",
+      "version": "moon"
+    },
+    {
+      "text": "Although its cries sound like screams, a composer created a beautiful ballad that was influenced by the sounds.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",
+      "version": "sword"
+    },
+    {
+      "text": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "water-absorb",
+    "damp",
+    "drizzle"
+  ],
+  "height_dm": 11,
+  "weight_hg": 339,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/186/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/186/"
+  }
+}

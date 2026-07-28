@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 65,
+  "slug": "alakazam",
+  "name_en": "Alakazam",
+  "genera_en": [
+    "Psi Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.",
+      "version": "red"
+    },
+    {
+      "text": "A POKéMON that can memorize anything. It never forgets what it learns-- that's why this POKéMON is smart.",
+      "version": "yellow"
+    },
+    {
+      "text": "Closing both its eyes heightens all its other senses. This enables it to use its abilities to their extremes.",
+      "version": "gold"
+    },
+    {
+      "text": "Its brain cells multiply continu­ ally until it dies. As a result, it remembers everything.",
+      "version": "silver"
+    },
+    {
+      "text": "It has an IQ of 5000. It calcu­ lates many things in order to gain the edge in every battle.",
+      "version": "crystal"
+    },
+    {
+      "text": "ALAKAZAM’s brain continually grows, making its head far too heavy to support with its neck. This POKéMON holds its head up using its psychokinetic power instead.",
+      "version": "ruby"
+    },
+    {
+      "text": "ALAKAZAM’s brain continually grows, infinitely multiplying brain cells. This amazing brain gives this POKéMON an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+      "version": "sapphire"
+    },
+    {
+      "text": "While it has strong psychic abilities and high intelligence, an ALAKAZAM’s muscles are very weak. It uses psychic power to move its body.",
+      "version": "emerald"
+    },
+    {
+      "text": "It does not like physical attacks very much. Instead, it freely uses extra­ sensory powers to defeat foes.",
+      "version": "firered"
+    },
+    {
+      "text": "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its highly developed brain is on par with a supercomputer. It can use all forms of psychic abilities.",
+      "version": "pearl"
+    },
+    {
+      "text": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Alakazam’s brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Alakazam’s brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It is said to have an IQ of approximately 5,000. Its overflowing psychokinetic powers cause headaches to anyone nearby.",
+      "version": "sun"
+    },
+    {
+      "text": "Its brain cells continue to increase in number until its death. The older the Alakazam, the larger its head.",
+      "version": "moon"
+    },
+    {
+      "text": "Alakazam uses its psychic powers to make the spoons it carries. Each spoon is an original that there’s only one of in the whole world.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "If it trusts someone deeply, it will let them have one of its spoons. Anything you eat with that spoon is apparently delicious.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A Pokémon that can memorize anything. It never forgets what it learns—that’s why this Pokémon is smart.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+      "version": "sword"
+    },
+    {
+      "text": "Alakazam wields potent psychic powers. It’s said that this Pokémon used these powers to create the spoons it holds.",
+      "version": "shield"
+    },
+    {
+      "text": "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "synchronize",
+    "inner-focus",
+    "magic-guard"
+  ],
+  "height_dm": 15,
+  "weight_hg": 480,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/27/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/65/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/65/"
+  }
+}

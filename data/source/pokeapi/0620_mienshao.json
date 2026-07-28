@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 620,
+  "slug": "mienshao",
+  "name_en": "Mienshao",
+  "genera_en": [
+    "Martial Arts Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+      "version": "black"
+    },
+    {
+      "text": "They use the long fur on their arms as a whip to strike their opponents.",
+      "version": "white"
+    },
+    {
+      "text": "Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop.",
+      "version": "black-2"
+    },
+    {
+      "text": "It overwhelms its opponents with continuous attacks and then slowly stores up power before delivering the finishing blow.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When Mienshao lets out a bizarre wail, you’re in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+      "version": "sword"
+    },
+    {
+      "text": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "inner-focus",
+    "regenerator",
+    "reckless"
+  ],
+  "height_dm": 14,
+  "weight_hg": 355,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/314/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/620/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/620/"
+  }
+}

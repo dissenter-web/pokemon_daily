@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 189,
+  "slug": "jumpluff",
+  "name_en": "Jumpluff",
+  "genera_en": [
+    "Cottonweed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+      "version": "white-2"
+    },
+    {
+      "text": "Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world.",
+      "version": "gold"
+    },
+    {
+      "text": "Drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+      "version": "silver"
+    },
+    {
+      "text": "Even in the fierc­ est wind, it can control its fluff to make its way to any place in the world it wants.",
+      "version": "crystal"
+    },
+    {
+      "text": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
+      "version": "ruby"
+    },
+    {
+      "text": "JUMPLUFF ride warm southern winds to cross the sea and fly to foreign lands. This POKéMON lands when it encounters cold air while it is floating.",
+      "version": "emerald"
+    },
+    {
+      "text": "It drifts on seasonal winds and spreads its cotton-like spores all over the world to make more offspring.",
+      "version": "firered"
+    },
+    {
+      "text": "Once it catches the wind, it deftly controls its cotton-puff spores to float, even around the world.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Once it catches the wind, it deftly controls its cotton-puff spores-- it can even float around the world.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Even in the fiercest wind, it can control its fluff to make its way to any place in the world it wants.",
+      "version": "y"
+    },
+    {
+      "text": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "leaf-guard",
+    "infiltrator"
+  ],
+  "height_dm": 8,
+  "weight_hg": 30,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/189/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/189/"
+  }
+}

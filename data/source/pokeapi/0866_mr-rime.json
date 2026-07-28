@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 866,
+  "slug": "mr-rime",
+  "name_en": "Mr. Rime",
+  "genera_en": [
+    "Comedian Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.",
+      "version": "sword"
+    },
+    {
+      "text": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "abilities": [
+    "tangled-feet",
+    "screen-cleaner",
+    "ice-body"
+  ],
+  "height_dm": 15,
+  "weight_hg": 582,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/57/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/866/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/866/"
+  }
+}

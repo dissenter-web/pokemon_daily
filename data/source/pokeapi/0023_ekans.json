@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 23,
+  "slug": "ekans",
+  "name_en": "Ekans",
+  "genera_en": [
+    "Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+      "version": "red"
+    },
+    {
+      "text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+      "version": "yellow"
+    },
+    {
+      "text": "It can freely de­ tach its jaw to swallow large prey whole. It can be­ come too heavy to move, however.",
+      "version": "gold"
+    },
+    {
+      "text": "It always hides in grass. When first born, it has no poison, so its bite is painful, but harmless.",
+      "version": "silver"
+    },
+    {
+      "text": "It flutters the tip of its tongue to seek out the scent of prey, then swallows the prey whole.",
+      "version": "crystal"
+    },
+    {
+      "text": "EKANS curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+      "version": "ruby"
+    },
+    {
+      "text": "An EKANS curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+      "version": "emerald"
+    },
+    {
+      "text": "A very common sight in grassland, etc. It flicks its tongue in and out to sense danger in its surroundings.",
+      "version": "firered"
+    },
+    {
+      "text": "Moving silently and stealthily, it eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Moving silently and stealthily, it eats the eggs of birds, such as Pidgey and Spearow, whole.",
+      "version": "y"
+    },
+    {
+      "text": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "intimidate",
+    "shed-skin",
+    "unnerve"
+  ],
+  "height_dm": 20,
+  "weight_hg": 69,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/9/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/23/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/23/"
+  }
+}

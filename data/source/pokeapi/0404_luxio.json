@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 404,
+  "slug": "luxio",
+  "name_en": "Luxio",
+  "genera_en": [
+    "Spark Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+      "version": "diamond"
+    },
+    {
+      "text": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
+      "version": "pearl"
+    },
+    {
+      "text": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+      "version": "platinum"
+    },
+    {
+      "text": "By gathering their tails together, they collectively generate powerful electricity from their claws.",
+      "version": "heartgold"
+    },
+    {
+      "text": "By joining its tail with that of another Luxio, this Pokémon can receive some of the other Luxio’s electricity and power up its own electric blasts.",
+      "version": "sword"
+    },
+    {
+      "text": "Upon encountering an opponent, this Pokémon prepares for battle by extending its claws, which can put out 1,000,000 volts of electricity.",
+      "version": "shield"
+    },
+    {
+      "text": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "rivalry",
+    "intimidate",
+    "guts"
+  ],
+  "height_dm": 9,
+  "weight_hg": 305,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/209/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/404/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/404/"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 97,
+  "slug": "hypno",
+  "name_en": "Hypno",
+  "genera_en": [
+    "Hypnosis Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.",
+      "version": "red"
+    },
+    {
+      "text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+      "version": "yellow"
+    },
+    {
+      "text": "When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams.",
+      "version": "gold"
+    },
+    {
+      "text": "Always holding a pendulum that it rocks at a steady rhythm, it causes drowsiness in any­ one nearby.",
+      "version": "silver"
+    },
+    {
+      "text": "The longer it swings its pendulum, the longer the effects of its hypnosis last.",
+      "version": "crystal"
+    },
+    {
+      "text": "HYPNO holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this POKéMON searches for prey, it polishes the pendulum.",
+      "version": "ruby"
+    },
+    {
+      "text": "The arcing movement and glitter of the pendulum in a HYPNO’s hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
+      "version": "emerald"
+    },
+    {
+      "text": "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
+      "version": "firered"
+    },
+    {
+      "text": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+      "version": "diamond"
+    },
+    {
+      "text": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "While it is an extremely dangerous Pokémon, people who are in need of a good, sound sleep call it their savior.",
+      "version": "sun"
+    },
+    {
+      "text": "As a matter of course, it makes anyone it meets fall asleep and has a taste of their dreams. Anyone having a good dream, it carries off.",
+      "version": "moon"
+    },
+    {
+      "text": "In Alola, Komala is Hypno’s main target. It rarely harms people.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "There are some Hypno that assist doctors with patients who can’t sleep at night in hospitals.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "insomnia",
+    "forewarn",
+    "inner-focus"
+  ],
+  "height_dm": 16,
+  "weight_hg": 756,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/42/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/97/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/97/"
+  }
+}

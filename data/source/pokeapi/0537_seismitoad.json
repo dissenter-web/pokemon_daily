@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 537,
+  "slug": "seismitoad",
+  "name_en": "Seismitoad",
+  "genera_en": [
+    "Vibration Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+      "version": "black"
+    },
+    {
+      "text": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+      "version": "white"
+    },
+    {
+      "text": "By putting power into its bumps, it creates vibrations and increases the power of its punches.",
+      "version": "black-2"
+    },
+    {
+      "text": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "swift-swim",
+    "poison-touch",
+    "water-absorb"
+  ],
+  "height_dm": 15,
+  "weight_hg": 620,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/273/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/537/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/537/"
+  }
+}

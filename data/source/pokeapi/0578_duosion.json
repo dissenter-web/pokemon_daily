@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 578,
+  "slug": "duosion",
+  "name_en": "Duosion",
+  "genera_en": [
+    "Mitosis Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+      "version": "black"
+    },
+    {
+      "text": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+      "version": "white"
+    },
+    {
+      "text": "When their two divided brains think the same thoughts, their psychic power is maximized.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
+      "version": "sword"
+    },
+    {
+      "text": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "overcoat",
+    "magic-guard",
+    "regenerator"
+  ],
+  "height_dm": 6,
+  "weight_hg": 80,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/294/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/578/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/578/"
+  }
+}

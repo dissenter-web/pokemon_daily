@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 267,
+  "slug": "beautifly",
+  "name_en": "Beautifly",
+  "genera_en": [
+    "Butterfly Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
+      "version": "ruby"
+    },
+    {
+      "text": "BEAUTIFLY has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This POKéMON rides the spring winds as it flits around gathering pollen.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+      "version": "emerald"
+    },
+    {
+      "text": "Despite its appearance, it has an aggressive nature. It attacks by jabbing with its long, thin mouth.",
+      "version": "firered"
+    },
+    {
+      "text": "It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey’s fluids.",
+      "version": "diamond"
+    },
+    {
+      "text": "When flower fields bloom, it flits around, collecting pollen. Despite its appearance, it is savage.",
+      "version": "pearl"
+    },
+    {
+      "text": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+      "version": "platinum"
+    },
+    {
+      "text": "Vibrantly patterned wings are its prominent feature. It sucks sweet flower nectar with its long mouth.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Beautifly’s favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "swarm",
+    "rivalry"
+  ],
+  "height_dm": 10,
+  "weight_hg": 284,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/135/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/267/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/267/"
+  }
+}

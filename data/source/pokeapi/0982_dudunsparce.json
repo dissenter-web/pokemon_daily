@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 982,
+  "slug": "dudunsparce",
+  "name_en": "Dudunsparce",
+  "genera_en": [
+    "Land Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+      "version": "scarlet"
+    },
+    {
+      "text": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.",
+      "version": "violet"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "serene-grace",
+    "run-away",
+    "rattled"
+  ],
+  "height_dm": 36,
+  "weight_hg": 392,
+  "generation": "generation-ix",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/103/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/982/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/982/"
+  }
+}

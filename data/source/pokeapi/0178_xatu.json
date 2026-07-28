@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 178,
+  "slug": "xatu",
+  "name_en": "Xatu",
+  "genera_en": [
+    "Mystic Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+      "version": "gold"
+    },
+    {
+      "text": "In South America, it is said that its right eye sees the future and its left eye views the past.",
+      "version": "silver"
+    },
+    {
+      "text": "Once it begins to meditate at sun­ rise, the entire day will pass before it will move again.",
+      "version": "crystal"
+    },
+    {
+      "text": "XATU stands rooted and still in one spot all day long. People believe that this POKéMON does so out of fear of the terrible things it has foreseen in the future.",
+      "version": "ruby"
+    },
+    {
+      "text": "XATU is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical POKéMON out of their belief that XATU is in possession of the power to see into the future.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that XATU are emissaries from another world.",
+      "version": "emerald"
+    },
+    {
+      "text": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
+      "version": "diamond"
+    },
+    {
+      "text": "Once it begins to meditate at sunrise, the entire day will pass before it will move again.",
+      "version": "x"
+    },
+    {
+      "text": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Xatu is known to stand motionless while staring at the sun all day long. Some people revere it as a mystical Pokémon out of their belief that Xatu is in possession of the power to see into the future.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It’s said that while this Pokémon has the power to predict the future, it’s not powerful enough to change the future it sees.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    "synchronize",
+    "early-bird",
+    "magic-bounce"
+  ],
+  "height_dm": 15,
+  "weight_hg": 150,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/88/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/178/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/178/"
+  }
+}

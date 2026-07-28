@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 567,
+  "slug": "archeops",
+  "name_en": "Archeops",
+  "genera_en": [
+    "First Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+      "version": "black"
+    },
+    {
+      "text": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+      "version": "white"
+    },
+    {
+      "text": "It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.",
+      "version": "black-2"
+    },
+    {
+      "text": "Although apparently able to fly, they tended to run along the ground, averaging speeds of roughly 25 mph.",
+      "version": "sun"
+    },
+    {
+      "text": "They hunted in flocks. When one Archeops had the prey cornered, another would swoop on it.",
+      "version": "moon"
+    },
+    {
+      "text": "This ancient Pokémon’s plumage is delicate, so if anyone other than an experienced professional tries to restore it, they will fail.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
+      "version": "sword"
+    },
+    {
+      "text": "Though capable of flight, Archeops was apparently better at hunting on the ground.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "flying"
+  ],
+  "abilities": [
+    "defeatist"
+  ],
+  "height_dm": 14,
+  "weight_hg": 320,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/289/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/567/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/567/"
+  }
+}

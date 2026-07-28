@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 487,
+  "slug": "giratina",
+  "name_en": "Giratina",
+  "genera_en": [
+    "Renegade Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+      "version": "diamond"
+    },
+    {
+      "text": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+      "version": "heartgold"
+    },
+    {
+      "text": "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "dragon"
+  ],
+  "abilities": [
+    "pressure",
+    "telepathy"
+  ],
+  "height_dm": 45,
+  "weight_hg": 7500,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/248/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/487/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/487/"
+  }
+}

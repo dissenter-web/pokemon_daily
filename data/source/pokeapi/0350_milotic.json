@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 350,
+  "slug": "milotic",
+  "name_en": "Milotic",
+  "genera_en": [
+    "Tender Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "MILOTIC is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+      "version": "firered"
+    },
+    {
+      "text": "MILOTIC is said to be the most beautiful of all the POKéMON. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+      "version": "ruby"
+    },
+    {
+      "text": "MILOTIC live at the bottom of large lakes. When this POKéMON’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all POKéMON, it has been depicted in paintings and statues.",
+      "version": "emerald"
+    },
+    {
+      "text": "When people bicker, it is said to arise from the depths of lakes to becalm violent hearts.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is the world’s most beautiful Pokémon. There are many works of art featuring MILOTIC.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+      "version": "platinum"
+    },
+    {
+      "text": "It’s said that a glimpse of a MILOTIC and its beauty will calm any hostile emotions you’re feeling.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Milotic is breathtakingly beautiful. Those that see it are said to forget their combative spirits.",
+      "version": "x"
+    },
+    {
+      "text": "It is the world’s most beautiful Pokémon. There are many works of art featuring Milotic.",
+      "version": "y"
+    },
+    {
+      "text": "Milotic is said to be the most beautiful of all the Pokémon. It has the power to becalm such emotions as anger and hostility to quell bitter feuding.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Milotic live at the bottom of large lakes. When this Pokémon’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to troubled hearts.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
+      "version": "sun"
+    },
+    {
+      "text": "It lives at the bottom of clear lakes. In times of war, it shows itself, which soothes people’s minds and hearts.",
+      "version": "moon"
+    },
+    {
+      "text": "While Milotic is said to be the most beautiful Pokémon, Trainers who like Feebas and have raised it are seemingly disappointed by Milotic.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "marvel-scale",
+    "competitive",
+    "cute-charm"
+  ],
+  "height_dm": 62,
+  "weight_hg": 1620,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/178/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/350/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/350/"
+  }
+}

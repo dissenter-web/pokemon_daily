@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 27,
+  "slug": "sandshrew",
+  "name_en": "Sandshrew",
+  "genera_en": [
+    "Mouse Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+      "version": "red"
+    },
+    {
+      "text": "Its body is dry. When it gets cold at night, its hide is said to become coated with a fine dew.",
+      "version": "yellow"
+    },
+    {
+      "text": "If it fell from a great height, this POKéMON could save itself by rolling into a ball and bouncing.",
+      "version": "gold"
+    },
+    {
+      "text": "Disliking water, it lives in deep burrows in arid areas. It can roll itself instantly into a ball.",
+      "version": "silver"
+    },
+    {
+      "text": "It prefers dry, sandy places because it uses the sand to protect itself when threatened.",
+      "version": "crystal"
+    },
+    {
+      "text": "SANDSHREW’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This POKéMON curls up to protect itself from its enemies.",
+      "version": "ruby"
+    },
+    {
+      "text": "SANDSHREW has a very dry hide that is extremely tough. The POKéMON can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+      "version": "sapphire"
+    },
+    {
+      "text": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+      "version": "emerald"
+    },
+    {
+      "text": "It burrows and lives underground. If threatened, it curls itself up into a ball for protection.",
+      "version": "firered"
+    },
+    {
+      "text": "Burrows deep underground in arid locations far from water. It only emerges to hunt for prey.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+      "version": "diamond"
+    },
+    {
+      "text": "If it fell from a great height, this Pokémon could save itself by rolling into a ball and bouncing.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks.",
+      "version": "black-2"
+    },
+    {
+      "text": "Sandshrew’s body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Sandshrew has a very dry hide that is extremely tough. The Pokémon can roll into a ball that repels any attack. At night, it burrows into the desert sand to sleep.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It can roll its body into a ball. It moves through the desert by rolling at high speeds.",
+      "version": "sun"
+    },
+    {
+      "text": "It usually makes its home in deserts and arid zones, where rain does not fall. It digs holes to catch Bug-type Pokémon.",
+      "version": "moon"
+    },
+    {
+      "text": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",
+      "version": "sword"
+    },
+    {
+      "text": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-veil",
+    "sand-rush"
+  ],
+  "height_dm": 6,
+  "weight_hg": 120,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/11/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/27/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/27/"
+  }
+}

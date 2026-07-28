@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 211,
+  "slug": "qwilfish",
+  "name_en": "Qwilfish",
+  "genera_en": [
+    "Balloon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+      "version": "gold"
+    },
+    {
+      "text": "The small spikes covering its body developed from scales. They in­ ject a toxin that causes fainting.",
+      "version": "silver"
+    },
+    {
+      "text": "When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.",
+      "version": "crystal"
+    },
+    {
+      "text": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+      "version": "ruby"
+    },
+    {
+      "text": "A QWILFISH uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+      "version": "emerald"
+    },
+    {
+      "text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+      "version": "firered"
+    },
+    {
+      "text": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+      "version": "diamond"
+    },
+    {
+      "text": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size.",
+      "version": "sword"
+    },
+    {
+      "text": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "swift-swim",
+    "intimidate"
+  ],
+  "height_dm": 5,
+  "weight_hg": 39,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/106/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/211/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/211/"
+  }
+}

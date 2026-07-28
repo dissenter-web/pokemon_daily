@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 435,
+  "slug": "skuntank",
+  "name_en": "Skuntank",
+  "genera_en": [
+    "Skunk Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+      "version": "diamond"
+    },
+    {
+      "text": "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
+      "version": "pearl"
+    },
+    {
+      "text": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+      "version": "platinum"
+    },
+    {
+      "text": "It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.",
+      "version": "heartgold"
+    },
+    {
+      "text": "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon’s diet varies, so does the stench of its fluid.",
+      "version": "sword"
+    },
+    {
+      "text": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+      "version": "shield"
+    },
+    {
+      "text": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "abilities": [
+    "stench",
+    "aftermath",
+    "keen-eye"
+  ],
+  "height_dm": 10,
+  "weight_hg": 380,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/223/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/435/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/435/"
+  }
+}

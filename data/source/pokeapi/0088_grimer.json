@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 88,
+  "slug": "grimer",
+  "name_en": "Grimer",
+  "genera_en": [
+    "Sludge Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+      "version": "red"
+    },
+    {
+      "text": "Made of hardened sludge. It smells too putrid to touch. Even weeds won't grow in its path.",
+      "version": "yellow"
+    },
+    {
+      "text": "As it moves, it loses bits of its body from which new GRIMER emerge. This worsens the stench around it.",
+      "version": "gold"
+    },
+    {
+      "text": "Wherever GRIMER has passed, so many germs are left behind that no plants will ever grow again.",
+      "version": "silver"
+    },
+    {
+      "text": "When two of these POKéMON's bodies are combined together, new poisons are created.",
+      "version": "crystal"
+    },
+    {
+      "text": "GRIMER’s sludgy and rubbery body can be forced through any opening, however small it may be. This POKéMON enters sewer pipes to drink filthy wastewater.",
+      "version": "ruby"
+    },
+    {
+      "text": "GRIMER emerged from the sludge that settled on a polluted seabed. This POKéMON loves anything filthy. It constantly leaks a horribly germ- infested fluid from all over its body.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Born from polluted sludge in the sea, GRIMER’s favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+      "version": "emerald"
+    },
+    {
+      "text": "Sludge exposed to X rays from the moon transformed into GRIMER. It loves feeding on filthy things.",
+      "version": "firered"
+    },
+    {
+      "text": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+      "version": "diamond"
+    },
+    {
+      "text": "As it moves, it loses bits of its body, from which new GRIMER emerge. This worsens the stench around it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.",
+      "version": "black-2"
+    },
+    {
+      "text": "Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.",
+      "version": "x"
+    },
+    {
+      "text": "Grimer’s sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its main source of food is the slimy industrial waste of factories. This Pokémon’s numbers have been decreasing in recent years.",
+      "version": "sun"
+    },
+    {
+      "text": "It was born from sludge transformed by exposure to X-rays from the moon. When its internal load of germs decreases, it dies.",
+      "version": "moon"
+    },
+    {
+      "text": "It was born from sludge on the ocean floor. In a sterile environment, the germs within its body can’t multiply, and it dies.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They’re said to be on the verge of extinction.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "stench",
+    "sticky-hold",
+    "poison-touch"
+  ],
+  "height_dm": 9,
+  "weight_hg": 300,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/38/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/88/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/88/"
+  }
+}

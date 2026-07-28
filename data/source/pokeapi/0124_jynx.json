@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 124,
+  "slug": "jynx",
+  "name_en": "Jynx",
+  "genera_en": [
+    "Human Shape Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+      "version": "red"
+    },
+    {
+      "text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+      "version": "yellow"
+    },
+    {
+      "text": "It rocks its body rhythmically. It appears to alter the rhythm depend­ ing on how it is feeling.",
+      "version": "gold"
+    },
+    {
+      "text": "It speaks a lan­ guage similar to that of humans. However, it seems to use dancing to communicate.",
+      "version": "silver"
+    },
+    {
+      "text": "It has several different cry pat­ terns, each of which seems to have its own meaning.",
+      "version": "crystal"
+    },
+    {
+      "text": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+      "version": "ruby"
+    },
+    {
+      "text": "A JYNX sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+      "version": "emerald"
+    },
+    {
+      "text": "It speaks using a language that sounds human. Research is under way to determine what is being said.",
+      "version": "firered"
+    },
+    {
+      "text": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+      "version": "diamond"
+    },
+    {
+      "text": "It rocks its body rhythmically. It appears to alter the rhythm depending on how it is feeling.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It speaks a language similar to that of humans. However, it seems to use dancing to communicate.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It wiggles its hips as it walks. It can cause people to dance in unison with it.",
+      "version": "x"
+    },
+    {
+      "text": "Jynx walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+      "version": "sword"
+    },
+    {
+      "text": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "abilities": [
+    "oblivious",
+    "forewarn",
+    "dry-skin"
+  ],
+  "height_dm": 14,
+  "weight_hg": 406,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/59/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/124/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/124/"
+  }
+}

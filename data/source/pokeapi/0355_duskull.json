@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 355,
+  "slug": "duskull",
+  "name_en": "Duskull",
+  "genera_en": [
+    "Requiem Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "DUSKULL can pass through any wall no matter how thick it may be. Once this POKéMON chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+      "version": "ruby"
+    },
+    {
+      "text": "DUSKULL wanders lost among the deep darkness of midnight. There is an oft- told admonishment given to misbehaving children that this POKéMON will spirit away bad children who earn scoldings from their mothers.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal POKéMON that roams about under the cloak of darkness.",
+      "version": "emerald"
+    },
+    {
+      "text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+      "version": "firered"
+    },
+    {
+      "text": "It doggedly pursues its prey wherever it goes. However, the chase is abandoned at sunrise.",
+      "version": "diamond"
+    },
+    {
+      "text": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+      "version": "platinum"
+    },
+    {
+      "text": "If it finds bad children who won’t listen to their parents, it will spirit them away--or so it’s said.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Duskull can pass through any wall no matter how thick it may be. Once this Pokémon chooses a target, it will doggedly pursue the intended victim until the break of dawn.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pokémon will spirit away bad children who earn scoldings from their mothers.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "If it finds bad children who won’t listen to their parents, it will spirit them away—or so it’s said.",
+      "version": "sword"
+    },
+    {
+      "text": "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "levitate",
+    "frisk"
+  ],
+  "height_dm": 8,
+  "weight_hg": 150,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/182/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/355/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/355/"
+  }
+}

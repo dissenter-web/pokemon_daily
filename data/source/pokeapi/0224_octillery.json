@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 224,
+  "slug": "octillery",
+  "name_en": "Octillery",
+  "genera_en": [
+    "Jet Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head.",
+      "version": "gold"
+    },
+    {
+      "text": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fel­ low OCTILLERY.",
+      "version": "silver"
+    },
+    {
+      "text": "Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.",
+      "version": "crystal"
+    },
+    {
+      "text": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
+      "version": "ruby"
+    },
+    {
+      "text": "It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+      "version": "emerald"
+    },
+    {
+      "text": "It instinctively sneaks into rocky holes. If it gets sleepy, it steals the nest of a fellow OCTILLERY.",
+      "version": "firered"
+    },
+    {
+      "text": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It lives in the gaps of boulders and in holes on the seafloor. Its suction cups grip prey tightly.",
+      "version": "diamond"
+    },
+    {
+      "text": "It obscures its foe’s vision by spitting a cloud of murky ink. It makes its nest among boulders.",
+      "version": "pearl"
+    },
+    {
+      "text": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+      "version": "platinum"
+    },
+    {
+      "text": "It traps foes with the suction cups on its tentacles, then smashes them with its rock-hard head.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+      "version": "black-2"
+    },
+    {
+      "text": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The ink it spits when escaping is special. It contains a substance that dulls the sense of smell, so Pokémon with keen noses get lost.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "suction-cups",
+    "sniper",
+    "moody"
+  ],
+  "height_dm": 9,
+  "weight_hg": 285,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/114/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/224/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/224/"
+  }
+}

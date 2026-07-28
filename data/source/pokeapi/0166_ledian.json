@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 166,
+  "slug": "ledian",
+  "name_en": "Ledian",
+  "genera_en": [
+    "Five Star Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+      "version": "gold"
+    },
+    {
+      "text": "The star patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+      "version": "silver"
+    },
+    {
+      "text": "In the daytime when it gets warm, it curls up inside a big leaf and drifts off into a deep slumber.",
+      "version": "crystal"
+    },
+    {
+      "text": "It is said that in lands with clean air, where the stars fill the sky, there live LEDIAN in countless numbers. There is a good reason for this - the POKéMON uses the light of the stars as its energy.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is said that in lands with clean air, where the stars fill the sky, there live many LEDIAN. For good reason, they use the light of the stars as energy.",
+      "version": "emerald"
+    },
+    {
+      "text": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+      "version": "diamond"
+    },
+    {
+      "text": "The spot patterns on its back grow larger or smaller depending on the number of stars in the night sky.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It is said that in lands with clean air, where the stars fill the sky, there live Ledian in countless numbers. There is a good reason for this—the Pokémon uses the light of the stars as its energy.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "While it’s believed that starlight provides it with energy, this Pokémon also loves to eat berries. In the daytime, it curls up in the grass to sleep.",
+      "version": "sun"
+    },
+    {
+      "text": "In battle, it throws punches with all four arms. The power of each individual blow is piddly, so it aims to win by quantity rather than quality.",
+      "version": "moon"
+    },
+    {
+      "text": "It’s said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "swarm",
+    "early-bird",
+    "iron-fist"
+  ],
+  "height_dm": 14,
+  "weight_hg": 356,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/84/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/166/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/166/"
+  }
+}

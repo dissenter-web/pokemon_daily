@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 636,
+  "slug": "larvesta",
+  "name_en": "Larvesta",
+  "genera_en": [
+    "Torch Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+      "version": "black"
+    },
+    {
+      "text": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+      "version": "white"
+    },
+    {
+      "text": "Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves.",
+      "version": "black-2"
+    },
+    {
+      "text": "When battling opponents, it sprays fire from its five horns. The max temperature of the flames can reach nearly 5,500 degrees Fahrenheit.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The people of ancient times believed that Larvesta fell from the sun.",
+      "version": "sword"
+    },
+    {
+      "text": "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "fire"
+  ],
+  "abilities": [
+    "flame-body",
+    "swarm"
+  ],
+  "height_dm": 11,
+  "weight_hg": 288,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/324/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/636/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/636/"
+  }
+}

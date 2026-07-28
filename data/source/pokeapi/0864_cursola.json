@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 864,
+  "slug": "cursola",
+  "name_en": "Cursola",
+  "genera_en": [
+    "Coral Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.",
+      "version": "sword"
+    },
+    {
+      "text": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "weak-armor",
+    "perish-body"
+  ],
+  "height_dm": 10,
+  "weight_hg": 4,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/113/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/864/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/864/"
+  }
+}

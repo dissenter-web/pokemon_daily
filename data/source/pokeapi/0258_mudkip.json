@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 258,
+  "slug": "mudkip",
+  "name_en": "Mudkip",
+  "genera_en": [
+    "Mud Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
+      "version": "ruby"
+    },
+    {
+      "text": "In water, MUDKIP breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this POKéMON will unleash its amazing power - it can crush rocks bigger than itself.",
+      "version": "sapphire"
+    },
+    {
+      "text": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water’s edge.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its large tail fin propels it through water with powerful acceleration. It is strong in spite of its size.",
+      "version": "firered"
+    },
+    {
+      "text": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its power can crush boulders. It rests by covering itself with mud at the bottom of a river.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "damp"
+  ],
+  "height_dm": 4,
+  "weight_hg": 76,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/132/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/258/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/258/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 542,
+  "slug": "leavanny",
+  "name_en": "Leavanny",
+  "genera_en": [
+    "Nurturing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+      "version": "black"
+    },
+    {
+      "text": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+      "version": "white"
+    },
+    {
+      "text": "Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    "swarm",
+    "chlorophyll",
+    "overcoat"
+  ],
+  "height_dm": 12,
+  "weight_hg": 205,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/276/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/542/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/542/"
+  }
+}

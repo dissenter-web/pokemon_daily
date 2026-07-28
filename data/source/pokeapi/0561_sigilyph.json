@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 561,
+  "slug": "sigilyph",
+  "name_en": "Sigilyph",
+  "genera_en": [
+    "Avianoid Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+      "version": "black"
+    },
+    {
+      "text": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+      "version": "white"
+    },
+    {
+      "text": "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+      "version": "black-2"
+    },
+    {
+      "text": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.",
+      "version": "sword"
+    },
+    {
+      "text": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    "wonder-skin",
+    "magic-guard",
+    "tinted-lens"
+  ],
+  "height_dm": 14,
+  "weight_hg": 140,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/286/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/561/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/561/"
+  }
+}

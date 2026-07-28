@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 337,
+  "slug": "lunatone",
+  "name_en": "Lunatone",
+  "genera_en": [
+    "Meteorite Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LUNATONE was discovered at a location where a meteorite fell. As a result, some people theorize that this POKéMON came from space. However, no one has been able to prove this theory so far.",
+      "version": "ruby"
+    },
+    {
+      "text": "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The POKéMON’s intimidating red eyes cause all those who see it to become transfixed with fear.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It becomes very active on the night of a full moon. This POKéMON was first discovered 40 years ago at the site of a meteor strike.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its health ebbs and flows with the lunar cycle. It brims with power when exposed to the light of the full moon.",
+      "version": "firered"
+    },
+    {
+      "text": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+      "version": "diamond"
+    },
+    {
+      "text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.",
+      "version": "black-2"
+    },
+    {
+      "text": "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space. However, no one has been able to prove this theory so far.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pokémon’s intimidating red eyes cause all those who see it to become transfixed with fear.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 10,
+  "weight_hg": 1680,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/171/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/337/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/337/"
+  }
+}

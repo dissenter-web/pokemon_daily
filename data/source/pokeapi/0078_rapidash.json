@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 78,
+  "slug": "rapidash",
+  "name_en": "Rapidash",
+  "genera_en": [
+    "Fire Horse Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.",
+      "version": "red"
+    },
+    {
+      "text": "Just loves to run. If it sees some­ thing faster than itself, it will give chase at top speed.",
+      "version": "yellow"
+    },
+    {
+      "text": "At full gallop, its four hooves barely touch the ground because it moves so incredi­ bly fast.",
+      "version": "gold"
+    },
+    {
+      "text": "With incredible acceleration, it reaches its top speed of 150 mph after running just ten steps.",
+      "version": "silver"
+    },
+    {
+      "text": "It just loves to gallop. The faster it goes, the long­ er the swaying flames of its mane will become.",
+      "version": "crystal"
+    },
+    {
+      "text": "RAPIDASH usually can be seen casually cantering in the fields and plains. However, when this POKéMON turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+      "version": "ruby"
+    },
+    {
+      "text": "It usually canters casually in the fields and plains. But once a RAPIDASH turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+      "version": "emerald"
+    },
+    {
+      "text": "It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.",
+      "version": "firered"
+    },
+    {
+      "text": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+      "version": "diamond"
+    },
+    {
+      "text": "It has astounding acceleration. From a standstill, it can reach top speed within 10 steps.",
+      "version": "pearl"
+    },
+    {
+      "text": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+      "version": "platinum"
+    },
+    {
+      "text": "At full gallop, its four hooves barely touch the ground because it moves so incredibly fast.",
+      "version": "heartgold"
+    },
+    {
+      "text": "With incredible acceleration, it reaches its top speed of 150 mph after running just 10 steps.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+      "version": "x"
+    },
+    {
+      "text": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Just loves to run. If it sees something faster than itself, it will give chase at top speed.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+      "version": "sword"
+    },
+    {
+      "text": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+      "version": "shield"
+    },
+    {
+      "text": "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "run-away",
+    "flash-fire",
+    "flame-body"
+  ],
+  "height_dm": 17,
+  "weight_hg": 950,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/32/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/78/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/78/"
+  }
+}

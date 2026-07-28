@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 191,
+  "slug": "sunkern",
+  "name_en": "Sunkern",
+  "genera_en": [
+    "Seed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+      "version": "gold"
+    },
+    {
+      "text": "It lives by drink­ ing only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+      "version": "silver"
+    },
+    {
+      "text": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+      "version": "crystal"
+    },
+    {
+      "text": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+      "version": "ruby"
+    },
+    {
+      "text": "SUNKERN try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lives by drinking only dewdrops from under the leaves of plants. It is said that it eats nothing else.",
+      "version": "firered"
+    },
+    {
+      "text": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It may plummet from the sky. If attacked by a SPEAROW, it will violently shake its leaves.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves.",
+      "version": "black-2"
+    },
+    {
+      "text": "It may plummet from the sky. If attacked by a Spearow, it will violently shake its leaves.",
+      "version": "x"
+    },
+    {
+      "text": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "solar-power",
+    "early-bird"
+  ],
+  "height_dm": 3,
+  "weight_hg": 18,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/94/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/191/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/191/"
+  }
+}

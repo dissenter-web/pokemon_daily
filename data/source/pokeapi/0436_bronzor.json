@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 436,
+  "slug": "bronzor",
+  "name_en": "Bronzor",
+  "genera_en": [
+    "Bronze Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+      "version": "diamond"
+    },
+    {
+      "text": "X-ray photos were taken to check its body structure. Nothing appeared, however.",
+      "version": "pearl"
+    },
+    {
+      "text": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+      "version": "platinum"
+    },
+    {
+      "text": "Ancient people believed that the pattern on BRONZOR’s back contained a mysterious power.",
+      "version": "heartgold"
+    },
+    {
+      "text": "They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.",
+      "version": "black-2"
+    },
+    {
+      "text": "Ancient people believed that the pattern on Bronzor’s back contained a mysterious power.",
+      "version": "x"
+    },
+    {
+      "text": "It appears in ancient ruins. The pattern on its body doesn’t come from any culture in the Galar region, so it remains shrouded in mystery.",
+      "version": "sword"
+    },
+    {
+      "text": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+      "version": "shield"
+    },
+    {
+      "text": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "steel",
+    "psychic"
+  ],
+  "abilities": [
+    "levitate",
+    "heatproof",
+    "heavy-metal"
+  ],
+  "height_dm": 5,
+  "weight_hg": 605,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/224/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/436/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/436/"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 40,
+  "slug": "wigglytuff",
+  "name_en": "Wigglytuff",
+  "genera_en": [
+    "Balloon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "version": "red"
+    },
+    {
+      "text": "Its body is full of elasticity. By inhaling deeply, it can continue to inflate itself without limit.",
+      "version": "yellow"
+    },
+    {
+      "text": "Their fur feels so good that if two of them snuggle together, they won't want to be separated.",
+      "version": "gold"
+    },
+    {
+      "text": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a BODY SLAM.",
+      "version": "silver"
+    },
+    {
+      "text": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can't stop touching it.",
+      "version": "crystal"
+    },
+    {
+      "text": "WIGGLYTUFF has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this POKéMON’s eyes, it is quickly washed away.",
+      "version": "ruby"
+    },
+    {
+      "text": "WIGGLYTUFF’s body is very flexible. By inhaling deeply, this POKéMON can inflate itself seemingly without end. Once inflated, WIGGLYTUFF bounces along lightly like a balloon.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its fur is the ultimate in luxuriousness. Sleeping alongside a WIGGLYTUFF is simply divine. Its body expands seemingly without end when it inhales.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.",
+      "version": "firered"
+    },
+    {
+      "text": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+      "version": "diamond"
+    },
+    {
+      "text": "Their fur feels so good that if two of them snuggle together, they won’t want to be separated.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away.",
+      "version": "black-2"
+    },
+    {
+      "text": "Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon’s eyes, it is quickly washed away.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Wigglytuff’s body is very flexible. By inhaling deeply, this Pokémon can inflate itself seemingly without end. Once inflated, Wigglytuff bounces along lightly like a balloon.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It sheds its fine fur when the seasons change. The fur is gathered and spun into a luxurious yarn.",
+      "version": "sun"
+    },
+    {
+      "text": "As it inhales, it expands...and expands...and expands. Wigglytuff compete to see which one can inflate itself the most.",
+      "version": "moon"
+    },
+    {
+      "text": "Thanks to its bouncy body and fine fur, this Pokémon is sought after. Holding one in your arms while you sleep feels great.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When it gets angry, it inhales with all its might, and its body gradually inflates. Sometimes they can grow 20 times larger!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "competitive",
+    "frisk"
+  ],
+  "height_dm": 10,
+  "weight_hg": 120,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/16/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/40/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/40/"
+  }
+}

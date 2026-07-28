@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 516,
+  "slug": "simipour",
+  "name_en": "Simipour",
+  "genera_en": [
+    "Geyser Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+      "version": "black"
+    },
+    {
+      "text": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+      "version": "white"
+    },
+    {
+      "text": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "gluttony",
+    "torrent"
+  ],
+  "height_dm": 10,
+  "weight_hg": 290,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/264/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/516/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/516/"
+  }
+}

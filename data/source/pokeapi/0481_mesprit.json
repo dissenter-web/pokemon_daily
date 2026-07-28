@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 481,
+  "slug": "mesprit",
+  "name_en": "Mesprit",
+  "genera_en": [
+    "Emotion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
+      "version": "diamond"
+    },
+    {
+      "text": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
+      "version": "pearl"
+    },
+    {
+      "text": "When MESPRIT flew, people learned the joy and sadness of living. It was the birth of emotions.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon is said to have endowed the human heart with emotions, such as sorrow and joy.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
+      "version": "black"
+    },
+    {
+      "text": "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 3,
+  "weight_hg": 3,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/242/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/481/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/481/"
+  }
+}

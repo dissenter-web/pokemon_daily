@@ -1,0 +1,5254 @@
+{
+  "schema_version": 1,
+  "total": 656,
+  "entries": [
+    {
+      "pokeapi_id": 10,
+      "slug": "caterpie",
+      "name_en": "Caterpie",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/10/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 11,
+      "slug": "metapod",
+      "name_en": "Metapod",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/11/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 12,
+      "slug": "butterfree",
+      "name_en": "Butterfree",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/12/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 13,
+      "slug": "weedle",
+      "name_en": "Weedle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/13/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 14,
+      "slug": "kakuna",
+      "name_en": "Kakuna",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/14/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 15,
+      "slug": "beedrill",
+      "name_en": "Beedrill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/15/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 16,
+      "slug": "pidgey",
+      "name_en": "Pidgey",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/16/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 17,
+      "slug": "pidgeotto",
+      "name_en": "Pidgeotto",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/17/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 18,
+      "slug": "pidgeot",
+      "name_en": "Pidgeot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/18/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 19,
+      "slug": "rattata",
+      "name_en": "Rattata",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/19/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 20,
+      "slug": "raticate",
+      "name_en": "Raticate",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/20/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 21,
+      "slug": "spearow",
+      "name_en": "Spearow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/21/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 22,
+      "slug": "fearow",
+      "name_en": "Fearow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/22/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 23,
+      "slug": "ekans",
+      "name_en": "Ekans",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/23/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 24,
+      "slug": "arbok",
+      "name_en": "Arbok",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/24/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 25,
+      "slug": "pikachu",
+      "name_en": "Pikachu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/25/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 26,
+      "slug": "raichu",
+      "name_en": "Raichu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/26/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 27,
+      "slug": "sandshrew",
+      "name_en": "Sandshrew",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/27/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 28,
+      "slug": "sandslash",
+      "name_en": "Sandslash",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/28/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 29,
+      "slug": "nidoran-f",
+      "name_en": "Nidoran F",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/29/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 30,
+      "slug": "nidorina",
+      "name_en": "Nidorina",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/30/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 31,
+      "slug": "nidoqueen",
+      "name_en": "Nidoqueen",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/31/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 32,
+      "slug": "nidoran-m",
+      "name_en": "Nidoran M",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/32/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 33,
+      "slug": "nidorino",
+      "name_en": "Nidorino",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/33/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 34,
+      "slug": "nidoking",
+      "name_en": "Nidoking",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/34/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 35,
+      "slug": "clefairy",
+      "name_en": "Clefairy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/35/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 36,
+      "slug": "clefable",
+      "name_en": "Clefable",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/36/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 37,
+      "slug": "vulpix",
+      "name_en": "Vulpix",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/37/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 38,
+      "slug": "ninetales",
+      "name_en": "Ninetales",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/38/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 39,
+      "slug": "jigglypuff",
+      "name_en": "Jigglypuff",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/39/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 40,
+      "slug": "wigglytuff",
+      "name_en": "Wigglytuff",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/40/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 41,
+      "slug": "zubat",
+      "name_en": "Zubat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/41/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 42,
+      "slug": "golbat",
+      "name_en": "Golbat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/42/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 43,
+      "slug": "oddish",
+      "name_en": "Oddish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/43/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 44,
+      "slug": "gloom",
+      "name_en": "Gloom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/44/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 45,
+      "slug": "vileplume",
+      "name_en": "Vileplume",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/45/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 46,
+      "slug": "paras",
+      "name_en": "Paras",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/46/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 47,
+      "slug": "parasect",
+      "name_en": "Parasect",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/47/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 48,
+      "slug": "venonat",
+      "name_en": "Venonat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/48/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 49,
+      "slug": "venomoth",
+      "name_en": "Venomoth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/49/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 50,
+      "slug": "diglett",
+      "name_en": "Diglett",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/50/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 51,
+      "slug": "dugtrio",
+      "name_en": "Dugtrio",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/51/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 52,
+      "slug": "meowth",
+      "name_en": "Meowth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/52/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 53,
+      "slug": "persian",
+      "name_en": "Persian",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/53/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 54,
+      "slug": "psyduck",
+      "name_en": "Psyduck",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/54/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 55,
+      "slug": "golduck",
+      "name_en": "Golduck",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/55/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 56,
+      "slug": "mankey",
+      "name_en": "Mankey",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/56/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 57,
+      "slug": "primeape",
+      "name_en": "Primeape",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/57/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 58,
+      "slug": "growlithe",
+      "name_en": "Growlithe",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/58/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 59,
+      "slug": "arcanine",
+      "name_en": "Arcanine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/59/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 60,
+      "slug": "poliwag",
+      "name_en": "Poliwag",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/60/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 61,
+      "slug": "poliwhirl",
+      "name_en": "Poliwhirl",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/61/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 62,
+      "slug": "poliwrath",
+      "name_en": "Poliwrath",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/62/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 63,
+      "slug": "abra",
+      "name_en": "Abra",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/63/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 64,
+      "slug": "kadabra",
+      "name_en": "Kadabra",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/64/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 65,
+      "slug": "alakazam",
+      "name_en": "Alakazam",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/65/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 66,
+      "slug": "machop",
+      "name_en": "Machop",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/66/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 67,
+      "slug": "machoke",
+      "name_en": "Machoke",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/67/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 68,
+      "slug": "machamp",
+      "name_en": "Machamp",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/68/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 69,
+      "slug": "bellsprout",
+      "name_en": "Bellsprout",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/69/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 70,
+      "slug": "weepinbell",
+      "name_en": "Weepinbell",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/70/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 71,
+      "slug": "victreebel",
+      "name_en": "Victreebel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/71/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 72,
+      "slug": "tentacool",
+      "name_en": "Tentacool",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/72/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 73,
+      "slug": "tentacruel",
+      "name_en": "Tentacruel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/73/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 74,
+      "slug": "geodude",
+      "name_en": "Geodude",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/74/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 75,
+      "slug": "graveler",
+      "name_en": "Graveler",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/75/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 76,
+      "slug": "golem",
+      "name_en": "Golem",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/76/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 77,
+      "slug": "ponyta",
+      "name_en": "Ponyta",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/77/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 78,
+      "slug": "rapidash",
+      "name_en": "Rapidash",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/78/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 79,
+      "slug": "slowpoke",
+      "name_en": "Slowpoke",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/79/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 80,
+      "slug": "slowbro",
+      "name_en": "Slowbro",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/80/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 81,
+      "slug": "magnemite",
+      "name_en": "Magnemite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/81/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 82,
+      "slug": "magneton",
+      "name_en": "Magneton",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/82/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 83,
+      "slug": "farfetchd",
+      "name_en": "Farfetchd",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/83/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 84,
+      "slug": "doduo",
+      "name_en": "Doduo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/84/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 85,
+      "slug": "dodrio",
+      "name_en": "Dodrio",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/85/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 86,
+      "slug": "seel",
+      "name_en": "Seel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/86/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 87,
+      "slug": "dewgong",
+      "name_en": "Dewgong",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/87/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 88,
+      "slug": "grimer",
+      "name_en": "Grimer",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/88/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 89,
+      "slug": "muk",
+      "name_en": "Muk",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/89/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 90,
+      "slug": "shellder",
+      "name_en": "Shellder",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/90/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 91,
+      "slug": "cloyster",
+      "name_en": "Cloyster",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/91/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 92,
+      "slug": "gastly",
+      "name_en": "Gastly",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/92/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 93,
+      "slug": "haunter",
+      "name_en": "Haunter",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/93/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 94,
+      "slug": "gengar",
+      "name_en": "Gengar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/94/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 95,
+      "slug": "onix",
+      "name_en": "Onix",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/95/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 96,
+      "slug": "drowzee",
+      "name_en": "Drowzee",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/96/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 97,
+      "slug": "hypno",
+      "name_en": "Hypno",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/97/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 98,
+      "slug": "krabby",
+      "name_en": "Krabby",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/98/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 99,
+      "slug": "kingler",
+      "name_en": "Kingler",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/99/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 100,
+      "slug": "voltorb",
+      "name_en": "Voltorb",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/100/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 101,
+      "slug": "electrode",
+      "name_en": "Electrode",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/101/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 102,
+      "slug": "exeggcute",
+      "name_en": "Exeggcute",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/102/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 103,
+      "slug": "exeggutor",
+      "name_en": "Exeggutor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/103/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 104,
+      "slug": "cubone",
+      "name_en": "Cubone",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/104/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 105,
+      "slug": "marowak",
+      "name_en": "Marowak",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/105/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 106,
+      "slug": "hitmonlee",
+      "name_en": "Hitmonlee",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/106/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 107,
+      "slug": "hitmonchan",
+      "name_en": "Hitmonchan",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/107/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 108,
+      "slug": "lickitung",
+      "name_en": "Lickitung",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/108/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 109,
+      "slug": "koffing",
+      "name_en": "Koffing",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/109/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 110,
+      "slug": "weezing",
+      "name_en": "Weezing",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/110/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 111,
+      "slug": "rhyhorn",
+      "name_en": "Rhyhorn",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/111/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 112,
+      "slug": "rhydon",
+      "name_en": "Rhydon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/112/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 113,
+      "slug": "chansey",
+      "name_en": "Chansey",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/113/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 114,
+      "slug": "tangela",
+      "name_en": "Tangela",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/114/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 115,
+      "slug": "kangaskhan",
+      "name_en": "Kangaskhan",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/115/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 116,
+      "slug": "horsea",
+      "name_en": "Horsea",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/116/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 117,
+      "slug": "seadra",
+      "name_en": "Seadra",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/117/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 118,
+      "slug": "goldeen",
+      "name_en": "Goldeen",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/118/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 119,
+      "slug": "seaking",
+      "name_en": "Seaking",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/119/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 120,
+      "slug": "staryu",
+      "name_en": "Staryu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/120/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 121,
+      "slug": "starmie",
+      "name_en": "Starmie",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/121/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 122,
+      "slug": "mr-mime",
+      "name_en": "Mr Mime",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/122/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 123,
+      "slug": "scyther",
+      "name_en": "Scyther",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/123/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 124,
+      "slug": "jynx",
+      "name_en": "Jynx",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/124/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 125,
+      "slug": "electabuzz",
+      "name_en": "Electabuzz",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/125/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 126,
+      "slug": "magmar",
+      "name_en": "Magmar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/126/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 127,
+      "slug": "pinsir",
+      "name_en": "Pinsir",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/127/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 128,
+      "slug": "tauros",
+      "name_en": "Tauros",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/128/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 129,
+      "slug": "magikarp",
+      "name_en": "Magikarp",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/129/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 130,
+      "slug": "gyarados",
+      "name_en": "Gyarados",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/130/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 131,
+      "slug": "lapras",
+      "name_en": "Lapras",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/131/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 132,
+      "slug": "ditto",
+      "name_en": "Ditto",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/132/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 133,
+      "slug": "eevee",
+      "name_en": "Eevee",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/133/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 134,
+      "slug": "vaporeon",
+      "name_en": "Vaporeon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/134/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 135,
+      "slug": "jolteon",
+      "name_en": "Jolteon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/135/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 136,
+      "slug": "flareon",
+      "name_en": "Flareon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/136/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 137,
+      "slug": "porygon",
+      "name_en": "Porygon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/137/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 138,
+      "slug": "omanyte",
+      "name_en": "Omanyte",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/138/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 139,
+      "slug": "omastar",
+      "name_en": "Omastar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/139/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 140,
+      "slug": "kabuto",
+      "name_en": "Kabuto",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/140/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 141,
+      "slug": "kabutops",
+      "name_en": "Kabutops",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/141/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 142,
+      "slug": "aerodactyl",
+      "name_en": "Aerodactyl",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/142/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 143,
+      "slug": "snorlax",
+      "name_en": "Snorlax",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/143/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 144,
+      "slug": "articuno",
+      "name_en": "Articuno",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/144/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 145,
+      "slug": "zapdos",
+      "name_en": "Zapdos",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/145/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 146,
+      "slug": "moltres",
+      "name_en": "Moltres",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/146/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 147,
+      "slug": "dratini",
+      "name_en": "Dratini",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/147/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 148,
+      "slug": "dragonair",
+      "name_en": "Dragonair",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/148/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 149,
+      "slug": "dragonite",
+      "name_en": "Dragonite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/149/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 150,
+      "slug": "mewtwo",
+      "name_en": "Mewtwo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/150/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 151,
+      "slug": "mew",
+      "name_en": "Mew",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/151/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 152,
+      "slug": "chikorita",
+      "name_en": "Chikorita",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/152/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 153,
+      "slug": "bayleef",
+      "name_en": "Bayleef",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/153/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 154,
+      "slug": "meganium",
+      "name_en": "Meganium",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/154/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 155,
+      "slug": "cyndaquil",
+      "name_en": "Cyndaquil",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/155/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 156,
+      "slug": "quilava",
+      "name_en": "Quilava",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/156/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 157,
+      "slug": "typhlosion",
+      "name_en": "Typhlosion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/157/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 158,
+      "slug": "totodile",
+      "name_en": "Totodile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/158/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 159,
+      "slug": "croconaw",
+      "name_en": "Croconaw",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/159/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 160,
+      "slug": "feraligatr",
+      "name_en": "Feraligatr",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/160/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 161,
+      "slug": "sentret",
+      "name_en": "Sentret",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/161/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 162,
+      "slug": "furret",
+      "name_en": "Furret",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/162/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 163,
+      "slug": "hoothoot",
+      "name_en": "Hoothoot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/163/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 164,
+      "slug": "noctowl",
+      "name_en": "Noctowl",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/164/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 165,
+      "slug": "ledyba",
+      "name_en": "Ledyba",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/165/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 166,
+      "slug": "ledian",
+      "name_en": "Ledian",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/166/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 167,
+      "slug": "spinarak",
+      "name_en": "Spinarak",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/167/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 168,
+      "slug": "ariados",
+      "name_en": "Ariados",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/168/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 169,
+      "slug": "crobat",
+      "name_en": "Crobat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/169/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 170,
+      "slug": "chinchou",
+      "name_en": "Chinchou",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/170/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 171,
+      "slug": "lanturn",
+      "name_en": "Lanturn",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/171/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 172,
+      "slug": "pichu",
+      "name_en": "Pichu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/172/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 173,
+      "slug": "cleffa",
+      "name_en": "Cleffa",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/173/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 174,
+      "slug": "igglybuff",
+      "name_en": "Igglybuff",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/174/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 175,
+      "slug": "togepi",
+      "name_en": "Togepi",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/175/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 176,
+      "slug": "togetic",
+      "name_en": "Togetic",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/176/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 177,
+      "slug": "natu",
+      "name_en": "Natu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/177/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 178,
+      "slug": "xatu",
+      "name_en": "Xatu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/178/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 179,
+      "slug": "mareep",
+      "name_en": "Mareep",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/179/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 180,
+      "slug": "flaaffy",
+      "name_en": "Flaaffy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/180/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 181,
+      "slug": "ampharos",
+      "name_en": "Ampharos",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/181/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 182,
+      "slug": "bellossom",
+      "name_en": "Bellossom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/182/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 183,
+      "slug": "marill",
+      "name_en": "Marill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/183/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 184,
+      "slug": "azumarill",
+      "name_en": "Azumarill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/184/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 185,
+      "slug": "sudowoodo",
+      "name_en": "Sudowoodo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/185/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 186,
+      "slug": "politoed",
+      "name_en": "Politoed",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/186/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 187,
+      "slug": "hoppip",
+      "name_en": "Hoppip",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/187/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 188,
+      "slug": "skiploom",
+      "name_en": "Skiploom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/188/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 189,
+      "slug": "jumpluff",
+      "name_en": "Jumpluff",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/189/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 190,
+      "slug": "aipom",
+      "name_en": "Aipom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/190/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 191,
+      "slug": "sunkern",
+      "name_en": "Sunkern",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/191/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 192,
+      "slug": "sunflora",
+      "name_en": "Sunflora",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/192/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 193,
+      "slug": "yanma",
+      "name_en": "Yanma",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/193/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 194,
+      "slug": "wooper",
+      "name_en": "Wooper",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/194/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 195,
+      "slug": "quagsire",
+      "name_en": "Quagsire",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/195/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 196,
+      "slug": "espeon",
+      "name_en": "Espeon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/196/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 197,
+      "slug": "umbreon",
+      "name_en": "Umbreon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/197/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 198,
+      "slug": "murkrow",
+      "name_en": "Murkrow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/198/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 199,
+      "slug": "slowking",
+      "name_en": "Slowking",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/199/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 200,
+      "slug": "misdreavus",
+      "name_en": "Misdreavus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/200/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 201,
+      "slug": "unown",
+      "name_en": "Unown",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/201/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 202,
+      "slug": "wobbuffet",
+      "name_en": "Wobbuffet",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/202/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 203,
+      "slug": "girafarig",
+      "name_en": "Girafarig",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/203/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 204,
+      "slug": "pineco",
+      "name_en": "Pineco",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/204/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 205,
+      "slug": "forretress",
+      "name_en": "Forretress",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/205/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 206,
+      "slug": "dunsparce",
+      "name_en": "Dunsparce",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/206/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 207,
+      "slug": "gligar",
+      "name_en": "Gligar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/207/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 208,
+      "slug": "steelix",
+      "name_en": "Steelix",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/208/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 209,
+      "slug": "snubbull",
+      "name_en": "Snubbull",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/209/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 210,
+      "slug": "granbull",
+      "name_en": "Granbull",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/210/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 211,
+      "slug": "qwilfish",
+      "name_en": "Qwilfish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/211/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 212,
+      "slug": "scizor",
+      "name_en": "Scizor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/212/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 213,
+      "slug": "shuckle",
+      "name_en": "Shuckle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/213/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 214,
+      "slug": "heracross",
+      "name_en": "Heracross",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/214/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 215,
+      "slug": "sneasel",
+      "name_en": "Sneasel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/215/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 216,
+      "slug": "teddiursa",
+      "name_en": "Teddiursa",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/216/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 217,
+      "slug": "ursaring",
+      "name_en": "Ursaring",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/217/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 218,
+      "slug": "slugma",
+      "name_en": "Slugma",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/218/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 219,
+      "slug": "magcargo",
+      "name_en": "Magcargo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/219/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 220,
+      "slug": "swinub",
+      "name_en": "Swinub",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/220/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 221,
+      "slug": "piloswine",
+      "name_en": "Piloswine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/221/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 222,
+      "slug": "corsola",
+      "name_en": "Corsola",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/222/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 223,
+      "slug": "remoraid",
+      "name_en": "Remoraid",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/223/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 224,
+      "slug": "octillery",
+      "name_en": "Octillery",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/224/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 225,
+      "slug": "delibird",
+      "name_en": "Delibird",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/225/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 226,
+      "slug": "mantine",
+      "name_en": "Mantine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/226/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 227,
+      "slug": "skarmory",
+      "name_en": "Skarmory",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/227/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 228,
+      "slug": "houndour",
+      "name_en": "Houndour",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/228/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 229,
+      "slug": "houndoom",
+      "name_en": "Houndoom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/229/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 230,
+      "slug": "kingdra",
+      "name_en": "Kingdra",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/230/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 231,
+      "slug": "phanpy",
+      "name_en": "Phanpy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/231/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 232,
+      "slug": "donphan",
+      "name_en": "Donphan",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/232/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 233,
+      "slug": "porygon2",
+      "name_en": "Porygon2",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/233/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 234,
+      "slug": "stantler",
+      "name_en": "Stantler",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/234/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 235,
+      "slug": "smeargle",
+      "name_en": "Smeargle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/235/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 236,
+      "slug": "tyrogue",
+      "name_en": "Tyrogue",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/236/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 237,
+      "slug": "hitmontop",
+      "name_en": "Hitmontop",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/237/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 238,
+      "slug": "smoochum",
+      "name_en": "Smoochum",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/238/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 239,
+      "slug": "elekid",
+      "name_en": "Elekid",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/239/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 240,
+      "slug": "magby",
+      "name_en": "Magby",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/240/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 241,
+      "slug": "miltank",
+      "name_en": "Miltank",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/241/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 242,
+      "slug": "blissey",
+      "name_en": "Blissey",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/242/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 243,
+      "slug": "raikou",
+      "name_en": "Raikou",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/243/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 244,
+      "slug": "entei",
+      "name_en": "Entei",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/244/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 245,
+      "slug": "suicune",
+      "name_en": "Suicune",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/245/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 246,
+      "slug": "larvitar",
+      "name_en": "Larvitar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/246/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 247,
+      "slug": "pupitar",
+      "name_en": "Pupitar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/247/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 248,
+      "slug": "tyranitar",
+      "name_en": "Tyranitar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/248/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 249,
+      "slug": "lugia",
+      "name_en": "Lugia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/249/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 250,
+      "slug": "ho-oh",
+      "name_en": "Ho Oh",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/250/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 251,
+      "slug": "celebi",
+      "name_en": "Celebi",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/251/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 252,
+      "slug": "treecko",
+      "name_en": "Treecko",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/252/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 253,
+      "slug": "grovyle",
+      "name_en": "Grovyle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/253/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 254,
+      "slug": "sceptile",
+      "name_en": "Sceptile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/254/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 255,
+      "slug": "torchic",
+      "name_en": "Torchic",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/255/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 256,
+      "slug": "combusken",
+      "name_en": "Combusken",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/256/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 257,
+      "slug": "blaziken",
+      "name_en": "Blaziken",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/257/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 258,
+      "slug": "mudkip",
+      "name_en": "Mudkip",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/258/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 259,
+      "slug": "marshtomp",
+      "name_en": "Marshtomp",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/259/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 260,
+      "slug": "swampert",
+      "name_en": "Swampert",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/260/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 261,
+      "slug": "poochyena",
+      "name_en": "Poochyena",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/261/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 262,
+      "slug": "mightyena",
+      "name_en": "Mightyena",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/262/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 263,
+      "slug": "zigzagoon",
+      "name_en": "Zigzagoon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/263/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 264,
+      "slug": "linoone",
+      "name_en": "Linoone",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/264/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 265,
+      "slug": "wurmple",
+      "name_en": "Wurmple",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/265/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 266,
+      "slug": "silcoon",
+      "name_en": "Silcoon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/266/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 267,
+      "slug": "beautifly",
+      "name_en": "Beautifly",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/267/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 268,
+      "slug": "cascoon",
+      "name_en": "Cascoon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/268/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 269,
+      "slug": "dustox",
+      "name_en": "Dustox",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/269/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 270,
+      "slug": "lotad",
+      "name_en": "Lotad",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/270/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 271,
+      "slug": "lombre",
+      "name_en": "Lombre",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/271/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 272,
+      "slug": "ludicolo",
+      "name_en": "Ludicolo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/272/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 273,
+      "slug": "seedot",
+      "name_en": "Seedot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/273/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 274,
+      "slug": "nuzleaf",
+      "name_en": "Nuzleaf",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/274/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 275,
+      "slug": "shiftry",
+      "name_en": "Shiftry",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/275/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 276,
+      "slug": "taillow",
+      "name_en": "Taillow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/276/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 277,
+      "slug": "swellow",
+      "name_en": "Swellow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/277/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 278,
+      "slug": "wingull",
+      "name_en": "Wingull",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/278/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 279,
+      "slug": "pelipper",
+      "name_en": "Pelipper",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/279/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 280,
+      "slug": "ralts",
+      "name_en": "Ralts",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/280/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 281,
+      "slug": "kirlia",
+      "name_en": "Kirlia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/281/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 282,
+      "slug": "gardevoir",
+      "name_en": "Gardevoir",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/282/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 283,
+      "slug": "surskit",
+      "name_en": "Surskit",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/283/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 284,
+      "slug": "masquerain",
+      "name_en": "Masquerain",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/284/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 285,
+      "slug": "shroomish",
+      "name_en": "Shroomish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/285/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 286,
+      "slug": "breloom",
+      "name_en": "Breloom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/286/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 287,
+      "slug": "slakoth",
+      "name_en": "Slakoth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/287/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 288,
+      "slug": "vigoroth",
+      "name_en": "Vigoroth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/288/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 289,
+      "slug": "slaking",
+      "name_en": "Slaking",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/289/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 290,
+      "slug": "nincada",
+      "name_en": "Nincada",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/290/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 291,
+      "slug": "ninjask",
+      "name_en": "Ninjask",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/291/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 292,
+      "slug": "shedinja",
+      "name_en": "Shedinja",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/292/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 293,
+      "slug": "whismur",
+      "name_en": "Whismur",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/293/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 294,
+      "slug": "loudred",
+      "name_en": "Loudred",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/294/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 295,
+      "slug": "exploud",
+      "name_en": "Exploud",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/295/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 296,
+      "slug": "makuhita",
+      "name_en": "Makuhita",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/296/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 297,
+      "slug": "hariyama",
+      "name_en": "Hariyama",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/297/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 298,
+      "slug": "azurill",
+      "name_en": "Azurill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/298/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 299,
+      "slug": "nosepass",
+      "name_en": "Nosepass",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/299/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 300,
+      "slug": "skitty",
+      "name_en": "Skitty",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/300/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 301,
+      "slug": "delcatty",
+      "name_en": "Delcatty",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/301/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 302,
+      "slug": "sableye",
+      "name_en": "Sableye",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/302/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 303,
+      "slug": "mawile",
+      "name_en": "Mawile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/303/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 304,
+      "slug": "aron",
+      "name_en": "Aron",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/304/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 305,
+      "slug": "lairon",
+      "name_en": "Lairon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/305/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 306,
+      "slug": "aggron",
+      "name_en": "Aggron",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/306/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 307,
+      "slug": "meditite",
+      "name_en": "Meditite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/307/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 308,
+      "slug": "medicham",
+      "name_en": "Medicham",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/308/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 309,
+      "slug": "electrike",
+      "name_en": "Electrike",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/309/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 310,
+      "slug": "manectric",
+      "name_en": "Manectric",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/310/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 311,
+      "slug": "plusle",
+      "name_en": "Plusle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/311/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 312,
+      "slug": "minun",
+      "name_en": "Minun",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/312/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 313,
+      "slug": "volbeat",
+      "name_en": "Volbeat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/313/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 314,
+      "slug": "illumise",
+      "name_en": "Illumise",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/314/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 315,
+      "slug": "roselia",
+      "name_en": "Roselia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/315/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 316,
+      "slug": "gulpin",
+      "name_en": "Gulpin",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/316/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 317,
+      "slug": "swalot",
+      "name_en": "Swalot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/317/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 318,
+      "slug": "carvanha",
+      "name_en": "Carvanha",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/318/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 319,
+      "slug": "sharpedo",
+      "name_en": "Sharpedo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/319/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 320,
+      "slug": "wailmer",
+      "name_en": "Wailmer",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/320/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 321,
+      "slug": "wailord",
+      "name_en": "Wailord",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/321/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 322,
+      "slug": "numel",
+      "name_en": "Numel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/322/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 323,
+      "slug": "camerupt",
+      "name_en": "Camerupt",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/323/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 324,
+      "slug": "torkoal",
+      "name_en": "Torkoal",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/324/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 325,
+      "slug": "spoink",
+      "name_en": "Spoink",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/325/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 326,
+      "slug": "grumpig",
+      "name_en": "Grumpig",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/326/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 327,
+      "slug": "spinda",
+      "name_en": "Spinda",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/327/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 328,
+      "slug": "trapinch",
+      "name_en": "Trapinch",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/328/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 329,
+      "slug": "vibrava",
+      "name_en": "Vibrava",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/329/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 330,
+      "slug": "flygon",
+      "name_en": "Flygon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/330/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 331,
+      "slug": "cacnea",
+      "name_en": "Cacnea",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/331/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 332,
+      "slug": "cacturne",
+      "name_en": "Cacturne",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/332/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 333,
+      "slug": "swablu",
+      "name_en": "Swablu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/333/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 334,
+      "slug": "altaria",
+      "name_en": "Altaria",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/334/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 335,
+      "slug": "zangoose",
+      "name_en": "Zangoose",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/335/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 336,
+      "slug": "seviper",
+      "name_en": "Seviper",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/336/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 337,
+      "slug": "lunatone",
+      "name_en": "Lunatone",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/337/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 338,
+      "slug": "solrock",
+      "name_en": "Solrock",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/338/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 339,
+      "slug": "barboach",
+      "name_en": "Barboach",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/339/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 340,
+      "slug": "whiscash",
+      "name_en": "Whiscash",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/340/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 341,
+      "slug": "corphish",
+      "name_en": "Corphish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/341/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 342,
+      "slug": "crawdaunt",
+      "name_en": "Crawdaunt",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/342/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 343,
+      "slug": "baltoy",
+      "name_en": "Baltoy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/343/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 344,
+      "slug": "claydol",
+      "name_en": "Claydol",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/344/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 345,
+      "slug": "lileep",
+      "name_en": "Lileep",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/345/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 346,
+      "slug": "cradily",
+      "name_en": "Cradily",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/346/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 347,
+      "slug": "anorith",
+      "name_en": "Anorith",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/347/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 348,
+      "slug": "armaldo",
+      "name_en": "Armaldo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/348/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 349,
+      "slug": "feebas",
+      "name_en": "Feebas",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/349/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 350,
+      "slug": "milotic",
+      "name_en": "Milotic",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/350/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 351,
+      "slug": "castform",
+      "name_en": "Castform",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/351/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 352,
+      "slug": "kecleon",
+      "name_en": "Kecleon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/352/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 353,
+      "slug": "shuppet",
+      "name_en": "Shuppet",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/353/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 354,
+      "slug": "banette",
+      "name_en": "Banette",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/354/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 355,
+      "slug": "duskull",
+      "name_en": "Duskull",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/355/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 356,
+      "slug": "dusclops",
+      "name_en": "Dusclops",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/356/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 357,
+      "slug": "tropius",
+      "name_en": "Tropius",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/357/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 358,
+      "slug": "chimecho",
+      "name_en": "Chimecho",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/358/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 359,
+      "slug": "absol",
+      "name_en": "Absol",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/359/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 360,
+      "slug": "wynaut",
+      "name_en": "Wynaut",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/360/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 361,
+      "slug": "snorunt",
+      "name_en": "Snorunt",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/361/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 362,
+      "slug": "glalie",
+      "name_en": "Glalie",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/362/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 363,
+      "slug": "spheal",
+      "name_en": "Spheal",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/363/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 364,
+      "slug": "sealeo",
+      "name_en": "Sealeo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/364/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 365,
+      "slug": "walrein",
+      "name_en": "Walrein",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/365/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 366,
+      "slug": "clamperl",
+      "name_en": "Clamperl",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/366/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 367,
+      "slug": "huntail",
+      "name_en": "Huntail",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/367/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 368,
+      "slug": "gorebyss",
+      "name_en": "Gorebyss",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/368/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 369,
+      "slug": "relicanth",
+      "name_en": "Relicanth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/369/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 370,
+      "slug": "luvdisc",
+      "name_en": "Luvdisc",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/370/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 371,
+      "slug": "bagon",
+      "name_en": "Bagon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/371/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 372,
+      "slug": "shelgon",
+      "name_en": "Shelgon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/372/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 373,
+      "slug": "salamence",
+      "name_en": "Salamence",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/373/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 374,
+      "slug": "beldum",
+      "name_en": "Beldum",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/374/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 375,
+      "slug": "metang",
+      "name_en": "Metang",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/375/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 376,
+      "slug": "metagross",
+      "name_en": "Metagross",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/376/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 377,
+      "slug": "regirock",
+      "name_en": "Regirock",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/377/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 378,
+      "slug": "regice",
+      "name_en": "Regice",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/378/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 379,
+      "slug": "registeel",
+      "name_en": "Registeel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/379/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 380,
+      "slug": "latias",
+      "name_en": "Latias",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/380/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 381,
+      "slug": "latios",
+      "name_en": "Latios",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/381/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 382,
+      "slug": "kyogre",
+      "name_en": "Kyogre",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/382/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 383,
+      "slug": "groudon",
+      "name_en": "Groudon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/383/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 384,
+      "slug": "rayquaza",
+      "name_en": "Rayquaza",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/384/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 385,
+      "slug": "jirachi",
+      "name_en": "Jirachi",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/385/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 386,
+      "slug": "deoxys",
+      "name_en": "Deoxys",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/386/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 387,
+      "slug": "turtwig",
+      "name_en": "Turtwig",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/387/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 388,
+      "slug": "grotle",
+      "name_en": "Grotle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/388/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 389,
+      "slug": "torterra",
+      "name_en": "Torterra",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/389/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 390,
+      "slug": "chimchar",
+      "name_en": "Chimchar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/390/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 391,
+      "slug": "monferno",
+      "name_en": "Monferno",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/391/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 392,
+      "slug": "infernape",
+      "name_en": "Infernape",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/392/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 393,
+      "slug": "piplup",
+      "name_en": "Piplup",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/393/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 394,
+      "slug": "prinplup",
+      "name_en": "Prinplup",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/394/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 395,
+      "slug": "empoleon",
+      "name_en": "Empoleon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/395/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 396,
+      "slug": "starly",
+      "name_en": "Starly",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/396/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 397,
+      "slug": "staravia",
+      "name_en": "Staravia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/397/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 398,
+      "slug": "staraptor",
+      "name_en": "Staraptor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/398/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 399,
+      "slug": "bidoof",
+      "name_en": "Bidoof",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/399/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 400,
+      "slug": "bibarel",
+      "name_en": "Bibarel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/400/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 401,
+      "slug": "kricketot",
+      "name_en": "Kricketot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/401/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 402,
+      "slug": "kricketune",
+      "name_en": "Kricketune",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/402/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 403,
+      "slug": "shinx",
+      "name_en": "Shinx",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/403/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 404,
+      "slug": "luxio",
+      "name_en": "Luxio",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/404/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 405,
+      "slug": "luxray",
+      "name_en": "Luxray",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/405/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 406,
+      "slug": "budew",
+      "name_en": "Budew",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/406/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 407,
+      "slug": "roserade",
+      "name_en": "Roserade",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/407/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 408,
+      "slug": "cranidos",
+      "name_en": "Cranidos",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/408/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 409,
+      "slug": "rampardos",
+      "name_en": "Rampardos",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/409/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 410,
+      "slug": "shieldon",
+      "name_en": "Shieldon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/410/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 411,
+      "slug": "bastiodon",
+      "name_en": "Bastiodon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/411/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 412,
+      "slug": "burmy",
+      "name_en": "Burmy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/412/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 413,
+      "slug": "wormadam",
+      "name_en": "Wormadam",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/413/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 414,
+      "slug": "mothim",
+      "name_en": "Mothim",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/414/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 415,
+      "slug": "combee",
+      "name_en": "Combee",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/415/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 416,
+      "slug": "vespiquen",
+      "name_en": "Vespiquen",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/416/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 417,
+      "slug": "pachirisu",
+      "name_en": "Pachirisu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/417/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 418,
+      "slug": "buizel",
+      "name_en": "Buizel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/418/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 419,
+      "slug": "floatzel",
+      "name_en": "Floatzel",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/419/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 420,
+      "slug": "cherubi",
+      "name_en": "Cherubi",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/420/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 421,
+      "slug": "cherrim",
+      "name_en": "Cherrim",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/421/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 422,
+      "slug": "shellos",
+      "name_en": "Shellos",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/422/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 423,
+      "slug": "gastrodon",
+      "name_en": "Gastrodon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/423/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 424,
+      "slug": "ambipom",
+      "name_en": "Ambipom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/424/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 425,
+      "slug": "drifloon",
+      "name_en": "Drifloon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/425/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 426,
+      "slug": "drifblim",
+      "name_en": "Drifblim",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/426/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 427,
+      "slug": "buneary",
+      "name_en": "Buneary",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/427/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 428,
+      "slug": "lopunny",
+      "name_en": "Lopunny",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/428/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 429,
+      "slug": "mismagius",
+      "name_en": "Mismagius",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/429/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 430,
+      "slug": "honchkrow",
+      "name_en": "Honchkrow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/430/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 431,
+      "slug": "glameow",
+      "name_en": "Glameow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/431/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 432,
+      "slug": "purugly",
+      "name_en": "Purugly",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/432/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 433,
+      "slug": "chingling",
+      "name_en": "Chingling",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/433/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 434,
+      "slug": "stunky",
+      "name_en": "Stunky",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/434/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 435,
+      "slug": "skuntank",
+      "name_en": "Skuntank",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/435/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 436,
+      "slug": "bronzor",
+      "name_en": "Bronzor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/436/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 437,
+      "slug": "bronzong",
+      "name_en": "Bronzong",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/437/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 438,
+      "slug": "bonsly",
+      "name_en": "Bonsly",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/438/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 439,
+      "slug": "mime-jr",
+      "name_en": "Mime Jr",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/439/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 440,
+      "slug": "happiny",
+      "name_en": "Happiny",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/440/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 441,
+      "slug": "chatot",
+      "name_en": "Chatot",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/441/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 442,
+      "slug": "spiritomb",
+      "name_en": "Spiritomb",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/442/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 443,
+      "slug": "gible",
+      "name_en": "Gible",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/443/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 444,
+      "slug": "gabite",
+      "name_en": "Gabite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/444/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 445,
+      "slug": "garchomp",
+      "name_en": "Garchomp",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/445/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 446,
+      "slug": "munchlax",
+      "name_en": "Munchlax",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/446/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 447,
+      "slug": "riolu",
+      "name_en": "Riolu",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/447/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 448,
+      "slug": "lucario",
+      "name_en": "Lucario",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/448/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 449,
+      "slug": "hippopotas",
+      "name_en": "Hippopotas",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/449/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 450,
+      "slug": "hippowdon",
+      "name_en": "Hippowdon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/450/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 451,
+      "slug": "skorupi",
+      "name_en": "Skorupi",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/451/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 452,
+      "slug": "drapion",
+      "name_en": "Drapion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/452/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 453,
+      "slug": "croagunk",
+      "name_en": "Croagunk",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/453/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 454,
+      "slug": "toxicroak",
+      "name_en": "Toxicroak",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/454/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 455,
+      "slug": "carnivine",
+      "name_en": "Carnivine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/455/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 456,
+      "slug": "finneon",
+      "name_en": "Finneon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/456/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 457,
+      "slug": "lumineon",
+      "name_en": "Lumineon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/457/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 458,
+      "slug": "mantyke",
+      "name_en": "Mantyke",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/458/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 459,
+      "slug": "snover",
+      "name_en": "Snover",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/459/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 460,
+      "slug": "abomasnow",
+      "name_en": "Abomasnow",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/460/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 461,
+      "slug": "weavile",
+      "name_en": "Weavile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/461/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 462,
+      "slug": "magnezone",
+      "name_en": "Magnezone",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/462/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 463,
+      "slug": "lickilicky",
+      "name_en": "Lickilicky",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/463/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 464,
+      "slug": "rhyperior",
+      "name_en": "Rhyperior",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/464/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 465,
+      "slug": "tangrowth",
+      "name_en": "Tangrowth",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/465/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 466,
+      "slug": "electivire",
+      "name_en": "Electivire",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/466/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 467,
+      "slug": "magmortar",
+      "name_en": "Magmortar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/467/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 468,
+      "slug": "togekiss",
+      "name_en": "Togekiss",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/468/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 469,
+      "slug": "yanmega",
+      "name_en": "Yanmega",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/469/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 470,
+      "slug": "leafeon",
+      "name_en": "Leafeon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/470/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 471,
+      "slug": "glaceon",
+      "name_en": "Glaceon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/471/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 472,
+      "slug": "gliscor",
+      "name_en": "Gliscor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/472/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 473,
+      "slug": "mamoswine",
+      "name_en": "Mamoswine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/473/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 474,
+      "slug": "porygon-z",
+      "name_en": "Porygon Z",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/474/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 475,
+      "slug": "gallade",
+      "name_en": "Gallade",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/475/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 476,
+      "slug": "probopass",
+      "name_en": "Probopass",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/476/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 477,
+      "slug": "dusknoir",
+      "name_en": "Dusknoir",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/477/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 478,
+      "slug": "froslass",
+      "name_en": "Froslass",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/478/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 479,
+      "slug": "rotom",
+      "name_en": "Rotom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/479/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 480,
+      "slug": "uxie",
+      "name_en": "Uxie",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/480/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 481,
+      "slug": "mesprit",
+      "name_en": "Mesprit",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/481/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 482,
+      "slug": "azelf",
+      "name_en": "Azelf",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/482/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 483,
+      "slug": "dialga",
+      "name_en": "Dialga",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/483/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 484,
+      "slug": "palkia",
+      "name_en": "Palkia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/484/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 485,
+      "slug": "heatran",
+      "name_en": "Heatran",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/485/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 486,
+      "slug": "regigigas",
+      "name_en": "Regigigas",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/486/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 487,
+      "slug": "giratina",
+      "name_en": "Giratina",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/487/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 488,
+      "slug": "cresselia",
+      "name_en": "Cresselia",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/488/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 489,
+      "slug": "phione",
+      "name_en": "Phione",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/489/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 490,
+      "slug": "manaphy",
+      "name_en": "Manaphy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/490/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 491,
+      "slug": "darkrai",
+      "name_en": "Darkrai",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/491/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 492,
+      "slug": "shaymin",
+      "name_en": "Shaymin",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/492/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 493,
+      "slug": "arceus",
+      "name_en": "Arceus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/493/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 494,
+      "slug": "victini",
+      "name_en": "Victini",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/494/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 495,
+      "slug": "snivy",
+      "name_en": "Snivy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/495/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 496,
+      "slug": "servine",
+      "name_en": "Servine",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/496/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 497,
+      "slug": "serperior",
+      "name_en": "Serperior",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/497/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 498,
+      "slug": "tepig",
+      "name_en": "Tepig",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/498/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 499,
+      "slug": "pignite",
+      "name_en": "Pignite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/499/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 500,
+      "slug": "emboar",
+      "name_en": "Emboar",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/500/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 501,
+      "slug": "oshawott",
+      "name_en": "Oshawott",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/501/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 502,
+      "slug": "dewott",
+      "name_en": "Dewott",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/502/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 503,
+      "slug": "samurott",
+      "name_en": "Samurott",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/503/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 504,
+      "slug": "patrat",
+      "name_en": "Patrat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/504/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 505,
+      "slug": "watchog",
+      "name_en": "Watchog",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/505/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 506,
+      "slug": "lillipup",
+      "name_en": "Lillipup",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/506/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 507,
+      "slug": "herdier",
+      "name_en": "Herdier",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/507/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 508,
+      "slug": "stoutland",
+      "name_en": "Stoutland",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/508/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 509,
+      "slug": "purrloin",
+      "name_en": "Purrloin",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/509/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 510,
+      "slug": "liepard",
+      "name_en": "Liepard",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/510/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 511,
+      "slug": "pansage",
+      "name_en": "Pansage",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/511/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 512,
+      "slug": "simisage",
+      "name_en": "Simisage",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/512/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 513,
+      "slug": "pansear",
+      "name_en": "Pansear",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/513/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 514,
+      "slug": "simisear",
+      "name_en": "Simisear",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/514/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 515,
+      "slug": "panpour",
+      "name_en": "Panpour",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/515/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 516,
+      "slug": "simipour",
+      "name_en": "Simipour",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/516/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 517,
+      "slug": "munna",
+      "name_en": "Munna",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/517/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 518,
+      "slug": "musharna",
+      "name_en": "Musharna",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/518/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 519,
+      "slug": "pidove",
+      "name_en": "Pidove",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/519/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 520,
+      "slug": "tranquill",
+      "name_en": "Tranquill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/520/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 521,
+      "slug": "unfezant",
+      "name_en": "Unfezant",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/521/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 522,
+      "slug": "blitzle",
+      "name_en": "Blitzle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/522/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 523,
+      "slug": "zebstrika",
+      "name_en": "Zebstrika",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/523/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 524,
+      "slug": "roggenrola",
+      "name_en": "Roggenrola",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/524/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 525,
+      "slug": "boldore",
+      "name_en": "Boldore",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/525/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 526,
+      "slug": "gigalith",
+      "name_en": "Gigalith",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/526/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 527,
+      "slug": "woobat",
+      "name_en": "Woobat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/527/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 528,
+      "slug": "swoobat",
+      "name_en": "Swoobat",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/528/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 529,
+      "slug": "drilbur",
+      "name_en": "Drilbur",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/529/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 530,
+      "slug": "excadrill",
+      "name_en": "Excadrill",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/530/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 531,
+      "slug": "audino",
+      "name_en": "Audino",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/531/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 532,
+      "slug": "timburr",
+      "name_en": "Timburr",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/532/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 533,
+      "slug": "gurdurr",
+      "name_en": "Gurdurr",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/533/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 534,
+      "slug": "conkeldurr",
+      "name_en": "Conkeldurr",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/534/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 535,
+      "slug": "tympole",
+      "name_en": "Tympole",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/535/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 536,
+      "slug": "palpitoad",
+      "name_en": "Palpitoad",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/536/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 537,
+      "slug": "seismitoad",
+      "name_en": "Seismitoad",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/537/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 538,
+      "slug": "throh",
+      "name_en": "Throh",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/538/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 539,
+      "slug": "sawk",
+      "name_en": "Sawk",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/539/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 540,
+      "slug": "sewaddle",
+      "name_en": "Sewaddle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/540/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 541,
+      "slug": "swadloon",
+      "name_en": "Swadloon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/541/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 542,
+      "slug": "leavanny",
+      "name_en": "Leavanny",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/542/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 543,
+      "slug": "venipede",
+      "name_en": "Venipede",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/543/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 544,
+      "slug": "whirlipede",
+      "name_en": "Whirlipede",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/544/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 545,
+      "slug": "scolipede",
+      "name_en": "Scolipede",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/545/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 546,
+      "slug": "cottonee",
+      "name_en": "Cottonee",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/546/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 547,
+      "slug": "whimsicott",
+      "name_en": "Whimsicott",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/547/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 548,
+      "slug": "petilil",
+      "name_en": "Petilil",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/548/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 549,
+      "slug": "lilligant",
+      "name_en": "Lilligant",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/549/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 550,
+      "slug": "basculin",
+      "name_en": "Basculin",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/550/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 551,
+      "slug": "sandile",
+      "name_en": "Sandile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/551/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 552,
+      "slug": "krokorok",
+      "name_en": "Krokorok",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/552/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 553,
+      "slug": "krookodile",
+      "name_en": "Krookodile",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/553/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 554,
+      "slug": "darumaka",
+      "name_en": "Darumaka",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/554/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 555,
+      "slug": "darmanitan",
+      "name_en": "Darmanitan",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/555/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 556,
+      "slug": "maractus",
+      "name_en": "Maractus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/556/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 557,
+      "slug": "dwebble",
+      "name_en": "Dwebble",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/557/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 558,
+      "slug": "crustle",
+      "name_en": "Crustle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/558/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 559,
+      "slug": "scraggy",
+      "name_en": "Scraggy",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/559/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 560,
+      "slug": "scrafty",
+      "name_en": "Scrafty",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/560/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 561,
+      "slug": "sigilyph",
+      "name_en": "Sigilyph",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/561/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 562,
+      "slug": "yamask",
+      "name_en": "Yamask",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/562/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 563,
+      "slug": "cofagrigus",
+      "name_en": "Cofagrigus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/563/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 564,
+      "slug": "tirtouga",
+      "name_en": "Tirtouga",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/564/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 565,
+      "slug": "carracosta",
+      "name_en": "Carracosta",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/565/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 566,
+      "slug": "archen",
+      "name_en": "Archen",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/566/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 567,
+      "slug": "archeops",
+      "name_en": "Archeops",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/567/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 568,
+      "slug": "trubbish",
+      "name_en": "Trubbish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/568/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 569,
+      "slug": "garbodor",
+      "name_en": "Garbodor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/569/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 570,
+      "slug": "zorua",
+      "name_en": "Zorua",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/570/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 571,
+      "slug": "zoroark",
+      "name_en": "Zoroark",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/571/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 572,
+      "slug": "minccino",
+      "name_en": "Minccino",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/572/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 573,
+      "slug": "cinccino",
+      "name_en": "Cinccino",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/573/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 574,
+      "slug": "gothita",
+      "name_en": "Gothita",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/574/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 575,
+      "slug": "gothorita",
+      "name_en": "Gothorita",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/575/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 576,
+      "slug": "gothitelle",
+      "name_en": "Gothitelle",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/576/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 577,
+      "slug": "solosis",
+      "name_en": "Solosis",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/577/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 578,
+      "slug": "duosion",
+      "name_en": "Duosion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/578/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 579,
+      "slug": "reuniclus",
+      "name_en": "Reuniclus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/579/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 580,
+      "slug": "ducklett",
+      "name_en": "Ducklett",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/580/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 581,
+      "slug": "swanna",
+      "name_en": "Swanna",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/581/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 582,
+      "slug": "vanillite",
+      "name_en": "Vanillite",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/582/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 583,
+      "slug": "vanillish",
+      "name_en": "Vanillish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/583/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 584,
+      "slug": "vanilluxe",
+      "name_en": "Vanilluxe",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/584/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 585,
+      "slug": "deerling",
+      "name_en": "Deerling",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/585/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 586,
+      "slug": "sawsbuck",
+      "name_en": "Sawsbuck",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/586/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 587,
+      "slug": "emolga",
+      "name_en": "Emolga",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/587/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 588,
+      "slug": "karrablast",
+      "name_en": "Karrablast",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/588/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 589,
+      "slug": "escavalier",
+      "name_en": "Escavalier",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/589/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 590,
+      "slug": "foongus",
+      "name_en": "Foongus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/590/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 591,
+      "slug": "amoonguss",
+      "name_en": "Amoonguss",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/591/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 592,
+      "slug": "frillish",
+      "name_en": "Frillish",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/592/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 593,
+      "slug": "jellicent",
+      "name_en": "Jellicent",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/593/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 594,
+      "slug": "alomomola",
+      "name_en": "Alomomola",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/594/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 595,
+      "slug": "joltik",
+      "name_en": "Joltik",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/595/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 596,
+      "slug": "galvantula",
+      "name_en": "Galvantula",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/596/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 597,
+      "slug": "ferroseed",
+      "name_en": "Ferroseed",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/597/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 598,
+      "slug": "ferrothorn",
+      "name_en": "Ferrothorn",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/598/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 599,
+      "slug": "klink",
+      "name_en": "Klink",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/599/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 600,
+      "slug": "klang",
+      "name_en": "Klang",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/600/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 601,
+      "slug": "klinklang",
+      "name_en": "Klinklang",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/601/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 602,
+      "slug": "tynamo",
+      "name_en": "Tynamo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/602/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 603,
+      "slug": "eelektrik",
+      "name_en": "Eelektrik",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/603/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 604,
+      "slug": "eelektross",
+      "name_en": "Eelektross",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/604/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 605,
+      "slug": "elgyem",
+      "name_en": "Elgyem",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/605/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 606,
+      "slug": "beheeyem",
+      "name_en": "Beheeyem",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/606/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 607,
+      "slug": "litwick",
+      "name_en": "Litwick",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/607/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 608,
+      "slug": "lampent",
+      "name_en": "Lampent",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/608/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 609,
+      "slug": "chandelure",
+      "name_en": "Chandelure",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/609/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 610,
+      "slug": "axew",
+      "name_en": "Axew",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/610/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 611,
+      "slug": "fraxure",
+      "name_en": "Fraxure",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/611/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 612,
+      "slug": "haxorus",
+      "name_en": "Haxorus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/612/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 613,
+      "slug": "cubchoo",
+      "name_en": "Cubchoo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/613/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 614,
+      "slug": "beartic",
+      "name_en": "Beartic",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/614/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 615,
+      "slug": "cryogonal",
+      "name_en": "Cryogonal",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/615/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 616,
+      "slug": "shelmet",
+      "name_en": "Shelmet",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/616/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 617,
+      "slug": "accelgor",
+      "name_en": "Accelgor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/617/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 618,
+      "slug": "stunfisk",
+      "name_en": "Stunfisk",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/618/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 619,
+      "slug": "mienfoo",
+      "name_en": "Mienfoo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/619/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 620,
+      "slug": "mienshao",
+      "name_en": "Mienshao",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/620/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 621,
+      "slug": "druddigon",
+      "name_en": "Druddigon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/621/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 622,
+      "slug": "golett",
+      "name_en": "Golett",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/622/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 623,
+      "slug": "golurk",
+      "name_en": "Golurk",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/623/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 624,
+      "slug": "pawniard",
+      "name_en": "Pawniard",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/624/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 625,
+      "slug": "bisharp",
+      "name_en": "Bisharp",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/625/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 626,
+      "slug": "bouffalant",
+      "name_en": "Bouffalant",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/626/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 627,
+      "slug": "rufflet",
+      "name_en": "Rufflet",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/627/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 628,
+      "slug": "braviary",
+      "name_en": "Braviary",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/628/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 629,
+      "slug": "vullaby",
+      "name_en": "Vullaby",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/629/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 630,
+      "slug": "mandibuzz",
+      "name_en": "Mandibuzz",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/630/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 631,
+      "slug": "heatmor",
+      "name_en": "Heatmor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/631/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 632,
+      "slug": "durant",
+      "name_en": "Durant",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/632/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 633,
+      "slug": "deino",
+      "name_en": "Deino",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/633/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 634,
+      "slug": "zweilous",
+      "name_en": "Zweilous",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/634/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 635,
+      "slug": "hydreigon",
+      "name_en": "Hydreigon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/635/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 636,
+      "slug": "larvesta",
+      "name_en": "Larvesta",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/636/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 637,
+      "slug": "volcarona",
+      "name_en": "Volcarona",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/637/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 638,
+      "slug": "cobalion",
+      "name_en": "Cobalion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/638/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 639,
+      "slug": "terrakion",
+      "name_en": "Terrakion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/639/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 640,
+      "slug": "virizion",
+      "name_en": "Virizion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/640/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 641,
+      "slug": "tornadus",
+      "name_en": "Tornadus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/641/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 642,
+      "slug": "thundurus",
+      "name_en": "Thundurus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/642/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 643,
+      "slug": "reshiram",
+      "name_en": "Reshiram",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/643/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 644,
+      "slug": "zekrom",
+      "name_en": "Zekrom",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/644/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 645,
+      "slug": "landorus",
+      "name_en": "Landorus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/645/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 646,
+      "slug": "kyurem",
+      "name_en": "Kyurem",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/646/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 647,
+      "slug": "keldeo",
+      "name_en": "Keldeo",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/647/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 700,
+      "slug": "sylveon",
+      "name_en": "Sylveon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/700/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 862,
+      "slug": "obstagoon",
+      "name_en": "Obstagoon",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/862/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 863,
+      "slug": "perrserker",
+      "name_en": "Perrserker",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/863/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 864,
+      "slug": "cursola",
+      "name_en": "Cursola",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/864/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 865,
+      "slug": "sirfetchd",
+      "name_en": "Sirfetchd",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/865/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 866,
+      "slug": "mr-rime",
+      "name_en": "Mr Rime",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/866/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 867,
+      "slug": "runerigus",
+      "name_en": "Runerigus",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/867/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 899,
+      "slug": "wyrdeer",
+      "name_en": "Wyrdeer",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/899/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 900,
+      "slug": "kleavor",
+      "name_en": "Kleavor",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/900/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 901,
+      "slug": "ursaluna",
+      "name_en": "Ursaluna",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/901/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 902,
+      "slug": "basculegion",
+      "name_en": "Basculegion",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/902/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 903,
+      "slug": "sneasler",
+      "name_en": "Sneasler",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/903/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 904,
+      "slug": "overqwil",
+      "name_en": "Overqwil",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/904/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 979,
+      "slug": "annihilape",
+      "name_en": "Annihilape",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/979/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 980,
+      "slug": "clodsire",
+      "name_en": "Clodsire",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/980/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 981,
+      "slug": "farigiraf",
+      "name_en": "Farigiraf",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/981/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 982,
+      "slug": "dudunsparce",
+      "name_en": "Dudunsparce",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/982/",
+      "status": "missing"
+    },
+    {
+      "pokeapi_id": 983,
+      "slug": "kingambit",
+      "name_en": "Kingambit",
+      "name_ru": null,
+      "source_url": "https://pokeapi.co/api/v2/pokemon-species/983/",
+      "status": "missing"
+    }
+  ]
+}

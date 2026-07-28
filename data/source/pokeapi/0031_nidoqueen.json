@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 31,
+  "slug": "nidoqueen",
+  "name_en": "Nidoqueen",
+  "genera_en": [
+    "Drill Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "version": "red"
+    },
+    {
+      "text": "Tough scales cover the sturdy body of this POKéMON. It appears that the scales grow in cycles.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its body is cover­ ed with needle- like scales. It never shows signs of shrinking from any attack.",
+      "version": "gold"
+    },
+    {
+      "text": "It uses its scaly, rugged body to seal the entrance of its nest and protect its young from predators.",
+      "version": "silver"
+    },
+    {
+      "text": "The hard scales that cover its strong body serve as excellent protection from any attack.",
+      "version": "crystal"
+    },
+    {
+      "text": "NIDOQUEEN’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This POKéMON is at its strongest when it is defending its young.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is adept at sending foes flying with harsh tackles using its tough, scaly body. This POKéMON is at its strongest when it is defending its young.",
+      "version": "emerald"
+    },
+    {
+      "text": "The body is covered by stiff, needle- like scales. If it becomes excited, the needles bristle outwards.",
+      "version": "firered"
+    },
+    {
+      "text": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its body is covered with needle-like scales. It never shows signs of shrinking from any attack.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The body is covered by stiff, needlelike scales. If it becomes excited, the needles bristle outwards.",
+      "version": "y"
+    },
+    {
+      "text": "Nidoqueen’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Tough scales cover the sturdy body of this Pokémon. It appears that the scales grow in cycles.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",
+      "version": "sword"
+    },
+    {
+      "text": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "abilities": [
+    "poison-point",
+    "rivalry",
+    "sheer-force"
+  ],
+  "height_dm": 13,
+  "weight_hg": 600,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/12/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/31/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/31/"
+  }
+}

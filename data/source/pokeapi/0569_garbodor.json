@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 569,
+  "slug": "garbodor",
+  "name_en": "Garbodor",
+  "genera_en": [
+    "Trash Heap Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+      "version": "black"
+    },
+    {
+      "text": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+      "version": "white"
+    },
+    {
+      "text": "Consuming garbage makes new kinds of poison gases and liquids inside their bodies.",
+      "version": "black-2"
+    },
+    {
+      "text": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you’ll experience the effects of the unidentified toxin.",
+      "version": "sun"
+    },
+    {
+      "text": "For a time, their numbers increased explosively in Alola. Since the arrival of Grimer, their population has decreased dramatically.",
+      "version": "moon"
+    },
+    {
+      "text": "It locks opponents in place with its left hand, immobilizing them by entirely dousing their bodies with poisonous liquid.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+      "version": "sword"
+    },
+    {
+      "text": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "stench",
+    "weak-armor",
+    "aftermath"
+  ],
+  "height_dm": 19,
+  "weight_hg": 1073,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/290/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/569/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/569/"
+  }
+}

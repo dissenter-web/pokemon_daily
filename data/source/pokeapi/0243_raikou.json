@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 243,
+  "slug": "raikou",
+  "name_en": "Raikou",
+  "genera_en": [
+    "Thunder Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+      "version": "gold"
+    },
+    {
+      "text": "A POKéMON that races across the land while barking a cry that sounds like crashing thunder.",
+      "version": "silver"
+    },
+    {
+      "text": "This rough POKéMON stores energy inside its body, then sweeps across the land, shooting off electricity.",
+      "version": "crystal"
+    },
+    {
+      "text": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "version": "ruby"
+    },
+    {
+      "text": "RAIKOU embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+      "version": "emerald"
+    },
+    {
+      "text": "This POKéMON races across the land while barking a cry that sounds like crashing thunder.",
+      "version": "firered"
+    },
+    {
+      "text": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+      "version": "diamond"
+    },
+    {
+      "text": "A Pokémon that races across the land while barking a cry that sounds like crashing thunder.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "This rough Pokémon stores energy inside its body, then sweeps across the land, shooting off electricity.",
+      "version": "y"
+    },
+    {
+      "text": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "pressure",
+    "inner-focus"
+  ],
+  "height_dm": 19,
+  "weight_hg": 1780,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/123/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/243/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/243/"
+  }
+}

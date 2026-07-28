@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 420,
+  "slug": "cherubi",
+  "name_en": "Cherubi",
+  "genera_en": [
+    "Cherry Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+      "version": "diamond"
+    },
+    {
+      "text": "Sunlight colors it red. When the small ball is drained of nutrients, it shrivels to herald evolution.",
+      "version": "pearl"
+    },
+    {
+      "text": "The small ball is not only filled with nutrients, it is also tasty. STARLY try to peck it off.",
+      "version": "platinum"
+    },
+    {
+      "text": "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+      "version": "black"
+    },
+    {
+      "text": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+      "version": "sword"
+    },
+    {
+      "text": "The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
+      "version": "shield"
+    },
+    {
+      "text": "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll"
+  ],
+  "height_dm": 4,
+  "weight_hg": 33,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/217/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/420/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/420/"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 208,
+  "slug": "steelix",
+  "name_en": "Steelix",
+  "genera_en": [
+    "Iron Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+      "version": "gold"
+    },
+    {
+      "text": "It is said that if an ONIX lives for over 100 years, its composition changes to become diamond-like.",
+      "version": "silver"
+    },
+    {
+      "text": "The many small metal particles that cover this POKéMON's body reflect bright light well.",
+      "version": "crystal"
+    },
+    {
+      "text": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth’s core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
+      "version": "ruby"
+    },
+    {
+      "text": "STEELIX live even further underground than ONIX. This POKéMON is known to dig toward the earth’s core, reaching a depth of over six-tenths of a mile underground.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body has been compressed deep under the ground. As a result, it is even harder than diamond.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Tempered underground under high pressure and heat, its body is harder than any metal.",
+      "version": "diamond"
+    },
+    {
+      "text": "It chews its way through boulders with its sturdy jaws. Its eyes can see in the darkness underground.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+      "version": "platinum"
+    },
+    {
+      "text": "It’s said that if an ONIX lives for 100 years, its composition becomes diamondlike as it evolves into a STEELIX.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.",
+      "version": "black-2"
+    },
+    {
+      "text": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth’s core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "steel",
+    "ground"
+  ],
+  "abilities": [
+    "rock-head",
+    "sturdy",
+    "sheer-force"
+  ],
+  "height_dm": 92,
+  "weight_hg": 4000,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/41/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/208/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/208/"
+  }
+}

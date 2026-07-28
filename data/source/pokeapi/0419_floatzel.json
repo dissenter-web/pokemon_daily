@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 419,
+  "slug": "floatzel",
+  "name_en": "Floatzel",
+  "genera_en": [
+    "Sea Weasel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+      "version": "platinum"
+    },
+    {
+      "text": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "water-veil"
+  ],
+  "height_dm": 11,
+  "weight_hg": 335,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/216/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/419/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/419/"
+  }
+}

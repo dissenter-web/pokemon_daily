@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 159,
+  "slug": "croconaw",
+  "name_en": "Croconaw",
+  "genera_en": [
+    "Big Jaw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+      "version": "gold"
+    },
+    {
+      "text": "It opens its huge jaws wide when attacking. If it loses any fangs while biting, they grow back in.",
+      "version": "silver"
+    },
+    {
+      "text": "The tips of its fangs are slanted backward. Once those fangs clamp down, the prey has no hope of escape.",
+      "version": "crystal"
+    },
+    {
+      "text": "Once CROCONAW has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+      "version": "ruby"
+    },
+    {
+      "text": "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
+      "version": "emerald"
+    },
+    {
+      "text": "Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.",
+      "version": "diamond"
+    },
+    {
+      "text": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "sheer-force"
+  ],
+  "height_dm": 11,
+  "weight_hg": 250,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/81/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/159/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/159/"
+  }
+}

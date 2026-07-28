@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 459,
+  "slug": "snover",
+  "name_en": "Snover",
+  "genera_en": [
+    "Frost Tree Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+      "version": "diamond"
+    },
+    {
+      "text": "In the spring, it grows berries with the texture of frozen treats around its belly.",
+      "version": "pearl"
+    },
+    {
+      "text": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+      "version": "platinum"
+    },
+    {
+      "text": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.",
+      "version": "sword"
+    },
+    {
+      "text": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+      "version": "shield"
+    },
+    {
+      "text": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass",
+    "ice"
+  ],
+  "abilities": [
+    "snow-warning",
+    "soundproof"
+  ],
+  "height_dm": 10,
+  "weight_hg": 505,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/239/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/459/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/459/"
+  }
+}

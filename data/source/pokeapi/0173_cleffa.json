@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 173,
+  "slug": "cleffa",
+  "name_en": "Cleffa",
+  "genera_en": [
+    "Star Shape Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+      "version": "gold"
+    },
+    {
+      "text": "When numerous me­ teors illuminate the night sky, sightings of CLEFFA strangely increase.",
+      "version": "silver"
+    },
+    {
+      "text": "If the impact site of a meteorite is found, this POKéMON is certain to be within the immediate area.",
+      "version": "crystal"
+    },
+    {
+      "text": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these POKéMON quench their thirst with the morning dew.",
+      "version": "ruby"
+    },
+    {
+      "text": "On nights with many shooting stars, CLEFFA can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+      "version": "emerald"
+    },
+    {
+      "text": "When numerous meteors illuminate the night sky, sightings of CLEFFA strangely increase.",
+      "version": "firered"
+    },
+    {
+      "text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its silhouette is like a star. It is believed to arrive riding on shooting stars.",
+      "version": "diamond"
+    },
+    {
+      "text": "Many appear when the night skies are filled with shooting stars. They disappear with sunrise.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.",
+      "version": "platinum"
+    },
+    {
+      "text": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+      "version": "black-2"
+    },
+    {
+      "text": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "On late nights illuminated by shooting stars, it gazes intently skyward, as if thinking of its home.",
+      "version": "sun"
+    },
+    {
+      "text": "Because of its silhouette, it’s believed to be a star reborn. For some reason, it loves Minior.",
+      "version": "moon"
+    },
+    {
+      "text": "On nights with many shooting stars, they gather in packs and dance in circles. If you should see them, something good will happen!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "magic-guard",
+    "friend-guard"
+  ],
+  "height_dm": 3,
+  "weight_hg": 30,
+  "generation": "generation-ii",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/173/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/173/"
+  }
+}

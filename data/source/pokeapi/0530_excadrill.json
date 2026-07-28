@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 530,
+  "slug": "excadrill",
+  "name_en": "Excadrill",
+  "genera_en": [
+    "Subterrene Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+      "version": "black"
+    },
+    {
+      "text": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+      "version": "white"
+    },
+    {
+      "text": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+      "version": "black-2"
+    },
+    {
+      "text": "It’s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill’s rampant digging.",
+      "version": "sword"
+    },
+    {
+      "text": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground",
+    "steel"
+  ],
+  "abilities": [
+    "sand-rush",
+    "sand-force",
+    "mold-breaker"
+  ],
+  "height_dm": 7,
+  "weight_hg": 404,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/270/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/530/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/530/"
+  }
+}

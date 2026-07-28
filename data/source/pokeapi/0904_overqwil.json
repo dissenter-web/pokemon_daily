@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 904,
+  "slug": "overqwil",
+  "name_en": "Overqwil",
+  "genera_en": [
+    "Pin Cluster Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dark",
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "swift-swim",
+    "intimidate"
+  ],
+  "height_dm": 25,
+  "weight_hg": 605,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/106/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/904/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/904/"
+  }
+}

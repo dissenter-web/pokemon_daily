@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 131,
+  "slug": "lapras",
+  "name_en": "Lapras",
+  "genera_en": [
+    "Transport Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.",
+      "version": "red"
+    },
+    {
+      "text": "A gentle soul that can read the minds of people. It can ferry people across the sea on its back.",
+      "version": "yellow"
+    },
+    {
+      "text": "They have gentle hearts. Because they rarely fight, many have been caught. Their num­ ber has dwindled.",
+      "version": "gold"
+    },
+    {
+      "text": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+      "version": "silver"
+    },
+    {
+      "text": "This gentle POKéMON loves to give people rides and provides a ve­ ry comfortable way to get around.",
+      "version": "crystal"
+    },
+    {
+      "text": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
+      "version": "ruby"
+    },
+    {
+      "text": "People have driven LAPRAS almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its high intelligence enables it to understand human speech. It likes to ferry people on its back.",
+      "version": "firered"
+    },
+    {
+      "text": "A POKéMON that has been overhunted almost to extinction. It can ferry people on its back.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+      "version": "diamond"
+    },
+    {
+      "text": "They have gentle hearts. Because they rarely fight, many have been caught. Their number has dwindled.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+      "version": "black-2"
+    },
+    {
+      "text": "People have driven Lapras almost to the point of extinction. In the evenings, this Pokémon is said to sing plaintively as it seeks what few others of its kind still remain.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its high intelligence enables it to comprehend human speech. When it’s in a good mood, it sings in its beautiful voice.",
+      "version": "sun"
+    },
+    {
+      "text": "These Pokémon were once near extinction due to poaching. Following protective regulations, there is now an overabundance of them.",
+      "version": "moon"
+    },
+    {
+      "text": "It likes swimming around with people on its back. In the Alola region, it’s an important means of transportation over water.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "They’ve been so cherished that there’s now an overabundance. The fish Pokémon population has declined in waters with too many Lapras.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A gentle soul that can understand human speech. It can ferry people across the sea on its back.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+      "version": "sword"
+    },
+    {
+      "text": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "ice"
+  ],
+  "abilities": [
+    "water-absorb",
+    "shell-armor",
+    "hydration"
+  ],
+  "height_dm": 25,
+  "weight_hg": 2200,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/65/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/131/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/131/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 539,
+  "slug": "sawk",
+  "name_en": "Sawk",
+  "genera_en": [
+    "Karate Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+      "version": "black"
+    },
+    {
+      "text": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+      "version": "white"
+    },
+    {
+      "text": "Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping.",
+      "version": "black-2"
+    },
+    {
+      "text": "If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by.",
+      "version": "sword"
+    },
+    {
+      "text": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "sturdy",
+    "inner-focus",
+    "mold-breaker"
+  ],
+  "height_dm": 14,
+  "weight_hg": 510,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/275/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/539/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/539/"
+  }
+}

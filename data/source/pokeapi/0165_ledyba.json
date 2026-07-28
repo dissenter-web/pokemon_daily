@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 165,
+  "slug": "ledyba",
+  "name_en": "Ledyba",
+  "genera_en": [
+    "Five Star Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+      "version": "gold"
+    },
+    {
+      "text": "When the weather turns cold, lots of LEDYBA gather from everywhere to cluster and keep each other warm.",
+      "version": "silver"
+    },
+    {
+      "text": "It is timid and clusters together with others. The fluid secreted by its feet indicates its location.",
+      "version": "crystal"
+    },
+    {
+      "text": "LEDYBA secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This POKéMON conveys its feelings to others by altering the fluid’s scent.",
+      "version": "ruby"
+    },
+    {
+      "text": "LEDYBA communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid’s scent.",
+      "version": "emerald"
+    },
+    {
+      "text": "When the weather turns cold, numerous LEDYBA gather from everywhere to cluster and keep each other warm.",
+      "version": "firered"
+    },
+    {
+      "text": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
+      "version": "diamond"
+    },
+    {
+      "text": "When the weather turns cold, lots of Ledyba gather from everywhere to cluster and keep each other warm.",
+      "version": "x"
+    },
+    {
+      "text": "Ledyba secretes an aromatic fluid from where its legs join its body. This fluid is used for communicating with others. This Pokémon conveys its feelings to others by altering the fluid’s scent.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another.",
+      "version": "sun"
+    },
+    {
+      "text": "They communicate with one another using bodily fluids that give off odors. When they’re angry, their odor smells sour.",
+      "version": "moon"
+    },
+    {
+      "text": "This Pokémon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "These very cowardly Pokémon join together and use Reflect to protect their nest.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "swarm",
+    "early-bird",
+    "rattled"
+  ],
+  "height_dm": 10,
+  "weight_hg": 108,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/84/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/165/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/165/"
+  }
+}

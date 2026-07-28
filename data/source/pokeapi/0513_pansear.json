@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 513,
+  "slug": "pansear",
+  "name_en": "Pansear",
+  "genera_en": [
+    "High Temp Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
+      "version": "black"
+    },
+    {
+      "text": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600° F.",
+      "version": "white"
+    },
+    {
+      "text": "Very intelligent, it roasts berries before eating them. It likes to help people.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+      "version": "y"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "gluttony",
+    "blaze"
+  ],
+  "height_dm": 6,
+  "weight_hg": 110,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/263/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/513/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/513/"
+  }
+}

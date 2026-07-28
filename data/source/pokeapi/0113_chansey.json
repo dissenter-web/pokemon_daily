@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 113,
+  "slug": "chansey",
+  "name_en": "Chansey",
+  "genera_en": [
+    "Egg Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.",
+      "version": "red"
+    },
+    {
+      "text": "A gentle and kind­ hearted POKéMON that shares its nutritious eggs if it sees an injured POKéMON.",
+      "version": "yellow"
+    },
+    {
+      "text": "It walks carefully to prevent its egg from breaking. However, it is extremely fast at running away.",
+      "version": "gold"
+    },
+    {
+      "text": "Few in number and difficult to cap­ ture, it is said to bring happiness to the trainer who catches it.",
+      "version": "silver"
+    },
+    {
+      "text": "People try to catch it for its extremely nutritious eggs, but it rarely can be found.",
+      "version": "crystal"
+    },
+    {
+      "text": "CHANSEY lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+      "version": "ruby"
+    },
+    {
+      "text": "CHANSEY lay nutritionally excellent eggs every day. The eggs are so delicious, they are eagerly devoured by even those people who have lost their appetite.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.",
+      "version": "firered"
+    },
+    {
+      "text": "A rare and elusive POKéMON that is said to bring happiness to those who manage to catch one.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is said to deliver happiness. Being compassionate, it shares its eggs with injured people.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lays several eggs a day and won’t share them with those who have evil in their hearts.",
+      "version": "pearl"
+    },
+    {
+      "text": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+      "version": "platinum"
+    },
+    {
+      "text": "Being few in number and difficult to capture, it is said to bring happiness to the Trainer who catches it.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Chansey lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
+      "version": "sun"
+    },
+    {
+      "text": "Not only are these Pokémon fast runners, they’re also few in number, so anyone who finds one must be lucky indeed.",
+      "version": "moon"
+    },
+    {
+      "text": "It seems that other Pokémon’s efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Because the eggs on their bellies have been overharvested by people in the past, the Chansey population remains very small.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A gentle and kindhearted Pokémon that shares its nutritious eggs if it sees an injured Pokémon.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.",
+      "version": "sword"
+    },
+    {
+      "text": "This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.",
+      "version": "shield"
+    },
+    {
+      "text": "This purehearted Pokémon shares its eggs with the injured.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "natural-cure",
+    "serene-grace",
+    "healer"
+  ],
+  "height_dm": 11,
+  "weight_hg": 346,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/51/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/113/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/113/"
+  }
+}

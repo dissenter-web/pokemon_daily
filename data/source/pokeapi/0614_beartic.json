@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 614,
+  "slug": "beartic",
+  "name_en": "Beartic",
+  "genera_en": [
+    "Freezing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+      "version": "black"
+    },
+    {
+      "text": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+      "version": "white"
+    },
+    {
+      "text": "They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.",
+      "version": "black-2"
+    },
+    {
+      "text": "It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",
+      "version": "sword"
+    },
+    {
+      "text": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "snow-cloak",
+    "slush-rush",
+    "swift-swim"
+  ],
+  "height_dm": 26,
+  "weight_hg": 2600,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/310/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/614/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/614/"
+  }
+}

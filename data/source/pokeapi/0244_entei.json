@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 244,
+  "slug": "entei",
+  "name_en": "Entei",
+  "genera_en": [
+    "Volcano Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land.",
+      "version": "gold"
+    },
+    {
+      "text": "A POKéMON that races across the land. It is said that one is born every time a new volcano appears.",
+      "version": "silver"
+    },
+    {
+      "text": "This brawny POKéMON courses around the earth, spouting flames hotter than a volcano's magma.",
+      "version": "crystal"
+    },
+    {
+      "text": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "version": "ruby"
+    },
+    {
+      "text": "ENTEI embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.",
+      "version": "emerald"
+    },
+    {
+      "text": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+      "version": "diamond"
+    },
+    {
+      "text": "Volcanoes erupt when it barks. Unable to contain its sheer power, it races headlong around the land.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A Pokémon that races across the land. It is said that one is born every time a new volcano appears.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "pressure",
+    "inner-focus"
+  ],
+  "height_dm": 21,
+  "weight_hg": 1980,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/124/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/244/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/244/"
+  }
+}

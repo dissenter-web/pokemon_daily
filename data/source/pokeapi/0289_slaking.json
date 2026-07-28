@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 289,
+  "slug": "slaking",
+  "name_en": "Slaking",
+  "genera_en": [
+    "Lazy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SLAKING spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this POKéMON reluctantly moves to another spot.",
+      "version": "ruby"
+    },
+    {
+      "text": "Wherever SLAKING live, rings of over a yard in diameter appear in grassy fields. They are made by the POKéMON as it eats all the grass within reach while lying prone on the ground.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Hordes of SLAKING gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is the world’s most slothful POKéMON. However, it can exert horrifying power by releasing pent-up energy all at once.",
+      "version": "firered"
+    },
+    {
+      "text": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+      "version": "diamond"
+    },
+    {
+      "text": "The world’s laziest Pokémon. It moves to another spot when there’s no food left within its reach.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.",
+      "version": "black-2"
+    },
+    {
+      "text": "It is the world’s most slothful Pokémon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+      "version": "y"
+    },
+    {
+      "text": "Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "truant"
+  ],
+  "height_dm": 20,
+  "weight_hg": 1305,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/143/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/289/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/289/"
+  }
+}

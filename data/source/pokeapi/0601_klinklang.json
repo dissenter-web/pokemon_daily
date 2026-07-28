@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 601,
+  "slug": "klinklang",
+  "name_en": "Klinklang",
+  "genera_en": [
+    "Gear Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+      "version": "black"
+    },
+    {
+      "text": "The gear with the red core is rotated at high speed for a rapid energy charge.",
+      "version": "white"
+    },
+    {
+      "text": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
+      "version": "black-2"
+    },
+    {
+      "text": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+      "version": "sword"
+    },
+    {
+      "text": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    "plus",
+    "minus",
+    "clear-body"
+  ],
+  "height_dm": 6,
+  "weight_hg": 810,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/305/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/601/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/601/"
+  }
+}

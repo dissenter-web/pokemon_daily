@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 519,
+  "slug": "pidove",
+  "name_en": "Pidove",
+  "genera_en": [
+    "Tiny Pigeon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
+      "version": "black"
+    },
+    {
+      "text": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+      "version": "white"
+    },
+    {
+      "text": "This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.",
+      "version": "black-2"
+    },
+    {
+      "text": "Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "big-pecks",
+    "super-luck",
+    "rivalry"
+  ],
+  "height_dm": 3,
+  "weight_hg": 21,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/266/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/519/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/519/"
+  }
+}

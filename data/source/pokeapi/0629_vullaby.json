@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 629,
+  "slug": "vullaby",
+  "name_en": "Vullaby",
+  "genera_en": [
+    "Diapered Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+      "version": "black"
+    },
+    {
+      "text": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+      "version": "white"
+    },
+    {
+      "text": "Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.",
+      "version": "black-2"
+    },
+    {
+      "text": "It protects its plump posterior with the bones of prey it has consumed. As it grows, it replaces the bones.",
+      "version": "sun"
+    },
+    {
+      "text": "It can’t fly yet and must wait until its wings have developed more. Since it’s still at a playful age, it hops around friskily.",
+      "version": "moon"
+    },
+    {
+      "text": "Mandibuzz gives it the bones it wears. Vullaby’s wings are short, so it can’t fly yet, but it jumps around, dreaming of wide open skies.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.",
+      "version": "sword"
+    },
+    {
+      "text": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "abilities": [
+    "big-pecks",
+    "overcoat",
+    "weak-armor"
+  ],
+  "height_dm": 5,
+  "weight_hg": 90,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/320/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/629/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/629/"
+  }
+}

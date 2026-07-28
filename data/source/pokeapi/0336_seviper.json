@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 336,
+  "slug": "seviper",
+  "name_en": "Seviper",
+  "genera_en": [
+    "Fang Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SEVIPER shares a generations-long feud with ZANGOOSE. The scars on its body are evidence of vicious battles. This POKéMON attacks using its sword- edged tail.",
+      "version": "ruby"
+    },
+    {
+      "text": "SEVIPER’s swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long- running blood feud with ZANGOOSE.",
+      "version": "sapphire"
+    },
+    {
+      "text": "SEVIPER and ZANGOOSE are eternal rivals. It counters a ZANGOOSE’s dazzling agility with its swordlike tail, which also oozes a horrible poison.",
+      "version": "emerald"
+    },
+    {
+      "text": "It sharpens its swordlike tail on hard rocks. It hides in tall grass and strikes unwary prey with venomous fangs.",
+      "version": "firered"
+    },
+    {
+      "text": "For many generations, it has feuded with ZANGOOSE. It whets its bladed tail on rocks for battle.",
+      "version": "diamond"
+    },
+    {
+      "text": "In battle, it uses its bladed tail to counter any ZANGOOSE. It secretes a deadly venom in its tail.",
+      "version": "heartgold"
+    },
+    {
+      "text": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
+      "version": "black"
+    },
+    {
+      "text": "Constant polishing makes the edge of the blade on its tail extremely sharp. It’s Zangoose’s archrival.",
+      "version": "black-2"
+    },
+    {
+      "text": "In battle, it uses its bladed tail to counter any Zangoose. It secretes a deadly venom in its tail.",
+      "version": "x"
+    },
+    {
+      "text": "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "shed-skin",
+    "infiltrator"
+  ],
+  "height_dm": 27,
+  "weight_hg": 525,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/170/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/336/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/336/"
+  }
+}

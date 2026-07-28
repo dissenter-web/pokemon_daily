@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 71,
+  "slug": "victreebel",
+  "name_en": "Victreebel",
+  "genera_en": [
+    "Flycatcher Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "version": "red"
+    },
+    {
+      "text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is melted in a day, bones and all.",
+      "version": "yellow"
+    },
+    {
+      "text": "ACID that has dis­ solved many prey becomes sweeter, making it even more effective at attracting prey.",
+      "version": "gold"
+    },
+    {
+      "text": "This horrifying plant POKéMON at­ tracts prey with aromatic honey, then melts them in its mouth.",
+      "version": "silver"
+    },
+    {
+      "text": "Once ingested into this POKéMON's body, even the hardest object will melt into nothing.",
+      "version": "crystal"
+    },
+    {
+      "text": "VICTREEBEL has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this POKéMON swallows it whole.",
+      "version": "ruby"
+    },
+    {
+      "text": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+      "version": "emerald"
+    },
+    {
+      "text": "Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.",
+      "version": "firered"
+    },
+    {
+      "text": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+      "version": "diamond"
+    },
+    {
+      "text": "Acid that has dissolved many prey becomes sweeter, making it even more effective at attracting prey.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This horrifying plant Pokémon attracts prey with aromatic honey, then melts them in its mouth.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything.",
+      "version": "black-2"
+    },
+    {
+      "text": "Once ingested into this Pokémon’s body, even the hardest object will melt into nothing.",
+      "version": "y"
+    },
+    {
+      "text": "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "gluttony"
+  ],
+  "height_dm": 17,
+  "weight_hg": 155,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/71/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/71/"
+  }
+}

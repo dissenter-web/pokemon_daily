@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 545,
+  "slug": "scolipede",
+  "name_en": "Scolipede",
+  "genera_en": [
+    "Megapede Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+      "version": "black"
+    },
+    {
+      "text": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+      "version": "white"
+    },
+    {
+      "text": "It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.",
+      "version": "black-2"
+    },
+    {
+      "text": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes.",
+      "version": "sword"
+    },
+    {
+      "text": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "swarm",
+    "speed-boost"
+  ],
+  "height_dm": 25,
+  "weight_hg": 2005,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/277/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/545/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/545/"
+  }
+}

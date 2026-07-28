@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 317,
+  "slug": "swalot",
+  "name_en": "Swalot",
+  "genera_en": [
+    "Poison Bag Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
+      "version": "ruby"
+    },
+    {
+      "text": "SWALOT has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this POKéMON’s mouth.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a SWALOT can’t digest is its own stomach.",
+      "version": "emerald"
+    },
+    {
+      "text": "It can swallow a tire whole in one gulp. It secretes a horribly toxic fluid from the pores on its body.",
+      "version": "firered"
+    },
+    {
+      "text": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "liquid-ooze",
+    "sticky-hold",
+    "gluttony"
+  ],
+  "height_dm": 17,
+  "weight_hg": 800,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/159/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/317/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/317/"
+  }
+}

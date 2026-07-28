@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 606,
+  "slug": "beheeyem",
+  "name_en": "Beheeyem",
+  "genera_en": [
+    "Cerebral Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can manipulate an opponent’s memory. Apparently, it communicates by flashing its three different-colored fingers.",
+      "version": "black"
+    },
+    {
+      "text": "It uses psychic power to control an opponent’s brain and tamper with its memories.",
+      "version": "white"
+    },
+    {
+      "text": "Apparently, it communicates by flashing its three fingers, but those patterns haven’t been decoded.",
+      "version": "black-2"
+    },
+    {
+      "text": "With its psychic powers, it rewrites its opponents’ memories. You, too, may have already had your memories rewritten.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+      "version": "sword"
+    },
+    {
+      "text": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "telepathy",
+    "synchronize",
+    "analytic"
+  ],
+  "height_dm": 10,
+  "weight_hg": 345,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/307/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/606/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/606/"
+  }
+}

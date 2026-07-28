@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 227,
+  "slug": "skarmory",
+  "name_en": "Skarmory",
+  "genera_en": [
+    "Armor Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+      "version": "gold"
+    },
+    {
+      "text": "After nesting in bramble bushes, the wings of its chicks grow hard from scratches by thorns.",
+      "version": "silver"
+    },
+    {
+      "text": "The feathers that it sheds are very sharp. It is said that people once used the feathers as swords.",
+      "version": "crystal"
+    },
+    {
+      "text": "SKARMORY is entirely encased in hard, protective armor. This POKéMON flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+      "version": "ruby"
+    },
+    {
+      "text": "SKARMORY’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A POKéMON that has a body and wings of steel. People in the past used feathers fallen from SKARMORY to make swords and knives.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its sturdy wings look heavy, but its bones are hollow and light, allowing it to fly freely in the sky.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph.",
+      "version": "black-2"
+    },
+    {
+      "text": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Skarmory’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its feathers, which fall off as it grows, are thin and sharp. In times long past, warriors used them as swords.",
+      "version": "sun"
+    },
+    {
+      "text": "Its metal body is sturdy, but it does rust rather easily. So on rainy days, this Pokémon prefers to stay put in its nest.",
+      "version": "moon"
+    },
+    {
+      "text": "The wing feathers it sheds can be processed and made into knives whose sharpness is recognized by the finest chefs.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
+      "version": "sword"
+    },
+    {
+      "text": "People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "steel",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "sturdy",
+    "weak-armor"
+  ],
+  "height_dm": 17,
+  "weight_hg": 505,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/117/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/227/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/227/"
+  }
+}

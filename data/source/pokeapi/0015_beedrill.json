@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 15,
+  "slug": "beedrill",
+  "name_en": "Beedrill",
+  "genera_en": [
+    "Poison Bee Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
+      "version": "red"
+    },
+    {
+      "text": "It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "version": "yellow"
+    },
+    {
+      "text": "It can take down any opponent with its powerful poi­ son stingers. It sometimes attacks in swarms.",
+      "version": "gold"
+    },
+    {
+      "text": "It has three poison barbs. The barb on its tail secretes the most powerful poison.",
+      "version": "silver"
+    },
+    {
+      "text": "It uses sharp, poisonous stings to defeat prey, then takes the victim back to its nest for food.",
+      "version": "crystal"
+    },
+    {
+      "text": "BEEDRILL is extremely territorial. No one should ever approach its nest - this is for their own safety. If angered, they will attack in a furious swarm.",
+      "version": "ruby"
+    },
+    {
+      "text": "A BEEDRILL is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+      "version": "emerald"
+    },
+    {
+      "text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "version": "firered"
+    },
+    {
+      "text": "It flies at high speed and attacks using the large venomous stingers on its forelegs and tail.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can take down any opponent with its powerful poison stingers. It sometimes attacks in swarms.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+      "version": "x"
+    },
+    {
+      "text": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "swarm",
+    "sniper"
+  ],
+  "height_dm": 10,
+  "weight_hg": 295,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/15/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/15/"
+  }
+}

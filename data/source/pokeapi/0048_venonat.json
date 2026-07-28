@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 48,
+  "slug": "venonat",
+  "name_en": "Venonat",
+  "genera_en": [
+    "Insect Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+      "version": "white-2"
+    },
+    {
+      "text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+      "version": "red"
+    },
+    {
+      "text": "Its large eyes act as radars. In a bright place, you can see that they are clusters of many tiny eyes.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its eyes also function as radar units. It catches and eats small bugs that hide in darkness.",
+      "version": "gold"
+    },
+    {
+      "text": "Poison oozes from all over its body. It catches and eats small bugs at night that are at­ tracted by light.",
+      "version": "silver"
+    },
+    {
+      "text": "The small bugs it eats appear only at night, so it sleeps in a hole in a tree until night falls.",
+      "version": "crystal"
+    },
+    {
+      "text": "VENONAT is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even miniscule prey.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.",
+      "version": "firered"
+    },
+    {
+      "text": "Lives in the shadows of tall trees where it eats bugs. It is attracted by light at night.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Poison oozes from all over its body. It catches and eats small bugs at night that are attracted by light.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "compound-eyes",
+    "tinted-lens",
+    "run-away"
+  ],
+  "height_dm": 10,
+  "weight_hg": 300,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/20/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/48/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/48/"
+  }
+}

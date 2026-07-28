@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 609,
+  "slug": "chandelure",
+  "name_en": "Chandelure",
+  "genera_en": [
+    "Luring Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+      "version": "black"
+    },
+    {
+      "text": "Being consumed in Chandelure’s flame burns up the spirit, leaving the body behind.",
+      "version": "white"
+    },
+    {
+      "text": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+      "version": "sword"
+    },
+    {
+      "text": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "abilities": [
+    "flash-fire",
+    "flame-body",
+    "infiltrator"
+  ],
+  "height_dm": 10,
+  "weight_hg": 343,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/308/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/609/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/609/"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 399,
+  "slug": "bidoof",
+  "name_en": "Bidoof",
+  "genera_en": [
+    "Plump Mouse Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
+      "version": "black"
+    },
+    {
+      "text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "version": "diamond"
+    },
+    {
+      "text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
+      "version": "pearl"
+    },
+    {
+      "text": "A comparison revealed that BIDOOF’s front teeth grow at the same rate as RATTATA’s.",
+      "version": "platinum"
+    },
+    {
+      "text": "It lives in groups by the water. It chews up boulders and trees around its nest with its incisors.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "simple",
+    "unaware",
+    "moody"
+  ],
+  "height_dm": 5,
+  "weight_hg": 200,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/207/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/399/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/399/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 529,
+  "slug": "drilbur",
+  "name_en": "Drilbur",
+  "genera_en": [
+    "Mole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+      "version": "black"
+    },
+    {
+      "text": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+      "version": "white"
+    },
+    {
+      "text": "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
+      "version": "black-2"
+    },
+    {
+      "text": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-rush",
+    "sand-force",
+    "mold-breaker"
+  ],
+  "height_dm": 3,
+  "weight_hg": 85,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/270/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/529/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/529/"
+  }
+}

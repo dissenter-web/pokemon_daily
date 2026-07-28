@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 246,
+  "slug": "larvitar",
+  "name_en": "Larvitar",
+  "genera_en": [
+    "Rock Skin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+      "version": "gold"
+    },
+    {
+      "text": "It is born deep underground. It can't emerge until it has entirely consumed the soil around it.",
+      "version": "silver"
+    },
+    {
+      "text": "Born deep under­ ground, this POKéMON becomes a pupa after eating enough dirt to make a mountain.",
+      "version": "crystal"
+    },
+    {
+      "text": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent’s face.",
+      "version": "ruby"
+    },
+    {
+      "text": "A LARVITAR is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents’ faces.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is born deep underground. It can’t emerge until it has entirely consumed the soil around it.",
+      "version": "firered"
+    },
+    {
+      "text": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+      "version": "diamond"
+    },
+    {
+      "text": "It feeds on soil. After it has eaten a large mountain, it falls asleep so it can grow.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",
+      "version": "black-2"
+    },
+    {
+      "text": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn’t deal well with the bright light it finds there.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Raised on nutrients it finds in the dirt, it eats roughly a mountain’s worth of dirt before it becomes a pupa.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "abilities": [
+    "guts",
+    "sand-veil"
+  ],
+  "height_dm": 6,
+  "weight_hg": 720,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/246/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/246/"
+  }
+}

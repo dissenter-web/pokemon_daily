@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 608,
+  "slug": "lampent",
+  "name_en": "Lampent",
+  "genera_en": [
+    "Lamp Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+      "version": "black"
+    },
+    {
+      "text": "It arrives near the moment of death and steals spirit from the body.",
+      "version": "white"
+    },
+    {
+      "text": "The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon appears just before someone passes away, so it’s feared as an emissary of death.",
+      "version": "sword"
+    },
+    {
+      "text": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "abilities": [
+    "flash-fire",
+    "flame-body",
+    "infiltrator"
+  ],
+  "height_dm": 6,
+  "weight_hg": 130,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/308/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/608/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/608/"
+  }
+}

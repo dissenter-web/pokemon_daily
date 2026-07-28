@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 511,
+  "slug": "pansage",
+  "name_en": "Pansage",
+  "genera_en": [
+    "Grass Monkey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+      "version": "black"
+    },
+    {
+      "text": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+      "version": "white"
+    },
+    {
+      "text": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "gluttony",
+    "overgrow"
+  ],
+  "height_dm": 6,
+  "weight_hg": 105,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/262/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/511/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/511/"
+  }
+}

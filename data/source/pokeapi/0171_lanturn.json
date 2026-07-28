@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 171,
+  "slug": "lanturn",
+  "name_en": "Lanturn",
+  "genera_en": [
+    "Light Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+      "version": "gold"
+    },
+    {
+      "text": "It blinds prey with an intense burst of light, then swallows the immobilized prey in a single gulp.",
+      "version": "silver"
+    },
+    {
+      "text": "This POKéMON uses the bright part of its body, which changed from a dorsal fin, to lure prey.",
+      "version": "crystal"
+    },
+    {
+      "text": "LANTURN is nicknamed “the deep-sea star” for its illuminated antenna. This POKéMON produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+      "version": "ruby"
+    },
+    {
+      "text": "LANTURN is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this POKéMON’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+      "version": "sapphire"
+    },
+    {
+      "text": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This POKéMON illuminates the inky darkness of deep seas.",
+      "version": "emerald"
+    },
+    {
+      "text": "The light it emits is so bright that it can illuminate the sea’s surface from a depth of over three miles.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "LANTURN’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
+      "version": "diamond"
+    },
+    {
+      "text": "It blinds prey with an intense burst of light. With the prey incapacitated, the Pokémon swallows it in a single gulp.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
+      "version": "black"
+    },
+    {
+      "text": "Lanturn is nicknamed “the deep-sea star” for its illuminated antenna. This Pokémon produces light by causing a chemical reaction between bacteria and its bodily fluids inside the antenna.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon’s light rising from the depths where it swims. It gives the sea an appearance of a starlit night.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Should you peer into the ocean at night and see a light shining like the stars, that is Lanturn.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+      "version": "moon"
+    },
+    {
+      "text": "When the bacteria living inside its antennae absorb Lanturn’s bodily fluids, a strong luminescent effect is produced.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they’re dazzled to swallow them whole.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water",
+    "electric"
+  ],
+  "abilities": [
+    "volt-absorb",
+    "illuminate",
+    "water-absorb"
+  ],
+  "height_dm": 12,
+  "weight_hg": 225,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/86/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/171/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/171/"
+  }
+}

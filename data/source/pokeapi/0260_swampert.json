@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 260,
+  "slug": "swampert",
+  "name_en": "Swampert",
+  "genera_en": [
+    "Mud Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This POKéMON also has powerful vision that lets it see even in murky water.",
+      "version": "ruby"
+    },
+    {
+      "text": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+      "version": "sapphire"
+    },
+    {
+      "text": "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its arms are rock-hard. With one swing, they can batter down its foe. It makes its nest on beautiful beaches.",
+      "version": "firered"
+    },
+    {
+      "text": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its arms are hard as rock. With one swing, it can break a boulder into pieces.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "torrent",
+    "damp"
+  ],
+  "height_dm": 15,
+  "weight_hg": 819,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/132/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/260/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/260/"
+  }
+}

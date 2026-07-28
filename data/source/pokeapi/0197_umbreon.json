@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 197,
+  "slug": "umbreon",
+  "name_en": "Umbreon",
+  "genera_en": [
+    "Moonlight Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.",
+      "version": "gold"
+    },
+    {
+      "text": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
+      "version": "silver"
+    },
+    {
+      "text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+      "version": "crystal"
+    },
+    {
+      "text": "UMBREON evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+      "version": "ruby"
+    },
+    {
+      "text": "UMBREON evolved from exposure to the moon’s energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+      "version": "emerald"
+    },
+    {
+      "text": "When darkness falls, the rings on its body begin to glow, striking fear in the hearts of anyone nearby.",
+      "version": "firered"
+    },
+    {
+      "text": "When agitated, this POKéMON protects itself by spraying poisonous sweat from its pores.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "The light of the moon changed EEVEE’s genetic structure. It lurks in darkness for prey.",
+      "version": "diamond"
+    },
+    {
+      "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
+      "version": "platinum"
+    },
+    {
+      "text": "When agitated, this Pokémon protects itself by spraying poisonous sweat from its pores.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When exposed to the moon’s aura, the rings on its body glow faintly and it’s filled with a mysterious power.",
+      "version": "black-2"
+    },
+    {
+      "text": "The light of the moon changed Eevee’s genetic structure. It lurks in darkness for prey.",
+      "version": "x"
+    },
+    {
+      "text": "Umbreon evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent’s eyes.",
+      "version": "sun"
+    },
+    {
+      "text": "With its black fur, it blends into the darkness. It bides its time, and when prey appears, this Pokémon goes for its throat, and then eats it.",
+      "version": "moon"
+    },
+    {
+      "text": "This Pokémon is nocturnal. Even in total darkness, its large eyes can spot its prey clearly!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    "synchronize",
+    "inner-focus"
+  ],
+  "height_dm": 10,
+  "weight_hg": 270,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/197/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/197/"
+  }
+}

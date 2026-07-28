@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 311,
+  "slug": "plusle",
+  "name_en": "Plusle",
+  "genera_en": [
+    "Cheering Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POKéMON shorts out its body to create the crackling noises of sparks to show its joy.",
+      "version": "ruby"
+    },
+    {
+      "text": "When PLUSLE is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this POKéMON cries loudly.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It has the trait of cheering on its fellow POKéMON. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.",
+      "version": "emerald"
+    },
+    {
+      "text": "It cheers on partners while scattering sparks from its body. It climbs telephone poles to absorb electricity.",
+      "version": "firered"
+    },
+    {
+      "text": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+      "version": "diamond"
+    },
+    {
+      "text": "It absorbs electricity from telephone poles. It shorts out its body to create crackling noises.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "plus",
+    "lightning-rod"
+  ],
+  "height_dm": 4,
+  "weight_hg": 42,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/154/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/311/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/311/"
+  }
+}

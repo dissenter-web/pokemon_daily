@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 593,
+  "slug": "jellicent",
+  "name_en": "Jellicent",
+  "genera_en": [
+    "Floating Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
+      "version": "black"
+    },
+    {
+      "text": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+      "version": "white"
+    },
+    {
+      "text": "Its body is mostly seawater. It’s said there’s a castle of ships Jellicent have sunk on the seafloor.",
+      "version": "black-2"
+    },
+    {
+      "text": "Jellicent is always hanging around fancy cruise ships and tankers, hoping to drag away its prey.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Fishermen are terrified of Jellicent. It’s rumored to drag them into the sea and steal their lives away.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Most of this Pokémon’s body composition is identical to sea water. It makes sunken ships its lair.",
+      "version": "sword"
+    },
+    {
+      "text": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "abilities": [
+    "water-absorb",
+    "cursed-body",
+    "damp"
+  ],
+  "height_dm": 22,
+  "weight_hg": 1350,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/301/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/593/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/593/"
+  }
+}

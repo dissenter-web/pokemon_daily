@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 543,
+  "slug": "venipede",
+  "name_en": "Venipede",
+  "genera_en": [
+    "Centipede Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+      "version": "black"
+    },
+    {
+      "text": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggressive.",
+      "version": "white"
+    },
+    {
+      "text": "Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey’s location and state.",
+      "version": "black-2"
+    },
+    {
+      "text": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+      "version": "sword"
+    },
+    {
+      "text": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "swarm",
+    "speed-boost"
+  ],
+  "height_dm": 4,
+  "weight_hg": 53,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/277/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/543/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/543/"
+  }
+}

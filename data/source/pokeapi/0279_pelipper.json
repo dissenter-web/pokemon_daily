@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 279,
+  "slug": "pelipper",
+  "name_en": "Pelipper",
+  "genera_en": [
+    "Water Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "PELIPPER is a flying transporter that carries small POKéMON and eggs inside its massive bill. This POKéMON builds its nest on steep cliffs facing the sea.",
+      "version": "ruby"
+    },
+    {
+      "text": "PELIPPER searches for food while in flight by skimming the wave tops. This POKéMON dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is a flying transporter that carries small POKéMON in its beak. It bobs on the waves to rest its wings.",
+      "version": "firered"
+    },
+    {
+      "text": "It dips its large bill in the sea, then scoops up numerous prey along with water.",
+      "version": "diamond"
+    },
+    {
+      "text": "It acts as a delivery service by carrying small Pokémon in its bill. It bobs on the waves to rest.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+      "version": "platinum"
+    },
+    {
+      "text": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+      "version": "black-2"
+    },
+    {
+      "text": "Pelipper is a flying transporter that carries small Pokémon and eggs inside its massive bill. This Pokémon builds its nest on steep cliffs facing the sea.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Pelipper searches for food while in flight by skimming the wave tops. This Pokémon dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its spacious beak is large enough for a small child to fit right inside.",
+      "version": "sun"
+    },
+    {
+      "text": "Gathering food is the work of young males. They store food in their capacious beaks and carry it back to others waiting in the nest.",
+      "version": "moon"
+    },
+    {
+      "text": "It places small Pokémon into its spacious beak and carries them around. No one knows where it’s taking them.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "drizzle",
+    "rain-dish"
+  ],
+  "height_dm": 12,
+  "weight_hg": 280,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/139/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/279/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/279/"
+  }
+}

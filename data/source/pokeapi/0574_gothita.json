@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 574,
+  "slug": "gothita",
+  "name_en": "Gothita",
+  "genera_en": [
+    "Fixation Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+      "version": "black"
+    },
+    {
+      "text": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+      "version": "white"
+    },
+    {
+      "text": "It stares intently at everything. It can become so obsessed with watching that it doesn’t notice attacks.",
+      "version": "black-2"
+    },
+    {
+      "text": "Though they’re still only babies, there’s psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",
+      "version": "sword"
+    },
+    {
+      "text": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "frisk",
+    "competitive",
+    "shadow-tag"
+  ],
+  "height_dm": 4,
+  "weight_hg": 58,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/293/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/574/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/574/"
+  }
+}

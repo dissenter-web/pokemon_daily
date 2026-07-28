@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 382,
+  "slug": "kyogre",
+  "name_en": "Kyogre",
+  "genera_en": [
+    "Sea Basin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "KYOGRE has the power to create massive rain clouds that cover the entire sky and bring about torrential downpours. This POKéMON saved people who were suffering from droughts.",
+      "version": "ruby"
+    },
+    {
+      "text": "KYOGRE is named in mythology as the POKéMON that expanded the sea by covering the land with torrential rains and towering tidal waves. It took to sleep after a cataclysmic battle with GROUDON.",
+      "version": "sapphire"
+    },
+    {
+      "text": "KYOGRE has appeared in mythology as the creator of the sea. After long years of feuding with GROUDON, it took to sleep at the bottom of the sea.",
+      "version": "emerald"
+    },
+    {
+      "text": "This POKéMON is said to have expanded the sea by bringing heavy rains. It has the power to control water.",
+      "version": "firered"
+    },
+    {
+      "text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "version": "diamond"
+    },
+    {
+      "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with GROUDON.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A mythical Pokémon said to have swelled the seas with rain and tidal waves. It battled with Groudon.",
+      "version": "x"
+    },
+    {
+      "text": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "drizzle"
+  ],
+  "height_dm": 45,
+  "weight_hg": 3520,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/198/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/382/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/382/"
+  }
+}

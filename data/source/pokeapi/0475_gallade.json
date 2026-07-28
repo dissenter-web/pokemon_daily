@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 475,
+  "slug": "gallade",
+  "name_en": "Gallade",
+  "genera_en": [
+    "Blade Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+      "version": "y"
+    },
+    {
+      "text": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+      "version": "platinum"
+    },
+    {
+      "text": "Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.",
+      "version": "heartgold"
+    },
+    {
+      "text": "True to its honorable-warrior image, it uses the blades on its elbows only in defense of something or someone.",
+      "version": "sword"
+    },
+    {
+      "text": "Sharply attuned to others’ wishes for help, this Pokémon seeks out those in need and aids them in battle.",
+      "version": "shield"
+    },
+    {
+      "text": "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic",
+    "fighting"
+  ],
+  "abilities": [
+    "steadfast",
+    "sharpness",
+    "justified"
+  ],
+  "height_dm": 16,
+  "weight_hg": 520,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/140/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/475/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/475/"
+  }
+}

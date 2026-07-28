@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 482,
+  "slug": "azelf",
+  "name_en": "Azelf",
+  "genera_en": [
+    "Willpower Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+      "version": "y"
+    },
+    {
+      "text": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is thought that UXIE, MESPRIT and AZELF all came from the same egg.",
+      "version": "pearl"
+    },
+    {
+      "text": "When AZELF flew, people gained the determination to do things. It was the birth of willpower.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon is said to have endowed humans with the determination needed to face any of life’s difficulties.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When Azelf flew, people gained the determination to do things. It was the birth of willpower.",
+      "version": "black"
+    },
+    {
+      "text": "The dreaded Being of Willpower. Legends tell of this Pokémon manipulating the will of its adversaries and turning them into puppets of its own.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 3,
+  "weight_hg": 3,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/243/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/482/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/482/"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 233,
+  "slug": "porygon2",
+  "name_en": "Porygon2",
+  "genera_en": [
+    "Virtual Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
+      "version": "gold"
+    },
+    {
+      "text": "Further research enhanced its abil­ ities. Sometimes, it may exhibit motions that were not programmed.",
+      "version": "silver"
+    },
+    {
+      "text": "This manmade POKéMON evolved from the latest technology. It may have unprog­ rammed reactions.",
+      "version": "crystal"
+    },
+    {
+      "text": "PORYGON2 was created by humans using the power of science. The man-made POKéMON has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "version": "ruby"
+    },
+    {
+      "text": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "version": "emerald"
+    },
+    {
+      "text": "Further research enhanced its abilities. Sometimes, it may exhibit motions that were not programmed.",
+      "version": "firered"
+    },
+    {
+      "text": "This upgraded version of PORYGON is designed for space exploration. However, it can’t even fly.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "With planetary development software installed, it became capable of working in space.",
+      "version": "diamond"
+    },
+    {
+      "text": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+      "version": "platinum"
+    },
+    {
+      "text": "This upgraded version of PORYGON is designed for space exploration. It can’t fly, however.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Porygon2 was created by humans using the power of science. The man-made Pokémon has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "For the purposes of planetary development, Porygon was updated with the most cutting-edge technology available.",
+      "version": "sun"
+    },
+    {
+      "text": "Porygon was updated to a new version in readiness for planetary development. But that dream remains unrealized as yet.",
+      "version": "moon"
+    },
+    {
+      "text": "AI has been installed in it. It learns various things all on its own, but it even remembers things it doesn’t need to know.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Even though it doesn’t die in the vacuum of space, it can’t move around very well in zero gravity.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",
+      "version": "sword"
+    },
+    {
+      "text": "After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.",
+      "version": "shield"
+    },
+    {
+      "text": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "trace",
+    "download",
+    "analytic"
+  ],
+  "height_dm": 6,
+  "weight_hg": 325,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/68/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/233/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/233/"
+  }
+}

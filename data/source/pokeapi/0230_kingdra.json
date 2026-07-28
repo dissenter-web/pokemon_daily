@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 230,
+  "slug": "kingdra",
+  "name_en": "Kingdra",
+  "genera_en": [
+    "Dragon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+      "version": "gold"
+    },
+    {
+      "text": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+      "version": "silver"
+    },
+    {
+      "text": "It stores energy by sleeping at underwater depths at which no other life forms can survive.",
+      "version": "crystal"
+    },
+    {
+      "text": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
+      "version": "ruby"
+    },
+    {
+      "text": "KINGDRA sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the POKéMON is said to awaken and wander about in search of prey.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+      "version": "diamond"
+    },
+    {
+      "text": "It stores energy by sleeping at underwater depths at which no other life-forms can survive.",
+      "version": "y"
+    },
+    {
+      "text": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
+      "version": "sword"
+    },
+    {
+      "text": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "dragon"
+  ],
+  "abilities": [
+    "swift-swim",
+    "sniper",
+    "damp"
+  ],
+  "height_dm": 18,
+  "weight_hg": 1520,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/54/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/230/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/230/"
+  }
+}

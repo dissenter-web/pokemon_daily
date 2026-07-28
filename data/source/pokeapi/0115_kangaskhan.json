@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 115,
+  "slug": "kangaskhan",
+  "name_en": "Kangaskhan",
+  "genera_en": [
+    "Parent Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+      "version": "red"
+    },
+    {
+      "text": "Raises its young in its belly pouch. Won't run from any fight to keep its young protected.",
+      "version": "yellow"
+    },
+    {
+      "text": "If it is safe, the young gets out of the belly pouch to play. The adult keeps a close eye on the youngster.",
+      "version": "gold"
+    },
+    {
+      "text": "To protect its young, it will never give up during battle, no matter how badly wounded it is.",
+      "version": "silver"
+    },
+    {
+      "text": "To avoid crushing the baby it carries in its pouch, it always sleeps standing up.",
+      "version": "crystal"
+    },
+    {
+      "text": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON’s parent is sure to be in the area, and it will become violently enraged at you.",
+      "version": "ruby"
+    },
+    {
+      "text": "If you come across a young KANGASKHAN playing by itself, never try to catch it. The baby’s parent is sure to be in the area, and it will become violently enraged.",
+      "version": "emerald"
+    },
+    {
+      "text": "The female raises its offspring in a pouch on its belly. It is skilled at attacking using COMET PUNCH.",
+      "version": "firered"
+    },
+    {
+      "text": "The infant rarely ventures out of its mother’s protective pouch until it is three years old.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+      "version": "diamond"
+    },
+    {
+      "text": "If you come across a young Kangaskhan playing by itself, you must never disturb it or attempt to catch it. The baby Pokémon’s parent is sure to be in the area, and it will become violently enraged at you.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kangaskhan’s maternal love is so deep that it will brave death to protect its offspring.",
+      "version": "sun"
+    },
+    {
+      "text": "The child in its pouch leaves home after roughly three years. That is the only time the mother is heard to cry wildly.",
+      "version": "moon"
+    },
+    {
+      "text": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "You shouldn’t get close to the child when it’s playing outside its mother’s pouch. Its mother is always nearby watching over it.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
+      "version": "sword"
+    },
+    {
+      "text": "There are records of a lost human child being raised by a childless Kangaskhan.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "early-bird",
+    "scrappy",
+    "inner-focus"
+  ],
+  "height_dm": 22,
+  "weight_hg": 800,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/53/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/115/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/115/"
+  }
+}

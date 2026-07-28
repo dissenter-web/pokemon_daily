@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 508,
+  "slug": "stoutland",
+  "name_en": "Stoutland",
+  "genera_en": [
+    "Big-Hearted Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+      "version": "black"
+    },
+    {
+      "text": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
+      "version": "white"
+    },
+    {
+      "text": "Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.",
+      "version": "black-2"
+    },
+    {
+      "text": "Intelligent, good-natured, and valiant, it’s a trustworthy partner on rescue teams.",
+      "version": "sun"
+    },
+    {
+      "text": "With this wise Pokémon, there could be no concern that it would ever attack people. Some parents even trust it to babysit.",
+      "version": "moon"
+    },
+    {
+      "text": "It pays no mind to the cold, thanks to its long warm coat. Stoutland in Alola look a little uncomfortable.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+      "version": "sword"
+    },
+    {
+      "text": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "intimidate",
+    "sand-rush",
+    "scrappy"
+  ],
+  "height_dm": 12,
+  "weight_hg": 610,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/260/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/508/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/508/"
+  }
+}

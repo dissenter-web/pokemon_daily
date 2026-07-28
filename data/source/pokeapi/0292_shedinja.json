@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 292,
+  "slug": "shedinja",
+  "name_en": "Shedinja",
+  "genera_en": [
+    "Shed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SHEDINJA’s hard body doesn’t move - not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this POKéMON will steal the spirit of anyone peering into its hollow body from its back.",
+      "version": "ruby"
+    },
+    {
+      "text": "SHEDINJA is a peculiar POKéMON. It seems to appear unsought in a POKé BALL after a NINCADA evolves. This bizarre POKéMON is entirely immobile - it doesn’t even breathe.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A peculiar POKéMON that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
+      "version": "emerald"
+    },
+    {
+      "text": "A most peculiar POKéMON that somehow appears in a POKé BALL when a NINCADA evolves.",
+      "version": "firered"
+    },
+    {
+      "text": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
+      "version": "diamond"
+    },
+    {
+      "text": "A strange Pokémon--it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.",
+      "version": "y"
+    },
+    {
+      "text": "Shedinja’s hard body doesn’t move—not even a twitch. In fact, its body appears to be merely a hollow shell. It is believed that this Pokémon will steal the spirit of anyone peering into its hollow body from its back.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn’t even breathe.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "ghost"
+  ],
+  "abilities": [
+    "wonder-guard"
+  ],
+  "height_dm": 8,
+  "weight_hg": 12,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/144/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/292/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/292/"
+  }
+}

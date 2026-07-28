@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 143,
+  "slug": "snorlax",
+  "name_en": "Snorlax",
+  "genera_en": [
+    "Sleeping Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "version": "red"
+    },
+    {
+      "text": "Will eat anything, even if the food happens to be a little moldy. It never gets an upset stomach.",
+      "version": "yellow"
+    },
+    {
+      "text": "What sounds like its cry may ac­ tually be its snores or the rumblings of its hungry belly.",
+      "version": "gold"
+    },
+    {
+      "text": "Its stomach's di­ gestive juices can dissolve any kind of poison. It can even eat things off the ground.",
+      "version": "silver"
+    },
+    {
+      "text": "This POKéMON's stomach is so strong, even eating moldy or rotten food will not affect it.",
+      "version": "crystal"
+    },
+    {
+      "text": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
+      "version": "ruby"
+    },
+    {
+      "text": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its big belly as a place to play.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "version": "firered"
+    },
+    {
+      "text": "Its stomach can digest any kind of food, even if it happens to be moldy or rotten.",
+      "version": "diamond"
+    },
+    {
+      "text": "It stops eating only to sleep. It doesn’t feel full unless it eats nearly 900 pounds a day.",
+      "version": "pearl"
+    },
+    {
+      "text": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+      "version": "platinum"
+    },
+    {
+      "text": "What sounds like its cry may actually be its snores or the rumblings of its hungry belly.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its stomach’s digestive juices can dissolve any kind of poison. It can even eat things off the ground.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Snorlax’s typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its stomach is said to be incomparably strong. Even Muk’s poison is nothing more than a hint of spice on Snorlax’s tongue.",
+      "version": "sun"
+    },
+    {
+      "text": "It eats nearly 900 pounds of food every day. It starts nodding off while eating—and continues to eat even while it’s asleep.",
+      "version": "moon"
+    },
+    {
+      "text": "It doesn’t do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It has no interest in anything other than eating. Even if you climb up on its stomach while it’s napping, it doesn’t seem to mind at all!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.",
+      "version": "shield"
+    },
+    {
+      "text": "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "immunity",
+    "thick-fat",
+    "gluttony"
+  ],
+  "height_dm": 21,
+  "weight_hg": 4600,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/72/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/143/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/143/"
+  }
+}

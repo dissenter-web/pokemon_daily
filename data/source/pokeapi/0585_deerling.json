@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 585,
+  "slug": "deerling",
+  "name_en": "Deerling",
+  "genera_en": [
+    "Season Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+      "version": "black"
+    },
+    {
+      "text": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.",
+      "version": "white"
+    },
+    {
+      "text": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "normal",
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "sap-sipper",
+    "serene-grace"
+  ],
+  "height_dm": 6,
+  "weight_hg": 195,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/297/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/585/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/585/"
+  }
+}

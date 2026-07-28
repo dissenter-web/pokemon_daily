@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 228,
+  "slug": "houndour",
+  "name_en": "Houndour",
+  "genera_en": [
+    "Dark Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+      "version": "gold"
+    },
+    {
+      "text": "To corner prey, they check each other's location using barks that only they can understand.",
+      "version": "silver"
+    },
+    {
+      "text": "Around dawn, its ominous howl echoes through the area to announce that this is its territory.",
+      "version": "crystal"
+    },
+    {
+      "text": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is unparalleled.",
+      "version": "ruby"
+    },
+    {
+      "text": "HOUNDOUR communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is simply unparalleled.",
+      "version": "emerald"
+    },
+    {
+      "text": "To corner prey, they check each other’s location using barks that only they can understand.",
+      "version": "firered"
+    },
+    {
+      "text": "It uses different kinds of cries for communicating with others of its kind and for pursuing prey.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It conveys its feelings using different cries. It works in a pack to cleverly take down prey.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+      "version": "platinum"
+    },
+    {
+      "text": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon’s remarkable teamwork is unparalleled.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It cooperates with others skillfully. When it becomes your partner, it’s very loyal to you as its Trainer and will obey your orders.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "They make repeated eerie howls before dawn to call attention to their pack.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "dark",
+    "fire"
+  ],
+  "abilities": [
+    "early-bird",
+    "flash-fire",
+    "unnerve"
+  ],
+  "height_dm": 6,
+  "weight_hg": 108,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/118/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/228/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/228/"
+  }
+}

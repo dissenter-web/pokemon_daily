@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 90,
+  "slug": "shellder",
+  "name_en": "Shellder",
+  "genera_en": [
+    "Bivalve Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "version": "red"
+    },
+    {
+      "text": "The shell can withstand any attack. However, when it is open, the tender body is exposed.",
+      "version": "yellow"
+    },
+    {
+      "text": "It swims facing backward by open­ ing and closing its two-piece shell. It is surprisingly fast.",
+      "version": "gold"
+    },
+    {
+      "text": "Grains of sand trapped in its shells mix with its body fluids to form beautiful pearls.",
+      "version": "silver"
+    },
+    {
+      "text": "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+      "version": "crystal"
+    },
+    {
+      "text": "At night, this POKéMON uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, SHELLDER closes its shell, but leaves its tongue hanging out.",
+      "version": "ruby"
+    },
+    {
+      "text": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+      "version": "firered"
+    },
+    {
+      "text": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+      "version": "diamond"
+    },
+    {
+      "text": "It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.",
+      "version": "heartgold"
+    },
+    {
+      "text": "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The hardness of its shell surpasses the hardness of a diamond. In days gone by, people used the shells to make shields.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon’s tongue is always hanging out. It uses its tongue with great dexterity to dig up sand from the seabed in its search for food.",
+      "version": "moon"
+    },
+    {
+      "text": "The sand that accumulates inside its shell eventually becomes a pearl. But the pearl gets in the way, so it spits it out and discards it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "shell-armor",
+    "skill-link",
+    "overcoat"
+  ],
+  "height_dm": 3,
+  "weight_hg": 40,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/90/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/90/"
+  }
+}

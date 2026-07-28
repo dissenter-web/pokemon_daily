@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 52,
+  "slug": "meowth",
+  "name_en": "Meowth",
+  "genera_en": [
+    "Scratch Cat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "version": "red"
+    },
+    {
+      "text": "Appears to be more active at night. It loves round and shiny things. It can't stop from picking them up.",
+      "version": "yellow"
+    },
+    {
+      "text": "It is fascinated by round objects. It can't stop playing with them until it tires and falls asleep.",
+      "version": "gold"
+    },
+    {
+      "text": "It loves anything that shines. It especially adores coins that it picks up and se­ cretly hoards.",
+      "version": "silver"
+    },
+    {
+      "text": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines too.",
+      "version": "crystal"
+    },
+    {
+      "text": "MEOWTH withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this POKéMON loves shiny coins that glitter with light.",
+      "version": "ruby"
+    },
+    {
+      "text": "MEOWTH withdraw their sharp claws into their paws to silently sneak about. For some reason, this POKéMON loves shiny coins that glitter with light.",
+      "version": "emerald"
+    },
+    {
+      "text": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+      "version": "firered"
+    },
+    {
+      "text": "Adores round objects. It wanders the streets on a nightly basis to look for dropped loose change.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is fascinated by round objects. It can’t stop playing with them until it tires and falls asleep.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It loves anything that shines. It especially adores coins that it picks up and secretly hoards.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It lies around all day, becoming active near dusk. At night, it wanders the city in search of loose change.",
+      "version": "sun"
+    },
+    {
+      "text": "It loves shiny things. It often fights with Murkrow over prey they’re both trying to catch.",
+      "version": "moon"
+    },
+    {
+      "text": "When visiting a junkyard, you may catch sight of it having an intense fight with Murkrow over shiny objects.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It loves coins, so if you give it one, you can make friends with Meowth easily. But it’s fickle, so you can’t count on that friendship lasting.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Appears to be more active at night. It loves round and shiny things. It can’t stop itself from picking them up.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",
+      "version": "sword"
+    },
+    {
+      "text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "pickup",
+    "technician",
+    "unnerve"
+  ],
+  "height_dm": 4,
+  "weight_hg": 42,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/52/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/52/"
+  }
+}

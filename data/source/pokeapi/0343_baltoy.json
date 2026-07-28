@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 343,
+  "slug": "baltoy",
+  "name_en": "Baltoy",
+  "genera_en": [
+    "Clay Doll Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "BALTOY moves while spinning around on its one foot. Primitive wall paintings depicting this POKéMON living among people were discovered in some ancient ruins.",
+      "version": "ruby"
+    },
+    {
+      "text": "As soon as it spots others of its kind, BALTOY congregates with them and then begins crying noisily in unison. This POKéMON sleeps while cleverly balancing itself on its one foot.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A BALTOY moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.",
+      "version": "emerald"
+    },
+    {
+      "text": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+      "version": "firered"
+    },
+    {
+      "text": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+      "version": "diamond"
+    },
+    {
+      "text": "It moves while spinning around on its single foot. Some BALTOY have been seen spinning on their heads.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Discovered in ancient ruins, it moves by spinning around and forms a group when it finds others.",
+      "version": "black-2"
+    },
+    {
+      "text": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
+      "version": "x"
+    },
+    {
+      "text": "Baltoy moves while spinning around on its one foot. Primitive wall paintings depicting this Pokémon living among people were discovered in some ancient ruins.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "As soon as it spots others of its kind, Baltoy congregates with them and then begins crying noisily in unison. This Pokémon sleeps while cleverly balancing itself on its one foot.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Depictions of Pokémon similar to Baltoy have been found on the walls of caves where primitive humans lived.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When they find others of their kind, they cry out loudly and gather together. Large numbers of them can be found in old graveyards.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "ground",
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 5,
+  "weight_hg": 215,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/175/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/343/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/343/"
+  }
+}

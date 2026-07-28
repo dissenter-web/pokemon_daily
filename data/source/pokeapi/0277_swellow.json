@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 277,
+  "slug": "swellow",
+  "name_en": "Swellow",
+  "genera_en": [
+    "Swallow Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
+      "version": "ruby"
+    },
+    {
+      "text": "SWELLOW is very conscientious about the upkeep of its glossy wings. Once two SWELLOW are gathered, they diligently take care of cleaning each other’s wings.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A SWELLOW dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+      "version": "emerald"
+    },
+    {
+      "text": "If its two tail feathers are standing at attention, it is proof of good health. It soars elegantly in the sky.",
+      "version": "firered"
+    },
+    {
+      "text": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+      "version": "diamond"
+    },
+    {
+      "text": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "guts",
+    "scrappy"
+  ],
+  "height_dm": 7,
+  "weight_hg": 198,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/138/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/277/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/277/"
+  }
+}

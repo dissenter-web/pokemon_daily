@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 979,
+  "slug": "annihilape",
+  "name_en": "Annihilape",
+  "genera_en": [
+    "Rage Monkey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
+      "version": "scarlet"
+    },
+    {
+      "text": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.",
+      "version": "violet"
+    }
+  ],
+  "types": [
+    "fighting",
+    "ghost"
+  ],
+  "abilities": [
+    "vital-spirit",
+    "inner-focus",
+    "defiant"
+  ],
+  "height_dm": 12,
+  "weight_hg": 560,
+  "generation": "generation-ix",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/24/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/979/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/979/"
+  }
+}

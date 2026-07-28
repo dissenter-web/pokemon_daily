@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 554,
+  "slug": "darumaka",
+  "name_en": "Darumaka",
+  "genera_en": [
+    "Zen Charm Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+      "version": "black"
+    },
+    {
+      "text": "Darumaka’s droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+      "version": "white"
+    },
+    {
+      "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F.",
+      "version": "black-2"
+    },
+    {
+      "text": "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
+      "version": "y"
+    },
+    {
+      "text": "It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",
+      "version": "sword"
+    },
+    {
+      "text": "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "hustle",
+    "inner-focus"
+  ],
+  "height_dm": 6,
+  "weight_hg": 375,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/282/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/554/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/554/"
+  }
+}

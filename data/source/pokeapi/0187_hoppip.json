@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 187,
+  "slug": "hoppip",
+  "name_en": "Hoppip",
+  "genera_en": [
+    "Cottonweed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+      "version": "gold"
+    },
+    {
+      "text": "Its body is so light, it must grip the ground firmly with its feet to keep from being blown away.",
+      "version": "silver"
+    },
+    {
+      "text": "It can be carried away on even the gentlest breeze. It may even float all the way to the next town.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, a HOPPIP links leaves with others to prepare against being blown away.",
+      "version": "emerald"
+    },
+    {
+      "text": "It drifts on winds. It is said that when HOPPIP gather in fields and mountains, spring is on the way.",
+      "version": "diamond"
+    },
+    {
+      "text": "To keep from being blown away by the wind, they gather in clusters. But they do enjoy gentle breezes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+      "version": "black"
+    },
+    {
+      "text": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass",
+    "flying"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "leaf-guard",
+    "infiltrator"
+  ],
+  "height_dm": 4,
+  "weight_hg": 5,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/92/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/187/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/187/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 577,
+  "slug": "solosis",
+  "name_en": "Solosis",
+  "genera_en": [
+    "Cell Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+      "version": "black"
+    },
+    {
+      "text": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+      "version": "white"
+    },
+    {
+      "text": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
+      "version": "black-2"
+    },
+    {
+      "text": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
+      "version": "sword"
+    },
+    {
+      "text": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "overcoat",
+    "magic-guard",
+    "regenerator"
+  ],
+  "height_dm": 3,
+  "weight_hg": 10,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/294/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/577/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/577/"
+  }
+}

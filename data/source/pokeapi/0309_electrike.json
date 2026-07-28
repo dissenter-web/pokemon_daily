@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 309,
+  "slug": "electrike",
+  "name_en": "Electrike",
+  "genera_en": [
+    "Lightning Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "ELECTRIKE stores electricity in its long body hair. This POKéMON stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+      "version": "ruby"
+    },
+    {
+      "text": "ELECTRIKE runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this POKéMON’s fur.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+      "version": "emerald"
+    },
+    {
+      "text": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+      "version": "firered"
+    },
+    {
+      "text": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+      "version": "diamond"
+    },
+    {
+      "text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Electrike stores electricity in its long body hair. This Pokémon stimulates its leg muscles with electric charges. These jolts of power give its legs explosive acceleration performance.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Electrike runs faster than the human eye can follow. The friction from running is converted into electricity, which is then stored in this Pokémon’s fur.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Friction between the air and its fur produces static electricity. When Electrike runs, it makes a crackling sound.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "static",
+    "lightning-rod",
+    "minus"
+  ],
+  "height_dm": 6,
+  "weight_hg": 152,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/153/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/309/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/309/"
+  }
+}

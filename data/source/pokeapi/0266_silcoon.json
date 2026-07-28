@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 266,
+  "slug": "silcoon",
+  "name_en": "Silcoon",
+  "genera_en": [
+    "Cocoon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SILCOON tethers itself to a tree branch using silk to keep from falling. There, this POKéMON hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+      "version": "ruby"
+    },
+    {
+      "text": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POKéMON slakes its thirst by drinking rainwater that collects on its silk.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It prepares for evolution using the energy it stored while it was a WURMPLE. It keeps watch over the surroundings with its two eyes.",
+      "version": "emerald"
+    },
+    {
+      "text": "It conserves its energy by moving as little as possible. It awaits evolution while drinking only a little rainwater.",
+      "version": "firered"
+    },
+    {
+      "text": "It anchors itself by wrapping twigs with the silk from its body. It motionlessly awaits evolution.",
+      "version": "diamond"
+    },
+    {
+      "text": "It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.",
+      "version": "pearl"
+    },
+    {
+      "text": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+      "version": "platinum"
+    },
+    {
+      "text": "Having wrapped silk around the branches of a tree, it quiescently awaits evolution.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "shed-skin"
+  ],
+  "height_dm": 6,
+  "weight_hg": 100,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/135/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/266/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/266/"
+  }
+}

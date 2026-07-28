@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 453,
+  "slug": "croagunk",
+  "name_en": "Croagunk",
+  "genera_en": [
+    "Toxic Mouth Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+      "version": "diamond"
+    },
+    {
+      "text": "Inflating its poison sacs, it makes an eerie blubbering sound for intimidation.",
+      "version": "pearl"
+    },
+    {
+      "text": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+      "version": "platinum"
+    },
+    {
+      "text": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower-back pain.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Fluid squeezed from its finger, albeit poisonous, is a significant ingredient in remedies for lower back pain.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+      "version": "black-2"
+    },
+    {
+      "text": "It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab.",
+      "version": "sword"
+    },
+    {
+      "text": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
+      "version": "shield"
+    },
+    {
+      "text": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "abilities": [
+    "anticipation",
+    "dry-skin",
+    "poison-touch"
+  ],
+  "height_dm": 7,
+  "weight_hg": 230,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/235/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/453/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/453/"
+  }
+}

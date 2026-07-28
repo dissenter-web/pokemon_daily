@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 446,
+  "slug": "munchlax",
+  "name_en": "Munchlax",
+  "genera_en": [
+    "Big Eater Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+      "version": "diamond"
+    },
+    {
+      "text": "It hides food under its long body hair. However, it forgets it has hidden the food.",
+      "version": "pearl"
+    },
+    {
+      "text": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+      "version": "platinum"
+    },
+    {
+      "text": "It conceals food under the long fur on its body. It carts around this food stash and swallows it without chewing.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It needs to consume its own weight in food every day. As far as flavor is concerned, it’s indifferent.",
+      "version": "sun"
+    },
+    {
+      "text": "When it finds something that looks like it might be edible, it goes right ahead and swallows it whole. That’s why it gets fatter day by day.",
+      "version": "moon"
+    },
+    {
+      "text": "It hides food under its long fur, but it sometimes forgets about it and causes a stinky disturbance.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care.",
+      "version": "sword"
+    },
+    {
+      "text": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
+      "version": "shield"
+    },
+    {
+      "text": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "pickup",
+    "thick-fat",
+    "gluttony"
+  ],
+  "height_dm": 6,
+  "weight_hg": 1050,
+  "generation": "generation-iv",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/72/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/446/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/446/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 480,
+  "slug": "uxie",
+  "name_en": "Uxie",
+  "genera_en": [
+    "Knowledge Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+      "version": "pearl"
+    },
+    {
+      "text": "When UXIE flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "version": "platinum"
+    },
+    {
+      "text": "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+      "version": "black"
+    },
+    {
+      "text": "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 3,
+  "weight_hg": 3,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/241/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/480/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/480/"
+  }
+}

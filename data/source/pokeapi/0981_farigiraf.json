@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 981,
+  "slug": "farigiraf",
+  "name_en": "Farigiraf",
+  "genera_en": [
+    "Long Neck Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
+      "version": "scarlet"
+    },
+    {
+      "text": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.",
+      "version": "violet"
+    }
+  ],
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "abilities": [
+    "cud-chew",
+    "armor-tail",
+    "sap-sipper"
+  ],
+  "height_dm": 32,
+  "weight_hg": 1600,
+  "generation": "generation-ix",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/101/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/981/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/981/"
+  }
+}

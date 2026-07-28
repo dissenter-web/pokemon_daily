@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 546,
+  "slug": "cottonee",
+  "name_en": "Cottonee",
+  "genera_en": [
+    "Cotton Puff Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+      "version": "black"
+    },
+    {
+      "text": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+      "version": "white"
+    },
+    {
+      "text": "Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud.",
+      "version": "black-2"
+    },
+    {
+      "text": "When it finds others of its kind, they all stick together. When enough of them have collected, the mass resembles a cumulonimbus cloud.",
+      "version": "sun"
+    },
+    {
+      "text": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
+      "version": "moon"
+    },
+    {
+      "text": "To protect itself, it shoots cotton from its body. When it gets wet in the rain, its cotton grows moist and heavy, and it can’t move as well.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",
+      "version": "sword"
+    },
+    {
+      "text": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass",
+    "fairy"
+  ],
+  "abilities": [
+    "prankster",
+    "infiltrator",
+    "chlorophyll"
+  ],
+  "height_dm": 3,
+  "weight_hg": 6,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/278/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/546/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/546/"
+  }
+}

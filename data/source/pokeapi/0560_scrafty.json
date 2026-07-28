@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 560,
+  "slug": "scrafty",
+  "name_en": "Scrafty",
+  "genera_en": [
+    "Hoodlum Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+      "version": "black"
+    },
+    {
+      "text": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+      "version": "white"
+    },
+    {
+      "text": "It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars.",
+      "version": "sword"
+    },
+    {
+      "text": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "abilities": [
+    "shed-skin",
+    "moxie",
+    "intimidate"
+  ],
+  "height_dm": 11,
+  "weight_hg": 300,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/285/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/560/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/560/"
+  }
+}

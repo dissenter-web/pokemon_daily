@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 94,
+  "slug": "gengar",
+  "name_en": "Gengar",
+  "genera_en": [
+    "Shadow Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.",
+      "version": "red"
+    },
+    {
+      "text": "A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "version": "yellow"
+    },
+    {
+      "text": "It steals heat from its surround­ ings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+      "version": "gold"
+    },
+    {
+      "text": "To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.",
+      "version": "silver"
+    },
+    {
+      "text": "Hiding in people's shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "version": "crystal"
+    },
+    {
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+      "version": "ruby"
+    },
+    {
+      "text": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a GENGAR running past you, pretending to be your shadow.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "version": "firered"
+    },
+    {
+      "text": "On the night of a full moon, if shadows move on their own and laugh, it must be GENGAR’s doing.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It hides in shadows. It is said that if GENGAR is hiding, it cools the area by nearly 10 degrees F.",
+      "version": "diamond"
+    },
+    {
+      "text": "Lurking in the shadowy corners of rooms, it awaits chances to steal its prey’s life force.",
+      "version": "pearl"
+    },
+    {
+      "text": "The leer that floats in darkness belongs to a GENGAR delighting in casting curses on people.",
+      "version": "platinum"
+    },
+    {
+      "text": "It steals heat from its surroundings. If you feel a sudden chill, it is certain that a GENGAR appeared.",
+      "version": "heartgold"
+    },
+    {
+      "text": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+      "version": "black"
+    },
+    {
+      "text": "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+      "version": "x"
+    },
+    {
+      "text": "Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+      "version": "y"
+    },
+    {
+      "text": "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up.",
+      "version": "sun"
+    },
+    {
+      "text": "It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans.",
+      "version": "moon"
+    },
+    {
+      "text": "You can hear tales told all over the world about how Gengar will pay a visit to children who are naughty.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Even your home isn’t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A Gengar is close by if you feel a sudden chill. It may be trying to lay a curse on you.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",
+      "version": "sword"
+    },
+    {
+      "text": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "abilities": [
+    "cursed-body"
+  ],
+  "height_dm": 15,
+  "weight_hg": 405,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/94/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/94/"
+  }
+}

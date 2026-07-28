@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 496,
+  "slug": "servine",
+  "name_en": "Servine",
+  "genera_en": [
+    "Grass Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+      "version": "black"
+    },
+    {
+      "text": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.",
+      "version": "white"
+    },
+    {
+      "text": "When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "contrary"
+  ],
+  "height_dm": 8,
+  "weight_hg": 160,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/256/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/496/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/496/"
+  }
+}

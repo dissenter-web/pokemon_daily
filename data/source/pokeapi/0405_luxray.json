@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 405,
+  "slug": "luxray",
+  "name_en": "Luxray",
+  "genera_en": [
+    "Gleam Eyes Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+      "version": "diamond"
+    },
+    {
+      "text": "When its eyes gleam gold, it can spot hiding prey--even those taking shelter behind a wall.",
+      "version": "pearl"
+    },
+    {
+      "text": "It can see clearly through walls to track down its prey and seek its lost young.",
+      "version": "platinum"
+    },
+    {
+      "text": "LUXRAY’s ability to see through objects comes in handy when it’s scouting for danger.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Luxray’s ability to see through objects comes in handy when it’s scouting for danger.",
+      "version": "y"
+    },
+    {
+      "text": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",
+      "version": "sword"
+    },
+    {
+      "text": "Seeing through solid objects uses up a lot of Luxray’s electricity, so the Pokémon sleeps for long periods of time to store up energy.",
+      "version": "shield"
+    },
+    {
+      "text": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "rivalry",
+    "intimidate",
+    "guts"
+  ],
+  "height_dm": 14,
+  "weight_hg": 420,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/209/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/405/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/405/"
+  }
+}

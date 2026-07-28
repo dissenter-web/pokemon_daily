@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 70,
+  "slug": "weepinbell",
+  "name_en": "Weepinbell",
+  "genera_en": [
+    "Flycatcher Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+      "version": "white-2"
+    },
+    {
+      "text": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.",
+      "version": "red"
+    },
+    {
+      "text": "When hungry, it swallows anything that moves. Its hapless prey is melted inside by strong acids.",
+      "version": "yellow"
+    },
+    {
+      "text": "Even though it is filled with ACID, it does not melt because it also oozes a neutral­ izing fluid.",
+      "version": "gold"
+    },
+    {
+      "text": "If its prey is bigger than its mouth, it slices up the victim with sharp leaves, then eats every morsel.",
+      "version": "silver"
+    },
+    {
+      "text": "When it's hungry, it swings its razor-sharp leaves, slicing up any unlucky object nearby for food.",
+      "version": "crystal"
+    },
+    {
+      "text": "WEEPINBELL has a large hook on its rear end. At night, the POKéMON hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+      "version": "ruby"
+    },
+    {
+      "text": "At night, a WEEPINBELL hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+      "version": "emerald"
+    },
+    {
+      "text": "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+      "version": "firered"
+    },
+    {
+      "text": "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
+      "version": "y"
+    },
+    {
+      "text": "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "gluttony"
+  ],
+  "height_dm": 10,
+  "weight_hg": 64,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/29/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/70/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/70/"
+  }
+}

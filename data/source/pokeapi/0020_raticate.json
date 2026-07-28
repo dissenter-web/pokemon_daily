@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 20,
+  "slug": "raticate",
+  "name_en": "Raticate",
+  "genera_en": [
+    "Mouse Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.",
+      "version": "red"
+    },
+    {
+      "text": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+      "version": "yellow"
+    },
+    {
+      "text": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnaw­ ing on them.",
+      "version": "gold"
+    },
+    {
+      "text": "Its whiskers help it to maintain balance. Its fangs never stop grow­ ing, so it gnaws to pare them down.",
+      "version": "silver"
+    },
+    {
+      "text": "The webs on its hind legs enable it to cross rivers. It search­ es wide areas for food.",
+      "version": "crystal"
+    },
+    {
+      "text": "RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+      "version": "ruby"
+    },
+    {
+      "text": "A RATICATE’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its rear feet have three toes each. They are webbed, enabling it to swim across rivers.",
+      "version": "firered"
+    },
+    {
+      "text": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+      "version": "diamond"
+    },
+    {
+      "text": "Gnaws on anything with its tough fangs. It can even topple concrete buildings by gnawing on them.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its whiskers help it to maintain balance. Its fangs never stop growing, so it gnaws to pare them down.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease.",
+      "version": "black-2"
+    },
+    {
+      "text": "The webs on its hind legs enable it to cross rivers. It searches wide areas for food.",
+      "version": "y"
+    },
+    {
+      "text": "Raticate’s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its hind feet are webbed, so it’s a strong swimmer. It can cross rivers and sometimes even oceans.",
+      "version": "sun"
+    },
+    {
+      "text": "Its disposition is far more violent than its looks would suggest. Don’t let your hand get too close to its face, as it could bite your hand clean off.",
+      "version": "moon"
+    },
+    {
+      "text": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "run-away",
+    "guts",
+    "hustle"
+  ],
+  "height_dm": 7,
+  "weight_hg": 185,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/7/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/20/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/20/"
+  }
+}

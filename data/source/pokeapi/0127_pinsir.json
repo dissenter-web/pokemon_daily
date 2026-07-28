@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 127,
+  "slug": "pinsir",
+  "name_en": "Pinsir",
+  "genera_en": [
+    "Stag Beetle Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+      "version": "red"
+    },
+    {
+      "text": "Grips its prey in its pincers and squeezes hard! It can't move if it's cold, so it lives in warm places.",
+      "version": "yellow"
+    },
+    {
+      "text": "With its horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+      "version": "gold"
+    },
+    {
+      "text": "Swings its long antlers wildly to attack. During cold periods, it hides deep in forests.",
+      "version": "silver"
+    },
+    {
+      "text": "When the tempera­ ture drops at night, it sleeps on treetops or among roots where it is well hidden.",
+      "version": "crystal"
+    },
+    {
+      "text": "PINSIR is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This POKéMON’s movements turn sluggish in cold places.",
+      "version": "ruby"
+    },
+    {
+      "text": "PINSIR has a pair of massive horns Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, PINSIR burrow and sleep under the ground on chilly nights.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its two long pincer horns are powerful. Once they grip an enemy, they won’t release until the foe is torn.",
+      "version": "firered"
+    },
+    {
+      "text": "If it fails to crush the foe in its pincers, it will swing around and toss the opponent.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
+      "version": "diamond"
+    },
+    {
+      "text": "With its pincer horns, it digs burrows to sleep in at night. In the morning, damp soil clings to its body.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It swings its long pincer horns wildly to attack. During cold periods, it hides deep in forests.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It grips prey with its powerful pincers and will not let go until the prey is torn in half.",
+      "version": "black-2"
+    },
+    {
+      "text": "Pinsir is astoundingly strong. It can grip a foe weighing twice its weight in its horns and easily lift it. This Pokémon’s movements turn sluggish in cold places.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It grips its prey in its pincers and splits them apart. Although it is a powerful Pokémon, it can’t deal with the cold.",
+      "version": "sun"
+    },
+    {
+      "text": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
+      "version": "moon"
+    },
+    {
+      "text": "It gets into territorial disputes with Vikavolt. For some reason, it apparently gets along well with Heracross in Alola.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Although it’s tough, it can’t handle cold well. When night falls, it buries itself in leafage and sleeps.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold out, so it lives in warm places.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "mold-breaker",
+    "moxie"
+  ],
+  "height_dm": 15,
+  "weight_hg": 550,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/62/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/127/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/127/"
+  }
+}

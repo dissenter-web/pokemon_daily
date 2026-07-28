@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 510,
+  "slug": "liepard",
+  "name_en": "Liepard",
+  "genera_en": [
+    "Cruel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+      "version": "black"
+    },
+    {
+      "text": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+      "version": "white"
+    },
+    {
+      "text": "Their beautiful form comes from the muscles they have developed. They run silently in the night.",
+      "version": "black-2"
+    },
+    {
+      "text": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+      "version": "sword"
+    },
+    {
+      "text": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    "limber",
+    "unburden",
+    "prankster"
+  ],
+  "height_dm": 11,
+  "weight_hg": 375,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/261/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/510/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/510/"
+  }
+}

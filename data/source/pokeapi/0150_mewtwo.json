@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 150,
+  "slug": "mewtwo",
+  "name_en": "Mewtwo",
+  "genera_en": [
+    "Genetic Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+      "version": "red"
+    },
+    {
+      "text": "Its DNA is almost the same as MEW's. However, its size and disposition are vastly dif­ ferent.",
+      "version": "yellow"
+    },
+    {
+      "text": "Because its battle abilities were raised to the ultimate level, it thinks only of de­ feating its foes.",
+      "version": "gold"
+    },
+    {
+      "text": "It usually remains motionless to con­ serve energy, so that it may un­ leash its full power in battle.",
+      "version": "silver"
+    },
+    {
+      "text": "Said to rest qui­ etly in an undiscovered cave, this POKéMON was created solely for battling.",
+      "version": "crystal"
+    },
+    {
+      "text": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON’s body, they failed to endow MEWTWO with a compassionate heart.",
+      "version": "ruby"
+    },
+    {
+      "text": "A POKéMON that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+      "version": "emerald"
+    },
+    {
+      "text": "A POKéMON whose genetic code was repeatedly recombined for research. It turned vicious as a result.",
+      "version": "firered"
+    },
+    {
+      "text": "It was created by a scientist after years of horrific gene-splicing and DNA- engineering experiments.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "A Pokémon created by recombining MEW’s genes. It’s said to have the most savage heart among Pokémon.",
+      "version": "diamond"
+    },
+    {
+      "text": "Because its battle abilities were raised to the ultimate level, it thinks only of defeating its foes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It usually remains motionless to conserve energy, so that it may unleash its full power in battle.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.",
+      "version": "black"
+    },
+    {
+      "text": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+      "version": "x"
+    },
+    {
+      "text": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "pressure",
+    "unnerve"
+  ],
+  "height_dm": 20,
+  "weight_hg": 1220,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/77/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/150/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/150/"
+  }
+}

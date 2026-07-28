@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 256,
+  "slug": "combusken",
+  "name_en": "Combusken",
+  "genera_en": [
+    "Young Fowl Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
+      "version": "ruby"
+    },
+    {
+      "text": "COMBUSKEN battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This POKéMON’s cry is very loud and distracting.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
+      "version": "emerald"
+    },
+    {
+      "text": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+      "version": "firered"
+    },
+    {
+      "text": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon’s legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "abilities": [
+    "blaze",
+    "speed-boost"
+  ],
+  "height_dm": 9,
+  "weight_hg": 195,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/131/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/256/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/256/"
+  }
+}

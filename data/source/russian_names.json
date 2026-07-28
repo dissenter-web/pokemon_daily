@@ -1,0 +1,4602 @@
+{
+  "schema_version": 1,
+  "language": "ru",
+  "source_url": "https://bulbapedia.bulbagarden.net/wiki/List_of_Russian_Pok%C3%A9mon_names",
+  "total": 656,
+  "missing_total": 0,
+  "entries": [
+    {
+      "pokeapi_id": 10,
+      "slug": "caterpie",
+      "name_en": "Caterpie",
+      "name_ru": "Катерпи",
+      "source_name_en": "Caterpie"
+    },
+    {
+      "pokeapi_id": 11,
+      "slug": "metapod",
+      "name_en": "Metapod",
+      "name_ru": "Метапод",
+      "source_name_en": "Metapod"
+    },
+    {
+      "pokeapi_id": 12,
+      "slug": "butterfree",
+      "name_en": "Butterfree",
+      "name_ru": "Батерфри",
+      "source_name_en": "Butterfree"
+    },
+    {
+      "pokeapi_id": 13,
+      "slug": "weedle",
+      "name_en": "Weedle",
+      "name_ru": "Видл",
+      "source_name_en": "Weedle"
+    },
+    {
+      "pokeapi_id": 14,
+      "slug": "kakuna",
+      "name_en": "Kakuna",
+      "name_ru": "Кокон",
+      "source_name_en": "Kakuna"
+    },
+    {
+      "pokeapi_id": 15,
+      "slug": "beedrill",
+      "name_en": "Beedrill",
+      "name_ru": "Бидрилла",
+      "source_name_en": "Beedrill"
+    },
+    {
+      "pokeapi_id": 16,
+      "slug": "pidgey",
+      "name_en": "Pidgey",
+      "name_ru": "Пиджи",
+      "source_name_en": "Pidgey"
+    },
+    {
+      "pokeapi_id": 17,
+      "slug": "pidgeotto",
+      "name_en": "Pidgeotto",
+      "name_ru": "Пиджеотто",
+      "source_name_en": "Pidgeotto"
+    },
+    {
+      "pokeapi_id": 18,
+      "slug": "pidgeot",
+      "name_en": "Pidgeot",
+      "name_ru": "Пиджеот",
+      "source_name_en": "Pidgeot"
+    },
+    {
+      "pokeapi_id": 19,
+      "slug": "rattata",
+      "name_en": "Rattata",
+      "name_ru": "Раттата",
+      "source_name_en": "Rattata"
+    },
+    {
+      "pokeapi_id": 20,
+      "slug": "raticate",
+      "name_en": "Raticate",
+      "name_ru": "Рэтикейт",
+      "source_name_en": "Raticate"
+    },
+    {
+      "pokeapi_id": 21,
+      "slug": "spearow",
+      "name_en": "Spearow",
+      "name_ru": "Спироу",
+      "source_name_en": "Spearow"
+    },
+    {
+      "pokeapi_id": 22,
+      "slug": "fearow",
+      "name_en": "Fearow",
+      "name_ru": "Фироу",
+      "source_name_en": "Fearow"
+    },
+    {
+      "pokeapi_id": 23,
+      "slug": "ekans",
+      "name_en": "Ekans",
+      "name_ru": "Иканс",
+      "source_name_en": "Ekans"
+    },
+    {
+      "pokeapi_id": 24,
+      "slug": "arbok",
+      "name_en": "Arbok",
+      "name_ru": "Эрбок",
+      "source_name_en": "Arbok"
+    },
+    {
+      "pokeapi_id": 25,
+      "slug": "pikachu",
+      "name_en": "Pikachu",
+      "name_ru": "Пикачу",
+      "source_name_en": "Pikachu"
+    },
+    {
+      "pokeapi_id": 26,
+      "slug": "raichu",
+      "name_en": "Raichu",
+      "name_ru": "Райчу",
+      "source_name_en": "Raichu"
+    },
+    {
+      "pokeapi_id": 27,
+      "slug": "sandshrew",
+      "name_en": "Sandshrew",
+      "name_ru": "Сендшру",
+      "source_name_en": "Sandshrew"
+    },
+    {
+      "pokeapi_id": 28,
+      "slug": "sandslash",
+      "name_en": "Sandslash",
+      "name_ru": "Сендслаш",
+      "source_name_en": "Sandslash"
+    },
+    {
+      "pokeapi_id": 29,
+      "slug": "nidoran-f",
+      "name_en": "Nidoran F",
+      "name_ru": "Нидоран♀",
+      "source_name_en": "Nidoran♀"
+    },
+    {
+      "pokeapi_id": 30,
+      "slug": "nidorina",
+      "name_en": "Nidorina",
+      "name_ru": "Нидорина",
+      "source_name_en": "Nidorina"
+    },
+    {
+      "pokeapi_id": 31,
+      "slug": "nidoqueen",
+      "name_en": "Nidoqueen",
+      "name_ru": "Нидоквин",
+      "source_name_en": "Nidoqueen"
+    },
+    {
+      "pokeapi_id": 32,
+      "slug": "nidoran-m",
+      "name_en": "Nidoran M",
+      "name_ru": "Нидоран♂",
+      "source_name_en": "Nidoran♂"
+    },
+    {
+      "pokeapi_id": 33,
+      "slug": "nidorino",
+      "name_en": "Nidorino",
+      "name_ru": "Нидорино",
+      "source_name_en": "Nidorino"
+    },
+    {
+      "pokeapi_id": 34,
+      "slug": "nidoking",
+      "name_en": "Nidoking",
+      "name_ru": "Нидокинг",
+      "source_name_en": "Nidoking"
+    },
+    {
+      "pokeapi_id": 35,
+      "slug": "clefairy",
+      "name_en": "Clefairy",
+      "name_ru": "Клифейри",
+      "source_name_en": "Clefairy"
+    },
+    {
+      "pokeapi_id": 36,
+      "slug": "clefable",
+      "name_en": "Clefable",
+      "name_ru": "Клефэйбл",
+      "source_name_en": "Clefable"
+    },
+    {
+      "pokeapi_id": 37,
+      "slug": "vulpix",
+      "name_en": "Vulpix",
+      "name_ru": "Вульпикс",
+      "source_name_en": "Vulpix"
+    },
+    {
+      "pokeapi_id": 38,
+      "slug": "ninetales",
+      "name_en": "Ninetales",
+      "name_ru": "Найнтейлс",
+      "source_name_en": "Ninetales"
+    },
+    {
+      "pokeapi_id": 39,
+      "slug": "jigglypuff",
+      "name_en": "Jigglypuff",
+      "name_ru": "Джигглипуф",
+      "source_name_en": "Jigglypuff"
+    },
+    {
+      "pokeapi_id": 40,
+      "slug": "wigglytuff",
+      "name_en": "Wigglytuff",
+      "name_ru": "Вигглитуф",
+      "source_name_en": "Wigglytuff"
+    },
+    {
+      "pokeapi_id": 41,
+      "slug": "zubat",
+      "name_en": "Zubat",
+      "name_ru": "Зубат",
+      "source_name_en": "Zubat"
+    },
+    {
+      "pokeapi_id": 42,
+      "slug": "golbat",
+      "name_en": "Golbat",
+      "name_ru": "Голбат",
+      "source_name_en": "Golbat"
+    },
+    {
+      "pokeapi_id": 43,
+      "slug": "oddish",
+      "name_en": "Oddish",
+      "name_ru": "Оддиш",
+      "source_name_en": "Oddish"
+    },
+    {
+      "pokeapi_id": 44,
+      "slug": "gloom",
+      "name_en": "Gloom",
+      "name_ru": "Глум",
+      "source_name_en": "Gloom"
+    },
+    {
+      "pokeapi_id": 45,
+      "slug": "vileplume",
+      "name_en": "Vileplume",
+      "name_ru": "Вайлплум",
+      "source_name_en": "Vileplume"
+    },
+    {
+      "pokeapi_id": 46,
+      "slug": "paras",
+      "name_en": "Paras",
+      "name_ru": "Парас",
+      "source_name_en": "Paras"
+    },
+    {
+      "pokeapi_id": 47,
+      "slug": "parasect",
+      "name_en": "Parasect",
+      "name_ru": "Парасект",
+      "source_name_en": "Parasect"
+    },
+    {
+      "pokeapi_id": 48,
+      "slug": "venonat",
+      "name_en": "Venonat",
+      "name_ru": "Венонат",
+      "source_name_en": "Venonat"
+    },
+    {
+      "pokeapi_id": 49,
+      "slug": "venomoth",
+      "name_en": "Venomoth",
+      "name_ru": "Веномот",
+      "source_name_en": "Venomoth"
+    },
+    {
+      "pokeapi_id": 50,
+      "slug": "diglett",
+      "name_en": "Diglett",
+      "name_ru": "Диглет",
+      "source_name_en": "Diglett"
+    },
+    {
+      "pokeapi_id": 51,
+      "slug": "dugtrio",
+      "name_en": "Dugtrio",
+      "name_ru": "Дагтрио",
+      "source_name_en": "Dugtrio"
+    },
+    {
+      "pokeapi_id": 52,
+      "slug": "meowth",
+      "name_en": "Meowth",
+      "name_ru": "Мяут",
+      "source_name_en": "Meowth"
+    },
+    {
+      "pokeapi_id": 53,
+      "slug": "persian",
+      "name_en": "Persian",
+      "name_ru": "Перс",
+      "source_name_en": "Persian"
+    },
+    {
+      "pokeapi_id": 54,
+      "slug": "psyduck",
+      "name_en": "Psyduck",
+      "name_ru": "Псидак",
+      "source_name_en": "Psyduck"
+    },
+    {
+      "pokeapi_id": 55,
+      "slug": "golduck",
+      "name_en": "Golduck",
+      "name_ru": "Голдак",
+      "source_name_en": "Golduck"
+    },
+    {
+      "pokeapi_id": 56,
+      "slug": "mankey",
+      "name_en": "Mankey",
+      "name_ru": "Манки",
+      "source_name_en": "Mankey"
+    },
+    {
+      "pokeapi_id": 57,
+      "slug": "primeape",
+      "name_en": "Primeape",
+      "name_ru": "Примап",
+      "source_name_en": "Primeape"
+    },
+    {
+      "pokeapi_id": 58,
+      "slug": "growlithe",
+      "name_en": "Growlithe",
+      "name_ru": "Гроулайт",
+      "source_name_en": "Growlithe"
+    },
+    {
+      "pokeapi_id": 59,
+      "slug": "arcanine",
+      "name_en": "Arcanine",
+      "name_ru": "Арканайн",
+      "source_name_en": "Arcanine"
+    },
+    {
+      "pokeapi_id": 60,
+      "slug": "poliwag",
+      "name_en": "Poliwag",
+      "name_ru": "Поливаг",
+      "source_name_en": "Poliwag"
+    },
+    {
+      "pokeapi_id": 61,
+      "slug": "poliwhirl",
+      "name_en": "Poliwhirl",
+      "name_ru": "Поливирл",
+      "source_name_en": "Poliwhirl"
+    },
+    {
+      "pokeapi_id": 62,
+      "slug": "poliwrath",
+      "name_en": "Poliwrath",
+      "name_ru": "Поливрат",
+      "source_name_en": "Poliwrath"
+    },
+    {
+      "pokeapi_id": 63,
+      "slug": "abra",
+      "name_en": "Abra",
+      "name_ru": "Абра",
+      "source_name_en": "Abra"
+    },
+    {
+      "pokeapi_id": 64,
+      "slug": "kadabra",
+      "name_en": "Kadabra",
+      "name_ru": "Кадабра",
+      "source_name_en": "Kadabra"
+    },
+    {
+      "pokeapi_id": 65,
+      "slug": "alakazam",
+      "name_en": "Alakazam",
+      "name_ru": "Алаказам",
+      "source_name_en": "Alakazam"
+    },
+    {
+      "pokeapi_id": 66,
+      "slug": "machop",
+      "name_en": "Machop",
+      "name_ru": "Мачоп",
+      "source_name_en": "Machop"
+    },
+    {
+      "pokeapi_id": 67,
+      "slug": "machoke",
+      "name_en": "Machoke",
+      "name_ru": "Мачок",
+      "source_name_en": "Machoke"
+    },
+    {
+      "pokeapi_id": 68,
+      "slug": "machamp",
+      "name_en": "Machamp",
+      "name_ru": "Мачемп",
+      "source_name_en": "Machamp"
+    },
+    {
+      "pokeapi_id": 69,
+      "slug": "bellsprout",
+      "name_en": "Bellsprout",
+      "name_ru": "Белспроут",
+      "source_name_en": "Bellsprout"
+    },
+    {
+      "pokeapi_id": 70,
+      "slug": "weepinbell",
+      "name_en": "Weepinbell",
+      "name_ru": "Випинбел",
+      "source_name_en": "Weepinbell"
+    },
+    {
+      "pokeapi_id": 71,
+      "slug": "victreebel",
+      "name_en": "Victreebel",
+      "name_ru": "Виктребел",
+      "source_name_en": "Victreebel"
+    },
+    {
+      "pokeapi_id": 72,
+      "slug": "tentacool",
+      "name_en": "Tentacool",
+      "name_ru": "Тентакул",
+      "source_name_en": "Tentacool"
+    },
+    {
+      "pokeapi_id": 73,
+      "slug": "tentacruel",
+      "name_en": "Tentacruel",
+      "name_ru": "Тентакруель",
+      "source_name_en": "Tentacruel"
+    },
+    {
+      "pokeapi_id": 74,
+      "slug": "geodude",
+      "name_en": "Geodude",
+      "name_ru": "Джиодуд",
+      "source_name_en": "Geodude"
+    },
+    {
+      "pokeapi_id": 75,
+      "slug": "graveler",
+      "name_en": "Graveler",
+      "name_ru": "Грэвелер",
+      "source_name_en": "Graveler"
+    },
+    {
+      "pokeapi_id": 76,
+      "slug": "golem",
+      "name_en": "Golem",
+      "name_ru": "Голем",
+      "source_name_en": "Golem"
+    },
+    {
+      "pokeapi_id": 77,
+      "slug": "ponyta",
+      "name_en": "Ponyta",
+      "name_ru": "Понита",
+      "source_name_en": "Ponyta"
+    },
+    {
+      "pokeapi_id": 78,
+      "slug": "rapidash",
+      "name_en": "Rapidash",
+      "name_ru": "Рапидаш",
+      "source_name_en": "Rapidash"
+    },
+    {
+      "pokeapi_id": 79,
+      "slug": "slowpoke",
+      "name_en": "Slowpoke",
+      "name_ru": "Слоупок",
+      "source_name_en": "Slowpoke"
+    },
+    {
+      "pokeapi_id": 80,
+      "slug": "slowbro",
+      "name_en": "Slowbro",
+      "name_ru": "Слоубро",
+      "source_name_en": "Slowbro"
+    },
+    {
+      "pokeapi_id": 81,
+      "slug": "magnemite",
+      "name_en": "Magnemite",
+      "name_ru": "Магнемайт",
+      "source_name_en": "Magnemite"
+    },
+    {
+      "pokeapi_id": 82,
+      "slug": "magneton",
+      "name_en": "Magneton",
+      "name_ru": "Магнетон",
+      "source_name_en": "Magneton"
+    },
+    {
+      "pokeapi_id": 83,
+      "slug": "farfetchd",
+      "name_en": "Farfetchd",
+      "name_ru": "Фарфечд",
+      "source_name_en": "Farfetch'd"
+    },
+    {
+      "pokeapi_id": 84,
+      "slug": "doduo",
+      "name_en": "Doduo",
+      "name_ru": "Додуо",
+      "source_name_en": "Doduo"
+    },
+    {
+      "pokeapi_id": 85,
+      "slug": "dodrio",
+      "name_en": "Dodrio",
+      "name_ru": "Додрио",
+      "source_name_en": "Dodrio"
+    },
+    {
+      "pokeapi_id": 86,
+      "slug": "seel",
+      "name_en": "Seel",
+      "name_ru": "Сил",
+      "source_name_en": "Seel"
+    },
+    {
+      "pokeapi_id": 87,
+      "slug": "dewgong",
+      "name_en": "Dewgong",
+      "name_ru": "Дьюгонг",
+      "source_name_en": "Dewgong"
+    },
+    {
+      "pokeapi_id": 88,
+      "slug": "grimer",
+      "name_en": "Grimer",
+      "name_ru": "Граймер",
+      "source_name_en": "Grimer"
+    },
+    {
+      "pokeapi_id": 89,
+      "slug": "muk",
+      "name_en": "Muk",
+      "name_ru": "Мак",
+      "source_name_en": "Muk"
+    },
+    {
+      "pokeapi_id": 90,
+      "slug": "shellder",
+      "name_en": "Shellder",
+      "name_ru": "Шелдер",
+      "source_name_en": "Shellder"
+    },
+    {
+      "pokeapi_id": 91,
+      "slug": "cloyster",
+      "name_en": "Cloyster",
+      "name_ru": "Клойстер",
+      "source_name_en": "Cloyster"
+    },
+    {
+      "pokeapi_id": 92,
+      "slug": "gastly",
+      "name_en": "Gastly",
+      "name_ru": "Гастли",
+      "source_name_en": "Gastly"
+    },
+    {
+      "pokeapi_id": 93,
+      "slug": "haunter",
+      "name_en": "Haunter",
+      "name_ru": "Хонтер",
+      "source_name_en": "Haunter"
+    },
+    {
+      "pokeapi_id": 94,
+      "slug": "gengar",
+      "name_en": "Gengar",
+      "name_ru": "Генгар",
+      "source_name_en": "Gengar"
+    },
+    {
+      "pokeapi_id": 95,
+      "slug": "onix",
+      "name_en": "Onix",
+      "name_ru": "Оникс",
+      "source_name_en": "Onix"
+    },
+    {
+      "pokeapi_id": 96,
+      "slug": "drowzee",
+      "name_en": "Drowzee",
+      "name_ru": "Дроузи",
+      "source_name_en": "Drowzee"
+    },
+    {
+      "pokeapi_id": 97,
+      "slug": "hypno",
+      "name_en": "Hypno",
+      "name_ru": "Гипно",
+      "source_name_en": "Hypno"
+    },
+    {
+      "pokeapi_id": 98,
+      "slug": "krabby",
+      "name_en": "Krabby",
+      "name_ru": "Крабби",
+      "source_name_en": "Krabby"
+    },
+    {
+      "pokeapi_id": 99,
+      "slug": "kingler",
+      "name_en": "Kingler",
+      "name_ru": "Кинглер",
+      "source_name_en": "Kingler"
+    },
+    {
+      "pokeapi_id": 100,
+      "slug": "voltorb",
+      "name_en": "Voltorb",
+      "name_ru": "Вольторб",
+      "source_name_en": "Voltorb"
+    },
+    {
+      "pokeapi_id": 101,
+      "slug": "electrode",
+      "name_en": "Electrode",
+      "name_ru": "Электрод",
+      "source_name_en": "Electrode"
+    },
+    {
+      "pokeapi_id": 102,
+      "slug": "exeggcute",
+      "name_en": "Exeggcute",
+      "name_ru": "Экзегут",
+      "source_name_en": "Exeggcute"
+    },
+    {
+      "pokeapi_id": 103,
+      "slug": "exeggutor",
+      "name_en": "Exeggutor",
+      "name_ru": "Эксегкутор",
+      "source_name_en": "Exeggutor"
+    },
+    {
+      "pokeapi_id": 104,
+      "slug": "cubone",
+      "name_en": "Cubone",
+      "name_ru": "Кубон",
+      "source_name_en": "Cubone"
+    },
+    {
+      "pokeapi_id": 105,
+      "slug": "marowak",
+      "name_en": "Marowak",
+      "name_ru": "Маровак",
+      "source_name_en": "Marowak"
+    },
+    {
+      "pokeapi_id": 106,
+      "slug": "hitmonlee",
+      "name_en": "Hitmonlee",
+      "name_ru": "Хитмонли",
+      "source_name_en": "Hitmonlee"
+    },
+    {
+      "pokeapi_id": 107,
+      "slug": "hitmonchan",
+      "name_en": "Hitmonchan",
+      "name_ru": "Хитмончан",
+      "source_name_en": "Hitmonchan"
+    },
+    {
+      "pokeapi_id": 108,
+      "slug": "lickitung",
+      "name_en": "Lickitung",
+      "name_ru": "Ликитунг",
+      "source_name_en": "Lickitung"
+    },
+    {
+      "pokeapi_id": 109,
+      "slug": "koffing",
+      "name_en": "Koffing",
+      "name_ru": "Кофинг",
+      "source_name_en": "Koffing"
+    },
+    {
+      "pokeapi_id": 110,
+      "slug": "weezing",
+      "name_en": "Weezing",
+      "name_ru": "Визинг",
+      "source_name_en": "Weezing"
+    },
+    {
+      "pokeapi_id": 111,
+      "slug": "rhyhorn",
+      "name_en": "Rhyhorn",
+      "name_ru": "Райхорн",
+      "source_name_en": "Rhyhorn"
+    },
+    {
+      "pokeapi_id": 112,
+      "slug": "rhydon",
+      "name_en": "Rhydon",
+      "name_ru": "Райдон",
+      "source_name_en": "Rhydon"
+    },
+    {
+      "pokeapi_id": 113,
+      "slug": "chansey",
+      "name_en": "Chansey",
+      "name_ru": "Ченси",
+      "source_name_en": "Chansey"
+    },
+    {
+      "pokeapi_id": 114,
+      "slug": "tangela",
+      "name_en": "Tangela",
+      "name_ru": "Тангела",
+      "source_name_en": "Tangela"
+    },
+    {
+      "pokeapi_id": 115,
+      "slug": "kangaskhan",
+      "name_en": "Kangaskhan",
+      "name_ru": "Кангасхан",
+      "source_name_en": "Kangaskhan"
+    },
+    {
+      "pokeapi_id": 116,
+      "slug": "horsea",
+      "name_en": "Horsea",
+      "name_ru": "Хорси",
+      "source_name_en": "Horsea"
+    },
+    {
+      "pokeapi_id": 117,
+      "slug": "seadra",
+      "name_en": "Seadra",
+      "name_ru": "Сидра",
+      "source_name_en": "Seadra"
+    },
+    {
+      "pokeapi_id": 118,
+      "slug": "goldeen",
+      "name_en": "Goldeen",
+      "name_ru": "Голдин",
+      "source_name_en": "Goldeen"
+    },
+    {
+      "pokeapi_id": 119,
+      "slug": "seaking",
+      "name_en": "Seaking",
+      "name_ru": "Сикинг",
+      "source_name_en": "Seaking"
+    },
+    {
+      "pokeapi_id": 120,
+      "slug": "staryu",
+      "name_en": "Staryu",
+      "name_ru": "Старю",
+      "source_name_en": "Staryu"
+    },
+    {
+      "pokeapi_id": 121,
+      "slug": "starmie",
+      "name_en": "Starmie",
+      "name_ru": "Старми",
+      "source_name_en": "Starmie"
+    },
+    {
+      "pokeapi_id": 122,
+      "slug": "mr-mime",
+      "name_en": "Mr Mime",
+      "name_ru": "Майм",
+      "source_name_en": "Mr. Mime"
+    },
+    {
+      "pokeapi_id": 123,
+      "slug": "scyther",
+      "name_en": "Scyther",
+      "name_ru": "Скайтер",
+      "source_name_en": "Scyther"
+    },
+    {
+      "pokeapi_id": 124,
+      "slug": "jynx",
+      "name_en": "Jynx",
+      "name_ru": "Джинкс",
+      "source_name_en": "Jynx"
+    },
+    {
+      "pokeapi_id": 125,
+      "slug": "electabuzz",
+      "name_en": "Electabuzz",
+      "name_ru": "Электабуз",
+      "source_name_en": "Electabuzz"
+    },
+    {
+      "pokeapi_id": 126,
+      "slug": "magmar",
+      "name_en": "Magmar",
+      "name_ru": "Магмар",
+      "source_name_en": "Magmar"
+    },
+    {
+      "pokeapi_id": 127,
+      "slug": "pinsir",
+      "name_en": "Pinsir",
+      "name_ru": "Пинсир",
+      "source_name_en": "Pinsir"
+    },
+    {
+      "pokeapi_id": 128,
+      "slug": "tauros",
+      "name_en": "Tauros",
+      "name_ru": "Торос",
+      "source_name_en": "Tauros"
+    },
+    {
+      "pokeapi_id": 129,
+      "slug": "magikarp",
+      "name_en": "Magikarp",
+      "name_ru": "Маджикарп",
+      "source_name_en": "Magikarp"
+    },
+    {
+      "pokeapi_id": 130,
+      "slug": "gyarados",
+      "name_en": "Gyarados",
+      "name_ru": "Гайрадос",
+      "source_name_en": "Gyarados"
+    },
+    {
+      "pokeapi_id": 131,
+      "slug": "lapras",
+      "name_en": "Lapras",
+      "name_ru": "Лапрас",
+      "source_name_en": "Lapras"
+    },
+    {
+      "pokeapi_id": 132,
+      "slug": "ditto",
+      "name_en": "Ditto",
+      "name_ru": "Дитто",
+      "source_name_en": "Ditto"
+    },
+    {
+      "pokeapi_id": 133,
+      "slug": "eevee",
+      "name_en": "Eevee",
+      "name_ru": "Эви",
+      "source_name_en": "Eevee"
+    },
+    {
+      "pokeapi_id": 134,
+      "slug": "vaporeon",
+      "name_en": "Vaporeon",
+      "name_ru": "Вапореон",
+      "source_name_en": "Vaporeon"
+    },
+    {
+      "pokeapi_id": 135,
+      "slug": "jolteon",
+      "name_en": "Jolteon",
+      "name_ru": "Джолтеон",
+      "source_name_en": "Jolteon"
+    },
+    {
+      "pokeapi_id": 136,
+      "slug": "flareon",
+      "name_en": "Flareon",
+      "name_ru": "Флареон",
+      "source_name_en": "Flareon"
+    },
+    {
+      "pokeapi_id": 137,
+      "slug": "porygon",
+      "name_en": "Porygon",
+      "name_ru": "Поригон",
+      "source_name_en": "Porygon"
+    },
+    {
+      "pokeapi_id": 138,
+      "slug": "omanyte",
+      "name_en": "Omanyte",
+      "name_ru": "Оманайт",
+      "source_name_en": "Omanyte"
+    },
+    {
+      "pokeapi_id": 139,
+      "slug": "omastar",
+      "name_en": "Omastar",
+      "name_ru": "Омастар",
+      "source_name_en": "Omastar"
+    },
+    {
+      "pokeapi_id": 140,
+      "slug": "kabuto",
+      "name_en": "Kabuto",
+      "name_ru": "Кабуто",
+      "source_name_en": "Kabuto"
+    },
+    {
+      "pokeapi_id": 141,
+      "slug": "kabutops",
+      "name_en": "Kabutops",
+      "name_ru": "Кабутопс",
+      "source_name_en": "Kabutops"
+    },
+    {
+      "pokeapi_id": 142,
+      "slug": "aerodactyl",
+      "name_en": "Aerodactyl",
+      "name_ru": "Аэродактиль",
+      "source_name_en": "Aerodactyl"
+    },
+    {
+      "pokeapi_id": 143,
+      "slug": "snorlax",
+      "name_en": "Snorlax",
+      "name_ru": "Снорлакс",
+      "source_name_en": "Snorlax"
+    },
+    {
+      "pokeapi_id": 144,
+      "slug": "articuno",
+      "name_en": "Articuno",
+      "name_ru": "Артикьюно",
+      "source_name_en": "Articuno"
+    },
+    {
+      "pokeapi_id": 145,
+      "slug": "zapdos",
+      "name_en": "Zapdos",
+      "name_ru": "Запдос",
+      "source_name_en": "Zapdos"
+    },
+    {
+      "pokeapi_id": 146,
+      "slug": "moltres",
+      "name_en": "Moltres",
+      "name_ru": "Молтрес",
+      "source_name_en": "Moltres"
+    },
+    {
+      "pokeapi_id": 147,
+      "slug": "dratini",
+      "name_en": "Dratini",
+      "name_ru": "Дратини",
+      "source_name_en": "Dratini"
+    },
+    {
+      "pokeapi_id": 148,
+      "slug": "dragonair",
+      "name_en": "Dragonair",
+      "name_ru": "Драгонаир",
+      "source_name_en": "Dragonair"
+    },
+    {
+      "pokeapi_id": 149,
+      "slug": "dragonite",
+      "name_en": "Dragonite",
+      "name_ru": "Драгонайт",
+      "source_name_en": "Dragonite"
+    },
+    {
+      "pokeapi_id": 150,
+      "slug": "mewtwo",
+      "name_en": "Mewtwo",
+      "name_ru": "Мьюту",
+      "source_name_en": "Mewtwo"
+    },
+    {
+      "pokeapi_id": 151,
+      "slug": "mew",
+      "name_en": "Mew",
+      "name_ru": "Мью",
+      "source_name_en": "Mew"
+    },
+    {
+      "pokeapi_id": 152,
+      "slug": "chikorita",
+      "name_en": "Chikorita",
+      "name_ru": "Чикорита",
+      "source_name_en": "Chikorita"
+    },
+    {
+      "pokeapi_id": 153,
+      "slug": "bayleef",
+      "name_en": "Bayleef",
+      "name_ru": "Бэйлиф",
+      "source_name_en": "Bayleef"
+    },
+    {
+      "pokeapi_id": 154,
+      "slug": "meganium",
+      "name_en": "Meganium",
+      "name_ru": "Меганиум",
+      "source_name_en": "Meganium"
+    },
+    {
+      "pokeapi_id": 155,
+      "slug": "cyndaquil",
+      "name_en": "Cyndaquil",
+      "name_ru": "Синдаквил",
+      "source_name_en": "Cyndaquil"
+    },
+    {
+      "pokeapi_id": 156,
+      "slug": "quilava",
+      "name_en": "Quilava",
+      "name_ru": "Квилава",
+      "source_name_en": "Quilava"
+    },
+    {
+      "pokeapi_id": 157,
+      "slug": "typhlosion",
+      "name_en": "Typhlosion",
+      "name_ru": "Тифложн",
+      "source_name_en": "Typhlosion"
+    },
+    {
+      "pokeapi_id": 158,
+      "slug": "totodile",
+      "name_en": "Totodile",
+      "name_ru": "Тотодил",
+      "source_name_en": "Totodile"
+    },
+    {
+      "pokeapi_id": 159,
+      "slug": "croconaw",
+      "name_en": "Croconaw",
+      "name_ru": "Кроконав",
+      "source_name_en": "Croconaw"
+    },
+    {
+      "pokeapi_id": 160,
+      "slug": "feraligatr",
+      "name_en": "Feraligatr",
+      "name_ru": "Фералигатор",
+      "source_name_en": "Feraligatr"
+    },
+    {
+      "pokeapi_id": 161,
+      "slug": "sentret",
+      "name_en": "Sentret",
+      "name_ru": "Сентрет",
+      "source_name_en": "Sentret"
+    },
+    {
+      "pokeapi_id": 162,
+      "slug": "furret",
+      "name_en": "Furret",
+      "name_ru": "Фуррет",
+      "source_name_en": "Furret"
+    },
+    {
+      "pokeapi_id": 163,
+      "slug": "hoothoot",
+      "name_en": "Hoothoot",
+      "name_ru": "Хутхут",
+      "source_name_en": "Hoothoot"
+    },
+    {
+      "pokeapi_id": 164,
+      "slug": "noctowl",
+      "name_en": "Noctowl",
+      "name_ru": "Ноктоул",
+      "source_name_en": "Noctowl"
+    },
+    {
+      "pokeapi_id": 165,
+      "slug": "ledyba",
+      "name_en": "Ledyba",
+      "name_ru": "Ледиба",
+      "source_name_en": "Ledyba"
+    },
+    {
+      "pokeapi_id": 166,
+      "slug": "ledian",
+      "name_en": "Ledian",
+      "name_ru": "Ледиан",
+      "source_name_en": "Ledian"
+    },
+    {
+      "pokeapi_id": 167,
+      "slug": "spinarak",
+      "name_en": "Spinarak",
+      "name_ru": "Спинарак",
+      "source_name_en": "Spinarak"
+    },
+    {
+      "pokeapi_id": 168,
+      "slug": "ariados",
+      "name_en": "Ariados",
+      "name_ru": "Ариадос",
+      "source_name_en": "Ariados"
+    },
+    {
+      "pokeapi_id": 169,
+      "slug": "crobat",
+      "name_en": "Crobat",
+      "name_ru": "Кробат",
+      "source_name_en": "Crobat"
+    },
+    {
+      "pokeapi_id": 170,
+      "slug": "chinchou",
+      "name_en": "Chinchou",
+      "name_ru": "Тинтё",
+      "source_name_en": "Chinchou"
+    },
+    {
+      "pokeapi_id": 171,
+      "slug": "lanturn",
+      "name_en": "Lanturn",
+      "name_ru": "Лантурн",
+      "source_name_en": "Lanturn"
+    },
+    {
+      "pokeapi_id": 172,
+      "slug": "pichu",
+      "name_en": "Pichu",
+      "name_ru": "Пичу",
+      "source_name_en": "Pichu"
+    },
+    {
+      "pokeapi_id": 173,
+      "slug": "cleffa",
+      "name_en": "Cleffa",
+      "name_ru": "Клефа",
+      "source_name_en": "Cleffa"
+    },
+    {
+      "pokeapi_id": 174,
+      "slug": "igglybuff",
+      "name_en": "Igglybuff",
+      "name_ru": "Игглибуф",
+      "source_name_en": "Igglybuff"
+    },
+    {
+      "pokeapi_id": 175,
+      "slug": "togepi",
+      "name_en": "Togepi",
+      "name_ru": "Тогэпи",
+      "source_name_en": "Togepi"
+    },
+    {
+      "pokeapi_id": 176,
+      "slug": "togetic",
+      "name_en": "Togetic",
+      "name_ru": "Тогэтик",
+      "source_name_en": "Togetic"
+    },
+    {
+      "pokeapi_id": 177,
+      "slug": "natu",
+      "name_en": "Natu",
+      "name_ru": "Нату",
+      "source_name_en": "Natu"
+    },
+    {
+      "pokeapi_id": 178,
+      "slug": "xatu",
+      "name_en": "Xatu",
+      "name_ru": "Ксату",
+      "source_name_en": "Xatu"
+    },
+    {
+      "pokeapi_id": 179,
+      "slug": "mareep",
+      "name_en": "Mareep",
+      "name_ru": "Мэрип",
+      "source_name_en": "Mareep"
+    },
+    {
+      "pokeapi_id": 180,
+      "slug": "flaaffy",
+      "name_en": "Flaaffy",
+      "name_ru": "Флааффи",
+      "source_name_en": "Flaaffy"
+    },
+    {
+      "pokeapi_id": 181,
+      "slug": "ampharos",
+      "name_en": "Ampharos",
+      "name_ru": "Амфарос",
+      "source_name_en": "Ampharos"
+    },
+    {
+      "pokeapi_id": 182,
+      "slug": "bellossom",
+      "name_en": "Bellossom",
+      "name_ru": "Белоссом",
+      "source_name_en": "Bellossom"
+    },
+    {
+      "pokeapi_id": 183,
+      "slug": "marill",
+      "name_en": "Marill",
+      "name_ru": "Мэрил",
+      "source_name_en": "Marill"
+    },
+    {
+      "pokeapi_id": 184,
+      "slug": "azumarill",
+      "name_en": "Azumarill",
+      "name_ru": "Адзумэрил",
+      "source_name_en": "Azumarill"
+    },
+    {
+      "pokeapi_id": 185,
+      "slug": "sudowoodo",
+      "name_en": "Sudowoodo",
+      "name_ru": "Судовудо",
+      "source_name_en": "Sudowoodo"
+    },
+    {
+      "pokeapi_id": 186,
+      "slug": "politoed",
+      "name_en": "Politoed",
+      "name_ru": "Политоид",
+      "source_name_en": "Politoed"
+    },
+    {
+      "pokeapi_id": 187,
+      "slug": "hoppip",
+      "name_en": "Hoppip",
+      "name_ru": "Хоппип",
+      "source_name_en": "Hoppip"
+    },
+    {
+      "pokeapi_id": 188,
+      "slug": "skiploom",
+      "name_en": "Skiploom",
+      "name_ru": "Скиплум",
+      "source_name_en": "Skiploom"
+    },
+    {
+      "pokeapi_id": 189,
+      "slug": "jumpluff",
+      "name_en": "Jumpluff",
+      "name_ru": "Джамплуф",
+      "source_name_en": "Jumpluff"
+    },
+    {
+      "pokeapi_id": 190,
+      "slug": "aipom",
+      "name_en": "Aipom",
+      "name_ru": "Эйпом",
+      "source_name_en": "Aipom"
+    },
+    {
+      "pokeapi_id": 191,
+      "slug": "sunkern",
+      "name_en": "Sunkern",
+      "name_ru": "Санкерн",
+      "source_name_en": "Sunkern"
+    },
+    {
+      "pokeapi_id": 192,
+      "slug": "sunflora",
+      "name_en": "Sunflora",
+      "name_ru": "Санфлора",
+      "source_name_en": "Sunflora"
+    },
+    {
+      "pokeapi_id": 193,
+      "slug": "yanma",
+      "name_en": "Yanma",
+      "name_ru": "Янма",
+      "source_name_en": "Yanma"
+    },
+    {
+      "pokeapi_id": 194,
+      "slug": "wooper",
+      "name_en": "Wooper",
+      "name_ru": "Вупер",
+      "source_name_en": "Wooper"
+    },
+    {
+      "pokeapi_id": 195,
+      "slug": "quagsire",
+      "name_en": "Quagsire",
+      "name_ru": "Квагсайр",
+      "source_name_en": "Quagsire"
+    },
+    {
+      "pokeapi_id": 196,
+      "slug": "espeon",
+      "name_en": "Espeon",
+      "name_ru": "Эспеон",
+      "source_name_en": "Espeon"
+    },
+    {
+      "pokeapi_id": 197,
+      "slug": "umbreon",
+      "name_en": "Umbreon",
+      "name_ru": "Умбреон",
+      "source_name_en": "Umbreon"
+    },
+    {
+      "pokeapi_id": 198,
+      "slug": "murkrow",
+      "name_en": "Murkrow",
+      "name_ru": "Муркроу",
+      "source_name_en": "Murkrow"
+    },
+    {
+      "pokeapi_id": 199,
+      "slug": "slowking",
+      "name_en": "Slowking",
+      "name_ru": "Слоукинг",
+      "source_name_en": "Slowking"
+    },
+    {
+      "pokeapi_id": 200,
+      "slug": "misdreavus",
+      "name_en": "Misdreavus",
+      "name_ru": "Мисдривус",
+      "source_name_en": "Misdreavus"
+    },
+    {
+      "pokeapi_id": 201,
+      "slug": "unown",
+      "name_en": "Unown",
+      "name_ru": "Аноун",
+      "source_name_en": "Unown"
+    },
+    {
+      "pokeapi_id": 202,
+      "slug": "wobbuffet",
+      "name_en": "Wobbuffet",
+      "name_ru": "Воббуффет",
+      "source_name_en": "Wobbuffet"
+    },
+    {
+      "pokeapi_id": 203,
+      "slug": "girafarig",
+      "name_en": "Girafarig",
+      "name_ru": "Жирафариж",
+      "source_name_en": "Girafarig"
+    },
+    {
+      "pokeapi_id": 204,
+      "slug": "pineco",
+      "name_en": "Pineco",
+      "name_ru": "Пинеко",
+      "source_name_en": "Pineco"
+    },
+    {
+      "pokeapi_id": 205,
+      "slug": "forretress",
+      "name_en": "Forretress",
+      "name_ru": "Форретресс",
+      "source_name_en": "Forretress"
+    },
+    {
+      "pokeapi_id": 206,
+      "slug": "dunsparce",
+      "name_en": "Dunsparce",
+      "name_ru": "Дунспарс",
+      "source_name_en": "Dunsparce"
+    },
+    {
+      "pokeapi_id": 207,
+      "slug": "gligar",
+      "name_en": "Gligar",
+      "name_ru": "Глигар",
+      "source_name_en": "Gligar"
+    },
+    {
+      "pokeapi_id": 208,
+      "slug": "steelix",
+      "name_en": "Steelix",
+      "name_ru": "Стиликс",
+      "source_name_en": "Steelix"
+    },
+    {
+      "pokeapi_id": 209,
+      "slug": "snubbull",
+      "name_en": "Snubbull",
+      "name_ru": "Снуббуль",
+      "source_name_en": "Snubbull"
+    },
+    {
+      "pokeapi_id": 210,
+      "slug": "granbull",
+      "name_en": "Granbull",
+      "name_ru": "Гранбуль",
+      "source_name_en": "Granbull"
+    },
+    {
+      "pokeapi_id": 211,
+      "slug": "qwilfish",
+      "name_en": "Qwilfish",
+      "name_ru": "Квильфиш",
+      "source_name_en": "Qwilfish"
+    },
+    {
+      "pokeapi_id": 212,
+      "slug": "scizor",
+      "name_en": "Scizor",
+      "name_ru": "Сизор",
+      "source_name_en": "Scizor"
+    },
+    {
+      "pokeapi_id": 213,
+      "slug": "shuckle",
+      "name_en": "Shuckle",
+      "name_ru": "Шакль",
+      "source_name_en": "Shuckle"
+    },
+    {
+      "pokeapi_id": 214,
+      "slug": "heracross",
+      "name_en": "Heracross",
+      "name_ru": "Хиракросс",
+      "source_name_en": "Heracross"
+    },
+    {
+      "pokeapi_id": 215,
+      "slug": "sneasel",
+      "name_en": "Sneasel",
+      "name_ru": "Снизель",
+      "source_name_en": "Sneasel"
+    },
+    {
+      "pokeapi_id": 216,
+      "slug": "teddiursa",
+      "name_en": "Teddiursa",
+      "name_ru": "Теддиурса",
+      "source_name_en": "Teddiursa"
+    },
+    {
+      "pokeapi_id": 217,
+      "slug": "ursaring",
+      "name_en": "Ursaring",
+      "name_ru": "Урсаринг",
+      "source_name_en": "Ursaring"
+    },
+    {
+      "pokeapi_id": 218,
+      "slug": "slugma",
+      "name_en": "Slugma",
+      "name_ru": "Слагма",
+      "source_name_en": "Slugma"
+    },
+    {
+      "pokeapi_id": 219,
+      "slug": "magcargo",
+      "name_en": "Magcargo",
+      "name_ru": "Магкарго",
+      "source_name_en": "Magcargo"
+    },
+    {
+      "pokeapi_id": 220,
+      "slug": "swinub",
+      "name_en": "Swinub",
+      "name_ru": "Свинуб",
+      "source_name_en": "Swinub"
+    },
+    {
+      "pokeapi_id": 221,
+      "slug": "piloswine",
+      "name_en": "Piloswine",
+      "name_ru": "Пилосвайн",
+      "source_name_en": "Piloswine"
+    },
+    {
+      "pokeapi_id": 222,
+      "slug": "corsola",
+      "name_en": "Corsola",
+      "name_ru": "Корсола",
+      "source_name_en": "Corsola"
+    },
+    {
+      "pokeapi_id": 223,
+      "slug": "remoraid",
+      "name_en": "Remoraid",
+      "name_ru": "Реморайд",
+      "source_name_en": "Remoraid"
+    },
+    {
+      "pokeapi_id": 224,
+      "slug": "octillery",
+      "name_en": "Octillery",
+      "name_ru": "Октиллерия",
+      "source_name_en": "Octillery"
+    },
+    {
+      "pokeapi_id": 225,
+      "slug": "delibird",
+      "name_en": "Delibird",
+      "name_ru": "Делиберд",
+      "source_name_en": "Delibird"
+    },
+    {
+      "pokeapi_id": 226,
+      "slug": "mantine",
+      "name_en": "Mantine",
+      "name_ru": "Мантин",
+      "source_name_en": "Mantine"
+    },
+    {
+      "pokeapi_id": 227,
+      "slug": "skarmory",
+      "name_en": "Skarmory",
+      "name_ru": "Скармори",
+      "source_name_en": "Skarmory"
+    },
+    {
+      "pokeapi_id": 228,
+      "slug": "houndour",
+      "name_en": "Houndour",
+      "name_ru": "Хаундур",
+      "source_name_en": "Houndour"
+    },
+    {
+      "pokeapi_id": 229,
+      "slug": "houndoom",
+      "name_en": "Houndoom",
+      "name_ru": "Хаундум",
+      "source_name_en": "Houndoom"
+    },
+    {
+      "pokeapi_id": 230,
+      "slug": "kingdra",
+      "name_en": "Kingdra",
+      "name_ru": "Кингдра",
+      "source_name_en": "Kingdra"
+    },
+    {
+      "pokeapi_id": 231,
+      "slug": "phanpy",
+      "name_en": "Phanpy",
+      "name_ru": "Фанпи",
+      "source_name_en": "Phanpy"
+    },
+    {
+      "pokeapi_id": 232,
+      "slug": "donphan",
+      "name_en": "Donphan",
+      "name_ru": "Донфан",
+      "source_name_en": "Donphan"
+    },
+    {
+      "pokeapi_id": 233,
+      "slug": "porygon2",
+      "name_en": "Porygon2",
+      "name_ru": "Поригон 2",
+      "source_name_en": "Porygon2"
+    },
+    {
+      "pokeapi_id": 234,
+      "slug": "stantler",
+      "name_en": "Stantler",
+      "name_ru": "Стантлер",
+      "source_name_en": "Stantler"
+    },
+    {
+      "pokeapi_id": 235,
+      "slug": "smeargle",
+      "name_en": "Smeargle",
+      "name_ru": "Смиргл",
+      "source_name_en": "Smeargle"
+    },
+    {
+      "pokeapi_id": 236,
+      "slug": "tyrogue",
+      "name_en": "Tyrogue",
+      "name_ru": "Тирог",
+      "source_name_en": "Tyrogue"
+    },
+    {
+      "pokeapi_id": 237,
+      "slug": "hitmontop",
+      "name_en": "Hitmontop",
+      "name_ru": "Хитмонтоп",
+      "source_name_en": "Hitmontop"
+    },
+    {
+      "pokeapi_id": 238,
+      "slug": "smoochum",
+      "name_en": "Smoochum",
+      "name_ru": "Смучум",
+      "source_name_en": "Smoochum"
+    },
+    {
+      "pokeapi_id": 239,
+      "slug": "elekid",
+      "name_en": "Elekid",
+      "name_ru": "Элекид",
+      "source_name_en": "Elekid"
+    },
+    {
+      "pokeapi_id": 240,
+      "slug": "magby",
+      "name_en": "Magby",
+      "name_ru": "Магби",
+      "source_name_en": "Magby"
+    },
+    {
+      "pokeapi_id": 241,
+      "slug": "miltank",
+      "name_en": "Miltank",
+      "name_ru": "Милтанк",
+      "source_name_en": "Miltank"
+    },
+    {
+      "pokeapi_id": 242,
+      "slug": "blissey",
+      "name_en": "Blissey",
+      "name_ru": "Блисси",
+      "source_name_en": "Blissey"
+    },
+    {
+      "pokeapi_id": 243,
+      "slug": "raikou",
+      "name_en": "Raikou",
+      "name_ru": "Райко",
+      "source_name_en": "Raikou"
+    },
+    {
+      "pokeapi_id": 244,
+      "slug": "entei",
+      "name_en": "Entei",
+      "name_ru": "Энтей",
+      "source_name_en": "Entei"
+    },
+    {
+      "pokeapi_id": 245,
+      "slug": "suicune",
+      "name_en": "Suicune",
+      "name_ru": "Суикун",
+      "source_name_en": "Suicune"
+    },
+    {
+      "pokeapi_id": 246,
+      "slug": "larvitar",
+      "name_en": "Larvitar",
+      "name_ru": "Ларвитар",
+      "source_name_en": "Larvitar"
+    },
+    {
+      "pokeapi_id": 247,
+      "slug": "pupitar",
+      "name_en": "Pupitar",
+      "name_ru": "Пупитар",
+      "source_name_en": "Pupitar"
+    },
+    {
+      "pokeapi_id": 248,
+      "slug": "tyranitar",
+      "name_en": "Tyranitar",
+      "name_ru": "Тиранитар",
+      "source_name_en": "Tyranitar"
+    },
+    {
+      "pokeapi_id": 249,
+      "slug": "lugia",
+      "name_en": "Lugia",
+      "name_ru": "Лугия",
+      "source_name_en": "Lugia"
+    },
+    {
+      "pokeapi_id": 250,
+      "slug": "ho-oh",
+      "name_en": "Ho Oh",
+      "name_ru": "Хо-о",
+      "source_name_en": "Ho-Oh"
+    },
+    {
+      "pokeapi_id": 251,
+      "slug": "celebi",
+      "name_en": "Celebi",
+      "name_ru": "Целеби",
+      "source_name_en": "Celebi"
+    },
+    {
+      "pokeapi_id": 252,
+      "slug": "treecko",
+      "name_en": "Treecko",
+      "name_ru": "Трико",
+      "source_name_en": "Treecko"
+    },
+    {
+      "pokeapi_id": 253,
+      "slug": "grovyle",
+      "name_en": "Grovyle",
+      "name_ru": "Гровайл",
+      "source_name_en": "Grovyle"
+    },
+    {
+      "pokeapi_id": 254,
+      "slug": "sceptile",
+      "name_en": "Sceptile",
+      "name_ru": "Септайл",
+      "source_name_en": "Sceptile"
+    },
+    {
+      "pokeapi_id": 255,
+      "slug": "torchic",
+      "name_en": "Torchic",
+      "name_ru": "Торчик",
+      "source_name_en": "Torchic"
+    },
+    {
+      "pokeapi_id": 256,
+      "slug": "combusken",
+      "name_en": "Combusken",
+      "name_ru": "Комбаскен",
+      "source_name_en": "Combusken"
+    },
+    {
+      "pokeapi_id": 257,
+      "slug": "blaziken",
+      "name_en": "Blaziken",
+      "name_ru": "Блейзикен",
+      "source_name_en": "Blaziken"
+    },
+    {
+      "pokeapi_id": 258,
+      "slug": "mudkip",
+      "name_en": "Mudkip",
+      "name_ru": "Мадкип",
+      "source_name_en": "Mudkip"
+    },
+    {
+      "pokeapi_id": 259,
+      "slug": "marshtomp",
+      "name_en": "Marshtomp",
+      "name_ru": "Марштомп",
+      "source_name_en": "Marshtomp"
+    },
+    {
+      "pokeapi_id": 260,
+      "slug": "swampert",
+      "name_en": "Swampert",
+      "name_ru": "Свамперт",
+      "source_name_en": "Swampert"
+    },
+    {
+      "pokeapi_id": 261,
+      "slug": "poochyena",
+      "name_en": "Poochyena",
+      "name_ru": "Пучиена",
+      "source_name_en": "Poochyena"
+    },
+    {
+      "pokeapi_id": 262,
+      "slug": "mightyena",
+      "name_en": "Mightyena",
+      "name_ru": "Майтиена",
+      "source_name_en": "Mightyena"
+    },
+    {
+      "pokeapi_id": 263,
+      "slug": "zigzagoon",
+      "name_en": "Zigzagoon",
+      "name_ru": "Зигзагун",
+      "source_name_en": "Zigzagoon"
+    },
+    {
+      "pokeapi_id": 264,
+      "slug": "linoone",
+      "name_en": "Linoone",
+      "name_ru": "Лайнун",
+      "source_name_en": "Linoone"
+    },
+    {
+      "pokeapi_id": 265,
+      "slug": "wurmple",
+      "name_en": "Wurmple",
+      "name_ru": "Вурмпл",
+      "source_name_en": "Wurmple"
+    },
+    {
+      "pokeapi_id": 266,
+      "slug": "silcoon",
+      "name_en": "Silcoon",
+      "name_ru": "Силкун",
+      "source_name_en": "Silcoon"
+    },
+    {
+      "pokeapi_id": 267,
+      "slug": "beautifly",
+      "name_en": "Beautifly",
+      "name_ru": "Бьютифлай",
+      "source_name_en": "Beautifly"
+    },
+    {
+      "pokeapi_id": 268,
+      "slug": "cascoon",
+      "name_en": "Cascoon",
+      "name_ru": "Каскун",
+      "source_name_en": "Cascoon"
+    },
+    {
+      "pokeapi_id": 269,
+      "slug": "dustox",
+      "name_en": "Dustox",
+      "name_ru": "Дастокс",
+      "source_name_en": "Dustox"
+    },
+    {
+      "pokeapi_id": 270,
+      "slug": "lotad",
+      "name_en": "Lotad",
+      "name_ru": "Лотад",
+      "source_name_en": "Lotad"
+    },
+    {
+      "pokeapi_id": 271,
+      "slug": "lombre",
+      "name_en": "Lombre",
+      "name_ru": "Ломбрэ",
+      "source_name_en": "Lombre"
+    },
+    {
+      "pokeapi_id": 272,
+      "slug": "ludicolo",
+      "name_en": "Ludicolo",
+      "name_ru": "Лудиколо",
+      "source_name_en": "Ludicolo"
+    },
+    {
+      "pokeapi_id": 273,
+      "slug": "seedot",
+      "name_en": "Seedot",
+      "name_ru": "Сидот",
+      "source_name_en": "Seedot"
+    },
+    {
+      "pokeapi_id": 274,
+      "slug": "nuzleaf",
+      "name_en": "Nuzleaf",
+      "name_ru": "Назлиф",
+      "source_name_en": "Nuzleaf"
+    },
+    {
+      "pokeapi_id": 275,
+      "slug": "shiftry",
+      "name_en": "Shiftry",
+      "name_ru": "Шифтри",
+      "source_name_en": "Shiftry"
+    },
+    {
+      "pokeapi_id": 276,
+      "slug": "taillow",
+      "name_en": "Taillow",
+      "name_ru": "Тэйллоу",
+      "source_name_en": "Taillow"
+    },
+    {
+      "pokeapi_id": 277,
+      "slug": "swellow",
+      "name_en": "Swellow",
+      "name_ru": "Свеллоу",
+      "source_name_en": "Swellow"
+    },
+    {
+      "pokeapi_id": 278,
+      "slug": "wingull",
+      "name_en": "Wingull",
+      "name_ru": "Вингалл",
+      "source_name_en": "Wingull"
+    },
+    {
+      "pokeapi_id": 279,
+      "slug": "pelipper",
+      "name_en": "Pelipper",
+      "name_ru": "Пелиппер",
+      "source_name_en": "Pelipper"
+    },
+    {
+      "pokeapi_id": 280,
+      "slug": "ralts",
+      "name_en": "Ralts",
+      "name_ru": "Ролтс",
+      "source_name_en": "Ralts"
+    },
+    {
+      "pokeapi_id": 281,
+      "slug": "kirlia",
+      "name_en": "Kirlia",
+      "name_ru": "Кирлия",
+      "source_name_en": "Kirlia"
+    },
+    {
+      "pokeapi_id": 282,
+      "slug": "gardevoir",
+      "name_en": "Gardevoir",
+      "name_ru": "Гардевойр",
+      "source_name_en": "Gardevoir"
+    },
+    {
+      "pokeapi_id": 283,
+      "slug": "surskit",
+      "name_en": "Surskit",
+      "name_ru": "Сурскит",
+      "source_name_en": "Surskit"
+    },
+    {
+      "pokeapi_id": 284,
+      "slug": "masquerain",
+      "name_en": "Masquerain",
+      "name_ru": "Маскерейн",
+      "source_name_en": "Masquerain"
+    },
+    {
+      "pokeapi_id": 285,
+      "slug": "shroomish",
+      "name_en": "Shroomish",
+      "name_ru": "Шрумиш",
+      "source_name_en": "Shroomish"
+    },
+    {
+      "pokeapi_id": 286,
+      "slug": "breloom",
+      "name_en": "Breloom",
+      "name_ru": "Брелум",
+      "source_name_en": "Breloom"
+    },
+    {
+      "pokeapi_id": 287,
+      "slug": "slakoth",
+      "name_en": "Slakoth",
+      "name_ru": "Слакот",
+      "source_name_en": "Slakoth"
+    },
+    {
+      "pokeapi_id": 288,
+      "slug": "vigoroth",
+      "name_en": "Vigoroth",
+      "name_ru": "Вигорот",
+      "source_name_en": "Vigoroth"
+    },
+    {
+      "pokeapi_id": 289,
+      "slug": "slaking",
+      "name_en": "Slaking",
+      "name_ru": "Слакинг",
+      "source_name_en": "Slaking"
+    },
+    {
+      "pokeapi_id": 290,
+      "slug": "nincada",
+      "name_en": "Nincada",
+      "name_ru": "Нинкада",
+      "source_name_en": "Nincada"
+    },
+    {
+      "pokeapi_id": 291,
+      "slug": "ninjask",
+      "name_en": "Ninjask",
+      "name_ru": "Нинджаск",
+      "source_name_en": "Ninjask"
+    },
+    {
+      "pokeapi_id": 292,
+      "slug": "shedinja",
+      "name_en": "Shedinja",
+      "name_ru": "Шединья",
+      "source_name_en": "Shedinja"
+    },
+    {
+      "pokeapi_id": 293,
+      "slug": "whismur",
+      "name_en": "Whismur",
+      "name_ru": "Визмур",
+      "source_name_en": "Whismur"
+    },
+    {
+      "pokeapi_id": 294,
+      "slug": "loudred",
+      "name_en": "Loudred",
+      "name_ru": "Лаудред",
+      "source_name_en": "Loudred"
+    },
+    {
+      "pokeapi_id": 295,
+      "slug": "exploud",
+      "name_en": "Exploud",
+      "name_ru": "Эксплауд",
+      "source_name_en": "Exploud"
+    },
+    {
+      "pokeapi_id": 296,
+      "slug": "makuhita",
+      "name_en": "Makuhita",
+      "name_ru": "Макухита",
+      "source_name_en": "Makuhita"
+    },
+    {
+      "pokeapi_id": 297,
+      "slug": "hariyama",
+      "name_en": "Hariyama",
+      "name_ru": "Харияма",
+      "source_name_en": "Hariyama"
+    },
+    {
+      "pokeapi_id": 298,
+      "slug": "azurill",
+      "name_en": "Azurill",
+      "name_ru": "Азурилл",
+      "source_name_en": "Azurill"
+    },
+    {
+      "pokeapi_id": 299,
+      "slug": "nosepass",
+      "name_en": "Nosepass",
+      "name_ru": "Ноузпасс",
+      "source_name_en": "Nosepass"
+    },
+    {
+      "pokeapi_id": 300,
+      "slug": "skitty",
+      "name_en": "Skitty",
+      "name_ru": "Скитти",
+      "source_name_en": "Skitty"
+    },
+    {
+      "pokeapi_id": 301,
+      "slug": "delcatty",
+      "name_en": "Delcatty",
+      "name_ru": "Делкатти",
+      "source_name_en": "Delcatty"
+    },
+    {
+      "pokeapi_id": 302,
+      "slug": "sableye",
+      "name_en": "Sableye",
+      "name_ru": "Сэйблай",
+      "source_name_en": "Sableye"
+    },
+    {
+      "pokeapi_id": 303,
+      "slug": "mawile",
+      "name_en": "Mawile",
+      "name_ru": "Мавайл",
+      "source_name_en": "Mawile"
+    },
+    {
+      "pokeapi_id": 304,
+      "slug": "aron",
+      "name_en": "Aron",
+      "name_ru": "Арон",
+      "source_name_en": "Aron"
+    },
+    {
+      "pokeapi_id": 305,
+      "slug": "lairon",
+      "name_en": "Lairon",
+      "name_ru": "Лайрон",
+      "source_name_en": "Lairon"
+    },
+    {
+      "pokeapi_id": 306,
+      "slug": "aggron",
+      "name_en": "Aggron",
+      "name_ru": "Аггрон",
+      "source_name_en": "Aggron"
+    },
+    {
+      "pokeapi_id": 307,
+      "slug": "meditite",
+      "name_en": "Meditite",
+      "name_ru": "Медитайт",
+      "source_name_en": "Meditite"
+    },
+    {
+      "pokeapi_id": 308,
+      "slug": "medicham",
+      "name_en": "Medicham",
+      "name_ru": "Медичам",
+      "source_name_en": "Medicham"
+    },
+    {
+      "pokeapi_id": 309,
+      "slug": "electrike",
+      "name_en": "Electrike",
+      "name_ru": "Электрайк",
+      "source_name_en": "Electrike"
+    },
+    {
+      "pokeapi_id": 310,
+      "slug": "manectric",
+      "name_en": "Manectric",
+      "name_ru": "Манектрик",
+      "source_name_en": "Manectric"
+    },
+    {
+      "pokeapi_id": 311,
+      "slug": "plusle",
+      "name_en": "Plusle",
+      "name_ru": "Пласл",
+      "source_name_en": "Plusle"
+    },
+    {
+      "pokeapi_id": 312,
+      "slug": "minun",
+      "name_en": "Minun",
+      "name_ru": "Майнун",
+      "source_name_en": "Minun"
+    },
+    {
+      "pokeapi_id": 313,
+      "slug": "volbeat",
+      "name_en": "Volbeat",
+      "name_ru": "Волбит",
+      "source_name_en": "Volbeat"
+    },
+    {
+      "pokeapi_id": 314,
+      "slug": "illumise",
+      "name_en": "Illumise",
+      "name_ru": "Иллюмайз",
+      "source_name_en": "Illumise"
+    },
+    {
+      "pokeapi_id": 315,
+      "slug": "roselia",
+      "name_en": "Roselia",
+      "name_ru": "Розелия",
+      "source_name_en": "Roselia"
+    },
+    {
+      "pokeapi_id": 316,
+      "slug": "gulpin",
+      "name_en": "Gulpin",
+      "name_ru": "Гальпин",
+      "source_name_en": "Gulpin"
+    },
+    {
+      "pokeapi_id": 317,
+      "slug": "swalot",
+      "name_en": "Swalot",
+      "name_ru": "Свалот",
+      "source_name_en": "Swalot"
+    },
+    {
+      "pokeapi_id": 318,
+      "slug": "carvanha",
+      "name_en": "Carvanha",
+      "name_ru": "Карванья",
+      "source_name_en": "Carvanha"
+    },
+    {
+      "pokeapi_id": 319,
+      "slug": "sharpedo",
+      "name_en": "Sharpedo",
+      "name_ru": "Шарпедо",
+      "source_name_en": "Sharpedo"
+    },
+    {
+      "pokeapi_id": 320,
+      "slug": "wailmer",
+      "name_en": "Wailmer",
+      "name_ru": "Вэйлмер",
+      "source_name_en": "Wailmer"
+    },
+    {
+      "pokeapi_id": 321,
+      "slug": "wailord",
+      "name_en": "Wailord",
+      "name_ru": "Вэйлорд",
+      "source_name_en": "Wailord"
+    },
+    {
+      "pokeapi_id": 322,
+      "slug": "numel",
+      "name_en": "Numel",
+      "name_ru": "Намел",
+      "source_name_en": "Numel"
+    },
+    {
+      "pokeapi_id": 323,
+      "slug": "camerupt",
+      "name_en": "Camerupt",
+      "name_ru": "Камерапт",
+      "source_name_en": "Camerupt"
+    },
+    {
+      "pokeapi_id": 324,
+      "slug": "torkoal",
+      "name_en": "Torkoal",
+      "name_ru": "Торкол",
+      "source_name_en": "Torkoal"
+    },
+    {
+      "pokeapi_id": 325,
+      "slug": "spoink",
+      "name_en": "Spoink",
+      "name_ru": "Споинк",
+      "source_name_en": "Spoink"
+    },
+    {
+      "pokeapi_id": 326,
+      "slug": "grumpig",
+      "name_en": "Grumpig",
+      "name_ru": "Грампиг",
+      "source_name_en": "Grumpig"
+    },
+    {
+      "pokeapi_id": 327,
+      "slug": "spinda",
+      "name_en": "Spinda",
+      "name_ru": "Спинда",
+      "source_name_en": "Spinda"
+    },
+    {
+      "pokeapi_id": 328,
+      "slug": "trapinch",
+      "name_en": "Trapinch",
+      "name_ru": "Трапинч",
+      "source_name_en": "Trapinch"
+    },
+    {
+      "pokeapi_id": 329,
+      "slug": "vibrava",
+      "name_en": "Vibrava",
+      "name_ru": "Вибрава",
+      "source_name_en": "Vibrava"
+    },
+    {
+      "pokeapi_id": 330,
+      "slug": "flygon",
+      "name_en": "Flygon",
+      "name_ru": "Флайгон",
+      "source_name_en": "Flygon"
+    },
+    {
+      "pokeapi_id": 331,
+      "slug": "cacnea",
+      "name_en": "Cacnea",
+      "name_ru": "Какнея",
+      "source_name_en": "Cacnea"
+    },
+    {
+      "pokeapi_id": 332,
+      "slug": "cacturne",
+      "name_en": "Cacturne",
+      "name_ru": "Кактурн",
+      "source_name_en": "Cacturne"
+    },
+    {
+      "pokeapi_id": 333,
+      "slug": "swablu",
+      "name_en": "Swablu",
+      "name_ru": "Сваблу",
+      "source_name_en": "Swablu"
+    },
+    {
+      "pokeapi_id": 334,
+      "slug": "altaria",
+      "name_en": "Altaria",
+      "name_ru": "Алтария",
+      "source_name_en": "Altaria"
+    },
+    {
+      "pokeapi_id": 335,
+      "slug": "zangoose",
+      "name_en": "Zangoose",
+      "name_ru": "Зангус",
+      "source_name_en": "Zangoose"
+    },
+    {
+      "pokeapi_id": 336,
+      "slug": "seviper",
+      "name_en": "Seviper",
+      "name_ru": "Севайпер",
+      "source_name_en": "Seviper"
+    },
+    {
+      "pokeapi_id": 337,
+      "slug": "lunatone",
+      "name_en": "Lunatone",
+      "name_ru": "Лунатон",
+      "source_name_en": "Lunatone"
+    },
+    {
+      "pokeapi_id": 338,
+      "slug": "solrock",
+      "name_en": "Solrock",
+      "name_ru": "Солрок",
+      "source_name_en": "Solrock"
+    },
+    {
+      "pokeapi_id": 339,
+      "slug": "barboach",
+      "name_en": "Barboach",
+      "name_ru": "Барбоч",
+      "source_name_en": "Barboach"
+    },
+    {
+      "pokeapi_id": 340,
+      "slug": "whiscash",
+      "name_en": "Whiscash",
+      "name_ru": "Вискаш",
+      "source_name_en": "Whiscash"
+    },
+    {
+      "pokeapi_id": 341,
+      "slug": "corphish",
+      "name_en": "Corphish",
+      "name_ru": "Корфиш",
+      "source_name_en": "Corphish"
+    },
+    {
+      "pokeapi_id": 342,
+      "slug": "crawdaunt",
+      "name_en": "Crawdaunt",
+      "name_ru": "Крадонт",
+      "source_name_en": "Crawdaunt"
+    },
+    {
+      "pokeapi_id": 343,
+      "slug": "baltoy",
+      "name_en": "Baltoy",
+      "name_ru": "Балтой",
+      "source_name_en": "Baltoy"
+    },
+    {
+      "pokeapi_id": 344,
+      "slug": "claydol",
+      "name_en": "Claydol",
+      "name_ru": "Клэйдол",
+      "source_name_en": "Claydol"
+    },
+    {
+      "pokeapi_id": 345,
+      "slug": "lileep",
+      "name_en": "Lileep",
+      "name_ru": "Лилип",
+      "source_name_en": "Lileep"
+    },
+    {
+      "pokeapi_id": 346,
+      "slug": "cradily",
+      "name_en": "Cradily",
+      "name_ru": "Крадили",
+      "source_name_en": "Cradily"
+    },
+    {
+      "pokeapi_id": 347,
+      "slug": "anorith",
+      "name_en": "Anorith",
+      "name_ru": "Анорит",
+      "source_name_en": "Anorith"
+    },
+    {
+      "pokeapi_id": 348,
+      "slug": "armaldo",
+      "name_en": "Armaldo",
+      "name_ru": "Армальдо",
+      "source_name_en": "Armaldo"
+    },
+    {
+      "pokeapi_id": 349,
+      "slug": "feebas",
+      "name_en": "Feebas",
+      "name_ru": "Фибас",
+      "source_name_en": "Feebas"
+    },
+    {
+      "pokeapi_id": 350,
+      "slug": "milotic",
+      "name_en": "Milotic",
+      "name_ru": "Майлотик",
+      "source_name_en": "Milotic"
+    },
+    {
+      "pokeapi_id": 351,
+      "slug": "castform",
+      "name_en": "Castform",
+      "name_ru": "Кастформ",
+      "source_name_en": "Castform"
+    },
+    {
+      "pokeapi_id": 352,
+      "slug": "kecleon",
+      "name_en": "Kecleon",
+      "name_ru": "Кеклеон",
+      "source_name_en": "Kecleon"
+    },
+    {
+      "pokeapi_id": 353,
+      "slug": "shuppet",
+      "name_en": "Shuppet",
+      "name_ru": "Шаппет",
+      "source_name_en": "Shuppet"
+    },
+    {
+      "pokeapi_id": 354,
+      "slug": "banette",
+      "name_en": "Banette",
+      "name_ru": "Банетт",
+      "source_name_en": "Banette"
+    },
+    {
+      "pokeapi_id": 355,
+      "slug": "duskull",
+      "name_en": "Duskull",
+      "name_ru": "Даскалл",
+      "source_name_en": "Duskull"
+    },
+    {
+      "pokeapi_id": 356,
+      "slug": "dusclops",
+      "name_en": "Dusclops",
+      "name_ru": "Дасклопс",
+      "source_name_en": "Dusclops"
+    },
+    {
+      "pokeapi_id": 357,
+      "slug": "tropius",
+      "name_en": "Tropius",
+      "name_ru": "Тропиус",
+      "source_name_en": "Tropius"
+    },
+    {
+      "pokeapi_id": 358,
+      "slug": "chimecho",
+      "name_en": "Chimecho",
+      "name_ru": "Чаймеко",
+      "source_name_en": "Chimecho"
+    },
+    {
+      "pokeapi_id": 359,
+      "slug": "absol",
+      "name_en": "Absol",
+      "name_ru": "Абсол",
+      "source_name_en": "Absol"
+    },
+    {
+      "pokeapi_id": 360,
+      "slug": "wynaut",
+      "name_en": "Wynaut",
+      "name_ru": "Вайнот",
+      "source_name_en": "Wynaut"
+    },
+    {
+      "pokeapi_id": 361,
+      "slug": "snorunt",
+      "name_en": "Snorunt",
+      "name_ru": "Снорант",
+      "source_name_en": "Snorunt"
+    },
+    {
+      "pokeapi_id": 362,
+      "slug": "glalie",
+      "name_en": "Glalie",
+      "name_ru": "Глейли",
+      "source_name_en": "Glalie"
+    },
+    {
+      "pokeapi_id": 363,
+      "slug": "spheal",
+      "name_en": "Spheal",
+      "name_ru": "Сфил",
+      "source_name_en": "Spheal"
+    },
+    {
+      "pokeapi_id": 364,
+      "slug": "sealeo",
+      "name_en": "Sealeo",
+      "name_ru": "Силео",
+      "source_name_en": "Sealeo"
+    },
+    {
+      "pokeapi_id": 365,
+      "slug": "walrein",
+      "name_en": "Walrein",
+      "name_ru": "Валрейн",
+      "source_name_en": "Walrein"
+    },
+    {
+      "pokeapi_id": 366,
+      "slug": "clamperl",
+      "name_en": "Clamperl",
+      "name_ru": "Кламперл",
+      "source_name_en": "Clamperl"
+    },
+    {
+      "pokeapi_id": 367,
+      "slug": "huntail",
+      "name_en": "Huntail",
+      "name_ru": "Хантейл",
+      "source_name_en": "Huntail"
+    },
+    {
+      "pokeapi_id": 368,
+      "slug": "gorebyss",
+      "name_en": "Gorebyss",
+      "name_ru": "Горбисс",
+      "source_name_en": "Gorebyss"
+    },
+    {
+      "pokeapi_id": 369,
+      "slug": "relicanth",
+      "name_en": "Relicanth",
+      "name_ru": "Реликант",
+      "source_name_en": "Relicanth"
+    },
+    {
+      "pokeapi_id": 370,
+      "slug": "luvdisc",
+      "name_en": "Luvdisc",
+      "name_ru": "Лавдиск",
+      "source_name_en": "Luvdisc"
+    },
+    {
+      "pokeapi_id": 371,
+      "slug": "bagon",
+      "name_en": "Bagon",
+      "name_ru": "Бейгон",
+      "source_name_en": "Bagon"
+    },
+    {
+      "pokeapi_id": 372,
+      "slug": "shelgon",
+      "name_en": "Shelgon",
+      "name_ru": "Шелгон",
+      "source_name_en": "Shelgon"
+    },
+    {
+      "pokeapi_id": 373,
+      "slug": "salamence",
+      "name_en": "Salamence",
+      "name_ru": "Саламенс",
+      "source_name_en": "Salamence"
+    },
+    {
+      "pokeapi_id": 374,
+      "slug": "beldum",
+      "name_en": "Beldum",
+      "name_ru": "Белдам",
+      "source_name_en": "Beldum"
+    },
+    {
+      "pokeapi_id": 375,
+      "slug": "metang",
+      "name_en": "Metang",
+      "name_ru": "Метанг",
+      "source_name_en": "Metang"
+    },
+    {
+      "pokeapi_id": 376,
+      "slug": "metagross",
+      "name_en": "Metagross",
+      "name_ru": "Метагросс",
+      "source_name_en": "Metagross"
+    },
+    {
+      "pokeapi_id": 377,
+      "slug": "regirock",
+      "name_en": "Regirock",
+      "name_ru": "Реджирок",
+      "source_name_en": "Regirock"
+    },
+    {
+      "pokeapi_id": 378,
+      "slug": "regice",
+      "name_en": "Regice",
+      "name_ru": "Реджайс",
+      "source_name_en": "Regice"
+    },
+    {
+      "pokeapi_id": 379,
+      "slug": "registeel",
+      "name_en": "Registeel",
+      "name_ru": "Реджистил",
+      "source_name_en": "Registeel"
+    },
+    {
+      "pokeapi_id": 380,
+      "slug": "latias",
+      "name_en": "Latias",
+      "name_ru": "Латиас",
+      "source_name_en": "Latias"
+    },
+    {
+      "pokeapi_id": 381,
+      "slug": "latios",
+      "name_en": "Latios",
+      "name_ru": "Латиос",
+      "source_name_en": "Latios"
+    },
+    {
+      "pokeapi_id": 382,
+      "slug": "kyogre",
+      "name_en": "Kyogre",
+      "name_ru": "Кайогр",
+      "source_name_en": "Kyogre"
+    },
+    {
+      "pokeapi_id": 383,
+      "slug": "groudon",
+      "name_en": "Groudon",
+      "name_ru": "Граудон",
+      "source_name_en": "Groudon"
+    },
+    {
+      "pokeapi_id": 384,
+      "slug": "rayquaza",
+      "name_en": "Rayquaza",
+      "name_ru": "Райкваза",
+      "source_name_en": "Rayquaza"
+    },
+    {
+      "pokeapi_id": 385,
+      "slug": "jirachi",
+      "name_en": "Jirachi",
+      "name_ru": "Джирачи",
+      "source_name_en": "Jirachi"
+    },
+    {
+      "pokeapi_id": 386,
+      "slug": "deoxys",
+      "name_en": "Deoxys",
+      "name_ru": "Деоксис",
+      "source_name_en": "Deoxys"
+    },
+    {
+      "pokeapi_id": 387,
+      "slug": "turtwig",
+      "name_en": "Turtwig",
+      "name_ru": "Тортвиг",
+      "source_name_en": "Turtwig"
+    },
+    {
+      "pokeapi_id": 388,
+      "slug": "grotle",
+      "name_en": "Grotle",
+      "name_ru": "Гротл",
+      "source_name_en": "Grotle"
+    },
+    {
+      "pokeapi_id": 389,
+      "slug": "torterra",
+      "name_en": "Torterra",
+      "name_ru": "Тортерра",
+      "source_name_en": "Torterra"
+    },
+    {
+      "pokeapi_id": 390,
+      "slug": "chimchar",
+      "name_en": "Chimchar",
+      "name_ru": "Чимчар",
+      "source_name_en": "Chimchar"
+    },
+    {
+      "pokeapi_id": 391,
+      "slug": "monferno",
+      "name_en": "Monferno",
+      "name_ru": "Монферно",
+      "source_name_en": "Monferno"
+    },
+    {
+      "pokeapi_id": 392,
+      "slug": "infernape",
+      "name_en": "Infernape",
+      "name_ru": "Инфернейп",
+      "source_name_en": "Infernape"
+    },
+    {
+      "pokeapi_id": 393,
+      "slug": "piplup",
+      "name_en": "Piplup",
+      "name_ru": "Пиплап",
+      "source_name_en": "Piplup"
+    },
+    {
+      "pokeapi_id": 394,
+      "slug": "prinplup",
+      "name_en": "Prinplup",
+      "name_ru": "Принплап",
+      "source_name_en": "Prinplup"
+    },
+    {
+      "pokeapi_id": 395,
+      "slug": "empoleon",
+      "name_en": "Empoleon",
+      "name_ru": "Эмполеон",
+      "source_name_en": "Empoleon"
+    },
+    {
+      "pokeapi_id": 396,
+      "slug": "starly",
+      "name_en": "Starly",
+      "name_ru": "Старли",
+      "source_name_en": "Starly"
+    },
+    {
+      "pokeapi_id": 397,
+      "slug": "staravia",
+      "name_en": "Staravia",
+      "name_ru": "Старавия",
+      "source_name_en": "Staravia"
+    },
+    {
+      "pokeapi_id": 398,
+      "slug": "staraptor",
+      "name_en": "Staraptor",
+      "name_ru": "Стараптор",
+      "source_name_en": "Staraptor"
+    },
+    {
+      "pokeapi_id": 399,
+      "slug": "bidoof",
+      "name_en": "Bidoof",
+      "name_ru": "Бидуф",
+      "source_name_en": "Bidoof"
+    },
+    {
+      "pokeapi_id": 400,
+      "slug": "bibarel",
+      "name_en": "Bibarel",
+      "name_ru": "Бибарел",
+      "source_name_en": "Bibarel"
+    },
+    {
+      "pokeapi_id": 401,
+      "slug": "kricketot",
+      "name_en": "Kricketot",
+      "name_ru": "Крикетот",
+      "source_name_en": "Kricketot"
+    },
+    {
+      "pokeapi_id": 402,
+      "slug": "kricketune",
+      "name_en": "Kricketune",
+      "name_ru": "Крикетун",
+      "source_name_en": "Kricketune"
+    },
+    {
+      "pokeapi_id": 403,
+      "slug": "shinx",
+      "name_en": "Shinx",
+      "name_ru": "Шинкс",
+      "source_name_en": "Shinx"
+    },
+    {
+      "pokeapi_id": 404,
+      "slug": "luxio",
+      "name_en": "Luxio",
+      "name_ru": "Лаксио",
+      "source_name_en": "Luxio"
+    },
+    {
+      "pokeapi_id": 405,
+      "slug": "luxray",
+      "name_en": "Luxray",
+      "name_ru": "Лаксрэй",
+      "source_name_en": "Luxray"
+    },
+    {
+      "pokeapi_id": 406,
+      "slug": "budew",
+      "name_en": "Budew",
+      "name_ru": "Бадью",
+      "source_name_en": "Budew"
+    },
+    {
+      "pokeapi_id": 407,
+      "slug": "roserade",
+      "name_en": "Roserade",
+      "name_ru": "Розрейд",
+      "source_name_en": "Roserade"
+    },
+    {
+      "pokeapi_id": 408,
+      "slug": "cranidos",
+      "name_en": "Cranidos",
+      "name_ru": "Кранидос",
+      "source_name_en": "Cranidos"
+    },
+    {
+      "pokeapi_id": 409,
+      "slug": "rampardos",
+      "name_en": "Rampardos",
+      "name_ru": "Рэмпардос",
+      "source_name_en": "Rampardos"
+    },
+    {
+      "pokeapi_id": 410,
+      "slug": "shieldon",
+      "name_en": "Shieldon",
+      "name_ru": "Шилдон",
+      "source_name_en": "Shieldon"
+    },
+    {
+      "pokeapi_id": 411,
+      "slug": "bastiodon",
+      "name_en": "Bastiodon",
+      "name_ru": "Бастиодон",
+      "source_name_en": "Bastiodon"
+    },
+    {
+      "pokeapi_id": 412,
+      "slug": "burmy",
+      "name_en": "Burmy",
+      "name_ru": "Бурми",
+      "source_name_en": "Burmy"
+    },
+    {
+      "pokeapi_id": 413,
+      "slug": "wormadam",
+      "name_en": "Wormadam",
+      "name_ru": "Вормадам",
+      "source_name_en": "Wormadam"
+    },
+    {
+      "pokeapi_id": 414,
+      "slug": "mothim",
+      "name_en": "Mothim",
+      "name_ru": "Мотим",
+      "source_name_en": "Mothim"
+    },
+    {
+      "pokeapi_id": 415,
+      "slug": "combee",
+      "name_en": "Combee",
+      "name_ru": "Комби",
+      "source_name_en": "Combee"
+    },
+    {
+      "pokeapi_id": 416,
+      "slug": "vespiquen",
+      "name_en": "Vespiquen",
+      "name_ru": "Веспиквен",
+      "source_name_en": "Vespiquen"
+    },
+    {
+      "pokeapi_id": 417,
+      "slug": "pachirisu",
+      "name_en": "Pachirisu",
+      "name_ru": "Пачирису",
+      "source_name_en": "Pachirisu"
+    },
+    {
+      "pokeapi_id": 418,
+      "slug": "buizel",
+      "name_en": "Buizel",
+      "name_ru": "Буизел",
+      "source_name_en": "Buizel"
+    },
+    {
+      "pokeapi_id": 419,
+      "slug": "floatzel",
+      "name_en": "Floatzel",
+      "name_ru": "Флоатзель",
+      "source_name_en": "Floatzel"
+    },
+    {
+      "pokeapi_id": 420,
+      "slug": "cherubi",
+      "name_en": "Cherubi",
+      "name_ru": "Чераби",
+      "source_name_en": "Cherubi"
+    },
+    {
+      "pokeapi_id": 421,
+      "slug": "cherrim",
+      "name_en": "Cherrim",
+      "name_ru": "Черрим",
+      "source_name_en": "Cherrim"
+    },
+    {
+      "pokeapi_id": 422,
+      "slug": "shellos",
+      "name_en": "Shellos",
+      "name_ru": "Шеллос",
+      "source_name_en": "Shellos"
+    },
+    {
+      "pokeapi_id": 423,
+      "slug": "gastrodon",
+      "name_en": "Gastrodon",
+      "name_ru": "Гастродон",
+      "source_name_en": "Gastrodon"
+    },
+    {
+      "pokeapi_id": 424,
+      "slug": "ambipom",
+      "name_en": "Ambipom",
+      "name_ru": "Амбипом",
+      "source_name_en": "Ambipom"
+    },
+    {
+      "pokeapi_id": 425,
+      "slug": "drifloon",
+      "name_en": "Drifloon",
+      "name_ru": "Дрифлун",
+      "source_name_en": "Drifloon"
+    },
+    {
+      "pokeapi_id": 426,
+      "slug": "drifblim",
+      "name_en": "Drifblim",
+      "name_ru": "Дрифблим",
+      "source_name_en": "Drifblim"
+    },
+    {
+      "pokeapi_id": 427,
+      "slug": "buneary",
+      "name_en": "Buneary",
+      "name_ru": "Бунири",
+      "source_name_en": "Buneary"
+    },
+    {
+      "pokeapi_id": 428,
+      "slug": "lopunny",
+      "name_en": "Lopunny",
+      "name_ru": "Лопанни",
+      "source_name_en": "Lopunny"
+    },
+    {
+      "pokeapi_id": 429,
+      "slug": "mismagius",
+      "name_en": "Mismagius",
+      "name_ru": "Мисмагиус",
+      "source_name_en": "Mismagius"
+    },
+    {
+      "pokeapi_id": 430,
+      "slug": "honchkrow",
+      "name_en": "Honchkrow",
+      "name_ru": "Хончкроу",
+      "source_name_en": "Honchkrow"
+    },
+    {
+      "pokeapi_id": 431,
+      "slug": "glameow",
+      "name_en": "Glameow",
+      "name_ru": "Глеймяу",
+      "source_name_en": "Glameow"
+    },
+    {
+      "pokeapi_id": 432,
+      "slug": "purugly",
+      "name_en": "Purugly",
+      "name_ru": "Парагли",
+      "source_name_en": "Purugly"
+    },
+    {
+      "pokeapi_id": 433,
+      "slug": "chingling",
+      "name_en": "Chingling",
+      "name_ru": "Чинглинг",
+      "source_name_en": "Chingling"
+    },
+    {
+      "pokeapi_id": 434,
+      "slug": "stunky",
+      "name_en": "Stunky",
+      "name_ru": "Станки",
+      "source_name_en": "Stunky"
+    },
+    {
+      "pokeapi_id": 435,
+      "slug": "skuntank",
+      "name_en": "Skuntank",
+      "name_ru": "Скантанк",
+      "source_name_en": "Skuntank"
+    },
+    {
+      "pokeapi_id": 436,
+      "slug": "bronzor",
+      "name_en": "Bronzor",
+      "name_ru": "Бронзор",
+      "source_name_en": "Bronzor"
+    },
+    {
+      "pokeapi_id": 437,
+      "slug": "bronzong",
+      "name_en": "Bronzong",
+      "name_ru": "Бронзонг",
+      "source_name_en": "Bronzong"
+    },
+    {
+      "pokeapi_id": 438,
+      "slug": "bonsly",
+      "name_en": "Bonsly",
+      "name_ru": "Бонслай",
+      "source_name_en": "Bonsly"
+    },
+    {
+      "pokeapi_id": 439,
+      "slug": "mime-jr",
+      "name_en": "Mime Jr",
+      "name_ru": "Майм-Джуниор",
+      "source_name_en": "Mime Jr."
+    },
+    {
+      "pokeapi_id": 440,
+      "slug": "happiny",
+      "name_en": "Happiny",
+      "name_ru": "Хаппини",
+      "source_name_en": "Happiny"
+    },
+    {
+      "pokeapi_id": 441,
+      "slug": "chatot",
+      "name_en": "Chatot",
+      "name_ru": "Чатот",
+      "source_name_en": "Chatot"
+    },
+    {
+      "pokeapi_id": 442,
+      "slug": "spiritomb",
+      "name_en": "Spiritomb",
+      "name_ru": "Спиритум",
+      "source_name_en": "Spiritomb"
+    },
+    {
+      "pokeapi_id": 443,
+      "slug": "gible",
+      "name_en": "Gible",
+      "name_ru": "Гибл",
+      "source_name_en": "Gible"
+    },
+    {
+      "pokeapi_id": 444,
+      "slug": "gabite",
+      "name_en": "Gabite",
+      "name_ru": "Габайт",
+      "source_name_en": "Gabite"
+    },
+    {
+      "pokeapi_id": 445,
+      "slug": "garchomp",
+      "name_en": "Garchomp",
+      "name_ru": "Гарчомп",
+      "source_name_en": "Garchomp"
+    },
+    {
+      "pokeapi_id": 446,
+      "slug": "munchlax",
+      "name_en": "Munchlax",
+      "name_ru": "Манчлакс",
+      "source_name_en": "Munchlax"
+    },
+    {
+      "pokeapi_id": 447,
+      "slug": "riolu",
+      "name_en": "Riolu",
+      "name_ru": "Риолу",
+      "source_name_en": "Riolu"
+    },
+    {
+      "pokeapi_id": 448,
+      "slug": "lucario",
+      "name_en": "Lucario",
+      "name_ru": "Лукарио",
+      "source_name_en": "Lucario"
+    },
+    {
+      "pokeapi_id": 449,
+      "slug": "hippopotas",
+      "name_en": "Hippopotas",
+      "name_ru": "Гиппопотас",
+      "source_name_en": "Hippopotas"
+    },
+    {
+      "pokeapi_id": 450,
+      "slug": "hippowdon",
+      "name_en": "Hippowdon",
+      "name_ru": "Гипподон",
+      "source_name_en": "Hippowdon"
+    },
+    {
+      "pokeapi_id": 451,
+      "slug": "skorupi",
+      "name_en": "Skorupi",
+      "name_ru": "Скорупи",
+      "source_name_en": "Skorupi"
+    },
+    {
+      "pokeapi_id": 452,
+      "slug": "drapion",
+      "name_en": "Drapion",
+      "name_ru": "Драпион",
+      "source_name_en": "Drapion"
+    },
+    {
+      "pokeapi_id": 453,
+      "slug": "croagunk",
+      "name_en": "Croagunk",
+      "name_ru": "Кроганк",
+      "source_name_en": "Croagunk"
+    },
+    {
+      "pokeapi_id": 454,
+      "slug": "toxicroak",
+      "name_en": "Toxicroak",
+      "name_ru": "Токсикроук",
+      "source_name_en": "Toxicroak"
+    },
+    {
+      "pokeapi_id": 455,
+      "slug": "carnivine",
+      "name_en": "Carnivine",
+      "name_ru": "Карнивайн",
+      "source_name_en": "Carnivine"
+    },
+    {
+      "pokeapi_id": 456,
+      "slug": "finneon",
+      "name_en": "Finneon",
+      "name_ru": "Финнеон",
+      "source_name_en": "Finneon"
+    },
+    {
+      "pokeapi_id": 457,
+      "slug": "lumineon",
+      "name_en": "Lumineon",
+      "name_ru": "Люминеон",
+      "source_name_en": "Lumineon"
+    },
+    {
+      "pokeapi_id": 458,
+      "slug": "mantyke",
+      "name_en": "Mantyke",
+      "name_ru": "Мантайк",
+      "source_name_en": "Mantyke"
+    },
+    {
+      "pokeapi_id": 459,
+      "slug": "snover",
+      "name_en": "Snover",
+      "name_ru": "Сноувер",
+      "source_name_en": "Snover"
+    },
+    {
+      "pokeapi_id": 460,
+      "slug": "abomasnow",
+      "name_en": "Abomasnow",
+      "name_ru": "Абомасноу",
+      "source_name_en": "Abomasnow"
+    },
+    {
+      "pokeapi_id": 461,
+      "slug": "weavile",
+      "name_en": "Weavile",
+      "name_ru": "Вивайл",
+      "source_name_en": "Weavile"
+    },
+    {
+      "pokeapi_id": 462,
+      "slug": "magnezone",
+      "name_en": "Magnezone",
+      "name_ru": "Магнезон",
+      "source_name_en": "Magnezone"
+    },
+    {
+      "pokeapi_id": 463,
+      "slug": "lickilicky",
+      "name_en": "Lickilicky",
+      "name_ru": "Ликилики",
+      "source_name_en": "Lickilicky"
+    },
+    {
+      "pokeapi_id": 464,
+      "slug": "rhyperior",
+      "name_en": "Rhyperior",
+      "name_ru": "Райпериор",
+      "source_name_en": "Rhyperior"
+    },
+    {
+      "pokeapi_id": 465,
+      "slug": "tangrowth",
+      "name_en": "Tangrowth",
+      "name_ru": "Тэнгроут",
+      "source_name_en": "Tangrowth"
+    },
+    {
+      "pokeapi_id": 466,
+      "slug": "electivire",
+      "name_en": "Electivire",
+      "name_ru": "Элективайр",
+      "source_name_en": "Electivire"
+    },
+    {
+      "pokeapi_id": 467,
+      "slug": "magmortar",
+      "name_en": "Magmortar",
+      "name_ru": "Магмортар",
+      "source_name_en": "Magmortar"
+    },
+    {
+      "pokeapi_id": 468,
+      "slug": "togekiss",
+      "name_en": "Togekiss",
+      "name_ru": "Тогекисс",
+      "source_name_en": "Togekiss"
+    },
+    {
+      "pokeapi_id": 469,
+      "slug": "yanmega",
+      "name_en": "Yanmega",
+      "name_ru": "Янмега",
+      "source_name_en": "Yanmega"
+    },
+    {
+      "pokeapi_id": 470,
+      "slug": "leafeon",
+      "name_en": "Leafeon",
+      "name_ru": "Лифеон",
+      "source_name_en": "Leafeon"
+    },
+    {
+      "pokeapi_id": 471,
+      "slug": "glaceon",
+      "name_en": "Glaceon",
+      "name_ru": "Глейсеон",
+      "source_name_en": "Glaceon"
+    },
+    {
+      "pokeapi_id": 472,
+      "slug": "gliscor",
+      "name_en": "Gliscor",
+      "name_ru": "Глайскор",
+      "source_name_en": "Gliscor"
+    },
+    {
+      "pokeapi_id": 473,
+      "slug": "mamoswine",
+      "name_en": "Mamoswine",
+      "name_ru": "Мамосвайн",
+      "source_name_en": "Mamoswine"
+    },
+    {
+      "pokeapi_id": 474,
+      "slug": "porygon-z",
+      "name_en": "Porygon Z",
+      "name_ru": "Поригон-Z",
+      "source_name_en": "Porygon-Z"
+    },
+    {
+      "pokeapi_id": 475,
+      "slug": "gallade",
+      "name_en": "Gallade",
+      "name_ru": "Галлейд",
+      "source_name_en": "Gallade"
+    },
+    {
+      "pokeapi_id": 476,
+      "slug": "probopass",
+      "name_en": "Probopass",
+      "name_ru": "Пробопасс",
+      "source_name_en": "Probopass"
+    },
+    {
+      "pokeapi_id": 477,
+      "slug": "dusknoir",
+      "name_en": "Dusknoir",
+      "name_ru": "Даскнуар",
+      "source_name_en": "Dusknoir"
+    },
+    {
+      "pokeapi_id": 478,
+      "slug": "froslass",
+      "name_en": "Froslass",
+      "name_ru": "Фросласс",
+      "source_name_en": "Froslass"
+    },
+    {
+      "pokeapi_id": 479,
+      "slug": "rotom",
+      "name_en": "Rotom",
+      "name_ru": "Ротом",
+      "source_name_en": "Rotom"
+    },
+    {
+      "pokeapi_id": 480,
+      "slug": "uxie",
+      "name_en": "Uxie",
+      "name_ru": "Юкси",
+      "source_name_en": "Uxie"
+    },
+    {
+      "pokeapi_id": 481,
+      "slug": "mesprit",
+      "name_en": "Mesprit",
+      "name_ru": "Месприт",
+      "source_name_en": "Mesprit"
+    },
+    {
+      "pokeapi_id": 482,
+      "slug": "azelf",
+      "name_en": "Azelf",
+      "name_ru": "Азелф",
+      "source_name_en": "Azelf"
+    },
+    {
+      "pokeapi_id": 483,
+      "slug": "dialga",
+      "name_en": "Dialga",
+      "name_ru": "Диалга",
+      "source_name_en": "Dialga"
+    },
+    {
+      "pokeapi_id": 484,
+      "slug": "palkia",
+      "name_en": "Palkia",
+      "name_ru": "Палкия",
+      "source_name_en": "Palkia"
+    },
+    {
+      "pokeapi_id": 485,
+      "slug": "heatran",
+      "name_en": "Heatran",
+      "name_ru": "Хитран",
+      "source_name_en": "Heatran"
+    },
+    {
+      "pokeapi_id": 486,
+      "slug": "regigigas",
+      "name_en": "Regigigas",
+      "name_ru": "Реджигигас",
+      "source_name_en": "Regigigas"
+    },
+    {
+      "pokeapi_id": 487,
+      "slug": "giratina",
+      "name_en": "Giratina",
+      "name_ru": "Гиратина",
+      "source_name_en": "Giratina"
+    },
+    {
+      "pokeapi_id": 488,
+      "slug": "cresselia",
+      "name_en": "Cresselia",
+      "name_ru": "Кресселия",
+      "source_name_en": "Cresselia"
+    },
+    {
+      "pokeapi_id": 489,
+      "slug": "phione",
+      "name_en": "Phione",
+      "name_ru": "Фиона",
+      "source_name_en": "Phione"
+    },
+    {
+      "pokeapi_id": 490,
+      "slug": "manaphy",
+      "name_en": "Manaphy",
+      "name_ru": "Манафи",
+      "source_name_en": "Manaphy"
+    },
+    {
+      "pokeapi_id": 491,
+      "slug": "darkrai",
+      "name_en": "Darkrai",
+      "name_ru": "Даркрай",
+      "source_name_en": "Darkrai"
+    },
+    {
+      "pokeapi_id": 492,
+      "slug": "shaymin",
+      "name_en": "Shaymin",
+      "name_ru": "Шеймин",
+      "source_name_en": "Shaymin"
+    },
+    {
+      "pokeapi_id": 493,
+      "slug": "arceus",
+      "name_en": "Arceus",
+      "name_ru": "Аркеус",
+      "source_name_en": "Arceus"
+    },
+    {
+      "pokeapi_id": 494,
+      "slug": "victini",
+      "name_en": "Victini",
+      "name_ru": "Виктини",
+      "source_name_en": "Victini"
+    },
+    {
+      "pokeapi_id": 495,
+      "slug": "snivy",
+      "name_en": "Snivy",
+      "name_ru": "Снайви",
+      "source_name_en": "Snivy"
+    },
+    {
+      "pokeapi_id": 496,
+      "slug": "servine",
+      "name_en": "Servine",
+      "name_ru": "Сервайн",
+      "source_name_en": "Servine"
+    },
+    {
+      "pokeapi_id": 497,
+      "slug": "serperior",
+      "name_en": "Serperior",
+      "name_ru": "Серпериор",
+      "source_name_en": "Serperior"
+    },
+    {
+      "pokeapi_id": 498,
+      "slug": "tepig",
+      "name_en": "Tepig",
+      "name_ru": "Тепиг",
+      "source_name_en": "Tepig"
+    },
+    {
+      "pokeapi_id": 499,
+      "slug": "pignite",
+      "name_en": "Pignite",
+      "name_ru": "Пигнайт",
+      "source_name_en": "Pignite"
+    },
+    {
+      "pokeapi_id": 500,
+      "slug": "emboar",
+      "name_en": "Emboar",
+      "name_ru": "Эмбор",
+      "source_name_en": "Emboar"
+    },
+    {
+      "pokeapi_id": 501,
+      "slug": "oshawott",
+      "name_en": "Oshawott",
+      "name_ru": "Ошавотт",
+      "source_name_en": "Oshawott"
+    },
+    {
+      "pokeapi_id": 502,
+      "slug": "dewott",
+      "name_en": "Dewott",
+      "name_ru": "Девотт",
+      "source_name_en": "Dewott"
+    },
+    {
+      "pokeapi_id": 503,
+      "slug": "samurott",
+      "name_en": "Samurott",
+      "name_ru": "Самуротт",
+      "source_name_en": "Samurott"
+    },
+    {
+      "pokeapi_id": 504,
+      "slug": "patrat",
+      "name_en": "Patrat",
+      "name_ru": "Патрат",
+      "source_name_en": "Patrat"
+    },
+    {
+      "pokeapi_id": 505,
+      "slug": "watchog",
+      "name_en": "Watchog",
+      "name_ru": "Уочхог",
+      "source_name_en": "Watchog"
+    },
+    {
+      "pokeapi_id": 506,
+      "slug": "lillipup",
+      "name_en": "Lillipup",
+      "name_ru": "Лиллипап",
+      "source_name_en": "Lillipup"
+    },
+    {
+      "pokeapi_id": 507,
+      "slug": "herdier",
+      "name_en": "Herdier",
+      "name_ru": "Хардиер",
+      "source_name_en": "Herdier"
+    },
+    {
+      "pokeapi_id": 508,
+      "slug": "stoutland",
+      "name_en": "Stoutland",
+      "name_ru": "Стаутлэнд",
+      "source_name_en": "Stoutland"
+    },
+    {
+      "pokeapi_id": 509,
+      "slug": "purrloin",
+      "name_en": "Purrloin",
+      "name_ru": "Пуррлойн",
+      "source_name_en": "Purrloin"
+    },
+    {
+      "pokeapi_id": 510,
+      "slug": "liepard",
+      "name_en": "Liepard",
+      "name_ru": "Лайпард",
+      "source_name_en": "Liepard"
+    },
+    {
+      "pokeapi_id": 511,
+      "slug": "pansage",
+      "name_en": "Pansage",
+      "name_ru": "Пансейдж",
+      "source_name_en": "Pansage"
+    },
+    {
+      "pokeapi_id": 512,
+      "slug": "simisage",
+      "name_en": "Simisage",
+      "name_ru": "Симисейдж",
+      "source_name_en": "Simisage"
+    },
+    {
+      "pokeapi_id": 513,
+      "slug": "pansear",
+      "name_en": "Pansear",
+      "name_ru": "Пансир",
+      "source_name_en": "Pansear"
+    },
+    {
+      "pokeapi_id": 514,
+      "slug": "simisear",
+      "name_en": "Simisear",
+      "name_ru": "Симисир",
+      "source_name_en": "Simisear"
+    },
+    {
+      "pokeapi_id": 515,
+      "slug": "panpour",
+      "name_en": "Panpour",
+      "name_ru": "Панпур",
+      "source_name_en": "Panpour"
+    },
+    {
+      "pokeapi_id": 516,
+      "slug": "simipour",
+      "name_en": "Simipour",
+      "name_ru": "Симипур",
+      "source_name_en": "Simipour"
+    },
+    {
+      "pokeapi_id": 517,
+      "slug": "munna",
+      "name_en": "Munna",
+      "name_ru": "Мунна",
+      "source_name_en": "Munna"
+    },
+    {
+      "pokeapi_id": 518,
+      "slug": "musharna",
+      "name_en": "Musharna",
+      "name_ru": "Мушарна",
+      "source_name_en": "Musharna"
+    },
+    {
+      "pokeapi_id": 519,
+      "slug": "pidove",
+      "name_en": "Pidove",
+      "name_ru": "Пидав",
+      "source_name_en": "Pidove"
+    },
+    {
+      "pokeapi_id": 520,
+      "slug": "tranquill",
+      "name_en": "Tranquill",
+      "name_ru": "Транквилл",
+      "source_name_en": "Tranquill"
+    },
+    {
+      "pokeapi_id": 521,
+      "slug": "unfezant",
+      "name_en": "Unfezant",
+      "name_ru": "Унфезант",
+      "source_name_en": "Unfezant"
+    },
+    {
+      "pokeapi_id": 522,
+      "slug": "blitzle",
+      "name_en": "Blitzle",
+      "name_ru": "Блитцл",
+      "source_name_en": "Blitzle"
+    },
+    {
+      "pokeapi_id": 523,
+      "slug": "zebstrika",
+      "name_en": "Zebstrika",
+      "name_ru": "Зебстрика",
+      "source_name_en": "Zebstrika"
+    },
+    {
+      "pokeapi_id": 524,
+      "slug": "roggenrola",
+      "name_en": "Roggenrola",
+      "name_ru": "Роггенрола",
+      "source_name_en": "Roggenrola"
+    },
+    {
+      "pokeapi_id": 525,
+      "slug": "boldore",
+      "name_en": "Boldore",
+      "name_ru": "Болдор",
+      "source_name_en": "Boldore"
+    },
+    {
+      "pokeapi_id": 526,
+      "slug": "gigalith",
+      "name_en": "Gigalith",
+      "name_ru": "Гигалит",
+      "source_name_en": "Gigalith"
+    },
+    {
+      "pokeapi_id": 527,
+      "slug": "woobat",
+      "name_en": "Woobat",
+      "name_ru": "Вубат",
+      "source_name_en": "Woobat"
+    },
+    {
+      "pokeapi_id": 528,
+      "slug": "swoobat",
+      "name_en": "Swoobat",
+      "name_ru": "Свубат",
+      "source_name_en": "Swoobat"
+    },
+    {
+      "pokeapi_id": 529,
+      "slug": "drilbur",
+      "name_en": "Drilbur",
+      "name_ru": "Дрилбур",
+      "source_name_en": "Drilbur"
+    },
+    {
+      "pokeapi_id": 530,
+      "slug": "excadrill",
+      "name_en": "Excadrill",
+      "name_ru": "Экскадрилл",
+      "source_name_en": "Excadrill"
+    },
+    {
+      "pokeapi_id": 531,
+      "slug": "audino",
+      "name_en": "Audino",
+      "name_ru": "Одино",
+      "source_name_en": "Audino"
+    },
+    {
+      "pokeapi_id": 532,
+      "slug": "timburr",
+      "name_en": "Timburr",
+      "name_ru": "Тимбёрр",
+      "source_name_en": "Timburr"
+    },
+    {
+      "pokeapi_id": 533,
+      "slug": "gurdurr",
+      "name_en": "Gurdurr",
+      "name_ru": "Гурдурр",
+      "source_name_en": "Gurdurr"
+    },
+    {
+      "pokeapi_id": 534,
+      "slug": "conkeldurr",
+      "name_en": "Conkeldurr",
+      "name_ru": "Конкельдурр",
+      "source_name_en": "Conkeldurr"
+    },
+    {
+      "pokeapi_id": 535,
+      "slug": "tympole",
+      "name_en": "Tympole",
+      "name_ru": "Тимпоул",
+      "source_name_en": "Tympole"
+    },
+    {
+      "pokeapi_id": 536,
+      "slug": "palpitoad",
+      "name_en": "Palpitoad",
+      "name_ru": "Палпитоуд",
+      "source_name_en": "Palpitoad"
+    },
+    {
+      "pokeapi_id": 537,
+      "slug": "seismitoad",
+      "name_en": "Seismitoad",
+      "name_ru": "Сейсмитоуд",
+      "source_name_en": "Seismitoad"
+    },
+    {
+      "pokeapi_id": 538,
+      "slug": "throh",
+      "name_en": "Throh",
+      "name_ru": "Трох",
+      "source_name_en": "Throh"
+    },
+    {
+      "pokeapi_id": 539,
+      "slug": "sawk",
+      "name_en": "Sawk",
+      "name_ru": "Суок",
+      "source_name_en": "Sawk"
+    },
+    {
+      "pokeapi_id": 540,
+      "slug": "sewaddle",
+      "name_en": "Sewaddle",
+      "name_ru": "Севаддл",
+      "source_name_en": "Sewaddle"
+    },
+    {
+      "pokeapi_id": 541,
+      "slug": "swadloon",
+      "name_en": "Swadloon",
+      "name_ru": "Свадлун",
+      "source_name_en": "Swadloon"
+    },
+    {
+      "pokeapi_id": 542,
+      "slug": "leavanny",
+      "name_en": "Leavanny",
+      "name_ru": "Ливанни",
+      "source_name_en": "Leavanny"
+    },
+    {
+      "pokeapi_id": 543,
+      "slug": "venipede",
+      "name_en": "Venipede",
+      "name_ru": "Венипид",
+      "source_name_en": "Venipede"
+    },
+    {
+      "pokeapi_id": 544,
+      "slug": "whirlipede",
+      "name_en": "Whirlipede",
+      "name_ru": "Вирлипид",
+      "source_name_en": "Whirlipede"
+    },
+    {
+      "pokeapi_id": 545,
+      "slug": "scolipede",
+      "name_en": "Scolipede",
+      "name_ru": "Сколипид",
+      "source_name_en": "Scolipede"
+    },
+    {
+      "pokeapi_id": 546,
+      "slug": "cottonee",
+      "name_en": "Cottonee",
+      "name_ru": "Коттони",
+      "source_name_en": "Cottonee"
+    },
+    {
+      "pokeapi_id": 547,
+      "slug": "whimsicott",
+      "name_en": "Whimsicott",
+      "name_ru": "Вимсикотт",
+      "source_name_en": "Whimsicott"
+    },
+    {
+      "pokeapi_id": 548,
+      "slug": "petilil",
+      "name_en": "Petilil",
+      "name_ru": "Петилил",
+      "source_name_en": "Petilil"
+    },
+    {
+      "pokeapi_id": 549,
+      "slug": "lilligant",
+      "name_en": "Lilligant",
+      "name_ru": "Лиллигант",
+      "source_name_en": "Lilligant"
+    },
+    {
+      "pokeapi_id": 550,
+      "slug": "basculin",
+      "name_en": "Basculin",
+      "name_ru": "Баскулин",
+      "source_name_en": "Basculin"
+    },
+    {
+      "pokeapi_id": 551,
+      "slug": "sandile",
+      "name_en": "Sandile",
+      "name_ru": "Сэндайл",
+      "source_name_en": "Sandile"
+    },
+    {
+      "pokeapi_id": 552,
+      "slug": "krokorok",
+      "name_en": "Krokorok",
+      "name_ru": "Крокорок",
+      "source_name_en": "Krokorok"
+    },
+    {
+      "pokeapi_id": 553,
+      "slug": "krookodile",
+      "name_en": "Krookodile",
+      "name_ru": "Крукодайл",
+      "source_name_en": "Krookodile"
+    },
+    {
+      "pokeapi_id": 554,
+      "slug": "darumaka",
+      "name_en": "Darumaka",
+      "name_ru": "Дарумака",
+      "source_name_en": "Darumaka"
+    },
+    {
+      "pokeapi_id": 555,
+      "slug": "darmanitan",
+      "name_en": "Darmanitan",
+      "name_ru": "Дарманитан",
+      "source_name_en": "Darmanitan"
+    },
+    {
+      "pokeapi_id": 556,
+      "slug": "maractus",
+      "name_en": "Maractus",
+      "name_ru": "Марактус",
+      "source_name_en": "Maractus"
+    },
+    {
+      "pokeapi_id": 557,
+      "slug": "dwebble",
+      "name_en": "Dwebble",
+      "name_ru": "Двеббл",
+      "source_name_en": "Dwebble"
+    },
+    {
+      "pokeapi_id": 558,
+      "slug": "crustle",
+      "name_en": "Crustle",
+      "name_ru": "Крастл",
+      "source_name_en": "Crustle"
+    },
+    {
+      "pokeapi_id": 559,
+      "slug": "scraggy",
+      "name_en": "Scraggy",
+      "name_ru": "Скрэгги",
+      "source_name_en": "Scraggy"
+    },
+    {
+      "pokeapi_id": 560,
+      "slug": "scrafty",
+      "name_en": "Scrafty",
+      "name_ru": "Скрафти",
+      "source_name_en": "Scrafty"
+    },
+    {
+      "pokeapi_id": 561,
+      "slug": "sigilyph",
+      "name_en": "Sigilyph",
+      "name_ru": "Сигилиф",
+      "source_name_en": "Sigilyph"
+    },
+    {
+      "pokeapi_id": 562,
+      "slug": "yamask",
+      "name_en": "Yamask",
+      "name_ru": "Ямаск",
+      "source_name_en": "Yamask"
+    },
+    {
+      "pokeapi_id": 563,
+      "slug": "cofagrigus",
+      "name_en": "Cofagrigus",
+      "name_ru": "Кофагригус",
+      "source_name_en": "Cofagrigus"
+    },
+    {
+      "pokeapi_id": 564,
+      "slug": "tirtouga",
+      "name_en": "Tirtouga",
+      "name_ru": "Тиртуга",
+      "source_name_en": "Tirtouga"
+    },
+    {
+      "pokeapi_id": 565,
+      "slug": "carracosta",
+      "name_en": "Carracosta",
+      "name_ru": "Карракоста",
+      "source_name_en": "Carracosta"
+    },
+    {
+      "pokeapi_id": 566,
+      "slug": "archen",
+      "name_en": "Archen",
+      "name_ru": "Аркен",
+      "source_name_en": "Archen"
+    },
+    {
+      "pokeapi_id": 567,
+      "slug": "archeops",
+      "name_en": "Archeops",
+      "name_ru": "Аркеопс",
+      "source_name_en": "Archeops"
+    },
+    {
+      "pokeapi_id": 568,
+      "slug": "trubbish",
+      "name_en": "Trubbish",
+      "name_ru": "Траббиш",
+      "source_name_en": "Trubbish"
+    },
+    {
+      "pokeapi_id": 569,
+      "slug": "garbodor",
+      "name_en": "Garbodor",
+      "name_ru": "Гарбодор",
+      "source_name_en": "Garbodor"
+    },
+    {
+      "pokeapi_id": 570,
+      "slug": "zorua",
+      "name_en": "Zorua",
+      "name_ru": "Зоруа",
+      "source_name_en": "Zorua"
+    },
+    {
+      "pokeapi_id": 571,
+      "slug": "zoroark",
+      "name_en": "Zoroark",
+      "name_ru": "Зороарк",
+      "source_name_en": "Zoroark"
+    },
+    {
+      "pokeapi_id": 572,
+      "slug": "minccino",
+      "name_en": "Minccino",
+      "name_ru": "Минччино",
+      "source_name_en": "Minccino"
+    },
+    {
+      "pokeapi_id": 573,
+      "slug": "cinccino",
+      "name_en": "Cinccino",
+      "name_ru": "Чинччино",
+      "source_name_en": "Cinccino"
+    },
+    {
+      "pokeapi_id": 574,
+      "slug": "gothita",
+      "name_en": "Gothita",
+      "name_ru": "Гофита",
+      "source_name_en": "Gothita"
+    },
+    {
+      "pokeapi_id": 575,
+      "slug": "gothorita",
+      "name_en": "Gothorita",
+      "name_ru": "Гофорита",
+      "source_name_en": "Gothorita"
+    },
+    {
+      "pokeapi_id": 576,
+      "slug": "gothitelle",
+      "name_en": "Gothitelle",
+      "name_ru": "Гофителль",
+      "source_name_en": "Gothitelle"
+    },
+    {
+      "pokeapi_id": 577,
+      "slug": "solosis",
+      "name_en": "Solosis",
+      "name_ru": "Солосис",
+      "source_name_en": "Solosis"
+    },
+    {
+      "pokeapi_id": 578,
+      "slug": "duosion",
+      "name_en": "Duosion",
+      "name_ru": "Дуожн",
+      "source_name_en": "Duosion"
+    },
+    {
+      "pokeapi_id": 579,
+      "slug": "reuniclus",
+      "name_en": "Reuniclus",
+      "name_ru": "Реюниклюс",
+      "source_name_en": "Reuniclus"
+    },
+    {
+      "pokeapi_id": 580,
+      "slug": "ducklett",
+      "name_en": "Ducklett",
+      "name_ru": "Даклетт",
+      "source_name_en": "Ducklett"
+    },
+    {
+      "pokeapi_id": 581,
+      "slug": "swanna",
+      "name_en": "Swanna",
+      "name_ru": "Суанна",
+      "source_name_en": "Swanna"
+    },
+    {
+      "pokeapi_id": 582,
+      "slug": "vanillite",
+      "name_en": "Vanillite",
+      "name_ru": "Ваниллайт",
+      "source_name_en": "Vanillite"
+    },
+    {
+      "pokeapi_id": 583,
+      "slug": "vanillish",
+      "name_en": "Vanillish",
+      "name_ru": "Ваниллиш",
+      "source_name_en": "Vanillish"
+    },
+    {
+      "pokeapi_id": 584,
+      "slug": "vanilluxe",
+      "name_en": "Vanilluxe",
+      "name_ru": "Ваниллюкс",
+      "source_name_en": "Vanilluxe"
+    },
+    {
+      "pokeapi_id": 585,
+      "slug": "deerling",
+      "name_en": "Deerling",
+      "name_ru": "Дирлинг",
+      "source_name_en": "Deerling"
+    },
+    {
+      "pokeapi_id": 586,
+      "slug": "sawsbuck",
+      "name_en": "Sawsbuck",
+      "name_ru": "Сосбак",
+      "source_name_en": "Sawsbuck"
+    },
+    {
+      "pokeapi_id": 587,
+      "slug": "emolga",
+      "name_en": "Emolga",
+      "name_ru": "Эмолга",
+      "source_name_en": "Emolga"
+    },
+    {
+      "pokeapi_id": 588,
+      "slug": "karrablast",
+      "name_en": "Karrablast",
+      "name_ru": "Каррабласт",
+      "source_name_en": "Karrablast"
+    },
+    {
+      "pokeapi_id": 589,
+      "slug": "escavalier",
+      "name_en": "Escavalier",
+      "name_ru": "Эскавальер",
+      "source_name_en": "Escavalier"
+    },
+    {
+      "pokeapi_id": 590,
+      "slug": "foongus",
+      "name_en": "Foongus",
+      "name_ru": "Фунгус",
+      "source_name_en": "Foongus"
+    },
+    {
+      "pokeapi_id": 591,
+      "slug": "amoonguss",
+      "name_en": "Amoonguss",
+      "name_ru": "Амунгус",
+      "source_name_en": "Amoonguss"
+    },
+    {
+      "pokeapi_id": 592,
+      "slug": "frillish",
+      "name_en": "Frillish",
+      "name_ru": "Фриллиш",
+      "source_name_en": "Frillish"
+    },
+    {
+      "pokeapi_id": 593,
+      "slug": "jellicent",
+      "name_en": "Jellicent",
+      "name_ru": "Джеллисент",
+      "source_name_en": "Jellicent"
+    },
+    {
+      "pokeapi_id": 594,
+      "slug": "alomomola",
+      "name_en": "Alomomola",
+      "name_ru": "Аломомола",
+      "source_name_en": "Alomomola"
+    },
+    {
+      "pokeapi_id": 595,
+      "slug": "joltik",
+      "name_en": "Joltik",
+      "name_ru": "Джолтик",
+      "source_name_en": "Joltik"
+    },
+    {
+      "pokeapi_id": 596,
+      "slug": "galvantula",
+      "name_en": "Galvantula",
+      "name_ru": "Галвантула",
+      "source_name_en": "Galvantula"
+    },
+    {
+      "pokeapi_id": 597,
+      "slug": "ferroseed",
+      "name_en": "Ferroseed",
+      "name_ru": "Ферросид",
+      "source_name_en": "Ferroseed"
+    },
+    {
+      "pokeapi_id": 598,
+      "slug": "ferrothorn",
+      "name_en": "Ferrothorn",
+      "name_ru": "Ферроторн",
+      "source_name_en": "Ferrothorn"
+    },
+    {
+      "pokeapi_id": 599,
+      "slug": "klink",
+      "name_en": "Klink",
+      "name_ru": "Клинк",
+      "source_name_en": "Klink"
+    },
+    {
+      "pokeapi_id": 600,
+      "slug": "klang",
+      "name_en": "Klang",
+      "name_ru": "Кланг",
+      "source_name_en": "Klang"
+    },
+    {
+      "pokeapi_id": 601,
+      "slug": "klinklang",
+      "name_en": "Klinklang",
+      "name_ru": "Клинкланг",
+      "source_name_en": "Klinklang"
+    },
+    {
+      "pokeapi_id": 602,
+      "slug": "tynamo",
+      "name_en": "Tynamo",
+      "name_ru": "Тинамо",
+      "source_name_en": "Tynamo"
+    },
+    {
+      "pokeapi_id": 603,
+      "slug": "eelektrik",
+      "name_en": "Eelektrik",
+      "name_ru": "Электрик",
+      "source_name_en": "Eelektrik"
+    },
+    {
+      "pokeapi_id": 604,
+      "slug": "eelektross",
+      "name_en": "Eelektross",
+      "name_ru": "Электросс",
+      "source_name_en": "Eelektross"
+    },
+    {
+      "pokeapi_id": 605,
+      "slug": "elgyem",
+      "name_en": "Elgyem",
+      "name_ru": "Элгием",
+      "source_name_en": "Elgyem"
+    },
+    {
+      "pokeapi_id": 606,
+      "slug": "beheeyem",
+      "name_en": "Beheeyem",
+      "name_ru": "Бехийем",
+      "source_name_en": "Beheeyem"
+    },
+    {
+      "pokeapi_id": 607,
+      "slug": "litwick",
+      "name_en": "Litwick",
+      "name_ru": "Литвик",
+      "source_name_en": "Litwick"
+    },
+    {
+      "pokeapi_id": 608,
+      "slug": "lampent",
+      "name_en": "Lampent",
+      "name_ru": "Лампент",
+      "source_name_en": "Lampent"
+    },
+    {
+      "pokeapi_id": 609,
+      "slug": "chandelure",
+      "name_en": "Chandelure",
+      "name_ru": "Шанделюр",
+      "source_name_en": "Chandelure"
+    },
+    {
+      "pokeapi_id": 610,
+      "slug": "axew",
+      "name_en": "Axew",
+      "name_ru": "Эксью",
+      "source_name_en": "Axew"
+    },
+    {
+      "pokeapi_id": 611,
+      "slug": "fraxure",
+      "name_en": "Fraxure",
+      "name_ru": "Фрэкшур",
+      "source_name_en": "Fraxure"
+    },
+    {
+      "pokeapi_id": 612,
+      "slug": "haxorus",
+      "name_en": "Haxorus",
+      "name_ru": "Хаксорус",
+      "source_name_en": "Haxorus"
+    },
+    {
+      "pokeapi_id": 613,
+      "slug": "cubchoo",
+      "name_en": "Cubchoo",
+      "name_ru": "Кабчу",
+      "source_name_en": "Cubchoo"
+    },
+    {
+      "pokeapi_id": 614,
+      "slug": "beartic",
+      "name_en": "Beartic",
+      "name_ru": "Бертик",
+      "source_name_en": "Beartic"
+    },
+    {
+      "pokeapi_id": 615,
+      "slug": "cryogonal",
+      "name_en": "Cryogonal",
+      "name_ru": "Криогонал",
+      "source_name_en": "Cryogonal"
+    },
+    {
+      "pokeapi_id": 616,
+      "slug": "shelmet",
+      "name_en": "Shelmet",
+      "name_ru": "Шелмет",
+      "source_name_en": "Shelmet"
+    },
+    {
+      "pokeapi_id": 617,
+      "slug": "accelgor",
+      "name_en": "Accelgor",
+      "name_ru": "Акселгор",
+      "source_name_en": "Accelgor"
+    },
+    {
+      "pokeapi_id": 618,
+      "slug": "stunfisk",
+      "name_en": "Stunfisk",
+      "name_ru": "Станфиск",
+      "source_name_en": "Stunfisk"
+    },
+    {
+      "pokeapi_id": 619,
+      "slug": "mienfoo",
+      "name_en": "Mienfoo",
+      "name_ru": "Минфу",
+      "source_name_en": "Mienfoo"
+    },
+    {
+      "pokeapi_id": 620,
+      "slug": "mienshao",
+      "name_en": "Mienshao",
+      "name_ru": "Миншао",
+      "source_name_en": "Mienshao"
+    },
+    {
+      "pokeapi_id": 621,
+      "slug": "druddigon",
+      "name_en": "Druddigon",
+      "name_ru": "Драддигон",
+      "source_name_en": "Druddigon"
+    },
+    {
+      "pokeapi_id": 622,
+      "slug": "golett",
+      "name_en": "Golett",
+      "name_ru": "Голетт",
+      "source_name_en": "Golett"
+    },
+    {
+      "pokeapi_id": 623,
+      "slug": "golurk",
+      "name_en": "Golurk",
+      "name_ru": "Голарк",
+      "source_name_en": "Golurk"
+    },
+    {
+      "pokeapi_id": 624,
+      "slug": "pawniard",
+      "name_en": "Pawniard",
+      "name_ru": "Поуниард",
+      "source_name_en": "Pawniard"
+    },
+    {
+      "pokeapi_id": 625,
+      "slug": "bisharp",
+      "name_en": "Bisharp",
+      "name_ru": "Бишарп",
+      "source_name_en": "Bisharp"
+    },
+    {
+      "pokeapi_id": 626,
+      "slug": "bouffalant",
+      "name_en": "Bouffalant",
+      "name_ru": "Буффалант",
+      "source_name_en": "Bouffalant"
+    },
+    {
+      "pokeapi_id": 627,
+      "slug": "rufflet",
+      "name_en": "Rufflet",
+      "name_ru": "Раффлет",
+      "source_name_en": "Rufflet"
+    },
+    {
+      "pokeapi_id": 628,
+      "slug": "braviary",
+      "name_en": "Braviary",
+      "name_ru": "Бревиари",
+      "source_name_en": "Braviary"
+    },
+    {
+      "pokeapi_id": 629,
+      "slug": "vullaby",
+      "name_en": "Vullaby",
+      "name_ru": "Виллаби",
+      "source_name_en": "Vullaby"
+    },
+    {
+      "pokeapi_id": 630,
+      "slug": "mandibuzz",
+      "name_en": "Mandibuzz",
+      "name_ru": "Мандибазз",
+      "source_name_en": "Mandibuzz"
+    },
+    {
+      "pokeapi_id": 631,
+      "slug": "heatmor",
+      "name_en": "Heatmor",
+      "name_ru": "Хитмор",
+      "source_name_en": "Heatmor"
+    },
+    {
+      "pokeapi_id": 632,
+      "slug": "durant",
+      "name_en": "Durant",
+      "name_ru": "Дюрант",
+      "source_name_en": "Durant"
+    },
+    {
+      "pokeapi_id": 633,
+      "slug": "deino",
+      "name_en": "Deino",
+      "name_ru": "Дейно",
+      "source_name_en": "Deino"
+    },
+    {
+      "pokeapi_id": 634,
+      "slug": "zweilous",
+      "name_en": "Zweilous",
+      "name_ru": "Цвайлос",
+      "source_name_en": "Zweilous"
+    },
+    {
+      "pokeapi_id": 635,
+      "slug": "hydreigon",
+      "name_en": "Hydreigon",
+      "name_ru": "Хайдрайгон",
+      "source_name_en": "Hydreigon"
+    },
+    {
+      "pokeapi_id": 636,
+      "slug": "larvesta",
+      "name_en": "Larvesta",
+      "name_ru": "Ларвеста",
+      "source_name_en": "Larvesta"
+    },
+    {
+      "pokeapi_id": 637,
+      "slug": "volcarona",
+      "name_en": "Volcarona",
+      "name_ru": "Волкарона",
+      "source_name_en": "Volcarona"
+    },
+    {
+      "pokeapi_id": 638,
+      "slug": "cobalion",
+      "name_en": "Cobalion",
+      "name_ru": "Кобалион",
+      "source_name_en": "Cobalion"
+    },
+    {
+      "pokeapi_id": 639,
+      "slug": "terrakion",
+      "name_en": "Terrakion",
+      "name_ru": "Терракион",
+      "source_name_en": "Terrakion"
+    },
+    {
+      "pokeapi_id": 640,
+      "slug": "virizion",
+      "name_en": "Virizion",
+      "name_ru": "Вирижион",
+      "source_name_en": "Virizion"
+    },
+    {
+      "pokeapi_id": 641,
+      "slug": "tornadus",
+      "name_en": "Tornadus",
+      "name_ru": "Торнадус",
+      "source_name_en": "Tornadus"
+    },
+    {
+      "pokeapi_id": 642,
+      "slug": "thundurus",
+      "name_en": "Thundurus",
+      "name_ru": "Тандурус",
+      "source_name_en": "Thundurus"
+    },
+    {
+      "pokeapi_id": 643,
+      "slug": "reshiram",
+      "name_en": "Reshiram",
+      "name_ru": "Реширам",
+      "source_name_en": "Reshiram"
+    },
+    {
+      "pokeapi_id": 644,
+      "slug": "zekrom",
+      "name_en": "Zekrom",
+      "name_ru": "Зекром",
+      "source_name_en": "Zekrom"
+    },
+    {
+      "pokeapi_id": 645,
+      "slug": "landorus",
+      "name_en": "Landorus",
+      "name_ru": "Ландорус",
+      "source_name_en": "Landorus"
+    },
+    {
+      "pokeapi_id": 646,
+      "slug": "kyurem",
+      "name_en": "Kyurem",
+      "name_ru": "Курем",
+      "source_name_en": "Kyurem"
+    },
+    {
+      "pokeapi_id": 647,
+      "slug": "keldeo",
+      "name_en": "Keldeo",
+      "name_ru": "Кельдио",
+      "source_name_en": "Keldeo"
+    },
+    {
+      "pokeapi_id": 700,
+      "slug": "sylveon",
+      "name_en": "Sylveon",
+      "name_ru": "Сильвеон",
+      "source_name_en": "Sylveon"
+    },
+    {
+      "pokeapi_id": 862,
+      "slug": "obstagoon",
+      "name_en": "Obstagoon",
+      "name_ru": "Обстагун",
+      "source_name_en": "Obstagoon"
+    },
+    {
+      "pokeapi_id": 863,
+      "slug": "perrserker",
+      "name_en": "Perrserker",
+      "name_ru": "Перрсеркер",
+      "source_name_en": "Perrserker"
+    },
+    {
+      "pokeapi_id": 864,
+      "slug": "cursola",
+      "name_en": "Cursola",
+      "name_ru": "Курсола",
+      "source_name_en": "Cursola"
+    },
+    {
+      "pokeapi_id": 865,
+      "slug": "sirfetchd",
+      "name_en": "Sirfetchd",
+      "name_ru": "Сирфетчд",
+      "source_name_en": "Sirfetch'd"
+    },
+    {
+      "pokeapi_id": 866,
+      "slug": "mr-rime",
+      "name_en": "Mr Rime",
+      "name_ru": "Мистер Райм",
+      "source_name_en": "Mr. Rime"
+    },
+    {
+      "pokeapi_id": 867,
+      "slug": "runerigus",
+      "name_en": "Runerigus",
+      "name_ru": "Рунеригус",
+      "source_name_en": "Runerigus"
+    },
+    {
+      "pokeapi_id": 899,
+      "slug": "wyrdeer",
+      "name_en": "Wyrdeer",
+      "name_ru": "Вирдир",
+      "source_name_en": "Wyrdeer"
+    },
+    {
+      "pokeapi_id": 900,
+      "slug": "kleavor",
+      "name_en": "Kleavor",
+      "name_ru": "Кливор",
+      "source_name_en": "Kleavor"
+    },
+    {
+      "pokeapi_id": 901,
+      "slug": "ursaluna",
+      "name_en": "Ursaluna",
+      "name_ru": "Урсалуна",
+      "source_name_en": "Ursaluna"
+    },
+    {
+      "pokeapi_id": 902,
+      "slug": "basculegion",
+      "name_en": "Basculegion",
+      "name_ru": "Баскулиджен",
+      "source_name_en": "Basculegion"
+    },
+    {
+      "pokeapi_id": 903,
+      "slug": "sneasler",
+      "name_en": "Sneasler",
+      "name_ru": "Снизлер",
+      "source_name_en": "Sneasler"
+    },
+    {
+      "pokeapi_id": 904,
+      "slug": "overqwil",
+      "name_en": "Overqwil",
+      "name_ru": "Оверквил",
+      "source_name_en": "Overqwil"
+    },
+    {
+      "pokeapi_id": 979,
+      "slug": "annihilape",
+      "name_en": "Annihilape",
+      "name_ru": "Аннаялейп",
+      "source_name_en": "Annihilape"
+    },
+    {
+      "pokeapi_id": 980,
+      "slug": "clodsire",
+      "name_en": "Clodsire",
+      "name_ru": "Клодсайр",
+      "source_name_en": "Clodsire"
+    },
+    {
+      "pokeapi_id": 981,
+      "slug": "farigiraf",
+      "name_en": "Farigiraf",
+      "name_ru": "Фарижираф",
+      "source_name_en": "Farigiraf"
+    },
+    {
+      "pokeapi_id": 982,
+      "slug": "dudunsparce",
+      "name_en": "Dudunsparce",
+      "name_ru": "Даданспарс",
+      "source_name_en": "Dudunsparce"
+    },
+    {
+      "pokeapi_id": 983,
+      "slug": "kingambit",
+      "name_en": "Kingambit",
+      "name_ru": "Кингамбит",
+      "source_name_en": "Kingambit"
+    }
+  ],
+  "missing": []
+}

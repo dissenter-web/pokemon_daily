@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 515,
+  "slug": "panpour",
+  "name_en": "Panpour",
+  "genera_en": [
+    "Spray Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+      "version": "black"
+    },
+    {
+      "text": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
+      "version": "white"
+    },
+    {
+      "text": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "gluttony",
+    "torrent"
+  ],
+  "height_dm": 6,
+  "weight_hg": 135,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/264/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/515/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/515/"
+  }
+}

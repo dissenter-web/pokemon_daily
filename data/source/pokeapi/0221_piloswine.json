@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 221,
+  "slug": "piloswine",
+  "name_en": "Piloswine",
+  "genera_en": [
+    "Swine Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.",
+      "version": "crystal"
+    },
+    {
+      "text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+      "version": "gold"
+    },
+    {
+      "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensi­ tive to sound.",
+      "version": "silver"
+    },
+    {
+      "text": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
+      "version": "ruby"
+    },
+    {
+      "text": "A PILOSWINE is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+      "version": "emerald"
+    },
+    {
+      "text": "If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",
+      "version": "firered"
+    },
+    {
+      "text": "Its shaggy coat makes it unable to see. It checks surroundings with its sensitive nose instead.",
+      "version": "diamond"
+    },
+    {
+      "text": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+      "version": "platinum"
+    },
+    {
+      "text": "With its excellent sense of smell, it’s even able to find mushrooms that are buried under frozen ground.",
+      "version": "black-2"
+    },
+    {
+      "text": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice",
+    "ground"
+  ],
+  "abilities": [
+    "oblivious",
+    "snow-cloak",
+    "thick-fat"
+  ],
+  "height_dm": 11,
+  "weight_hg": 558,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/112/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/221/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/221/"
+  }
+}

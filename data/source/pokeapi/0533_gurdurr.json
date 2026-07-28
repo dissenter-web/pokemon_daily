@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 533,
+  "slug": "gurdurr",
+  "name_en": "Gurdurr",
+  "genera_en": [
+    "Muscular Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+      "version": "black"
+    },
+    {
+      "text": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+      "version": "white"
+    },
+    {
+      "text": "With strengthened bodies, they skillfully wield steel beams to take down buildings.",
+      "version": "black-2"
+    },
+    {
+      "text": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
+      "version": "sword"
+    },
+    {
+      "text": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "guts",
+    "sheer-force",
+    "iron-fist"
+  ],
+  "height_dm": 12,
+  "weight_hg": 400,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/272/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/533/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/533/"
+  }
+}

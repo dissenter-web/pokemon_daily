@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 410,
+  "slug": "shieldon",
+  "name_en": "Shieldon",
+  "genera_en": [
+    "Shield Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+      "version": "diamond"
+    },
+    {
+      "text": "It habitually polishes its face by rubbing it against tree trunks. It is weak to attacks from behind.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+      "version": "platinum"
+    },
+    {
+      "text": "It was generated from a fossil dug out of a layer of clay that was older than anyone knows. It has a sturdy face.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Many fossils of this Pokémon have been found, but almost none have shown signs of damage to the face.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon lived in primeval jungles. Few enemies would have been willing to square off against its heavily armored face, so it’s thought.",
+      "version": "moon"
+    },
+    {
+      "text": "A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Much remains unknown about this Pokémon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "rock",
+    "steel"
+  ],
+  "abilities": [
+    "sturdy",
+    "soundproof"
+  ],
+  "height_dm": 5,
+  "weight_hg": 570,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/212/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/410/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/410/"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 461,
+  "slug": "weavile",
+  "name_en": "Weavile",
+  "genera_en": [
+    "Sharp Claw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They communicate by clawing signs in boulders and work together to surround enemies.",
+      "version": "white-2"
+    },
+    {
+      "text": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+      "version": "diamond"
+    },
+    {
+      "text": "It sends signals to others by carving odd patterns in frost- covered trees and ice.",
+      "version": "pearl"
+    },
+    {
+      "text": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+      "version": "platinum"
+    },
+    {
+      "text": "It lives in snowy regions. It carves patterns in trees with its claws as a signal to others.",
+      "version": "heartgold"
+    },
+    {
+      "text": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+      "version": "sun"
+    },
+    {
+      "text": "They dwell in cold places. This Pokémon’s main food source in Alola is Vulpix and Sandshrew, which they carefully divide among their group.",
+      "version": "moon"
+    },
+    {
+      "text": "One Weavile will trip a Sandshrew and flip it over, and then another Weavile will deal the finishing blow with its sharp claws.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile.",
+      "version": "sword"
+    },
+    {
+      "text": "With its claws, it leaves behind signs for its friends to find. The number of distinct signs is said to be over 500.",
+      "version": "shield"
+    },
+    {
+      "text": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dark",
+    "ice"
+  ],
+  "abilities": [
+    "pressure",
+    "pickpocket"
+  ],
+  "height_dm": 11,
+  "weight_hg": 340,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/109/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/461/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/461/"
+  }
+}

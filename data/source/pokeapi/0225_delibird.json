@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 225,
+  "slug": "delibird",
+  "name_en": "Delibird",
+  "genera_en": [
+    "Delivery Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+      "version": "gold"
+    },
+    {
+      "text": "It nests at the edge of sharp cliffs. It spends all day carrying food to its await­ ing chicks.",
+      "version": "silver"
+    },
+    {
+      "text": "It always carries its food with it, wherever it goes. If attacked, it throws its food at the opponent.",
+      "version": "crystal"
+    },
+    {
+      "text": "DELIBIRD carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of Mt. Everest thanks to one of these POKéMON sharing its food.",
+      "version": "ruby"
+    },
+    {
+      "text": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a DELIBIRD sharing its food.",
+      "version": "emerald"
+    },
+    {
+      "text": "It nests at the edge of sharp cliffs. It spends all day carrying food to its awaiting chicks.",
+      "version": "firered"
+    },
+    {
+      "text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "version": "diamond"
+    },
+    {
+      "text": "It carries food all day long. There are tales about lost people who were saved by its stored food.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It carries food all day long. When someone is lost in the mountains, it shares that food.",
+      "version": "black-2"
+    },
+    {
+      "text": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Although it naturally prefers colder locales, Delibird in Alola seem able to withstand the heat to a certain extent.",
+      "version": "sun"
+    },
+    {
+      "text": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
+      "version": "moon"
+    },
+    {
+      "text": "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "abilities": [
+    "vital-spirit",
+    "hustle",
+    "insomnia"
+  ],
+  "height_dm": 9,
+  "weight_hg": 160,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/115/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/225/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/225/"
+  }
+}

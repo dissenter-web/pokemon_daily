@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 66,
+  "slug": "machop",
+  "name_en": "Machop",
+  "genera_en": [
+    "Superpower Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger.",
+      "version": "red"
+    },
+    {
+      "text": "Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.",
+      "version": "yellow"
+    },
+    {
+      "text": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
+      "version": "gold"
+    },
+    {
+      "text": "It loves to work out and build its muscles. It is never satisfied, even if it trains hard all day long.",
+      "version": "silver"
+    },
+    {
+      "text": "It trains by lifting rocks in the mountains. It can even pick up a GRAVELER with ease.",
+      "version": "crystal"
+    },
+    {
+      "text": "MACHOP’s muscles are special - they never get sore no matter how much they are used in exercise. This POKéMON has sufficient power to hurl a hundred adult humans.",
+      "version": "ruby"
+    },
+    {
+      "text": "MACHOP exercises by hefting around a GRAVELER as if it were a barbell. There are some MACHOP that travel the world in a quest to master all kinds of martial arts.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
+      "version": "firered"
+    },
+    {
+      "text": "It hefts a GRAVELER repeatedly to strengthen its entire body. It uses every type of martial arts.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its muscles never cramp however much it trains. It lives in the mountains away from humans.",
+      "version": "pearl"
+    },
+    {
+      "text": "Though small in stature, it is powerful enough to easily heft and throw a number of GEODUDE at once.",
+      "version": "platinum"
+    },
+    {
+      "text": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+      "version": "black"
+    },
+    {
+      "text": "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+      "version": "x"
+    },
+    {
+      "text": "Machop’s muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+      "version": "sun"
+    },
+    {
+      "text": "With its superhuman strength, it’s able to throw a hundred people all at the same time. Its strength comes from lifting Graveler every day.",
+      "version": "moon"
+    },
+    {
+      "text": "Once this Pokémon has gained enough confidence and muscle from training with its friends, it challenges Makuhita to a battle.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It likes food that’s highly nutritious because its instincts drive it to build muscle efficiently.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "guts",
+    "no-guard",
+    "steadfast"
+  ],
+  "height_dm": 8,
+  "weight_hg": 195,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/28/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/66/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/66/"
+  }
+}

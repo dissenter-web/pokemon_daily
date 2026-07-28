@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 168,
+  "slug": "ariados",
+  "name_en": "Ariados",
+  "genera_en": [
+    "Long Leg Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+      "version": "gold"
+    },
+    {
+      "text": "A single strand of a special string is endlessly spun out of its rear. The string leads back to its nest.",
+      "version": "silver"
+    },
+    {
+      "text": "Rather than mak­ ing a nest in one specific spot, it wanders in search of food after darkness falls.",
+      "version": "crystal"
+    },
+    {
+      "text": "ARIADOS’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This POKéMON constricts the foe with thin and strong silk webbing.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
+      "version": "emerald"
+    },
+    {
+      "text": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+      "version": "diamond"
+    },
+    {
+      "text": "It spins string not only from its rear but also from its mouth. It’s hard to tell which end is which.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Ariados’s feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. This Pokémon constricts the foe with thin and strong silk webbing.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "There are some areas where people use the string Ariados spins for their own weaving. The resulting cloth is popular for its strength.",
+      "version": "sun"
+    },
+    {
+      "text": "It spins thread from both its rear and its mouth. Then it wraps its prey up in thread and sips their bodily fluids at its leisure.",
+      "version": "moon"
+    },
+    {
+      "text": "Every night, it wanders around in search of prey, whose movements it restrains by spewing threads before it bites into them with its fangs.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "swarm",
+    "insomnia",
+    "sniper"
+  ],
+  "height_dm": 11,
+  "weight_hg": 335,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/85/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/168/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/168/"
+  }
+}

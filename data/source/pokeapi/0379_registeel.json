@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 379,
+  "slug": "registeel",
+  "name_en": "Registeel",
+  "genera_en": [
+    "Iron Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "REGISTEEL has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this POKéMON eats.",
+      "version": "ruby"
+    },
+    {
+      "text": "REGISTEEL was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is sturdier than any kind of metal. It hardened due to pressure underground over tens of thousands of years.",
+      "version": "firered"
+    },
+    {
+      "text": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its body is said to be harder than any kind of metal. A study has revealed that its body is hollow.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Registeel’s body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s rumored that this Pokémon was born deep underground in the planet’s mantle and that it emerged onto the surface 10,000 years ago.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    "clear-body",
+    "light-metal"
+  ],
+  "height_dm": 19,
+  "weight_hg": 2050,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/195/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/379/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/379/"
+  }
+}

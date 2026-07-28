@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 522,
+  "slug": "blitzle",
+  "name_en": "Blitzle",
+  "genera_en": [
+    "Electrified Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+      "version": "black"
+    },
+    {
+      "text": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+      "version": "white"
+    },
+    {
+      "text": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "lightning-rod",
+    "motor-drive",
+    "sap-sipper"
+  ],
+  "height_dm": 8,
+  "weight_hg": 298,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/267/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/522/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/522/"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 549,
+  "slug": "lilligant",
+  "name_en": "Lilligant",
+  "genera_en": [
+    "Flowering Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+      "version": "black"
+    },
+    {
+      "text": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+      "version": "white"
+    },
+    {
+      "text": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+      "version": "black-2"
+    },
+    {
+      "text": "No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.",
+      "version": "sun"
+    },
+    {
+      "text": "As soon as it finds a male to be its partner, the beautiful flower on its head darkens, droops, and withers away.",
+      "version": "moon"
+    },
+    {
+      "text": "The fragrance of its flower differs slightly depending on the soil where it grew up. Sniffing the aroma calms your heart and mind.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It’s well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It’s believed that even first-rate gardeners have a hard time getting the flower on a Lilligant’s head to bloom.",
+      "version": "sword"
+    },
+    {
+      "text": "Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive.",
+      "version": "shield"
+    },
+    {
+      "text": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "own-tempo",
+    "leaf-guard"
+  ],
+  "height_dm": 11,
+  "weight_hg": 163,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/279/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/549/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/549/"
+  }
+}

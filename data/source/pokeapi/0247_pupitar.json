@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 247,
+  "slug": "pupitar",
+  "name_en": "Pupitar",
+  "genera_en": [
+    "Hard Shell Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
+      "version": "gold"
+    },
+    {
+      "text": "Even sealed in its shell, it can move freely. Hard and fast, it has out­ standing destruc­ tive power.",
+      "version": "silver"
+    },
+    {
+      "text": "It will not stay still, even while it's a pupa. It already has arms and legs under its solid shell.",
+      "version": "crystal"
+    },
+    {
+      "text": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
+      "version": "ruby"
+    },
+    {
+      "text": "A PUPITAR creates a gas inside its body that it ejects under compression to propel itself like a jet. Its body can withstand a collision with solid steel.",
+      "version": "emerald"
+    },
+    {
+      "text": "Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",
+      "version": "firered"
+    },
+    {
+      "text": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its shell is as hard as sheet rock, and it is also very strong. Its thrashing can topple a mountain.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+      "version": "black-2"
+    },
+    {
+      "text": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This troublesome Pokémon can’t wait to evolve, so it relieves its stress by wildly propelling itself around using compressed gas.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "abilities": [
+    "shed-skin"
+  ],
+  "height_dm": 12,
+  "weight_hg": 1520,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/126/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/247/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/247/"
+  }
+}

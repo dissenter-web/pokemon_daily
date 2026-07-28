@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 534,
+  "slug": "conkeldurr",
+  "name_en": "Conkeldurr",
+  "genera_en": [
+    "Muscular Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+      "version": "black"
+    },
+    {
+      "text": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.",
+      "version": "white"
+    },
+    {
+      "text": "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
+      "version": "black-2"
+    },
+    {
+      "text": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
+      "version": "sword"
+    },
+    {
+      "text": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "guts",
+    "sheer-force",
+    "iron-fist"
+  ],
+  "height_dm": 14,
+  "weight_hg": 870,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/272/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/534/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/534/"
+  }
+}

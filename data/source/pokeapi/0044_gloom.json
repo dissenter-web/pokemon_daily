@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 44,
+  "slug": "gloom",
+  "name_en": "Gloom",
+  "genera_en": [
+    "Weed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey.",
+      "version": "red"
+    },
+    {
+      "text": "Smells incredibly foul! However, around 1 out of 1,000 people enjoy sniffing its nose- bending stink.",
+      "version": "yellow"
+    },
+    {
+      "text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+      "version": "gold"
+    },
+    {
+      "text": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
+      "version": "silver"
+    },
+    {
+      "text": "The smell from its drool-like syrup and the pollen on its petals is so bad, it may make opponents faint.",
+      "version": "crystal"
+    },
+    {
+      "text": "GLOOM releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this POKéMON is feeling calm and secure, it does not release its usual stinky aroma.",
+      "version": "ruby"
+    },
+    {
+      "text": "From its mouth GLOOM drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+      "version": "firered"
+    },
+    {
+      "text": "The fluid that oozes from its mouth isn’t drool. It is a nectar that is used to attract prey.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+      "version": "diamond"
+    },
+    {
+      "text": "Smells incredibly foul! However, around one out of a thousand people enjoy sniffing its nose-bending stink.",
+      "version": "x"
+    },
+    {
+      "text": "Gloom releases a foul fragrance from the pistil of its flower. When faced with danger, the stench worsens. If this Pokémon is feeling calm and secure, it does not release its usual stinky aroma.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "stench"
+  ],
+  "height_dm": 8,
+  "weight_hg": 86,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/44/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/44/"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 60,
+  "slug": "poliwag",
+  "name_en": "Poliwag",
+  "genera_en": [
+    "Tadpole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+      "version": "red"
+    },
+    {
+      "text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+      "version": "yellow"
+    },
+    {
+      "text": "Because it is in­ ept at walking on its newly grown legs, it always swims around in water.",
+      "version": "gold"
+    },
+    {
+      "text": "The direction of its belly spiral differs by area. The equator is thought to have an effect on this.",
+      "version": "silver"
+    },
+    {
+      "text": "The swirl on its belly is its insides showing through the skin. It looks clearer after it eats.",
+      "version": "crystal"
+    },
+    {
+      "text": "POLIWAG has a very thin skin. It is possible to see the POKéMON’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is possible to see this POKéMON’s spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+      "version": "firered"
+    },
+    {
+      "text": "Its newly grown legs prevent it from walking well. It appears to prefer swimming over walking.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+      "version": "diamond"
+    },
+    {
+      "text": "Because it is inept at walking on its newly grown legs, it always swims around in water.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The swirl on its belly is its internal organs showing through. If the swirl is tinged white, that means it’s affected by some disease.",
+      "version": "sun"
+    },
+    {
+      "text": "It’s still not very good at walking. Its Trainers should train this Pokémon to walk every day.",
+      "version": "moon"
+    },
+    {
+      "text": "Despite the danger, it wants to come up on land. So it does its best to waddle along, but when an enemy finds it, it rushes back to the water.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",
+      "version": "sword"
+    },
+    {
+      "text": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "water-absorb",
+    "damp",
+    "swift-swim"
+  ],
+  "height_dm": 6,
+  "weight_hg": 124,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/60/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/60/"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 486,
+  "slug": "regigigas",
+  "name_en": "Regigigas",
+  "genera_en": [
+    "Colossal Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+      "version": "platinum"
+    },
+    {
+      "text": "It is believed to have shaped REGIROCK, REGICE, and REGISTEEL out of clay, ice, and magma.",
+      "version": "heartgold"
+    },
+    {
+      "text": "All over the world, there are legends that tell of Regigigas creating other Pokémon in its own image.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s said that Regigigas created other Pokémon from many different materials before it moved the continents to where they are today.",
+      "version": "shield"
+    },
+    {
+      "text": "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "slow-start"
+  ],
+  "height_dm": 37,
+  "weight_hg": 4200,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/247/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/486/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/486/"
+  }
+}

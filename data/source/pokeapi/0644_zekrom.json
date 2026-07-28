@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 644,
+  "slug": "zekrom",
+  "name_en": "Zekrom",
+  "genera_en": [
+    "Deep Black Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+      "version": "black"
+    },
+    {
+      "text": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+      "version": "white"
+    },
+    {
+      "text": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
+      "version": "black-2"
+    },
+    {
+      "text": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.",
+      "version": "sword"
+    },
+    {
+      "text": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dragon",
+    "electric"
+  ],
+  "abilities": [
+    "teravolt"
+  ],
+  "height_dm": 29,
+  "weight_hg": 3450,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/331/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/644/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/644/"
+  }
+}

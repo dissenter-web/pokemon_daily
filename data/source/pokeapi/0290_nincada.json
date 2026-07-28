@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 290,
+  "slug": "nincada",
+  "name_en": "Nincada",
+  "genera_en": [
+    "Trainee Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "NINCADA lives underground for many years in complete darkness. This POKéMON absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+      "version": "ruby"
+    },
+    {
+      "text": "NINCADA lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This POKéMON can’t withstand bright sunlight so avoids it.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
+      "version": "emerald"
+    },
+    {
+      "text": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+      "version": "firered"
+    },
+    {
+      "text": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Nincada lives underground for many years in complete darkness. This Pokémon absorbs nutrients from the roots of trees. It stays motionless as it waits for evolution.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can’t withstand bright sunlight so avoids it.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "bug",
+    "ground"
+  ],
+  "abilities": [
+    "compound-eyes",
+    "run-away"
+  ],
+  "height_dm": 5,
+  "weight_hg": 55,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/144/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/290/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/290/"
+  }
+}

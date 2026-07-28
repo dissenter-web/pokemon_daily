@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 370,
+  "slug": "luvdisc",
+  "name_en": "Luvdisc",
+  "genera_en": [
+    "Rendezvous Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LUVDISC live in shallow seas in the tropics. This heart-shaped POKéMON earned its name by swimming after loving couples it spotted in the ocean’s waves.",
+      "version": "ruby"
+    },
+    {
+      "text": "LUVDISC’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this POKéMON is promised a loving relationship that never ends.",
+      "version": "sapphire"
+    },
+    {
+      "text": "LUVDISC make the branches of CORSOLA their nests. There is a custom from long ago of giving a LUVDISC as a gift to express one’s feelings of love.",
+      "version": "emerald"
+    },
+    {
+      "text": "During the spawning season, countless LUVDISC congregate at coral reefs, turning the waters pink.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its heart-shaped body makes it popular. In some places, you would give a LUVDISC to someone you love.",
+      "version": "heartgold"
+    },
+    {
+      "text": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
+      "version": "y"
+    },
+    {
+      "text": "Luvdisc live in shallow seas in the tropics. This heart-shaped Pokémon earned its name by swimming after loving couples it spotted in the ocean’s waves.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Luvdisc’s heart-shaped body is a symbol of love and romance. It is said that any couple meeting this Pokémon is promised a loving relationship that never ends.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "If a Luvdisc is left on its own, it becomes despondent, leaving itself open to attack. That is when Pelipper snatch them up.",
+      "version": "sun"
+    },
+    {
+      "text": "Loving couples have a soft spot for this Pokémon, so honeymoon hotels often release this Pokémon into their pools.",
+      "version": "moon"
+    },
+    {
+      "text": "There was an era when it was overfished due to the rumor that having one of its heart-shaped scales would enable you to find a sweetheart.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "hydration"
+  ],
+  "height_dm": 6,
+  "weight_hg": 87,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/190/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/370/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/370/"
+  }
+}

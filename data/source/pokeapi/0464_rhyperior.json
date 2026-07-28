@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 464,
+  "slug": "rhyperior",
+  "name_en": "Rhyperior",
+  "genera_en": [
+    "Drill Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It puts rocks in holes in its palms and uses its muscles to shoot them. GEODUDE are shot at rare times.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+      "version": "platinum"
+    },
+    {
+      "text": "From holes in its palms, it fires out GEODUDE. Its carapace can withstand volcanic eruptions.",
+      "version": "heartgold"
+    },
+    {
+      "text": "From holes in its palms, it fires out Geodude. Its carapace can withstand volcanic eruptions.",
+      "version": "x"
+    },
+    {
+      "text": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+      "version": "y"
+    },
+    {
+      "text": "It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.",
+      "version": "sword"
+    },
+    {
+      "text": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
+      "version": "shield"
+    },
+    {
+      "text": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "abilities": [
+    "lightning-rod",
+    "solid-rock",
+    "reckless"
+  ],
+  "height_dm": 24,
+  "weight_hg": 2828,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/50/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/464/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/464/"
+  }
+}

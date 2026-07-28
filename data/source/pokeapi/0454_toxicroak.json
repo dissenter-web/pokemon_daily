@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 454,
+  "slug": "toxicroak",
+  "name_en": "Toxicroak",
+  "genera_en": [
+    "Toxic Mouth Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+      "version": "diamond"
+    },
+    {
+      "text": "The toxin made in its poison sacs is pumped to the knuckle claws through tubes down its arms.",
+      "version": "pearl"
+    },
+    {
+      "text": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+      "version": "platinum"
+    },
+    {
+      "text": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.",
+      "version": "black-2"
+    },
+    {
+      "text": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.",
+      "version": "sword"
+    },
+    {
+      "text": "It booms out a victory croak when its prey goes down in defeat. This Pokémon and Seismitoad are related species.",
+      "version": "shield"
+    },
+    {
+      "text": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "fighting"
+  ],
+  "abilities": [
+    "anticipation",
+    "dry-skin",
+    "poison-touch"
+  ],
+  "height_dm": 13,
+  "weight_hg": 444,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/235/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/454/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/454/"
+  }
+}

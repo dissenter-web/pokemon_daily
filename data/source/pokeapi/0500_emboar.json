@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 500,
+  "slug": "emboar",
+  "name_en": "Emboar",
+  "genera_en": [
+    "Mega Fire Pig Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
+      "version": "white"
+    },
+    {
+      "text": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+      "version": "black"
+    },
+    {
+      "text": "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "fire",
+    "fighting"
+  ],
+  "abilities": [
+    "blaze",
+    "reckless"
+  ],
+  "height_dm": 16,
+  "weight_hg": 1500,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/257/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/500/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/500/"
+  }
+}

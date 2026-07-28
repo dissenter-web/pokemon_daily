@@ -1,0 +1,134 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 55,
+  "slug": "golduck",
+  "name_en": "Golduck",
+  "genera_en": [
+    "Duck Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Often seen swim­ ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.",
+      "version": "red"
+    },
+    {
+      "text": "Its slim and long limbs end in broad flippers. They are used for swim­ ming gracefully in lakes.",
+      "version": "yellow"
+    },
+    {
+      "text": "When it swims at full speed using its long, webbed limbs, its fore­ head somehow be­ gins to glow.",
+      "version": "gold"
+    },
+    {
+      "text": "It appears by waterways at dusk. It may use tele­ kinetic powers if its forehead glows mysteriously.",
+      "version": "silver"
+    },
+    {
+      "text": "It swims grace­ fully along on the quiet, slow-moving rivers and lakes of which it is so fond.",
+      "version": "crystal"
+    },
+    {
+      "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of GOLDUCK give it frightening speed. This POKéMON is definitely much faster than even the most athletic swimmer.",
+      "version": "ruby"
+    },
+    {
+      "text": "GOLDUCK is the fastest swimmer among all POKéMON. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A GOLDUCK is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+      "version": "emerald"
+    },
+    {
+      "text": "The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.",
+      "version": "firered"
+    },
+    {
+      "text": "Often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster Kappa.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "A Pokémon that lives in lakes. It swims faster than any human swimming champion.",
+      "version": "diamond"
+    },
+    {
+      "text": "The flippers of its well-developed limbs give it shocking speed. It is the best swimmer among Pokémon.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+      "version": "platinum"
+    },
+    {
+      "text": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It appears by waterways at dusk. It may use telekinetic powers if its forehead glows mysteriously.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "When its forehead shines mysteriously, Golduck can use the full extent of its power.",
+      "version": "black-2"
+    },
+    {
+      "text": "The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Golduck is the fastest swimmer among all Pokémon. It swims effortlessly, even in a rough, stormy sea. It sometimes rescues people from wrecked ships floundering in high seas.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It is said that the red part of its forehead grants supernatural powers to those who possess one, so it was over-hunted in the past.",
+      "version": "sun"
+    },
+    {
+      "text": "It swims along the banks of lakes and catches fish Pokémon. It takes them to the shore and quietly eats them up.",
+      "version": "moon"
+    },
+    {
+      "text": "Even fast-swimming fish Pokémon can be disabled by Golduck. It brings them to a standstill and seizes them.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",
+      "version": "sword"
+    },
+    {
+      "text": "Old tales tell of Golduck punishing those that defiled its river. The guilty were dragged into the water and taken away.",
+      "version": "shield"
+    },
+    {
+      "text": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "damp",
+    "cloud-nine",
+    "swift-swim"
+  ],
+  "height_dm": 17,
+  "weight_hg": 766,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/23/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/55/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/55/"
+  }
+}

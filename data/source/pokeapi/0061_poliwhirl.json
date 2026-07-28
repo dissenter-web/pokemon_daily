@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 61,
+  "slug": "poliwhirl",
+  "name_en": "Poliwhirl",
+  "genera_en": [
+    "Tadpole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy.",
+      "version": "red"
+    },
+    {
+      "text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+      "version": "yellow"
+    },
+    {
+      "text": "The swirl on its belly subtly un­ dulates. Staring at it may gradual­ ly cause drowsi­ ness.",
+      "version": "gold"
+    },
+    {
+      "text": "The skin on most of its body is moist. However, the skin on its belly spiral feels smooth.",
+      "version": "silver"
+    },
+    {
+      "text": "Though it is skilled at walk­ ing, it prefers to live underwater where there is less danger.",
+      "version": "crystal"
+    },
+    {
+      "text": "The surface of POLIWHIRL’s body is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+      "version": "firered"
+    },
+    {
+      "text": "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+      "version": "diamond"
+    },
+    {
+      "text": "The swirl on its belly subtly undulates. Staring at it may gradually cause drowsiness.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Although it can live on land, it prefers to stay in the water, where it has fewer natural enemies.",
+      "version": "sun"
+    },
+    {
+      "text": "It marches over the land in search of bug Pokémon to eat. Then it takes them underwater so it can dine on them where it’s safe.",
+      "version": "moon"
+    },
+    {
+      "text": "Although it has become capable of living on land, it spends its time in the water, where its prey, fish Pokémon, are plentiful.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "water-absorb",
+    "damp",
+    "swift-swim"
+  ],
+  "height_dm": 10,
+  "weight_hg": 200,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/61/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/61/"
+  }
+}

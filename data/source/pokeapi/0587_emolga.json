@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 587,
+  "slug": "emolga",
+  "name_en": "Emolga",
+  "genera_en": [
+    "Sky Squirrel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.",
+      "version": "black"
+    },
+    {
+      "text": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+      "version": "white"
+    },
+    {
+      "text": "It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.",
+      "version": "black-2"
+    },
+    {
+      "text": "It glides using its cape-like membrane. Electrical energy scatters from it, shocking its friends and foes alike.",
+      "version": "sun"
+    },
+    {
+      "text": "It grills berries and bug Pokémon with electric shocks and makes a meal of them. It usually nests in the holes gouged in trees by Pikipek.",
+      "version": "moon"
+    },
+    {
+      "text": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That’s why Emolga can keep all its food to itself.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "electric",
+    "flying"
+  ],
+  "abilities": [
+    "static",
+    "motor-drive"
+  ],
+  "height_dm": 4,
+  "weight_hg": 50,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/298/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/587/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/587/"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 219,
+  "slug": "magcargo",
+  "name_en": "Magcargo",
+  "genera_en": [
+    "Lava Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+      "version": "gold"
+    },
+    {
+      "text": "Its brittle shell occasionally spouts intense flames that cir­ culate throughout its body.",
+      "version": "silver"
+    },
+    {
+      "text": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+      "version": "crystal"
+    },
+    {
+      "text": "MAGCARGO’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This POKéMON returns to its original size by dipping itself in magma.",
+      "version": "ruby"
+    },
+    {
+      "text": "MAGCARGO’s body temperature is approximately 18,000 degrees F. Water is vaporized on contact. If this POKéMON is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+      "version": "sapphire"
+    },
+    {
+      "text": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned MAGCARGO’s bodies into magma.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its brittle shell occasionally spouts intense flames that circulate throughout its body.",
+      "version": "firered"
+    },
+    {
+      "text": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
+      "version": "diamond"
+    },
+    {
+      "text": "Magcargo’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "fire",
+    "rock"
+  ],
+  "abilities": [
+    "magma-armor",
+    "flame-body",
+    "weak-armor"
+  ],
+  "height_dm": 8,
+  "weight_hg": 550,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/111/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/219/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/219/"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 348,
+  "slug": "armaldo",
+  "name_en": "Armaldo",
+  "genera_en": [
+    "Plate Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "ARMALDO’s tough armor makes all attacks bounce off. This POKéMON’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+      "version": "ruby"
+    },
+    {
+      "text": "ARMALDO is a POKéMON species that became extinct in prehistoric times. This POKéMON is said to have walked on its hind legs, which would have been more convenient for life on land.",
+      "version": "sapphire"
+    },
+    {
+      "text": "ARMALDO usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+      "version": "emerald"
+    },
+    {
+      "text": "Protected by a hard shell, its body is very sturdy. It skewers prey with its claws to feed.",
+      "version": "firered"
+    },
+    {
+      "text": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its enormous, retractable claws can cut through most anything. Its entire body is clad in sturdy plates.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Armaldo’s tough armor makes all attacks bounce off. This Pokémon’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Armaldo is a Pokémon species that became extinct in prehistoric times. This Pokémon is said to have walked on its hind legs, which would have been more convenient for life on land.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It lived on land and went out into the sea to hunt for prey. Its sharp claws were its greatest weapon.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
+      "version": "sword"
+    },
+    {
+      "text": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "bug"
+  ],
+  "abilities": [
+    "battle-armor",
+    "swift-swim"
+  ],
+  "height_dm": 15,
+  "weight_hg": 682,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/177/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/348/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/348/"
+  }
+}

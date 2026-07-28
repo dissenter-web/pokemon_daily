@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 126,
+  "slug": "magmar",
+  "name_en": "Magmar",
+  "genera_en": [
+    "Spitfire Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+      "version": "red"
+    },
+    {
+      "text": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
+      "version": "yellow"
+    },
+    {
+      "text": "It dislikes cold places, so it blows scorching flames to make the environment suit­ able for itself.",
+      "version": "gold"
+    },
+    {
+      "text": "The fiery surface of its body gives off a wavering, rippling glare that is similar to the sun.",
+      "version": "silver"
+    },
+    {
+      "text": "It moves more frequently in hot areas. It can heal itself by dipping its wound into lava.",
+      "version": "crystal"
+    },
+    {
+      "text": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+      "version": "ruby"
+    },
+    {
+      "text": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.",
+      "version": "emerald"
+    },
+    {
+      "text": "Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit.",
+      "version": "firered"
+    },
+    {
+      "text": "Its body always burns with an orange glow that enables it to hide perfectly amidst flames.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Born in the spout of a volcano, its body is covered by flames that shimmer like the sun.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+      "version": "platinum"
+    },
+    {
+      "text": "It dislikes cold places, so it blows scorching flames to make the environment suitable for itself.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly.",
+      "version": "black-2"
+    },
+    {
+      "text": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When it’s tired, it leaps into the mouth of a volcano and soaks its body in magma to ease its weariness. Its body burns at 2,192 degrees F.",
+      "version": "sun"
+    },
+    {
+      "text": "When angered, it spouts brilliant fire from all over its body. It doesn’t calm down until its opponent has burned to ash.",
+      "version": "moon"
+    },
+    {
+      "text": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The hotter the place, the better they feel. Magmar in Alola are said to be hardier than those in other areas.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+      "version": "sword"
+    },
+    {
+      "text": "These Pokémon’s bodies are constantly burning. Magmar are feared as one of the causes behind fires.",
+      "version": "shield"
+    },
+    {
+      "text": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "flame-body",
+    "vital-spirit"
+  ],
+  "height_dm": 13,
+  "weight_hg": 445,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/61/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/126/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/126/"
+  }
+}

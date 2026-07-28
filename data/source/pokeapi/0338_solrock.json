@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 338,
+  "slug": "solrock",
+  "name_en": "Solrock",
+  "genera_en": [
+    "Meteorite Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
+      "version": "ruby"
+    },
+    {
+      "text": "Sunlight is the source of SOLROCK’s power. It is said to possess the ability to read the emotions of others. This POKéMON gives off intense heat while rotating its body.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Solar energy is the source of this POKéMON’s power. On sunny days, groups of SOLROCK line up facing the sun and absorb its light.",
+      "version": "emerald"
+    },
+    {
+      "text": "It absorbs solar energy during the day. Always expressionless, it can sense what its foe is thinking.",
+      "version": "firered"
+    },
+    {
+      "text": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+      "version": "black-2"
+    },
+    {
+      "text": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Sunlight is the source of Solrock’s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "rock",
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 12,
+  "weight_hg": 1540,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/172/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/338/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/338/"
+  }
+}

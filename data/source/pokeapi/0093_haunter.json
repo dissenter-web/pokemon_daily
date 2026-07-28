@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 93,
+  "slug": "haunter",
+  "name_en": "Haunter",
+  "genera_en": [
+    "Gas Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
+      "version": "red"
+    },
+    {
+      "text": "By licking, it saps the victim's life. It causes shaking that won't stop until the victim's demise.",
+      "version": "yellow"
+    },
+    {
+      "text": "In total darkness, where nothing is visible, HAUNTER lurks, silently stalking its next victim.",
+      "version": "gold"
+    },
+    {
+      "text": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death even­ tually comes.",
+      "version": "silver"
+    },
+    {
+      "text": "It hides in the dark, planning to take the life of the next living thing that wanders close by.",
+      "version": "crystal"
+    },
+    {
+      "text": "HAUNTER is a dangerous POKéMON. If one beckons you while floating in darkness, you must never approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
+      "version": "ruby"
+    },
+    {
+      "text": "If a HAUNTER beckons you while it is floating in darkness, don’t approach it. This POKéMON will try to lick you with its tongue and steal your life away.",
+      "version": "emerald"
+    },
+    {
+      "text": "If you get the feeling of being watched in darkness when nobody is around, HAUNTER is there.",
+      "version": "firered"
+    },
+    {
+      "text": "Because of its ability to slip through block walls, it is said to be from another dimension.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It can slip through any obstacle. It lurks inside walls to keep an eye on its foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It licks with its gaseous tongue to steal the victim’s life force. It lurks in darkness for prey.",
+      "version": "pearl"
+    },
+    {
+      "text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+      "version": "x"
+    },
+    {
+      "text": "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It strikes at humans from total darkness. Those licked by its cold tongue grow weaker with each passing day until they die.",
+      "version": "sun"
+    },
+    {
+      "text": "It fears the light and revels in the dark. It may be on the verge of extinction in cities that stay brightly lit at night.",
+      "version": "moon"
+    },
+    {
+      "text": "On moonless nights, Haunter searches for someone to curse, so it’s best not to go out walking around.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It’s dangerous to go outside alone on nights when you’re feeling sad. Haunter will catch you, and you won’t be able to go back home.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "By licking, it saps the victim’s life. It causes shaking that won’t stop until the victim’s demise.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 16,
+  "weight_hg": 1,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/93/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/93/"
+  }
+}

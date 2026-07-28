@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 354,
+  "slug": "banette",
+  "name_en": "Banette",
+  "genera_en": [
+    "Marionette Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+      "version": "diamond"
+    },
+    {
+      "text": "BANETTE generates energy for laying strong curses by sticking pins into its own body. This POKéMON was originally a pitiful plush doll that was thrown away.",
+      "version": "ruby"
+    },
+    {
+      "text": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The POKéMON’s energy would escape if it were to ever open its mouth.",
+      "version": "sapphire"
+    },
+    {
+      "text": "An abandoned plush doll became this POKéMON. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+      "version": "emerald"
+    },
+    {
+      "text": "Strong feelings of hatred turned a puppet into a POKéMON. If it opens its mouth, its cursed energy escapes.",
+      "version": "firered"
+    },
+    {
+      "text": "This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it.",
+      "version": "black-2"
+    },
+    {
+      "text": "Strong feelings of hatred turned a puppet into a Pokémon. If it opens its mouth, its cursed energy escapes.",
+      "version": "y"
+    },
+    {
+      "text": "Banette generates energy for laying strong curses by sticking pins into its own body. This Pokémon was originally a pitiful plush doll that was thrown away.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as Banette. The Pokémon’s energy would escape if it were to ever open its mouth.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It’s a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "insomnia",
+    "frisk",
+    "cursed-body"
+  ],
+  "height_dm": 11,
+  "weight_hg": 125,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/181/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/354/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/354/"
+  }
+}

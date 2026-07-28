@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 604,
+  "slug": "eelektross",
+  "name_en": "Eelektross",
+  "genera_en": [
+    "EleFish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+      "version": "black"
+    },
+    {
+      "text": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+      "version": "white"
+    },
+    {
+      "text": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 21,
+  "weight_hg": 805,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/306/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/604/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/604/"
+  }
+}

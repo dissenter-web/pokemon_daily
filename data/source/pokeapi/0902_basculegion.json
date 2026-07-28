@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 902,
+  "slug": "basculegion",
+  "name_en": "Basculegion",
+  "genera_en": [
+    "Big Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "ghost"
+  ],
+  "abilities": [
+    "swift-swim",
+    "adaptability",
+    "mold-breaker"
+  ],
+  "height_dm": 30,
+  "weight_hg": 1100,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/280/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/902/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/902/"
+  }
+}

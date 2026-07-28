@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 286,
+  "slug": "breloom",
+  "name_en": "Breloom",
+  "genera_en": [
+    "Mushroom Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "BRELOOM closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This POKéMON’s fighting technique puts boxers to shame.",
+      "version": "ruby"
+    },
+    {
+      "text": "The seeds ringing BRELOOM’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this POKéMON’s seed will cause your stomach to rumble.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.",
+      "version": "emerald"
+    },
+    {
+      "text": "The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.",
+      "version": "firered"
+    },
+    {
+      "text": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+      "version": "diamond"
+    },
+    {
+      "text": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon’s fighting technique puts boxers to shame.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass",
+    "fighting"
+  ],
+  "abilities": [
+    "effect-spore",
+    "poison-heal",
+    "technician"
+  ],
+  "height_dm": 12,
+  "weight_hg": 392,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/142/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/286/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/286/"
+  }
+}

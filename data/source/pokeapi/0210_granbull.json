@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 210,
+  "slug": "granbull",
+  "name_en": "Granbull",
+  "genera_en": [
+    "Fairy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker.",
+      "version": "gold"
+    },
+    {
+      "text": "Because its fangs are too heavy, it always keeps its head tilted down. However, its BITE is powerful.",
+      "version": "silver"
+    },
+    {
+      "text": "It can make most any POKéMON run away simply by opening its mouth wide to reveal its big fangs.",
+      "version": "crystal"
+    },
+    {
+      "text": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+      "version": "ruby"
+    },
+    {
+      "text": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is actually timid and easily spooked. If attacked, it flails about to fend off its attacker.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+      "version": "diamond"
+    },
+    {
+      "text": "Because its fangs are too heavy, it always keeps its head tilted down. However, its bite is powerful.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It can make most any Pokémon run away simply by opening its mouth wide to reveal its big fangs.",
+      "version": "y"
+    },
+    {
+      "text": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its well-developed lower jaw and heavy fangs are its weapons. As long as it’s not provoked, it rarely bites.",
+      "version": "sun"
+    },
+    {
+      "text": "More timid than Snubbull, this Pokémon is doted on by young people amused at the contrast between its looks and its attitude.",
+      "version": "moon"
+    },
+    {
+      "text": "While it has powerful jaws, it doesn’t care for disputes, so it rarely has a chance to display their might.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "intimidate",
+    "quick-feet",
+    "rattled"
+  ],
+  "height_dm": 14,
+  "weight_hg": 487,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/105/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/210/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/210/"
+  }
+}

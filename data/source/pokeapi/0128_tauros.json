@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 128,
+  "slug": "tauros",
+  "name_en": "Tauros",
+  "genera_en": [
+    "Wild Bull Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "version": "red"
+    },
+    {
+      "text": "A rowdy POKéMON with a lot of stamina. Once running, it won't stop until it hits something.",
+      "version": "yellow"
+    },
+    {
+      "text": "They fight each other by locking horns. The herd's protector takes pride in its bat­ tle-scarred horns.",
+      "version": "gold"
+    },
+    {
+      "text": "After heightening its will to fight by whipping itself with its three tails, it charges at full speed.",
+      "version": "silver"
+    },
+    {
+      "text": "These violent POKéMON fight with other mem­ bers of their herd in order to prove their strength.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
+      "version": "emerald"
+    },
+    {
+      "text": "When it is about to TACKLE, it whips its body repeatedly with its three long tails.",
+      "version": "firered"
+    },
+    {
+      "text": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+      "version": "diamond"
+    },
+    {
+      "text": "They fight each other by locking horns. The herd’s protector takes pride in its battle-scarred horns.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When it is about to tackle, it whips its body repeatedly with its three long tails.",
+      "version": "y"
+    },
+    {
+      "text": "This Pokémon is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Historically, people in areas all over the world have ridden Tauros, but the practice is said to have started in Alola.",
+      "version": "sun"
+    },
+    {
+      "text": "Although it’s known to be a fierce Pokémon, Tauros in the Alola region are said to possess a measure of calmness.",
+      "version": "moon"
+    },
+    {
+      "text": "They live in groups. The one with the longest, thickest, and most-scarred horns is the boss of the herd.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The climate seems to be related to the reason Tauros in Alola are a little calmer than those in other regions.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A rowdy Pokémon with a lot of stamina. Once running, it won’t stop until it hits something.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",
+      "version": "sword"
+    },
+    {
+      "text": "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "intimidate",
+    "anger-point",
+    "sheer-force"
+  ],
+  "height_dm": 14,
+  "weight_hg": 884,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/63/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/128/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/128/"
+  }
+}

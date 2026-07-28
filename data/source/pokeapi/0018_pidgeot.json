@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 18,
+  "slug": "pidgeot",
+  "name_en": "Pidgeot",
+  "genera_en": [
+    "Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+      "version": "red"
+    },
+    {
+      "text": "This POKéMON flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its well-developed chest muscles make it strong enough to whip up a gusty windstorm with just a few flaps.",
+      "version": "gold"
+    },
+    {
+      "text": "It spreads its beautiful wings wide to frighten its enemies. It can fly at Mach 2 speed.",
+      "version": "silver"
+    },
+    {
+      "text": "Its outstanding vision allows it to spot splashing MAGIKARP, even while flying at 3300 feet.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON has a dazzling plumage of beautifully glossy feathers. Many TRAINERS are captivated by the striking beauty of the feathers on its head, compelling them to choose PIDGEOT as their POKéMON.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON has gorgeous, glossy feathers. Many TRAINERS are so captivated by the beautiful feathers on its head that they choose PIDGEOT as their POKéMON.",
+      "version": "emerald"
+    },
+    {
+      "text": "It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.",
+      "version": "firered"
+    },
+    {
+      "text": "By flapping its wings with all its might, PIDGEOT can make a gust of wind capable of bending tall trees.",
+      "version": "diamond"
+    },
+    {
+      "text": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+      "version": "black"
+    },
+    {
+      "text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "version": "x"
+    },
+    {
+      "text": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "tangled-feet",
+    "big-pecks"
+  ],
+  "height_dm": 15,
+  "weight_hg": 395,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/18/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/18/"
+  }
+}

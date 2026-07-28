@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 295,
+  "slug": "exploud",
+  "name_en": "Exploud",
+  "genera_en": [
+    "Loud Noise Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "EXPLOUD triggers earthquakes with the tremors it creates by bellowing. If this POKéMON violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",
+      "version": "ruby"
+    },
+    {
+      "text": "EXPLOUD communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This POKéMON only raises its voice when it is in battle.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+      "version": "emerald"
+    },
+    {
+      "text": "It emits a variety of sounds from the holes all over its body. Its loud cries can be heard from over six miles away.",
+      "version": "firered"
+    },
+    {
+      "text": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its roar in battle shakes the ground like a tremor--or like an earthquake has struck.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Exploud triggers earthquakes with the tremors it creates by bellowing. If this Pokémon violently inhales from the ports on its body, it’s a sign that it is preparing to let loose a huge bellow.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "soundproof",
+    "scrappy"
+  ],
+  "height_dm": 15,
+  "weight_hg": 840,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/145/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/295/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/295/"
+  }
+}

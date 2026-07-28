@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 980,
+  "slug": "clodsire",
+  "name_en": "Clodsire",
+  "genera_en": [
+    "Spiny Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
+      "version": "scarlet"
+    },
+    {
+      "text": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
+      "version": "violet"
+    }
+  ],
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "abilities": [
+    "poison-point",
+    "water-absorb",
+    "unaware"
+  ],
+  "height_dm": 18,
+  "weight_hg": 2230,
+  "generation": "generation-ix",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/96/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/980/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/980/"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 327,
+  "slug": "spinda",
+  "name_en": "Spinda",
+  "genera_en": [
+    "Spot Panda Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "All the SPINDA that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this POKéMON give it the appearance of dancing.",
+      "version": "ruby"
+    },
+    {
+      "text": "No two SPINDA are said to have identical spot patterns on their hides. This POKéMON moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe’s aim.",
+      "version": "emerald"
+    },
+    {
+      "text": "No two SPINDA are said to have identical patterns. It confuses foes with its stumbling motions.",
+      "version": "firered"
+    },
+    {
+      "text": "No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "The chances of two SPINDA having identical spot patterns is less than one in four billion.",
+      "version": "heartgold"
+    },
+    {
+      "text": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+      "version": "black"
+    },
+    {
+      "text": "The chances of two Spinda having identical spot patterns is less than one in four billion.",
+      "version": "y"
+    },
+    {
+      "text": "All the Spinda that exist in the world are said to have utterly unique spot patterns. The shaky, tottering steps of this Pokémon give it the appearance of dancing.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "No two Spinda are said to have identical spot patterns on their hides. This Pokémon moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its steps are staggering and unsteady, but Spinda thinks it’s walking in a straight line.",
+      "version": "sun"
+    },
+    {
+      "text": "Each and every Spinda has a slightly different configuration of spots. There are collectors who enjoy the tiny differences in their spot patterns.",
+      "version": "moon"
+    },
+    {
+      "text": "Its steps are shaky and stumbling. Walking for a long time makes it feel sick.",
+      "version": "ultra-sun"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "own-tempo",
+    "tangled-feet",
+    "contrary"
+  ],
+  "height_dm": 11,
+  "weight_hg": 50,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/165/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/327/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/327/"
+  }
+}

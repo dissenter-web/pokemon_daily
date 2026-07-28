@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 526,
+  "slug": "gigalith",
+  "name_en": "Gigalith",
+  "genera_en": [
+    "Compressed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+      "version": "black"
+    },
+    {
+      "text": "The solar energy absorbed by its body’s orange crystals is magnified internally and fired from its mouth.",
+      "version": "white"
+    },
+    {
+      "text": "The solar rays it absorbs are processed in its energy core and fired as a ball of light.",
+      "version": "black-2"
+    },
+    {
+      "text": "The blasts of energy it makes from sunbeams have terrifying power. However, it’s not able to fire its blasts at night or on rainy days.",
+      "version": "sun"
+    },
+    {
+      "text": "Known for its hefty horsepower, this Pokémon is a popular partner for construction workers.",
+      "version": "moon"
+    },
+    {
+      "text": "When it fires off energy with all its might, the power creates countless fissures on its body.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It absorbs rays of sunlight and shoots out energy. It’s usually lurking deep beneath the surface.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+      "version": "sword"
+    },
+    {
+      "text": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "sand-stream",
+    "sand-force"
+  ],
+  "height_dm": 17,
+  "weight_hg": 2600,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/268/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/526/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/526/"
+  }
+}

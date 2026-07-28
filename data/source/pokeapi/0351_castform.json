@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 351,
+  "slug": "castform",
+  "name_en": "Castform",
+  "genera_en": [
+    "Weather Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "CASTFORM’s appearance changes with the weather. This POKéMON gained the ability to use the vast power of nature to protect its tiny body.",
+      "version": "ruby"
+    },
+    {
+      "text": "CASTFORM borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This POKéMON’s feelings change with the weather.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has the ability to change its form into the sun, the rain, or a snow cloud, depending on the weather.",
+      "version": "firered"
+    },
+    {
+      "text": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+      "version": "diamond"
+    },
+    {
+      "text": "This Pokémon can change its cells, taking different forms based on the temperature and humidity.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather.",
+      "version": "black-2"
+    },
+    {
+      "text": "Castform’s appearance changes with the weather. This Pokémon gained the ability to use the vast power of nature to protect its tiny body.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Castform borrows the power of nature to transform itself into the guises of the sun, rain, and snow-clouds. This Pokémon’s feelings change with the weather.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It changes its form depending on the weather. Changes in the temperature or humidity appear to affect its cellular structure.",
+      "version": "sun"
+    },
+    {
+      "text": "Its form changes on its own, due to its cells’ sensitive reactions to temperature and humidity.",
+      "version": "moon"
+    },
+    {
+      "text": "Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "forecast"
+  ],
+  "height_dm": 3,
+  "weight_hg": 8,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/179/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/351/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/351/"
+  }
+}

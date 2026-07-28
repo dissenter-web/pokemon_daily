@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 523,
+  "slug": "zebstrika",
+  "name_en": "Zebstrika",
+  "genera_en": [
+    "Thunderbolt Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+      "version": "black"
+    },
+    {
+      "text": "This ill-tempered Pokémon is dangerous because when it’s angry, it shoots lightning from its mane in all directions.",
+      "version": "white"
+    },
+    {
+      "text": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "lightning-rod",
+    "motor-drive",
+    "sap-sipper"
+  ],
+  "height_dm": 16,
+  "weight_hg": 795,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/267/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/523/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/523/"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 84,
+  "slug": "doduo",
+  "name_en": "Doduo",
+  "genera_en": [
+    "Twin Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+      "version": "red"
+    },
+    {
+      "text": "Its short wings make flying dif­ ficult. Instead, this POKéMON runs at high speed on developed legs.",
+      "version": "yellow"
+    },
+    {
+      "text": "By alternately raising and lower­ ing its two heads, it balances itself to be more stable while running.",
+      "version": "gold"
+    },
+    {
+      "text": "It races through grassy plains with powerful strides, leaving footprints up to four inches deep.",
+      "version": "silver"
+    },
+    {
+      "text": "It lives on a grassy plain where it can see a long way. If it sees an enemy, it runs away at 60 mph.",
+      "version": "crystal"
+    },
+    {
+      "text": "DODUO’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+      "version": "ruby"
+    },
+    {
+      "text": "DODUO’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this POKéMON possessing different sets of brains.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
+      "version": "emerald"
+    },
+    {
+      "text": "A two-headed POKéMON that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+      "version": "firered"
+    },
+    {
+      "text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+      "version": "diamond"
+    },
+    {
+      "text": "By alternately raising and lowering its two heads, it balances itself to be more stable while running.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+      "version": "x"
+    },
+    {
+      "text": "Doduo’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "run-away",
+    "early-bird",
+    "tangled-feet"
+  ],
+  "height_dm": 14,
+  "weight_hg": 392,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/36/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/84/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/84/"
+  }
+}

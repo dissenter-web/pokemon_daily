@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 417,
+  "slug": "pachirisu",
+  "name_en": "Pachirisu",
+  "genera_en": [
+    "EleSquirrel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It makes electricity with pouches in its cheeks and shoots charges from its tail. It lives atop trees.",
+      "version": "pearl"
+    },
+    {
+      "text": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+      "version": "platinum"
+    },
+    {
+      "text": "It’s one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A species related to the Pikachu line. Though Pachirisu is a calm Pokémon, it still presents a danger should one touch its electrified tail or cheeks.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "run-away",
+    "pickup",
+    "volt-absorb"
+  ],
+  "height_dm": 4,
+  "weight_hg": 39,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/215/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/417/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/417/"
+  }
+}

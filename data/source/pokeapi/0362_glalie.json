@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 362,
+  "slug": "glalie",
+  "name_en": "Glalie",
+  "genera_en": [
+    "Face Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "GLALIE has a body made of rock, which it hardens with an armor of ice. This POKéMON has the ability to freeze moisture in the atmosphere into any shape it desires.",
+      "version": "ruby"
+    },
+    {
+      "text": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A GLALIE has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.",
+      "version": "firered"
+    },
+    {
+      "text": "To protect itself, it clads its body in an armor of ice, made by freezing moisture in the air.",
+      "version": "diamond"
+    },
+    {
+      "text": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+      "version": "platinum"
+    },
+    {
+      "text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "To protect itself, it clad its body in an armor of ice, made by freezing moisture in the air.",
+      "version": "x"
+    },
+    {
+      "text": "Glalie has a body made of rock, which it hardens with an armor of ice. This Pokémon has the ability to freeze moisture in the atmosphere into any shape it desires.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Glalie has the ability to freely control ice. For example, it can instantly freeze its prey solid. After immobilizing its prey in ice, this Pokémon enjoys eating it in leisurely fashion.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Legend says a boulder on an icy mountain absorbed the distress and regrets of a stranded mountaineer, giving rise to Glalie.",
+      "version": "sun"
+    },
+    {
+      "text": "Its prey is instantaneously frozen stiff by the cold air it exhales from its huge mouth. While they’re in that frozen state, it gobbles them up.",
+      "version": "moon"
+    },
+    {
+      "text": "It freezes its prey and chews them whole. However, it prefers to eat Pokémon like Vanillite that are already frozen.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its actual body is a rock that isn’t particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "inner-focus",
+    "ice-body",
+    "moody"
+  ],
+  "height_dm": 15,
+  "weight_hg": 2565,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/186/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/362/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/362/"
+  }
+}

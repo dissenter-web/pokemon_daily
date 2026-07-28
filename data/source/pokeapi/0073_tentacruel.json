@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 73,
+  "slug": "tentacruel",
+  "name_en": "Tentacruel",
+  "genera_en": [
+    "Jellyfish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+      "version": "red"
+    },
+    {
+      "text": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its 80 tentacles absorb water and stretch almost endlessly to CON­ STRICT its prey and enemies.",
+      "version": "gold"
+    },
+    {
+      "text": "In battle, it extends all 80 of its tentacles to entrap its oppo­ nent inside a poisonous net.",
+      "version": "silver"
+    },
+    {
+      "text": "When its 80 feel­ ers absorb water, it stretches to become like a net to entangle its prey.",
+      "version": "crystal"
+    },
+    {
+      "text": "TENTACRUEL has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This POKéMON’s outburst creates rough waves around it.",
+      "version": "ruby"
+    },
+    {
+      "text": "TENTACRUEL has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+      "version": "firered"
+    },
+    {
+      "text": "With 80 tentacles for ensnaring victims, it prevents escape until the prey is weakened by poison.",
+      "version": "diamond"
+    },
+    {
+      "text": "It alerts others to danger by stridently flashing the red orbs on its head.",
+      "version": "pearl"
+    },
+    {
+      "text": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its 80 tentacles absorb water and stretch almost endlessly to constrict its prey and enemies.",
+      "version": "heartgold"
+    },
+    {
+      "text": "In battle, it extends all 80 of its tentacles to entrap its opponent inside a poisonous net.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon’s outburst creates rough waves around it.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Normally, it has 80 poisonous tentacles. The longer one has been alive, the fewer tentacles it will have.",
+      "version": "sun"
+    },
+    {
+      "text": "Although these Pokémon are rare, when a large outbreak of them occurs, all fish Pokémon disappear from the surrounding sea.",
+      "version": "moon"
+    },
+    {
+      "text": "It fires off ultrasonic waves from its red orbs to weaken its prey, and then it wraps them up in its 80 tentacles.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it’s a warning sign.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+      "version": "sword"
+    },
+    {
+      "text": "Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.",
+      "version": "shield"
+    },
+    {
+      "text": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "poison"
+  ],
+  "abilities": [
+    "clear-body",
+    "liquid-ooze",
+    "rain-dish"
+  ],
+  "height_dm": 16,
+  "weight_hg": 550,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/30/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/73/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/73/"
+  }
+}

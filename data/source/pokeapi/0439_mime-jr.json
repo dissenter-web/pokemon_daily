@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 439,
+  "slug": "mime-jr",
+  "name_en": "Mime Jr.",
+  "genera_en": [
+    "Mime Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "In an attempt to confuse its enemy, it mimics the enemy’s movements. Then it wastes no time in making itself scarce!",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+      "version": "diamond"
+    },
+    {
+      "text": "It likes places where people gather. It mimics foes to confuse them, then makes its getaway.",
+      "version": "pearl"
+    },
+    {
+      "text": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+      "version": "platinum"
+    },
+    {
+      "text": "It does its absolute best to mimic the movements and expressions of its opponents, but it’s still not very good at it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.",
+      "version": "sword"
+    },
+    {
+      "text": "It looks for a Mr. Rime that’s a good dancer and carefully copies the Mr. Rime’s steps like an apprentice.",
+      "version": "shield"
+    },
+    {
+      "text": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "abilities": [
+    "soundproof",
+    "filter",
+    "technician"
+  ],
+  "height_dm": 6,
+  "weight_hg": 130,
+  "generation": "generation-iv",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/57/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/439/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/439/"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 623,
+  "slug": "golurk",
+  "name_en": "Golurk",
+  "genera_en": [
+    "Automaton Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+      "version": "black"
+    },
+    {
+      "text": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+      "version": "white"
+    },
+    {
+      "text": "Golurk were created to protect people and Pokémon. They run on a mysterious energy.",
+      "version": "black-2"
+    },
+    {
+      "text": "Some say that ancient people invented Golurk to serve as a laborer. It follows its master’s orders faithfully.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.",
+      "version": "sword"
+    },
+    {
+      "text": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground",
+    "ghost"
+  ],
+  "abilities": [
+    "iron-fist",
+    "klutz",
+    "no-guard"
+  ],
+  "height_dm": 28,
+  "weight_hg": 3300,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/316/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/623/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/623/"
+  }
+}

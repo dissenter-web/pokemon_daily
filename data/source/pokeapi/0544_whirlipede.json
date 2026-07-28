@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 544,
+  "slug": "whirlipede",
+  "name_en": "Whirlipede",
+  "genera_en": [
+    "Curlipede Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+      "version": "black"
+    },
+    {
+      "text": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+      "version": "white"
+    },
+    {
+      "text": "Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
+      "version": "sword"
+    },
+    {
+      "text": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "poison-point",
+    "swarm",
+    "speed-boost"
+  ],
+  "height_dm": 12,
+  "weight_hg": 585,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/277/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/544/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/544/"
+  }
+}

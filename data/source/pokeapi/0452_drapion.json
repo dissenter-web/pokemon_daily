@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 452,
+  "slug": "drapion",
+  "name_en": "Drapion",
+  "genera_en": [
+    "Ogre Scorpion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its body is encased in a sturdy shell. Its head rotates 180 degrees, eliminating blind spots.",
+      "version": "pearl"
+    },
+    {
+      "text": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
+      "version": "platinum"
+    },
+    {
+      "text": "It attacks people and Pokémon that cross the desert. This has only furthered its bad reputation.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s so vicious that it’s called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.",
+      "version": "shield"
+    },
+    {
+      "text": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "poison",
+    "dark"
+  ],
+  "abilities": [
+    "battle-armor",
+    "sniper",
+    "keen-eye"
+  ],
+  "height_dm": 13,
+  "weight_hg": 615,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/234/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/452/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/452/"
+  }
+}

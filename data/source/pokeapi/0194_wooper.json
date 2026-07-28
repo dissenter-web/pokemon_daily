@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 194,
+  "slug": "wooper",
+  "name_en": "Wooper",
+  "genera_en": [
+    "Water Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.",
+      "version": "gold"
+    },
+    {
+      "text": "When it walks a­ round on the ground, it coats its body with a slimy, poisonous film.",
+      "version": "silver"
+    },
+    {
+      "text": "A mucous membrane covers its body. Touching it barehanded will cause a shooting pain.",
+      "version": "crystal"
+    },
+    {
+      "text": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+      "version": "ruby"
+    },
+    {
+      "text": "WOOPER usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+      "version": "emerald"
+    },
+    {
+      "text": "When it walks around on the ground, it coats its body with a slimy, poisonous film.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives in cold water, half burying itself in mud at the bottom to sleep.",
+      "version": "diamond"
+    },
+    {
+      "text": "When the temperature cools in the evening, they emerge from water to seek food along the shore.",
+      "version": "pearl"
+    },
+    {
+      "text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+      "version": "platinum"
+    },
+    {
+      "text": "This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "damp",
+    "water-absorb",
+    "unaware"
+  ],
+  "height_dm": 4,
+  "weight_hg": 85,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/96/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/194/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/194/"
+  }
+}

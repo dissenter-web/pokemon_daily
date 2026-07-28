@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 625,
+  "slug": "bisharp",
+  "name_en": "Bisharp",
+  "genera_en": [
+    "Sword Blade Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+      "version": "black"
+    },
+    {
+      "text": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+      "version": "white"
+    },
+    {
+      "text": "This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.",
+      "version": "black-2"
+    },
+    {
+      "text": "No matter how strong the Bisharp, it’s said that if the blade on its head is chipped, it will retire from its position as the boss.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It leads a group of Pawniard. Bisharp doesn’t even change its expression when it deals the finishing blow to an opponent.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+      "version": "sword"
+    },
+    {
+      "text": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "abilities": [
+    "defiant",
+    "inner-focus",
+    "pressure"
+  ],
+  "height_dm": 16,
+  "weight_hg": 700,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/317/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/625/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/625/"
+  }
+}

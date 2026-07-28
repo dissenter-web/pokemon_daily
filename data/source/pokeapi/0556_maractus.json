@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 556,
+  "slug": "maractus",
+  "name_en": "Maractus",
+  "genera_en": [
+    "Cactus Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+      "version": "black"
+    },
+    {
+      "text": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+      "version": "white"
+    },
+    {
+      "text": "When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee.",
+      "version": "black-2"
+    },
+    {
+      "text": "With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",
+      "version": "sword"
+    },
+    {
+      "text": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "water-absorb",
+    "chlorophyll",
+    "storm-drain"
+  ],
+  "height_dm": 10,
+  "weight_hg": 280,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/283/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/556/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/556/"
+  }
+}

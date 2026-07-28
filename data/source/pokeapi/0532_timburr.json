@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 532,
+  "slug": "timburr",
+  "name_en": "Timburr",
+  "genera_en": [
+    "Muscular Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+      "version": "black"
+    },
+    {
+      "text": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+      "version": "white"
+    },
+    {
+      "text": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+      "version": "black-2"
+    },
+    {
+      "text": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
+      "version": "sword"
+    },
+    {
+      "text": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "guts",
+    "sheer-force",
+    "iron-fist"
+  ],
+  "height_dm": 6,
+  "weight_hg": 125,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/272/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/532/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/532/"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 602,
+  "slug": "tynamo",
+  "name_en": "Tynamo",
+  "genera_en": [
+    "EleFish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+      "version": "black"
+    },
+    {
+      "text": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+      "version": "white"
+    },
+    {
+      "text": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 2,
+  "weight_hg": 3,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/306/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/602/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/602/"
+  }
+}

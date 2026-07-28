@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 326,
+  "slug": "grumpig",
+  "name_en": "Grumpig",
+  "genera_en": [
+    "Manipulate Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POKéMON uses its special power, its snorting breath grows labored.",
+      "version": "ruby"
+    },
+    {
+      "text": "GRUMPIG uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This POKéMON’s black pearls are valuable as works of art.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.",
+      "version": "emerald"
+    },
+    {
+      "text": "It can gain control over foes by doing odd dance steps. The black pearls on its forehead are precious gems.",
+      "version": "firered"
+    },
+    {
+      "text": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes’ minds.",
+      "version": "black-2"
+    },
+    {
+      "text": "It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.",
+      "version": "y"
+    },
+    {
+      "text": "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pokémon uses its special power, its snorting breath grows labored.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "thick-fat",
+    "own-tempo",
+    "gluttony"
+  ],
+  "height_dm": 9,
+  "weight_hg": 715,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/164/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/326/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/326/"
+  }
+}

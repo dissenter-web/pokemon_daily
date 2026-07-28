@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 213,
+  "slug": "shuckle",
+  "name_en": "Shuckle",
+  "genera_en": [
+    "Mold Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.",
+      "version": "gold"
+    },
+    {
+      "text": "It stores BERRIES inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+      "version": "silver"
+    },
+    {
+      "text": "The fluid secreted by its toes carves holes in rocks for nesting and can be mixed with BERRIES to make a drink.",
+      "version": "crystal"
+    },
+    {
+      "text": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+      "version": "ruby"
+    },
+    {
+      "text": "A SHUCKLE hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+      "version": "emerald"
+    },
+    {
+      "text": "The BERRIES it stores in its vaselike shell decompose and become a gooey liquid.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+      "version": "diamond"
+    },
+    {
+      "text": "The berries it stores in its vase-like shell decompose and become a gooey liquid.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+      "version": "black-2"
+    },
+    {
+      "text": "The berries stored in its jar-like shell eventually become a thick, pulpy juice.",
+      "version": "x"
+    },
+    {
+      "text": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "gluttony",
+    "contrary"
+  ],
+  "height_dm": 6,
+  "weight_hg": 205,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/107/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/213/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/213/"
+  }
+}

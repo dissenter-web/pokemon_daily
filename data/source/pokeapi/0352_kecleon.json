@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 352,
+  "slug": "kecleon",
+  "name_en": "Kecleon",
+  "genera_en": [
+    "Color Swap Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "KECLEON is capable of changing its body colors at will to blend in with its surroundings. There is one exception - this POKéMON can’t change the zigzag pattern on its belly.",
+      "version": "ruby"
+    },
+    {
+      "text": "KECLEON alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A POKéMON that has the ability to alter its body colors to match its surroundings. A KECLEON reverts to its original colors if it is startled.",
+      "version": "emerald"
+    },
+    {
+      "text": "It changes body color to blend in with its surroundings. It also changes color if it is happy or sad.",
+      "version": "firered"
+    },
+    {
+      "text": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
+      "version": "diamond"
+    },
+    {
+      "text": "It changes its shading to match its surroundings so it can sneak up on prey. Only its belly patterns stay fixed.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Kecleon is capable of changing its body colors at will to blend in with its surroundings. There is one exception—this Pokémon can’t change the zigzag pattern on its belly.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kecleon alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "color-change",
+    "protean"
+  ],
+  "height_dm": 10,
+  "weight_hg": 220,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/180/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/352/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/352/"
+  }
+}

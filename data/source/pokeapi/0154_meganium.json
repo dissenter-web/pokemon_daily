@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 154,
+  "slug": "meganium",
+  "name_en": "Meganium",
+  "genera_en": [
+    "Herb Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+      "version": "gold"
+    },
+    {
+      "text": "MEGANIUM's breath has the power to revive dead grass and plants. It can make them healthy again.",
+      "version": "silver"
+    },
+    {
+      "text": "Anyone who stands beside it becomes refreshed, just as if they were relaxing in a sunny forest.",
+      "version": "crystal"
+    },
+    {
+      "text": "The fragrance of MEGANIUM’s flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe’s fighting spirit.",
+      "version": "ruby"
+    },
+    {
+      "text": "The fragrance of a MEGANIUM’s flower soothes and calms emotions. In battle, it gives off more of its becalming scent to blunt the foe’s fighting spirit.",
+      "version": "emerald"
+    },
+    {
+      "text": "MEGANIUM’s breath has the power to revive dead grass and plants. It can make them healthy again.",
+      "version": "firered"
+    },
+    {
+      "text": "Its breath has the fantastic ability to revive dead plants and flowers.",
+      "version": "diamond"
+    },
+    {
+      "text": "Meganium’s breath has the power to revive dead grass and plants. It can make them healthy again.",
+      "version": "y"
+    },
+    {
+      "text": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "leaf-guard"
+  ],
+  "height_dm": 18,
+  "weight_hg": 1005,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/79/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/154/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/154/"
+  }
+}

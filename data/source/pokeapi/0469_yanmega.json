@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 469,
+  "slug": "yanmega",
+  "name_en": "Yanmega",
+  "genera_en": [
+    "Ogre Darner Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+      "version": "platinum"
+    },
+    {
+      "text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The beat of its wings is so powerful that it accidentally dislodges full-grown trees when it takes off in flight.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.",
+      "version": "black-2"
+    },
+    {
+      "text": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "abilities": [
+    "speed-boost",
+    "tinted-lens",
+    "frisk"
+  ],
+  "height_dm": 19,
+  "weight_hg": 515,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/95/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/469/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/469/"
+  }
+}

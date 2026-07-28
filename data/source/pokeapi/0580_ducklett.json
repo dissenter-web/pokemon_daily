@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 580,
+  "slug": "ducklett",
+  "name_en": "Ducklett",
+  "genera_en": [
+    "Water Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+      "version": "black"
+    },
+    {
+      "text": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+      "version": "white"
+    },
+    {
+      "text": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "big-pecks",
+    "hydration"
+  ],
+  "height_dm": 5,
+  "weight_hg": 55,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/295/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/580/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/580/"
+  }
+}

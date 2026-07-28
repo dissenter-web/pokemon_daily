@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 378,
+  "slug": "regice",
+  "name_en": "Regice",
+  "genera_en": [
+    "Iceberg Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "REGICE’s body was made during an ice age. The deep-frozen body can’t be melted, even by fire. This POKéMON controls frigid air of minus 328 degrees F.",
+      "version": "ruby"
+    },
+    {
+      "text": "REGICE cloaks itself with frigid air of negative 328 degrees F. Things will freeze solid just by going near this POKéMON. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
+      "version": "emerald"
+    },
+    {
+      "text": "Research revealed that its body is made of the same kind of ice that is found at the South Pole.",
+      "version": "firered"
+    },
+    {
+      "text": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is said to have slept in a glacier for thousands of years. Its body can’t be melted, even by magma.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Regice’s body was made during an ice age. The deep-frozen body can’t be melted, even by fire. This Pokémon controls frigid air of -328 degrees Fahrenheit.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon’s body is made of solid ice. It’s said that Regice was born beneath thick ice in the ice age.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ice"
+  ],
+  "abilities": [
+    "clear-body",
+    "ice-body"
+  ],
+  "height_dm": 18,
+  "weight_hg": 1750,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/194/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/378/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/378/"
+  }
+}

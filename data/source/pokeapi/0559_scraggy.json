@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 559,
+  "slug": "scraggy",
+  "name_en": "Scraggy",
+  "genera_en": [
+    "Shedding Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+      "version": "black"
+    },
+    {
+      "text": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+      "version": "white"
+    },
+    {
+      "text": "Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too.",
+      "version": "black-2"
+    },
+    {
+      "text": "They move in small groups, walking around lazily. Anyone who makes eye contact gets smacked with a headbutt.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+      "version": "sword"
+    },
+    {
+      "text": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "fighting"
+  ],
+  "abilities": [
+    "shed-skin",
+    "moxie",
+    "intimidate"
+  ],
+  "height_dm": 6,
+  "weight_hg": 118,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/285/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/559/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/559/"
+  }
+}

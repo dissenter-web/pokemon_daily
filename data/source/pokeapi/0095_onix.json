@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 95,
+  "slug": "onix",
+  "name_en": "Onix",
+  "genera_en": [
+    "Rock Snake Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+      "version": "white"
+    },
+    {
+      "text": "Opening its large mouth, it ingests massive amounts of soil and creates long tunnels.",
+      "version": "black-2"
+    },
+    {
+      "text": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.",
+      "version": "red"
+    },
+    {
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.",
+      "version": "yellow"
+    },
+    {
+      "text": "It twists and squirms through the ground. The thunderous roar of its tunneling echoes a long way.",
+      "version": "gold"
+    },
+    {
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its mas­ sive, rugged body.",
+      "version": "silver"
+    },
+    {
+      "text": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+      "version": "crystal"
+    },
+    {
+      "text": "ONIX has a magnet in its brain. It acts as a compass so that this POKéMON does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "version": "ruby"
+    },
+    {
+      "text": "There is a magnet in its brain that prevents an ONIX from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+      "version": "emerald"
+    },
+    {
+      "text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+      "version": "firered"
+    },
+    {
+      "text": "As it grows, the stone portions of its body harden to become similar to black-colored diamonds.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "When it travels underground, it causes rumbling and tremors. It can move at 50 mph.",
+      "version": "diamond"
+    },
+    {
+      "text": "It squirms through the ground using its long and rugged body. It always eats while burrowing.",
+      "version": "pearl"
+    },
+    {
+      "text": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+      "version": "x"
+    },
+    {
+      "text": "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "abilities": [
+    "rock-head",
+    "sturdy",
+    "weak-armor"
+  ],
+  "height_dm": 88,
+  "weight_hg": 2100,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/41/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/95/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/95/"
+  }
+}

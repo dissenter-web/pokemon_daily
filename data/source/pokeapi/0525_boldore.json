@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 525,
+  "slug": "boldore",
+  "name_en": "Boldore",
+  "genera_en": [
+    "Ore Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+      "version": "black"
+    },
+    {
+      "text": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+      "version": "white"
+    },
+    {
+      "text": "When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its orange crystal is a mass of energy. Just one crystal fragment would provide enough fuel for a hundred dump trucks.",
+      "version": "sun"
+    },
+    {
+      "text": "It explores caves in search of underground water. It’s not comfortable around water, so this Pokémon takes great care in lapping it up.",
+      "version": "moon"
+    },
+    {
+      "text": "The energy overflowing from its body has turned into orange crystals that are hard enough to smash diamonds.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its orange crystals are lumps of powerful energy. They’re valuable, so Boldore is sometimes targeted for them.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy.",
+      "version": "sword"
+    },
+    {
+      "text": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "weak-armor",
+    "sand-force"
+  ],
+  "height_dm": 9,
+  "weight_hg": 1020,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/268/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/525/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/525/"
+  }
+}

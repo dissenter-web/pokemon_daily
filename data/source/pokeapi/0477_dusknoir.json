@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 477,
+  "slug": "dusknoir",
+  "name_en": "Dusknoir",
+  "genera_en": [
+    "Gripper Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is said to take lost spirits into its pliant body and guide them home.",
+      "version": "platinum"
+    },
+    {
+      "text": "This feared Pokémon is said to travel to worlds unknown. Some even believe that it takes lost spirits along with it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",
+      "version": "sword"
+    },
+    {
+      "text": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.",
+      "version": "shield"
+    },
+    {
+      "text": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "pressure",
+    "frisk"
+  ],
+  "height_dm": 22,
+  "weight_hg": 1066,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/182/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/477/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/477/"
+  }
+}

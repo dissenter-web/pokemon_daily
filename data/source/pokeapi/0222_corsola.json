@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 222,
+  "slug": "corsola",
+  "name_en": "Corsola",
+  "genera_en": [
+    "Coral Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+      "version": "gold"
+    },
+    {
+      "text": "In a south sea nation, the people live in communi­ ties that are built on groups of these POKéMON.",
+      "version": "silver"
+    },
+    {
+      "text": "The points on its head absorb nutrients from clean water. They cannot survive in polluted water.",
+      "version": "crystal"
+    },
+    {
+      "text": "CORSOLA’s branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this POKéMON grows it back in just one night.",
+      "version": "ruby"
+    },
+    {
+      "text": "Clusters of CORSOLA congregate in warm seas where they serve as ideal hiding places for smaller POKéMON. When the water temperature falls, this POKéMON migrates to the southern seas.",
+      "version": "sapphire"
+    },
+    {
+      "text": "CORSOLA live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+      "version": "emerald"
+    },
+    {
+      "text": "In a south sea nation, the people live in communities that are built on groups of these POKéMON.",
+      "version": "firered"
+    },
+    {
+      "text": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
+      "version": "diamond"
+    },
+    {
+      "text": "It continuously sheds and grows. The tip of its head is prized as a treasure because of its beauty.",
+      "version": "heartgold"
+    },
+    {
+      "text": "In a south-sea nation, the people live in communities that are built on groups of these Pokémon.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.",
+      "version": "black-2"
+    },
+    {
+      "text": "Corsola’s branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Clusters of Corsola congregate in warm seas where they serve as ideal hiding places for smaller Pokémon. When the water temperature falls, this Pokémon migrates to the southern seas.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Coral branches grow from its head. They break off quite easily, but they grow back in about three days.",
+      "version": "sun"
+    },
+    {
+      "text": "Pursued by Mareanie for the branches on its head, this Pokémon will sometimes snap its own branches off as a diversion while it escapes.",
+      "version": "moon"
+    },
+    {
+      "text": "The pink of Corsola that live in Alola is deep and vibrant, thanks to seas filled with nutrition.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.",
+      "version": "sword"
+    },
+    {
+      "text": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "rock"
+  ],
+  "abilities": [
+    "hustle",
+    "natural-cure",
+    "regenerator"
+  ],
+  "height_dm": 6,
+  "weight_hg": 50,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/113/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/222/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/222/"
+  }
+}

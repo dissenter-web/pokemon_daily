@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 51,
+  "slug": "dugtrio",
+  "name_en": "Dugtrio",
+  "genera_en": [
+    "Mole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+      "version": "red"
+    },
+    {
+      "text": "A team of triplets that can burrow over 60 MPH. Due to this, some people think it's an earthquake.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.",
+      "version": "gold"
+    },
+    {
+      "text": "Extremely power­ ful, they can DIG through even the hardest ground to a depth of over 60 miles.",
+      "version": "silver"
+    },
+    {
+      "text": "These DIGLETT triplets dig over 60 miles below sea level. No one knows what it's like underground.",
+      "version": "crystal"
+    },
+    {
+      "text": "DUGTRIO are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+      "version": "ruby"
+    },
+    {
+      "text": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+      "version": "emerald"
+    },
+    {
+      "text": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+      "version": "firered"
+    },
+    {
+      "text": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+      "version": "diamond"
+    },
+    {
+      "text": "Extremely powerful, they can dig through even the hardest ground to a depth of over 60 miles.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This set of triplets moves cooperatively. It’s the power of teamwork that enables this Pokémon to dig to a depth of 60 miles.",
+      "version": "sun"
+    },
+    {
+      "text": "Despite the closeness between this Pokémon and farmers and other people, no one has ever seen the parts of it concealed underground.",
+      "version": "moon"
+    },
+    {
+      "text": "While the three of them normally get along splendidly, on rare occasions a huge fight will break out over which head gets to eat first.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Dugtrio’s heads are sleek and smooth and incredibly hard. It can dig through any soil with its headbutts.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A team of triplets that can burrow to a depth of 60 miles. It’s reported that this triggers an earthquake.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+      "version": "sword"
+    },
+    {
+      "text": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-veil",
+    "arena-trap",
+    "sand-force"
+  ],
+  "height_dm": 7,
+  "weight_hg": 333,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/21/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/51/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/51/"
+  }
+}

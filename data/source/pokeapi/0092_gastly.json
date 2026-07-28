@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 92,
+  "slug": "gastly",
+  "name_en": "Gastly",
+  "genera_en": [
+    "Gas Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.",
+      "version": "red"
+    },
+    {
+      "text": "Said to appear in decrepit, deserted buildings. It has no real shape as it appears to be made of a gas.",
+      "version": "yellow"
+    },
+    {
+      "text": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
+      "version": "gold"
+    },
+    {
+      "text": "Its thin body is made of gas. It can envelop an opponent of any size and cause suffocation.",
+      "version": "silver"
+    },
+    {
+      "text": "It wraps its op­ ponent in its gas- like body, slowly weakening its prey by poisoning it through the skin.",
+      "version": "crystal"
+    },
+    {
+      "text": "GASTLY is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this POKéMON cluster under the eaves of houses to escape the ravages of wind.",
+      "version": "ruby"
+    },
+    {
+      "text": "When exposed to a strong wind, a GASTLY’s gaseous body quickly dwindles away. They cluster under the eaves of houses to escape the ravages of wind.",
+      "version": "emerald"
+    },
+    {
+      "text": "A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.",
+      "version": "firered"
+    },
+    {
+      "text": "This Pokémon’s body is 95% made up of gases, which are blown away by strong gusts of wind.",
+      "version": "diamond"
+    },
+    {
+      "text": "A Pokémon born from poison gases. It defeats even the largest foes by enveloping them in gas.",
+      "version": "pearl"
+    },
+    {
+      "text": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Should a strange light be seen flickering in an abandoned building, Gastly is lurking there.",
+      "version": "sun"
+    },
+    {
+      "text": "Although Gastly is barely visible, when it’s near, a faint sweet smell lingers.",
+      "version": "moon"
+    },
+    {
+      "text": "It’s said that gas emanating from a graveyard was possessed by the grievances of the deceased and thus became a Pokémon.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Poisonous gas comprises 95% of its body. It’s said that the remaining 5% is made up of the souls of those who died from the gas.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Said to appear in decrepit, deserted buildings. It has no real shape, as it appears to be made of a gas.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Gaseous and completely impalpable. Also highly dangerous— inhaling part of its poisonous body will cause one to faint instantly.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 13,
+  "weight_hg": 1,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/40/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/92/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/92/"
+  }
+}

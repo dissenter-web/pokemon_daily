@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 218,
+  "slug": "slugma",
+  "name_en": "Slugma",
+  "genera_en": [
+    "Lava Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
+      "version": "pearl"
+    },
+    {
+      "text": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+      "version": "gold"
+    },
+    {
+      "text": "A common sight in volcanic areas, it slowly slithers around in a con­ stant search for warm places.",
+      "version": "silver"
+    },
+    {
+      "text": "These group to­ gether in areas that are hotter than normal. If it cools off, its skin hardens.",
+      "version": "crystal"
+    },
+    {
+      "text": "Molten magma courses throughout SLUGMA’s circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+      "version": "ruby"
+    },
+    {
+      "text": "SLUGMA does not have any blood in its body. Instead, intensely hot magma circulates throughout this POKéMON’s body, carrying essential nutrients and oxygen to its organs.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is a species of POKéMON that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+      "version": "emerald"
+    },
+    {
+      "text": "A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.",
+      "version": "firered"
+    },
+    {
+      "text": "Molten magma courses throughout Slugma’s circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "magma-armor",
+    "flame-body",
+    "weak-armor"
+  ],
+  "height_dm": 7,
+  "weight_hg": 350,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/111/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/218/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/218/"
+  }
+}

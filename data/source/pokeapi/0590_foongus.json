@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 590,
+  "slug": "foongus",
+  "name_en": "Foongus",
+  "genera_en": [
+    "Mushroom Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+      "version": "black"
+    },
+    {
+      "text": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+      "version": "white"
+    },
+    {
+      "text": "It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.",
+      "version": "black-2"
+    },
+    {
+      "text": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
+      "version": "y"
+    },
+    {
+      "text": "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.",
+      "version": "sword"
+    },
+    {
+      "text": "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "effect-spore",
+    "regenerator"
+  ],
+  "height_dm": 2,
+  "weight_hg": 10,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/300/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/590/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/590/"
+  }
+}

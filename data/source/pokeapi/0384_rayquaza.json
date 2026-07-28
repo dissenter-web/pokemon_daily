@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 384,
+  "slug": "rayquaza",
+  "name_en": "Rayquaza",
+  "genera_en": [
+    "Sky High Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "RAYQUAZA lived for hundreds of millions of years in the earth’s ozone layer, never descending to the ground. This POKéMON appears to feed on water and particles in the atmosphere.",
+      "version": "ruby"
+    },
+    {
+      "text": "RAYQUAZA is said to have lived for hundreds of millions of years in the earth’s ozone layer, above the clouds. Its existence had been completely unknown because it lived so high in the sky.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A POKéMON that flies endlessly in the ozone layer. It is said it would descend to the ground if KYOGRE and GROUDON were to fight.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has lived for hundreds of millions of years in the ozone layer. Its flying form looks like a meteor.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "version": "diamond"
+    },
+    {
+      "text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "abilities": [
+    "air-lock"
+  ],
+  "height_dm": 70,
+  "weight_hg": 2065,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/200/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/384/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/384/"
+  }
+}

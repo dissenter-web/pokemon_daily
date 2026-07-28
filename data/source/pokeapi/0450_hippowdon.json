@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 450,
+  "slug": "hippowdon",
+  "name_en": "Hippowdon",
+  "genera_en": [
+    "Heavyweight Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its huge mouth is almost seven feet across. It has enough power to completely crush a car.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+      "version": "platinum"
+    },
+    {
+      "text": "It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.",
+      "version": "sword"
+    },
+    {
+      "text": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
+      "version": "shield"
+    },
+    {
+      "text": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-stream",
+    "sand-force"
+  ],
+  "height_dm": 20,
+  "weight_hg": 3000,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/233/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/450/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/450/"
+  }
+}

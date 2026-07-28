@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 13,
+  "slug": "weedle",
+  "name_en": "Weedle",
+  "genera_en": [
+    "Hairy Bug Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+      "version": "red"
+    },
+    {
+      "text": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+      "version": "gold"
+    },
+    {
+      "text": "It attacks using a two-inch poison barb on its head. It can usually be found under the leaves it eats.",
+      "version": "silver"
+    },
+    {
+      "text": "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
+      "version": "crystal"
+    },
+    {
+      "text": "WEEDLE has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+      "version": "ruby"
+    },
+    {
+      "text": "A WEEDLE has an extremely acute sense of smell. It distinguishes its favorite kinds of leaves from those it dislikes by sniffing with its big red proboscis (nose).",
+      "version": "emerald"
+    },
+    {
+      "text": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+      "version": "firered"
+    },
+    {
+      "text": "Often found in forests, eating leaves. It has a sharp stinger on its head that injects poison.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+      "version": "diamond"
+    },
+    {
+      "text": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "abilities": [
+    "shield-dust",
+    "run-away"
+  ],
+  "height_dm": 3,
+  "weight_hg": 32,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/5/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/13/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/13/"
+  }
+}

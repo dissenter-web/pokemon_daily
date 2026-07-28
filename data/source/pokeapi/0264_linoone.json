@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 264,
+  "slug": "linoone",
+  "name_en": "Linoone",
+  "genera_en": [
+    "Rushing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LINOONE always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This POKéMON is very challenged by gently curving roads.",
+      "version": "ruby"
+    },
+    {
+      "text": "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this POKéMON is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
+      "version": "emerald"
+    },
+    {
+      "text": "When running in a straight line, it can top 60 miles per hour. However, it has a tough time with curved roads.",
+      "version": "firered"
+    },
+    {
+      "text": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+      "version": "diamond"
+    },
+    {
+      "text": "When running in a straight line, it can easily top 60 miles an hour. It has a tough time with curved roads.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Linoone always runs full speed and only in straight lines. If facing an obstacle, it makes a right-angle turn to evade it. This Pokémon is very challenged by gently curving roads.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.",
+      "version": "sword"
+    },
+    {
+      "text": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "pickup",
+    "gluttony",
+    "quick-feet"
+  ],
+  "height_dm": 5,
+  "weight_hg": 325,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/134/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/264/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/264/"
+  }
+}

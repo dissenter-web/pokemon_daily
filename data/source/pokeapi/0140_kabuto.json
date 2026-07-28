@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 140,
+  "slug": "kabuto",
+  "name_en": "Kabuto",
+  "genera_en": [
+    "Shellfish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+      "version": "red"
+    },
+    {
+      "text": "A POKéMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.",
+      "version": "yellow"
+    },
+    {
+      "text": "On rare occasions, some have been found as fossils which they became while hiding on the ocean floor.",
+      "version": "gold"
+    },
+    {
+      "text": "This POKéMON lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+      "version": "silver"
+    },
+    {
+      "text": "Three hundred million years ago, it hid on the sea floor. It also has eyes on its back that glow.",
+      "version": "crystal"
+    },
+    {
+      "text": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is a POKéMON that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. KABUTO have not changed for 300 million years.",
+      "version": "emerald"
+    },
+    {
+      "text": "This POKéMON was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+      "version": "firered"
+    },
+    {
+      "text": "A POKéMON that was regenerated from a fossil found in what was once the ocean floor long ago.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+      "version": "diamond"
+    },
+    {
+      "text": "This Pokémon lived in ancient times. On rare occasions, it has been discovered as a living fossil.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "This Pokémon was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.",
+      "version": "y"
+    },
+    {
+      "text": "Kabuto is a Pokémon that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The Pokémon has not changed at all for 300 million years.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon thrived 300 million years ago. It’s said that living specimens can still be seen in a certain region—a rare sight.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+      "version": "sword"
+    },
+    {
+      "text": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "battle-armor",
+    "weak-armor"
+  ],
+  "height_dm": 5,
+  "weight_hg": 115,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/70/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/140/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/140/"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 318,
+  "slug": "carvanha",
+  "name_en": "Carvanha",
+  "genera_en": [
+    "Savage Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
+      "version": "ruby"
+    },
+    {
+      "text": "If anything invades CARVANHA’s territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this POKéMON turns suddenly timid.",
+      "version": "sapphire"
+    },
+    {
+      "text": "CARVANHA attack ships in swarms, making them sink. Although it is said to be a very vicious POKéMON, it timidly flees as soon as it finds itself alone.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lives in massive rivers that course through jungles. It swarms prey that enter its territory.",
+      "version": "firered"
+    },
+    {
+      "text": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+      "version": "diamond"
+    },
+    {
+      "text": "They form packs to attack boats and rip out their hulls to sink them. They live in rivers in the jungle.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Carvanha’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this Pokémon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "If anything invades Carvanha’s territory, it will swarm and tear at the intruder with its pointed fangs. On its own, however, this Pokémon turns suddenly timid.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Each school has its own territory. Any intruders are mercilessly attacked with fangs bared.",
+      "version": "sun"
+    },
+    {
+      "text": "If they scent the faintest trace of blood, they rush to attack en masse. When alone, they’re rather cowardly.",
+      "version": "moon"
+    },
+    {
+      "text": "They’re such cowards that they won’t hunt alone. When five or so of them get together, they suddenly turn ferocious!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
+      "version": "sword"
+    },
+    {
+      "text": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "dark"
+  ],
+  "abilities": [
+    "rough-skin",
+    "speed-boost"
+  ],
+  "height_dm": 8,
+  "weight_hg": 208,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/160/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/318/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/318/"
+  }
+}

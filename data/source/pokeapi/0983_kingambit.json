@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 983,
+  "slug": "kingambit",
+  "name_en": "Kingambit",
+  "genera_en": [
+    "Big Blade Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+      "version": "scarlet"
+    },
+    {
+      "text": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.",
+      "version": "violet"
+    }
+  ],
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "abilities": [
+    "defiant",
+    "supreme-overlord",
+    "pressure"
+  ],
+  "height_dm": 20,
+  "weight_hg": 1200,
+  "generation": "generation-ix",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/317/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/983/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/983/"
+  }
+}

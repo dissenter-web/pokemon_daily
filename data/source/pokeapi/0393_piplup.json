@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 393,
+  "slug": "piplup",
+  "name_en": "Piplup",
+  "genera_en": [
+    "Penguin Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives along shores in northern countries. A skilled swimmer, it dives for over 10 minutes to hunt.",
+      "version": "pearl"
+    },
+    {
+      "text": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+      "version": "platinum"
+    },
+    {
+      "text": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Prefers cold climes and appears along coasts. It's an adorable little thing—as cute as any child—but it's also prideful, unwilling to accept handouts from people.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "competitive"
+  ],
+  "height_dm": 4,
+  "weight_hg": 52,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/205/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/393/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/393/"
+  }
+}

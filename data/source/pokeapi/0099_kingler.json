@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 99,
+  "slug": "kingler",
+  "name_en": "Kingler",
+  "genera_en": [
+    "Pincer Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.",
+      "version": "red"
+    },
+    {
+      "text": "One claw grew massively and as hard as steel. It has 10,000-HP strength. However, it is too heavy.",
+      "version": "yellow"
+    },
+    {
+      "text": "It can hardly lift its massive, overgrown pincer. The pincer's size makes it difficult to aim properly.",
+      "version": "gold"
+    },
+    {
+      "text": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its bal­ ance and staggers.",
+      "version": "silver"
+    },
+    {
+      "text": "Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.",
+      "version": "crystal"
+    },
+    {
+      "text": "KINGLER has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the POKéMON quickly tires.",
+      "version": "ruby"
+    },
+    {
+      "text": "It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this POKéMON quickly tires.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its large and hard pincer has 10,000- horsepower strength. However, being so big, it is unwieldy to move.",
+      "version": "firered"
+    },
+    {
+      "text": "The large pincer has 10,000-horsepower crushing force. However, its huge size makes it unwieldy to use.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can hardly lift its massive, overgrown pincer. The pincer’s size makes it difficult to aim properly.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+      "version": "x"
+    },
+    {
+      "text": "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "One claw grew massively and is as hard as steel. It has 10,000-horsepower strength. However, it is too heavy.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "shell-armor",
+    "sheer-force"
+  ],
+  "height_dm": 13,
+  "weight_hg": 600,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/43/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/99/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/99/"
+  }
+}

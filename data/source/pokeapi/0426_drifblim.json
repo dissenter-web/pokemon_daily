@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 426,
+  "slug": "drifblim",
+  "name_en": "Drifblim",
+  "genera_en": [
+    "Blimp Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It’s drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "version": "diamond"
+    },
+    {
+      "text": "It carries people and Pokémon when it flies. But since it only drifts, it can end up anywhere.",
+      "version": "pearl"
+    },
+    {
+      "text": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+      "version": "platinum"
+    },
+    {
+      "text": "It can generate and release gas within its body. That’s how it can control the altitude of its drift.",
+      "version": "heartgold"
+    },
+    {
+      "text": "They carry people and Pokémon, but the wind can catch them, so there can’t be a fixed destination.",
+      "version": "black-2"
+    },
+    {
+      "text": "It’s drowsy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "version": "y"
+    },
+    {
+      "text": "There was once an incident in which a man took a trip riding a Drifblim, only to go missing.",
+      "version": "sun"
+    },
+    {
+      "text": "Even while under careful observation, large flocks of Drifblim flying at dusk will inexplicably disappear from view.",
+      "version": "moon"
+    },
+    {
+      "text": "There’s a rumor that if you catch a Drifblim floating on the wind at dusk, you’ll be carried away to the afterlife.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The raw material for the gas inside its body is souls. When its body starts to deflate, it’s thought to carry away people and Pokémon.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",
+      "version": "sword"
+    },
+    {
+      "text": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.",
+      "version": "shield"
+    },
+    {
+      "text": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost",
+    "flying"
+  ],
+  "abilities": [
+    "aftermath",
+    "unburden",
+    "flare-boost"
+  ],
+  "height_dm": 12,
+  "weight_hg": 150,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/219/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/426/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/426/"
+  }
+}

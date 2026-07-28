@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 558,
+  "slug": "crustle",
+  "name_en": "Crustle",
+  "genera_en": [
+    "Stone Home Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+      "version": "black"
+    },
+    {
+      "text": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+      "version": "white"
+    },
+    {
+      "text": "When its boulder is broken in battles for territory, it feels unsure and begins to weaken.",
+      "version": "black-2"
+    },
+    {
+      "text": "This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days.",
+      "version": "sword"
+    },
+    {
+      "text": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "shell-armor",
+    "weak-armor"
+  ],
+  "height_dm": 14,
+  "weight_hg": 2000,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/284/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/558/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/558/"
+  }
+}

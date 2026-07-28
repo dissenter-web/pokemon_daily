@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 412,
+  "slug": "burmy",
+  "name_en": "Burmy",
+  "genera_en": [
+    "Bagworm Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+      "version": "diamond"
+    },
+    {
+      "text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+      "version": "pearl"
+    },
+    {
+      "text": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+      "version": "platinum"
+    },
+    {
+      "text": "It covers itself with a cloak to shelter from the cold. When it’s hot, its cloak is thinner.",
+      "version": "heartgold"
+    },
+    {
+      "text": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug"
+  ],
+  "abilities": [
+    "shed-skin",
+    "overcoat"
+  ],
+  "height_dm": 2,
+  "weight_hg": 34,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/213/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/412/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/412/"
+  }
+}

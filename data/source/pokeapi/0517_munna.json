@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 517,
+  "slug": "munna",
+  "name_en": "Munna",
+  "genera_en": [
+    "Dream Eater Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+      "version": "black"
+    },
+    {
+      "text": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+      "version": "white"
+    },
+    {
+      "text": "This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.",
+      "version": "black-2"
+    },
+    {
+      "text": "Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
+      "version": "sword"
+    },
+    {
+      "text": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "forewarn",
+    "synchronize",
+    "telepathy"
+  ],
+  "height_dm": 6,
+  "weight_hg": 233,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/265/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/517/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/517/"
+  }
+}

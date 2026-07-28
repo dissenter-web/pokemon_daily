@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 335,
+  "slug": "zangoose",
+  "name_en": "Zangoose",
+  "genera_en": [
+    "Cat Ferret Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+      "version": "x"
+    },
+    {
+      "text": "Memories of battling its arch-rival SEVIPER are etched into every cell of ZANGOOSE’s body. This POKéMON adroitly dodges attacks with incredible agility.",
+      "version": "ruby"
+    },
+    {
+      "text": "ZANGOOSE usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This POKéMON shares a bitter rivalry with SEVIPER that dates back over generations.",
+      "version": "sapphire"
+    },
+    {
+      "text": "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any SEVIPER.",
+      "version": "emerald"
+    },
+    {
+      "text": "If it comes across a SEVIPER, its fur bristles and it assumes its battle pose. Its sharp claws are its best weapon.",
+      "version": "firered"
+    },
+    {
+      "text": "It has feuded with SEVIPER for many generations. Its sharp claws are its biggest weapons.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its fur would all stand on end if it smelled a SEVIPER nearby. Its sharp claws tear up its foes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It’s Seviper’s archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its fur would all stand on end if it smelled a Seviper nearby. Its sharp claws tear up its foes.",
+      "version": "y"
+    },
+    {
+      "text": "Memories of battling its archrival Seviper are etched into every cell of Zangoose’s body. This Pokémon adroitly dodges attacks with incredible agility.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "immunity",
+    "toxic-boost"
+  ],
+  "height_dm": 13,
+  "weight_hg": 403,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/169/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/335/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/335/"
+  }
+}

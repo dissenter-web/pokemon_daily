@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 114,
+  "slug": "tangela",
+  "name_en": "Tangela",
+  "genera_en": [
+    "Vine Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The whole body is swathed with wide vines that are similar to sea­ weed. Its vines shake as it walks.",
+      "version": "red"
+    },
+    {
+      "text": "Its identity is obscured by masses of thick, blue vines. The vines are said to never stop growing.",
+      "version": "yellow"
+    },
+    {
+      "text": "The vines that cloak its entire body are always jiggling. They effectively un­ nerve its foes.",
+      "version": "gold"
+    },
+    {
+      "text": "It tangles any moving thing with its vines. Their subtle shaking is ticklish if you get ensnared.",
+      "version": "silver"
+    },
+    {
+      "text": "During battle, it constantly moves the vines that cover its body in order to annoy its opponent.",
+      "version": "crystal"
+    },
+    {
+      "text": "TANGELA’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+      "version": "emerald"
+    },
+    {
+      "text": "Blue plant vines cloak the POKéMON’s identity in a tangled mass. It entangles anything that gets close.",
+      "version": "firered"
+    },
+    {
+      "text": "The whole body is swathed with wide vines that are similar to seaweed. The vines sway as it walks.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is shrouded by blue vines. No one has seen the face hidden behind this growth of vines.",
+      "version": "diamond"
+    },
+    {
+      "text": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+      "version": "platinum"
+    },
+    {
+      "text": "The vines that cloak its entire body are always jiggling. They effectively unnerve its foes.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long.",
+      "version": "black-2"
+    },
+    {
+      "text": "Tangela’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.",
+      "version": "sword"
+    },
+    {
+      "text": "The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.",
+      "version": "shield"
+    },
+    {
+      "text": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "leaf-guard",
+    "regenerator"
+  ],
+  "height_dm": 10,
+  "weight_hg": 350,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/52/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/114/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/114/"
+  }
+}

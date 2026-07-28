@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 445,
+  "slug": "garchomp",
+  "name_en": "Garchomp",
+  "genera_en": [
+    "Mach Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+      "version": "diamond"
+    },
+    {
+      "text": "It flies at speeds equal to a jet fighter plane. It never allows its prey to escape.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It can fly at speeds rivaling jet planes. It dives into flocks of bird Pokémon and gulps the entire flock down whole.",
+      "version": "sun"
+    },
+    {
+      "text": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+      "version": "moon"
+    },
+    {
+      "text": "It flies at the speed of sound while searching for prey, and it has midair battles with Salamence as the two compete for food.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.",
+      "version": "sword"
+    },
+    {
+      "text": "Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.",
+      "version": "shield"
+    },
+    {
+      "text": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dragon",
+    "ground"
+  ],
+  "abilities": [
+    "sand-veil",
+    "rough-skin"
+  ],
+  "height_dm": 19,
+  "weight_hg": 950,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/230/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/445/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/445/"
+  }
+}

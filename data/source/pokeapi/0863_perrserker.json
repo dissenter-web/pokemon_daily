@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 863,
+  "slug": "perrserker",
+  "name_en": "Perrserker",
+  "genera_en": [
+    "Viking Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.",
+      "version": "sword"
+    },
+    {
+      "text": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "steel"
+  ],
+  "abilities": [
+    "battle-armor",
+    "tough-claws",
+    "steely-spirit"
+  ],
+  "height_dm": 8,
+  "weight_hg": 280,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/22/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/863/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/863/"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 198,
+  "slug": "murkrow",
+  "name_en": "Murkrow",
+  "genera_en": [
+    "Darkness Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+      "version": "gold"
+    },
+    {
+      "text": "It is said that when chased, it lures its attacker onto dark mountain trails where the foe will get lost.",
+      "version": "silver"
+    },
+    {
+      "text": "It hides any shiny object it finds in a secret location. MURKROW and MEOWTH loot one another's stashes.",
+      "version": "crystal"
+    },
+    {
+      "text": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+      "version": "ruby"
+    },
+    {
+      "text": "MURKROW were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is believed that seeing this Pokémon at night will bring about ominous occurrences.",
+      "version": "diamond"
+    },
+    {
+      "text": "It appears near travelers to lure them into deep forests. It is said to carry misfortune.",
+      "version": "pearl"
+    },
+    {
+      "text": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
+      "version": "platinum"
+    },
+    {
+      "text": "If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails.",
+      "version": "black-2"
+    },
+    {
+      "text": "It hides any shiny object it finds in a secret location. Murkrow and Meowth loot one another’s stashes.",
+      "version": "x"
+    },
+    {
+      "text": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "They awaken at dusk and take wing in the twilight, leading to the expression, “Get home before the Murkrow fly.”",
+      "version": "sun"
+    },
+    {
+      "text": "Seen as a symbol of bad luck, it’s generally disliked. Yet it gives presents—objects that sparkle or shine—to Trainers it’s close to.",
+      "version": "moon"
+    },
+    {
+      "text": "It has a weakness for shiny things. It’s been known to sneak into the nests of Gabite—noted collectors of jewels—in search of treasure.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dark",
+    "flying"
+  ],
+  "abilities": [
+    "insomnia",
+    "super-luck",
+    "prankster"
+  ],
+  "height_dm": 5,
+  "weight_hg": 21,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/97/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/198/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/198/"
+  }
+}

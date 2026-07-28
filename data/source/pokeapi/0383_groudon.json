@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 383,
+  "slug": "groudon",
+  "name_en": "Groudon",
+  "genera_en": [
+    "Continent Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "GROUDON has long been described in mythology as the POKéMON that raised lands and expanded continents. This POKéMON took to sleep after a cataclysmic battle with KYOGRE.",
+      "version": "ruby"
+    },
+    {
+      "text": "GROUDON has the power to scatter rain clouds and make water evaporate with light and heat. It came as a savior to people who had been suffering from terrible floods.",
+      "version": "sapphire"
+    },
+    {
+      "text": "GROUDON has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+      "version": "emerald"
+    },
+    {
+      "text": "This legendary POKéMON is said to represent the land. It went to sleep after dueling KYOGRE.",
+      "version": "firered"
+    },
+    {
+      "text": "It had been asleep in underground magma ever since it fiercely fought KYOGRE long ago.",
+      "version": "diamond"
+    },
+    {
+      "text": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with KYOGRE.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+      "version": "black"
+    },
+    {
+      "text": "Said to have expanded the lands by evaporating water with raging heat. It battled titanically with Kyogre.",
+      "version": "x"
+    },
+    {
+      "text": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+      "version": "y"
+    },
+    {
+      "text": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "drought"
+  ],
+  "height_dm": 35,
+  "weight_hg": 9500,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/199/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/383/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/383/"
+  }
+}

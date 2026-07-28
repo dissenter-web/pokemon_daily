@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 494,
+  "slug": "victini",
+  "name_en": "Victini",
+  "genera_en": [
+    "Victory Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+      "version": "black"
+    },
+    {
+      "text": "It creates an unlimited supply of energy inside its body, which it shares with those who touch it.",
+      "version": "white"
+    },
+    {
+      "text": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "psychic",
+    "fire"
+  ],
+  "abilities": [
+    "victory-star"
+  ],
+  "height_dm": 4,
+  "weight_hg": 40,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/255/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/494/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/494/"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 332,
+  "slug": "cacturne",
+  "name_en": "Cacturne",
+  "genera_en": [
+    "Scarecrow Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "During the daytime, CACTURNE remains unmoving so that it does not lose any moisture to the harsh desert sun. This POKéMON becomes active at night when the temperature drops.",
+      "version": "ruby"
+    },
+    {
+      "text": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving.",
+      "version": "sapphire"
+    },
+    {
+      "text": "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert’s heat.",
+      "version": "firered"
+    },
+    {
+      "text": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
+      "version": "diamond"
+    },
+    {
+      "text": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+      "version": "heartgold"
+    },
+    {
+      "text": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "abilities": [
+    "sand-veil",
+    "water-absorb"
+  ],
+  "height_dm": 13,
+  "weight_hg": 774,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/167/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/332/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/332/"
+  }
+}

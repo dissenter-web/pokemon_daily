@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 303,
+  "slug": "mawile",
+  "name_en": "Mawile",
+  "genera_en": [
+    "Deceiver Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "MAWHILE’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, MAWHILE chomps it with its gaping jaws.",
+      "version": "ruby"
+    },
+    {
+      "text": "Don’t be taken in by this POKéMON’s cute face - it’s very dangerous. MAWILE fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+      "version": "emerald"
+    },
+    {
+      "text": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+      "version": "firered"
+    },
+    {
+      "text": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+      "version": "diamond"
+    },
+    {
+      "text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Mawile’s huge jaws are actually steel horns that have been transformed. Its docile-looking face serves to lull its foe into letting down its guard. When the foe least expects it, Mawile chomps it with its gaping jaws.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Don’t be taken in by this Pokémon’s cute face—it’s very dangerous. Mawile fools the foe into letting down its guard, then chomps down with its massive jaws. The steel jaws are really horns that have been transformed.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A cunning and terrifying Pokémon, its cuteness makes opponents let down their guard—and then it swallows them whole with its huge jaws.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It has two mouths. The big jaws on the back of its head can’t taste anything, so that’s the mouth it uses to eat foods it doesn’t like.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "steel",
+    "fairy"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "intimidate",
+    "sheer-force"
+  ],
+  "height_dm": 6,
+  "weight_hg": 115,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/150/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/303/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/303/"
+  }
+}

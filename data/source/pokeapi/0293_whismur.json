@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 293,
+  "slug": "whismur",
+  "name_en": "Whismur",
+  "genera_en": [
+    "Whisper Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Normally, WHISMUR’s voice is very quiet - it is barely audible even if one is paying close attention. However, if this POKéMON senses danger, it starts crying at an earsplitting volume.",
+      "version": "ruby"
+    },
+    {
+      "text": "WHISMUR is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the POKéMON goes to sleep, all tired out.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
+      "version": "emerald"
+    },
+    {
+      "text": "It usually murmurs, but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+      "version": "firered"
+    },
+    {
+      "text": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+      "version": "diamond"
+    },
+    {
+      "text": "If it senses danger, it scares the foe by crying out with the volume of a jet-plane engine.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It usually murmurs but starts crying loudly if it senses danger. It stops when its ear covers are shut.",
+      "version": "x"
+    },
+    {
+      "text": "Normally, Whismur’s voice is very quiet—it is barely audible even if one is paying close attention. However, if this Pokémon senses danger, it starts crying at an earsplitting volume.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The cry of a Whismur is over 100 decibels. If you’re close to a Whismur when it lets out a cry, you’ll be stuck with an all-day headache.",
+      "version": "sword"
+    },
+    {
+      "text": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "soundproof",
+    "rattled"
+  ],
+  "height_dm": 6,
+  "weight_hg": 163,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/145/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/293/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/293/"
+  }
+}

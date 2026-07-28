@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 367,
+  "slug": "huntail",
+  "name_en": "Huntail",
+  "genera_en": [
+    "Deep Sea Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "HUNTAIL’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This POKéMON’s eyes can see clearly even in the murky dark depths of the ocean.",
+      "version": "ruby"
+    },
+    {
+      "text": "HUNTAIL’s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This POKéMON swims by wiggling its slender body like a snake.",
+      "version": "sapphire"
+    },
+    {
+      "text": "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+      "version": "emerald"
+    },
+    {
+      "text": "It lives deep in the sea where no light ever filters down. It lights up its small fishlike tail to attract prey.",
+      "version": "firered"
+    },
+    {
+      "text": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives deep in the pitch-dark sea. It attracts prey by moving its tail in mimicry of a small animal.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Huntail’s presence went unnoticed by people for a long time because it lives at extreme depths in the sea. This Pokémon’s eyes can see clearly even in the murky dark depths of the ocean.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Huntail’s tail is shaped like a fish. It uses the tail to attract prey, then swallows the prey whole with its large, gaping mouth. This Pokémon swims by wiggling its slender body like a snake.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It’s not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "water-veil"
+  ],
+  "height_dm": 17,
+  "weight_hg": 270,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/188/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/367/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/367/"
+  }
+}

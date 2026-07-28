@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 489,
+  "slug": "phione",
+  "name_en": "Phione",
+  "genera_en": [
+    "Sea Drifter Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+      "version": "diamond"
+    },
+    {
+      "text": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+      "version": "platinum"
+    },
+    {
+      "text": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Can be seen floating offshore during seasons when the seas are warm. Its azure body blends in with the ocean waters—logic suggests this is a defense mechanism against natural predators.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "hydration"
+  ],
+  "height_dm": 4,
+  "weight_hg": 31,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/250/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/489/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/489/"
+  }
+}

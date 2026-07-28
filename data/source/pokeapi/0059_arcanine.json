@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 59,
+  "slug": "arcanine",
+  "name_en": "Arcanine",
+  "genera_en": [
+    "Legendary Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.",
+      "version": "red"
+    },
+    {
+      "text": "A legendary POKé­ MON in China. Many people are charmed by its grace and beauty while running.",
+      "version": "yellow"
+    },
+    {
+      "text": "This legendary Chinese POKEMON is considered magnif­ icent. Many people are enchanted by its grand mane.",
+      "version": "gold"
+    },
+    {
+      "text": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.",
+      "version": "silver"
+    },
+    {
+      "text": "An ancient picture scroll shows that people were attracted to its movement as it ran through prairies.",
+      "version": "crystal"
+    },
+    {
+      "text": "ARCANINE is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this POKéMON’s body is its source of power.",
+      "version": "ruby"
+    },
+    {
+      "text": "This fleet-footed POKéMON is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+      "version": "emerald"
+    },
+    {
+      "text": "A POKéMON that is described in Chinese legends. It is said to race at an unbelievable speed.",
+      "version": "firered"
+    },
+    {
+      "text": "A POKéMON that has long been admired for its beauty. It runs agilely as if on wings.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its proud and regal appearance has captured the hearts of people since long ago.",
+      "version": "diamond"
+    },
+    {
+      "text": "This legendary Chinese Pokémon is considered magnificent. Many people are enchanted by its grand mane.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The sight of it running over 6,200 miles in a single day and night has captivated many people.",
+      "version": "black-2"
+    },
+    {
+      "text": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
+      "version": "x"
+    },
+    {
+      "text": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon’s body is its source of power.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Overflowing with beauty and majesty, this strong Pokémon appears in ancient Eastern folklore.",
+      "version": "sun"
+    },
+    {
+      "text": "The fire burning inside its body serves as the energy to fuel it as it runs great distances. It appears in many legends.",
+      "version": "moon"
+    },
+    {
+      "text": "Legends tell of its fighting alongside a general and conquering a whole country.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "There are so many old tales about them that they’re called legendary Pokémon, but there are way more of them around than you’d expect.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "A legendary Pokémon in the East. Many people are charmed by the grace and beauty of its running.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "intimidate",
+    "flash-fire",
+    "justified"
+  ],
+  "height_dm": 19,
+  "weight_hg": 1550,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/25/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/59/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/59/"
+  }
+}

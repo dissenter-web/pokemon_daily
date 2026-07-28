@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 35,
+  "slug": "clefairy",
+  "name_en": "Clefairy",
+  "genera_en": [
+    "Fairy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+      "version": "red"
+    },
+    {
+      "text": "Adored for their cute looks and playfulness. They are thought to be rare, as they do not appear often.",
+      "version": "yellow"
+    },
+    {
+      "text": "The moonlight that it stores in the wings on its back apparently gives it the ability to float in midair.",
+      "version": "gold"
+    },
+    {
+      "text": "Its adorable be­ havior and cry make it highly popular. However, this cute POKéMON is rarely found.",
+      "version": "silver"
+    },
+    {
+      "text": "Though rarely seen, it becomes easier to spot, for some reason, on the night of a full moon.",
+      "version": "crystal"
+    },
+    {
+      "text": "On every night of a full moon, groups of this POKéMON come out to play. When dawn arrives, the tired CLEFAIRY return to their quiet mountain retreats and go to sleep nestled up against each other.",
+      "version": "ruby"
+    },
+    {
+      "text": "On every night of a full moon, they come out to play. When dawn arrives, the tired CLEFAIRY go to sleep nestled up against each other in deep and quiet mountains.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its adorable appearance makes it popular as a pet. However, it is rare and difficult to find.",
+      "version": "firered"
+    },
+    {
+      "text": "With its magical and cute appeal, it has many admirers. It is rare and found only in certain areas.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Thought to live with others on quiet mountains, it is popular for its adorable nature.",
+      "version": "diamond"
+    },
+    {
+      "text": "It flies using the wings on its back to collect moonlight. This Pokémon is difficult to find.",
+      "version": "pearl"
+    },
+    {
+      "text": "It is said that happiness will come to those who see a gathering of CLEFAIRY dancing under a full moon.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+      "version": "black"
+    },
+    {
+      "text": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+      "version": "black-2"
+    },
+    {
+      "text": "On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its adorable behavior and appearance make it popular with men and women, young and old. Its numbers are few, however.",
+      "version": "sun"
+    },
+    {
+      "text": "On nights with a full moon, they gather together and dance. The surrounding area is enveloped in an abnormal magnetic field.",
+      "version": "moon"
+    },
+    {
+      "text": "They’re popular, but they’re rare. Trainers who show them off recklessly may be targeted by thieves.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "magic-guard",
+    "friend-guard"
+  ],
+  "height_dm": 6,
+  "weight_hg": 75,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/14/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/35/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/35/"
+  }
+}

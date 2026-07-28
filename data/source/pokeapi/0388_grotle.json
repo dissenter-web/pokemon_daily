@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 388,
+  "slug": "grotle",
+  "name_en": "Grotle",
+  "genera_en": [
+    "Grove Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A GROTLE that lives in the forest is said to have its own secret springwater.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+      "version": "diamond"
+    },
+    {
+      "text": "The shell is hardened soil. Some Pokémon come to peck the berries growing on the trees on its back.",
+      "version": "pearl"
+    },
+    {
+      "text": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+      "version": "platinum"
+    },
+    {
+      "text": "Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "shell-armor"
+  ],
+  "height_dm": 11,
+  "weight_hg": 970,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/203/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/388/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/388/"
+  }
+}

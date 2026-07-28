@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 319,
+  "slug": "sharpedo",
+  "name_en": "Sharpedo",
+  "genera_en": [
+    "Brutal Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
+      "version": "ruby"
+    },
+    {
+      "text": "SHARPEDO can swim at speeds of up to 75 mph by jetting seawater out of its backside. This POKéMON’s drawback is its inability to swim long distances.",
+      "version": "sapphire"
+    },
+    {
+      "text": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.",
+      "version": "emerald"
+    },
+    {
+      "text": "The ruffian of the seas, it has fangs that crunch through iron. It swims by jetting water from its rear.",
+      "version": "firered"
+    },
+    {
+      "text": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
+      "version": "diamond"
+    },
+    {
+      "text": "It can swim at speeds of 75 mph by jetting seawater through its body. It is the bandit of the sea.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Nicknamed “the bully of the sea,” Sharpedo is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these Pokémon can thoroughly tear apart a supertanker.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Sharpedo can swim at speeds of up to 75 mph by jetting seawater out of its backside. This Pokémon’s drawback is its inability to swim long distances.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It pursues its prey at speeds of 75 mph and finishes them off with fangs that can crush iron. It is known as the bully of the sea.",
+      "version": "sun"
+    },
+    {
+      "text": "It has a sad history. In the past, its dorsal fin was a treasured foodstuff, so this Pokémon became a victim of overfishing.",
+      "version": "moon"
+    },
+    {
+      "text": "People believe that carrying one of its discarded fangs will prevent mishaps at sea, so the fangs are made into accessories.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It drinks in seawater and jets it from its rear to propel itself. It’s very sensitive to the scent of blood.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "dark"
+  ],
+  "abilities": [
+    "rough-skin",
+    "speed-boost"
+  ],
+  "height_dm": 18,
+  "weight_hg": 888,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/160/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/319/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/319/"
+  }
+}

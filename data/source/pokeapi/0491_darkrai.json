@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 491,
+  "slug": "darkrai",
+  "name_en": "Darkrai",
+  "genera_en": [
+    "Pitch-Black Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+      "version": "diamond"
+    },
+    {
+      "text": "Folklore has it that on moonless nights, this Pokémon will make people see horrific nightmares.",
+      "version": "pearl"
+    },
+    {
+      "text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
+      "version": "platinum"
+    },
+    {
+      "text": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+      "version": "heartgold"
+    },
+    {
+      "text": "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    "bad-dreams"
+  ],
+  "height_dm": 15,
+  "weight_hg": 505,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/252/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/491/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/491/"
+  }
+}

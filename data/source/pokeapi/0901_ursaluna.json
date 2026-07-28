@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 901,
+  "slug": "ursaluna",
+  "name_en": "Ursaluna",
+  "genera_en": [
+    "Peat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ground",
+    "normal"
+  ],
+  "abilities": [
+    "guts",
+    "bulletproof",
+    "unnerve"
+  ],
+  "height_dm": 24,
+  "weight_hg": 2900,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/110/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/901/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/901/"
+  }
+}

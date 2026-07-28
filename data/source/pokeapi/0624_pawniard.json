@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 624,
+  "slug": "pawniard",
+  "name_en": "Pawniard",
+  "genera_en": [
+    "Sharp Blade Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+      "version": "black"
+    },
+    {
+      "text": "They fight at Bisharp’s command. They cling to their prey and inflict damage by sinking their blades into it.",
+      "version": "white"
+    },
+    {
+      "text": "Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey.",
+      "version": "black-2"
+    },
+    {
+      "text": "After shredding its prey, it sharpens its blades on a stone by the river. Each Pawniard has its own favorite sharpening stone.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It follows Bisharp’s orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.",
+      "version": "sword"
+    },
+    {
+      "text": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark",
+    "steel"
+  ],
+  "abilities": [
+    "defiant",
+    "inner-focus",
+    "pressure"
+  ],
+  "height_dm": 5,
+  "weight_hg": 102,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/317/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/624/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/624/"
+  }
+}

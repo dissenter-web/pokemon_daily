@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 62,
+  "slug": "poliwrath",
+  "name_en": "Poliwrath",
+  "genera_en": [
+    "Tadpole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.",
+      "version": "red"
+    },
+    {
+      "text": "Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.",
+      "version": "yellow"
+    },
+    {
+      "text": "This strong and skilled swimmer is even capable of crossing the Pacific Ocean just by kicking.",
+      "version": "gold"
+    },
+    {
+      "text": "Although an ener­ getic, skilled swimmer that uses all of its mus­ cles, it lives on dry land.",
+      "version": "silver"
+    },
+    {
+      "text": "It can use its well-developed arms and legs to run on the surface of the water for a split second.",
+      "version": "crystal"
+    },
+    {
+      "text": "POLIWRATH’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this POKéMON can swim back and forth across the Pacific Ocean without effort.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its highly developed muscles never grow fatigued, however much it exercises. This POKéMON can swim back and forth across the Pacific Ocean without effort.",
+      "version": "emerald"
+    },
+    {
+      "text": "An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.",
+      "version": "firered"
+    },
+    {
+      "text": "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+      "version": "diamond"
+    },
+    {
+      "text": "Although an energetic, skilled swimmer that uses all of its muscles, it lives on dry land.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Poliwrath in the Alola region are strong swimmers that use the breaststroke. Many children learn to swim by imitating Poliwrath.",
+      "version": "sun"
+    },
+    {
+      "text": "Its percentage of body fat is nearly zero. Its body is entirely muscle, which makes it heavy and forces its swimming prowess to develop.",
+      "version": "moon"
+    },
+    {
+      "text": "It’s quite a gifted swimmer, even among Water-type Pokémon, but it normally spends its time on land.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The muscles it has developed through swimming are thick and powerful. When it lands a square punch, it can turn huge boulders to dust.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Swims powerfully using all the muscles in its body. It can even overtake world-class swimmers.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",
+      "version": "sword"
+    },
+    {
+      "text": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "fighting"
+  ],
+  "abilities": [
+    "water-absorb",
+    "damp",
+    "swift-swim"
+  ],
+  "height_dm": 13,
+  "weight_hg": 540,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/26/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/62/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/62/"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 555,
+  "slug": "darmanitan",
+  "name_en": "Darmanitan",
+  "genera_en": [
+    "Blazing Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
+      "version": "black"
+    },
+    {
+      "text": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+      "version": "white"
+    },
+    {
+      "text": "When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
+      "version": "y"
+    },
+    {
+      "text": "The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "sheer-force",
+    "zen-mode"
+  ],
+  "height_dm": 13,
+  "weight_hg": 929,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/282/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/555/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/555/"
+  }
+}

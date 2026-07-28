@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 626,
+  "slug": "bouffalant",
+  "name_en": "Bouffalant",
+  "genera_en": [
+    "Bash Buffalo Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+      "version": "black"
+    },
+    {
+      "text": "They charge wildly and headbutt everything. Their headbutts have enough destructive force to derail a train.",
+      "version": "white"
+    },
+    {
+      "text": "They are known to charge so wildly that if a train were to enter their territory, they would send it flying.",
+      "version": "black-2"
+    },
+    {
+      "text": "These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+      "version": "sword"
+    },
+    {
+      "text": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "reckless",
+    "sap-sipper",
+    "soundproof"
+  ],
+  "height_dm": 16,
+  "weight_hg": 946,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/318/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/626/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/626/"
+  }
+}

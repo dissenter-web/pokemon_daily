@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 365,
+  "slug": "walrein",
+  "name_en": "Walrein",
+  "genera_en": [
+    "Ice Break Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "WALREIN’s two massively developed tusks can totally shatter blocks of ice weighing ten tons with one blow. This POKéMON’s thick coat of blubber insulates it from subzero temperatures.",
+      "version": "ruby"
+    },
+    {
+      "text": "WALREIN swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+      "version": "sapphire"
+    },
+    {
+      "text": "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
+      "version": "emerald"
+    },
+    {
+      "text": "It swims through icy seas while shattering ice floes with its large tusks. It is protected by its thick blubber.",
+      "version": "firered"
+    },
+    {
+      "text": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+      "version": "diamond"
+    },
+    {
+      "text": "It shatters drift ice with its strong tusks. Its thick layer of blubber repels enemy attacks.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks.",
+      "version": "black-2"
+    },
+    {
+      "text": "Walrein’s two massively developed tusks can totally shatter blocks of ice weighing 10 tons with one blow. This Pokémon’s thick coat of blubber insulates it from subzero temperatures.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Walrein form herds of 20 to 30 individuals. When a threat appears, the herd’s leader will protect the group with its life.",
+      "version": "sword"
+    },
+    {
+      "text": "Walrein’s tusks keep growing throughout its life. Tusks broken in battle will grow back to their usual impressive size in a year.",
+      "version": "shield"
+    },
+    {
+      "text": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice",
+    "water"
+  ],
+  "abilities": [
+    "thick-fat",
+    "ice-body",
+    "oblivious"
+  ],
+  "height_dm": 14,
+  "weight_hg": 1506,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/187/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/365/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/365/"
+  }
+}

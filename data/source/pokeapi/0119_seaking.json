@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 119,
+  "slug": "seaking",
+  "name_en": "Seaking",
+  "genera_en": [
+    "Goldfish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+      "version": "white-2"
+    },
+    {
+      "text": "In the autumn spawning season, they can be seen swimming power­ fully up rivers and creeks.",
+      "version": "red"
+    },
+    {
+      "text": "It is the male's job to make a nest by carving out boulders in a stream using the horn on its head.",
+      "version": "yellow"
+    },
+    {
+      "text": "During spawning season, SEAKING gather from all over, coloring the rivers a brilliant red.",
+      "version": "gold"
+    },
+    {
+      "text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+      "version": "silver"
+    },
+    {
+      "text": "When autumn comes, the males patrol the area around their nests in order to protect their offspring.",
+      "version": "crystal"
+    },
+    {
+      "text": "In the autumn, SEAKING males can be seen performing courtship dances in riverbeds to woo females. During this season, this POKéMON’s body coloration is at its most beautiful.",
+      "version": "ruby"
+    },
+    {
+      "text": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POKéMON goes on for over a month.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It punches holes in boulders on stream­ beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+      "version": "emerald"
+    },
+    {
+      "text": "The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.",
+      "version": "firered"
+    },
+    {
+      "text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It makes its nest by hollowing out boulders in streams with its horn. It defends its eggs with its life.",
+      "version": "diamond"
+    },
+    {
+      "text": "To protect its family, it will fight with its drill-sharp horn. It lives in hollowed rocks in streams.",
+      "version": "pearl"
+    },
+    {
+      "text": "During spawning season, SEAKING gather from all over, causing rivers to appear a brilliant red.",
+      "version": "heartgold"
+    },
+    {
+      "text": "In the autumn, Seaking males can be seen performing courtship dances in riverbeds to woo females. During this season, this Pokémon’s body coloration is at its most beautiful.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Seaking is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these Pokémon goes on for over a month.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "When the weather grows cold, its whole body flushes a deep red. This sight serves as a poetic reminder that autumn has arrived.",
+      "version": "sun"
+    },
+    {
+      "text": "Trainers who are crazy for Seaking are divided into horn enthusiasts and fin enthusiasts. The two groups do not get along well.",
+      "version": "moon"
+    },
+    {
+      "text": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "To attract females, males dance on the river’s floor. The females gather around the male that dances most gracefully.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "water-veil",
+    "lightning-rod"
+  ],
+  "height_dm": 13,
+  "weight_hg": 390,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/55/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/119/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/119/"
+  }
+}

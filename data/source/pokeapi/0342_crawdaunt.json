@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 342,
+  "slug": "crawdaunt",
+  "name_en": "Crawdaunt",
+  "genera_en": [
+    "Rogue Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "CRAWDAUNT has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this POKéMON, making them desolate places.",
+      "version": "ruby"
+    },
+    {
+      "text": "CRAWDAUNT molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this POKéMON hides in its streambed burrow to avoid attack from its foes.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A brutish POKéMON that loves to battle. A veteran CRAWDAUNT that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+      "version": "emerald"
+    },
+    {
+      "text": "A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.",
+      "version": "firered"
+    },
+    {
+      "text": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+      "version": "diamond"
+    },
+    {
+      "text": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out.",
+      "version": "black-2"
+    },
+    {
+      "text": "Crawdaunt has an extremely violent nature that compels it to challenge other living things to battle. Other life-forms refuse to live in ponds inhabited by this Pokémon, making them desolate places.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Crawdaunt molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this Pokémon hides in its streambed burrow to avoid attack from its foes.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "water",
+    "dark"
+  ],
+  "abilities": [
+    "hyper-cutter",
+    "shell-armor",
+    "adaptability"
+  ],
+  "height_dm": 11,
+  "weight_hg": 328,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/174/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/342/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/342/"
+  }
+}

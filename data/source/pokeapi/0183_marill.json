@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 183,
+  "slug": "marill",
+  "name_en": "Marill",
+  "genera_en": [
+    "Aqua Mouse Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning.",
+      "version": "gold"
+    },
+    {
+      "text": "The end of its tail serves as a buoy that keeps it from drowning, even in a vicious current.",
+      "version": "silver"
+    },
+    {
+      "text": "The fur on its body naturally repels water. It can stay dry, even when it plays in the water.",
+      "version": "crystal"
+    },
+    {
+      "text": "MARILL’s oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water’s surface, it’s a sure indication that this POKéMON is diving beneath the water to feed on aquatic plants.",
+      "version": "ruby"
+    },
+    {
+      "text": "When fishing for food at the edge of a fast-running stream, MARILL wraps its tail around the trunk of a tree. This POKéMON’s tail is flexible and configured to stretch.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water’s resistance.",
+      "version": "emerald"
+    },
+    {
+      "text": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Using its tail as a float, it dives underwater. It likes eating plants that grow on river bottoms.",
+      "version": "diamond"
+    },
+    {
+      "text": "The tip of its tail is filled with oil that is lighter than water, so it acts as a float.",
+      "version": "pearl"
+    },
+    {
+      "text": "The oil-filled end of its tail floats on water. It keeps MARILL from drowning even in a strong current.",
+      "version": "platinum"
+    },
+    {
+      "text": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
+      "version": "black"
+    },
+    {
+      "text": "The oil-filled tail functions as a buoy, so it’s fine even in rivers with strong currents.",
+      "version": "black-2"
+    },
+    {
+      "text": "Marill’s oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water’s surface, it’s a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "This Pokémon uses its round tail as a float. The ball of Marill’s tail is filled with nutrients that have been turned into an oil.",
+      "version": "sword"
+    },
+    {
+      "text": "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "water",
+    "fairy"
+  ],
+  "abilities": [
+    "thick-fat",
+    "huge-power",
+    "sap-sipper"
+  ],
+  "height_dm": 4,
+  "weight_hg": 85,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/90/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/183/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/183/"
+  }
+}

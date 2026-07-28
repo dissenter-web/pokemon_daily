@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 122,
+  "slug": "mr-mime",
+  "name_en": "Mr. Mime",
+  "genera_en": [
+    "Barrier Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+      "version": "red"
+    },
+    {
+      "text": "Always practices its pantomime act. It makes enemies believe something exists that really doesn't.",
+      "version": "yellow"
+    },
+    {
+      "text": "A skilled mime from birth, it gains the ability to create invisi­ ble objects as it matures.",
+      "version": "gold"
+    },
+    {
+      "text": "Its fingertips emit a peculiar force field that hardens air to create an actual wall.",
+      "version": "silver"
+    },
+    {
+      "text": "It uses the mysterious power it has in its fingers to solidify air into an invisible wall.",
+      "version": "crystal"
+    },
+    {
+      "text": "MR. MIME is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once it is believed, it will exist as if it were a real thing.",
+      "version": "ruby"
+    },
+    {
+      "text": "A MR. MIME is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is adept at conning people. It is said to be able to create walls out of thin air by miming.",
+      "version": "firered"
+    },
+    {
+      "text": "If interrupted while it is miming, it will suddenly DOUBLESLAP the offender with its broad hands.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+      "version": "diamond"
+    },
+    {
+      "text": "Emanations from its fingertips solidify the air into invisible walls that repel even harsh attacks.",
+      "version": "pearl"
+    },
+    {
+      "text": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+      "version": "platinum"
+    },
+    {
+      "text": "A skilled mime from birth, it gains the ability to create invisible objects as it matures.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It creates invisible walls with its pantomiming. If you don’t act impressed, it will attack you with a double slap!",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Always practicing its pantomime act. It makes enemies believe something exists that really doesn’t.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+      "version": "sword"
+    },
+    {
+      "text": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+      "version": "shield"
+    },
+    {
+      "text": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "abilities": [
+    "soundproof",
+    "filter",
+    "technician"
+  ],
+  "height_dm": 13,
+  "weight_hg": 545,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/57/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/122/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/122/"
+  }
+}

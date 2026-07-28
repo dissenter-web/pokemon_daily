@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 251,
+  "slug": "celebi",
+  "name_en": "Celebi",
+  "genera_en": [
+    "Time Travel Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared.",
+      "version": "gold"
+    },
+    {
+      "text": "When CELEBI disap­ pears deep in a forest, it is said to leave behind an egg it brought from the future.",
+      "version": "silver"
+    },
+    {
+      "text": "Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
+      "version": "ruby"
+    },
+    {
+      "text": "When CELEBI disappears deep in a forest, it is said to leave behind an egg it brought from the future.",
+      "version": "firered"
+    },
+    {
+      "text": "This POKéMON wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+      "version": "diamond"
+    },
+    {
+      "text": "This Pokémon wanders across time. Grass and trees flourish in the forests in which it has appeared.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic",
+    "grass"
+  ],
+  "abilities": [
+    "natural-cure"
+  ],
+  "height_dm": 6,
+  "weight_hg": 50,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/129/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/251/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/251/"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 899,
+  "slug": "wyrdeer",
+  "name_en": "Wyrdeer",
+  "genera_en": [
+    "Big Horn Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal",
+    "psychic"
+  ],
+  "abilities": [
+    "intimidate",
+    "frisk",
+    "sap-sipper"
+  ],
+  "height_dm": 18,
+  "weight_hg": 951,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/120/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/899/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/899/"
+  }
+}

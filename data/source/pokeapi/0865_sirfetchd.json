@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 865,
+  "slug": "sirfetchd",
+  "name_en": "Sirfetch’d",
+  "genera_en": [
+    "Wild Duck Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",
+      "version": "sword"
+    },
+    {
+      "text": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "steadfast",
+    "scrappy"
+  ],
+  "height_dm": 8,
+  "weight_hg": 1170,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/35/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/865/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/865/"
+  }
+}

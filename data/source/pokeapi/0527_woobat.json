@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 527,
+  "slug": "woobat",
+  "name_en": "Woobat",
+  "genera_en": [
+    "Bat Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+      "version": "black"
+    },
+    {
+      "text": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+      "version": "white"
+    },
+    {
+      "text": "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
+      "version": "black-2"
+    },
+    {
+      "text": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.",
+      "version": "sword"
+    },
+    {
+      "text": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "psychic",
+    "flying"
+  ],
+  "abilities": [
+    "unaware",
+    "klutz",
+    "simple"
+  ],
+  "height_dm": 4,
+  "weight_hg": 21,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/269/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/527/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/527/"
+  }
+}

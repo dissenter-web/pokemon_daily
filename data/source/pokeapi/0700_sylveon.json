@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 700,
+  "slug": "sylveon",
+  "name_en": "Sylveon",
+  "genera_en": [
+    "Intertwining Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It sends a soothing aura from its ribbonlike feelers to calm fights.",
+      "version": "x"
+    },
+    {
+      "text": "It wraps its ribbonlike feelers around the arm of its beloved Trainer and walks with him or her.",
+      "version": "y"
+    },
+    {
+      "text": "Its ribbonlike feelers give off an aura that weakens hostility in its prey, causing them to let down their guard. Then it attacks.",
+      "version": "sun"
+    },
+    {
+      "text": "When this Pokémon sights its prey, it swirls its ribbonlike feelers as a distraction. A moment later, it pounces.",
+      "version": "moon"
+    },
+    {
+      "text": "Once a fight breaks out, it will unflinchingly charge at dragon Pokémon that are many times larger than itself.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Sylveon wraps its ribbonlike feelers around its Trainer’s arm because this touch enables it to read its Trainer’s feelings.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",
+      "version": "sword"
+    },
+    {
+      "text": "There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
+      "version": "shield"
+    },
+    {
+      "text": "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "pixilate"
+  ],
+  "height_dm": 10,
+  "weight_hg": 235,
+  "generation": "generation-vi",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/67/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/700/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/700/"
+  }
+}

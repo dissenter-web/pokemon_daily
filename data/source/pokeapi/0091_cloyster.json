@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 91,
+  "slug": "cloyster",
+  "name_en": "Cloyster",
+  "genera_en": [
+    "Bivalve Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "When attacked, it launches its horns in quick volleys. Its innards have never been seen.",
+      "version": "red"
+    },
+    {
+      "text": "For protection, it uses its harder- than-diamonds shell. It also shoots spikes from the shell.",
+      "version": "yellow"
+    },
+    {
+      "text": "Once it slams its shell shut, it is impossible to open, even by those with superi­ or strength.",
+      "version": "gold"
+    },
+    {
+      "text": "CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+      "version": "silver"
+    },
+    {
+      "text": "Even a missile can't break the spikes it uses to stab opponents. They're even hard­ er than its shell.",
+      "version": "crystal"
+    },
+    {
+      "text": "CLOYSTER is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This POKéMON shoots spikes from its shell using the same system.",
+      "version": "ruby"
+    },
+    {
+      "text": "It swims in the sea by swallowing water, then jetting it out toward the rear. The CLOYSTER shoots spikes from its shell using the same system.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+      "version": "firered"
+    },
+    {
+      "text": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+      "version": "diamond"
+    },
+    {
+      "text": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+      "version": "x"
+    },
+    {
+      "text": "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its hard shell cannot be shattered—not even by a bomb. The contents of the shell remain unknown.",
+      "version": "sun"
+    },
+    {
+      "text": "Excavation of the tombs of ancient hunting tribes has turned up many spears tipped with spikes that had fallen off this Pokémon’s shell.",
+      "version": "moon"
+    },
+    {
+      "text": "If areas of Cloyster’s very hard shell get damaged, those areas swell, gradually growing into large sharp spikes.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "For protection, it uses its harder-than-diamond shell. It also shoots spikes from the shell.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "water",
+    "ice"
+  ],
+  "abilities": [
+    "shell-armor",
+    "skill-link",
+    "overcoat"
+  ],
+  "height_dm": 15,
+  "weight_hg": 1325,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/39/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/91/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/91/"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 301,
+  "slug": "delcatty",
+  "name_en": "Delcatty",
+  "genera_en": [
+    "Prim Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "DELCATTY prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this POKéMON eats and sleeps whenever it decides, its daily routines are completely random.",
+      "version": "ruby"
+    },
+    {
+      "text": "DELCATTY sleeps anywhere it wants without keeping a permanent nest. If other POKéMON approach it as it sleeps, this POKéMON will never fight - it will just move away somewhere else.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
+      "version": "emerald"
+    },
+    {
+      "text": "The favorite of trend-conscious female TRAINERS, they are used in competition for their style and fur.",
+      "version": "firered"
+    },
+    {
+      "text": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+      "version": "diamond"
+    },
+    {
+      "text": "It dislikes dirty places. It often searches for a comfortable place in which to groom itself.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there.",
+      "version": "black-2"
+    },
+    {
+      "text": "Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "cute-charm",
+    "normalize",
+    "wonder-skin"
+  ],
+  "height_dm": 11,
+  "weight_hg": 326,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/148/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/301/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/301/"
+  }
+}

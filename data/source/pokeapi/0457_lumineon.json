@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 457,
+  "slug": "lumineon",
+  "name_en": "Lumineon",
+  "genera_en": [
+    "Neon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+      "version": "diamond"
+    },
+    {
+      "text": "To avoid detection by predators, it crawls along the seafloor using the two fins on its chest.",
+      "version": "pearl"
+    },
+    {
+      "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with LANTURN.",
+      "version": "platinum"
+    },
+    {
+      "text": "LUMINEON swimming in the darkness of the deep sea look like stars shining in the night sky.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
+      "version": "black"
+    },
+    {
+      "text": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
+      "version": "sun"
+    },
+    {
+      "text": "This deep-sea Pokémon lives at the bottom of the sea. Its fins haul it over the seabed in search of its favorite food—Starmie.",
+      "version": "moon"
+    },
+    {
+      "text": "Deep down at the bottom of the ocean, prey is scarce. Lumineon get into fierce disputes with Lanturn over food.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking— it's as though there were shining stars right there.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "storm-drain",
+    "water-veil"
+  ],
+  "height_dm": 12,
+  "weight_hg": 240,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/237/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/457/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/457/"
+  }
+}

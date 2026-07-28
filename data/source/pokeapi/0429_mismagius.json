@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 429,
+  "slug": "mismagius",
+  "name_en": "Mismagius",
+  "genera_en": [
+    "Magical Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+      "version": "diamond"
+    },
+    {
+      "text": "It chants incantations. While they usually torment targets, some chants bring happiness.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It appears as if from nowhere—muttering incantations, placing curses, and giving people terrifying visions.",
+      "version": "sun"
+    },
+    {
+      "text": "Mismagius have been known to cast spells to make people fall in love, so some people search for this Pokémon as if their life depended on it.",
+      "version": "moon"
+    },
+    {
+      "text": "Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its muttered curses can cause awful headaches or terrifying visions that torment others.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ghost"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 9,
+  "weight_hg": 44,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/98/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/429/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/429/"
+  }
+}

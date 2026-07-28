@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 324,
+  "slug": "torkoal",
+  "name_en": "Torkoal",
+  "genera_en": [
+    "Coal Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat.",
+      "version": "ruby"
+    },
+    {
+      "text": "TORKOAL generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this POKéMON burns more coal.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive’s horn.",
+      "version": "emerald"
+    },
+    {
+      "text": "It burns coal inside its shell. If it is attacked, it belches thick, black smoke and flees.",
+      "version": "firered"
+    },
+    {
+      "text": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+      "version": "diamond"
+    },
+    {
+      "text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Torkoal generates energy by burning coal. It grows weaker as the fire dies down. When it is preparing for battle, this Pokémon burns more coal.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Coal is the source of Torkoal’s energy. Large amounts of coal can be found in the mountains where they live.",
+      "version": "sun"
+    },
+    {
+      "text": "If the fire burning within its shell goes out, it will die. Those who wish to raise one in their home must always keep something flammable at hand.",
+      "version": "moon"
+    },
+    {
+      "text": "You can tell how it’s feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "fire"
+  ],
+  "abilities": [
+    "white-smoke",
+    "drought",
+    "shell-armor"
+  ],
+  "height_dm": 5,
+  "weight_hg": 804,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/163/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/324/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/324/"
+  }
+}

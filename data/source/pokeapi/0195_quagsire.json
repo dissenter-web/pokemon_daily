@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 195,
+  "slug": "quagsire",
+  "name_en": "Quagsire",
+  "genera_en": [
+    "Water Fish Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls.",
+      "version": "gold"
+    },
+    {
+      "text": "Due to its relaxed and carefree atti­ tude, it often bumps its head on boulders and boat hulls as it swims.",
+      "version": "silver"
+    },
+    {
+      "text": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+      "version": "crystal"
+    },
+    {
+      "text": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
+      "version": "ruby"
+    },
+    {
+      "text": "A QUAGSIRE hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn’t move, it does not get very hungry.",
+      "version": "emerald"
+    },
+    {
+      "text": "Due to its relaxed and carefree attitude, it often bumps its head on boulders and boat hulls as it swims.",
+      "version": "firered"
+    },
+    {
+      "text": "This carefree POKéMON has an easygoing nature. While swimming, it always bumps into boat hulls.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It has a sluggish nature. It lies at the river’s bottom, waiting for prey to stray into its mouth.",
+      "version": "diamond"
+    },
+    {
+      "text": "A dim-witted Pokémon. It doesn’t care if it bumps its head into boats or rocks while swimming.",
+      "version": "pearl"
+    },
+    {
+      "text": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
+      "version": "platinum"
+    },
+    {
+      "text": "This carefree Pokémon has an easy-going nature. While swimming, it always bumps into boat hulls.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This carefree Pokémon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+      "version": "y"
+    },
+    {
+      "text": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "damp",
+    "water-absorb",
+    "unaware"
+  ],
+  "height_dm": 14,
+  "weight_hg": 750,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/96/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/195/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/195/"
+  }
+}

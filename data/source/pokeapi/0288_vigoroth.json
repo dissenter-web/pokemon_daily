@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 288,
+  "slug": "vigoroth",
+  "name_en": "Vigoroth",
+  "genera_en": [
+    "Wild Monkey Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "VIGOROTH is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This POKéMON’s stress level rises if it can’t be moving constantly.",
+      "version": "ruby"
+    },
+    {
+      "text": "VIGOROTH is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this POKéMON to run wild throughout the jungle before it can settle down.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It can’t keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn’t, it can’t sleep at night.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is always hungry because it won’t stop rampaging. Even while it is eating, it can’t keep still.",
+      "version": "firered"
+    },
+    {
+      "text": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its stress level rises if it cannot keep moving constantly. Too much stress makes it feel sick.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Its heartbeat is fast and its blood so agitated that it can’t sit still for one second.",
+      "version": "black-2"
+    },
+    {
+      "text": "Vigoroth is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This Pokémon’s stress level rises if it can’t be moving constantly.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "vital-spirit"
+  ],
+  "height_dm": 14,
+  "weight_hg": 465,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/143/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/288/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/288/"
+  }
+}

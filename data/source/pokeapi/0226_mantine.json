@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 226,
+  "slug": "mantine",
+  "name_en": "Mantine",
+  "genera_en": [
+    "Kite Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers.",
+      "version": "gold"
+    },
+    {
+      "text": "Swimming freely in open seas, it may fly out of the water and over the waves if it builds up enough speed.",
+      "version": "silver"
+    },
+    {
+      "text": "It swims along freely, eating things that swim into its mouth. Its whole body is very coarse.",
+      "version": "crystal"
+    },
+    {
+      "text": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea’s waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
+      "version": "ruby"
+    },
+    {
+      "text": "On sunny days, schools of MANTINE can be seen elegantly leaping over the waves. It is not bothered by the REMORAID that hitches rides.",
+      "version": "emerald"
+    },
+    {
+      "text": "As it majestically swims, it doesn’t care if REMORAID attach to it to scavenge for its leftovers.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "When the waves are calm, one may encounter a swarm of MANTINE swimming as if they are in flight.",
+      "version": "diamond"
+    },
+    {
+      "text": "It swims elegantly, mindless of REMORAID hitching on to its broad fins. It has a docile nature.",
+      "version": "pearl"
+    },
+    {
+      "text": "While elegantly swimming in the sea, it ignores REMORAID that cling to its fins seeking food scraps.",
+      "version": "platinum"
+    },
+    {
+      "text": "As it majestically swims, it doesn’t care if REMORAID attach to it for scavenging its leftovers.",
+      "version": "heartgold"
+    },
+    {
+      "text": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+      "version": "black"
+    },
+    {
+      "text": "If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean.",
+      "version": "black-2"
+    },
+    {
+      "text": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea’s waves. This Pokémon is not bothered by the Remoraid that hitches rides.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Postcards and posters featuring Mantine leaping elegantly above the waves are popular souvenirs of Alola.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Many people have taken up surfing because they admire how magnificently Mantine swims.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
+      "version": "sword"
+    },
+    {
+      "text": "As it majestically swims, it doesn’t care if Remoraid attach to it to scavenge for its leftovers.",
+      "version": "shield"
+    },
+    {
+      "text": "This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "flying"
+  ],
+  "abilities": [
+    "swift-swim",
+    "water-absorb",
+    "water-veil"
+  ],
+  "height_dm": 21,
+  "weight_hg": 2200,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/116/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/226/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/226/"
+  }
+}

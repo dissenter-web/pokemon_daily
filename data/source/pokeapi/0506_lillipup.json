@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 506,
+  "slug": "lillipup",
+  "name_en": "Lillipup",
+  "genera_en": [
+    "Puppy Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+      "version": "black"
+    },
+    {
+      "text": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+      "version": "white"
+    },
+    {
+      "text": "Though it is a very brave Pokémon, it’s also smart enough to check its foe’s strength and avoid battle.",
+      "version": "black-2"
+    },
+    {
+      "text": "Because it doesn’t yelp, it’s extremely popular with Trainers who live in apartment buildings.",
+      "version": "sun"
+    },
+    {
+      "text": "The long fur surrounding its face functions as radar, enabling it to probe the condition of its battle opponents.",
+      "version": "moon"
+    },
+    {
+      "text": "This Pokémon has excellent judgment. If it decides it can’t defeat an opponent, it immediately turns tail and vamooses.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This Pokémon is popular with beginners because it’s intelligent, obedient to its Trainer’s commands, and easy to raise.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "vital-spirit",
+    "pickup",
+    "run-away"
+  ],
+  "height_dm": 4,
+  "weight_hg": 41,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/260/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/506/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/506/"
+  }
+}

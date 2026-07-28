@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 137,
+  "slug": "porygon",
+  "name_en": "Porygon",
+  "genera_en": [
+    "Virtual Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "version": "red"
+    },
+    {
+      "text": "The only POKéMON people anticipate can fly into space. None has managed the feat yet, however.",
+      "version": "yellow"
+    },
+    {
+      "text": "It is a manmade POKéMON. Since it doesn't breathe, people are eager to try it in any environment.",
+      "version": "gold"
+    },
+    {
+      "text": "A manmade POKéMON that came about as a result of re­ search. It is pro­ grammed with only basic motions.",
+      "version": "silver"
+    },
+    {
+      "text": "An artificial POKéMON created due to extensive research, it can perform only what is in its program.",
+      "version": "crystal"
+    },
+    {
+      "text": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
+      "version": "ruby"
+    },
+    {
+      "text": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A PORYGON is copy- protected so it cannot be duplicated.",
+      "version": "emerald"
+    },
+    {
+      "text": "Using the most advanced technologies, scientists finally succeeded in making the first artificial POKéMON.",
+      "version": "firered"
+    },
+    {
+      "text": "A POKéMON that consists entirely of programming code. It is capable of moving freely in cyberspace.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "The world’s first artificially created Pokémon. It can travel through electronic space.",
+      "version": "diamond"
+    },
+    {
+      "text": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.",
+      "version": "platinum"
+    },
+    {
+      "text": "It is a manmade Pokémon. Since it doesn’t breathe, people are eager to try it in any environment.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A manmade Pokémon that came about as a result of research. It is programmed with only basic motions.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "A man-made Pokémon that came about as a result of research. It is programmed with only basic motions.",
+      "version": "x"
+    },
+    {
+      "text": "A Pokémon that consists entirely of programming code. It is capable of moving freely in cyberspace.",
+      "version": "y"
+    },
+    {
+      "text": "Porygon is capable of reverting itself entirely back to program data and entering cyberspace. This Pokémon is copy protected so it cannot be duplicated by copying.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time.",
+      "version": "sun"
+    },
+    {
+      "text": "It can convert its body into digital data, which enables it to enter cyberspace.",
+      "version": "moon"
+    },
+    {
+      "text": "This Pokémon was created using the cutting-edge science of 20 years ago, so many parts of it have since become obsolete.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+      "version": "sword"
+    },
+    {
+      "text": "In recent years, this species has been very helpful in cyberspace. These Pokémon will go around checking to make sure no suspicious data exists.",
+      "version": "shield"
+    },
+    {
+      "text": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "trace",
+    "download",
+    "analytic"
+  ],
+  "height_dm": 8,
+  "weight_hg": 365,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/68/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/137/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/137/"
+  }
+}

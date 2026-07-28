@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 50,
+  "slug": "diglett",
+  "name_en": "Diglett",
+  "genera_en": [
+    "Mole Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+      "version": "red"
+    },
+    {
+      "text": "It prefers dark places. It spends most of its time underground, though it may pop up in caves.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+      "version": "gold"
+    },
+    {
+      "text": "If a DIGLETT DIGS through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+      "version": "silver"
+    },
+    {
+      "text": "It digs under­ ground and chews on tree roots, sticking its head out only when the sun isn't bright.",
+      "version": "crystal"
+    },
+    {
+      "text": "DIGLETT are raised in most farms. The reason is simple - wherever this POKéMON burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+      "version": "ruby"
+    },
+    {
+      "text": "DIGLETT are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+      "version": "emerald"
+    },
+    {
+      "text": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+      "version": "firered"
+    },
+    {
+      "text": "Lives about one yard underground where it feeds on plant roots. It sometimes appears aboveground.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+      "version": "diamond"
+    },
+    {
+      "text": "If a DIGLETT digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Diglett are raised in most farms. The reason is simple— wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It chews on plant roots underground. Farmers whose vegetables are vulnerable find it can be quite a pest.",
+      "version": "sun"
+    },
+    {
+      "text": "Many farmers cherish and nurture Diglett because its droppings enrich the soil it lives in.",
+      "version": "moon"
+    },
+    {
+      "text": "It travels through tunnels that it digs underground. It hates sunlight, so it comes out only after the sun goes down.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",
+      "version": "sword"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "sand-veil",
+    "arena-trap",
+    "sand-force"
+  ],
+  "height_dm": 2,
+  "weight_hg": 8,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/21/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/50/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/50/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 541,
+  "slug": "swadloon",
+  "name_en": "Swadloon",
+  "genera_en": [
+    "Leaf-Wrapped Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+      "version": "black"
+    },
+    {
+      "text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+      "version": "white"
+    },
+    {
+      "text": "Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it.",
+      "version": "black-2"
+    }
+  ],
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    "leaf-guard",
+    "chlorophyll",
+    "overcoat"
+  ],
+  "height_dm": 5,
+  "weight_hg": 73,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/276/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/541/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/541/"
+  }
+}

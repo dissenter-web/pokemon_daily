@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 105,
+  "slug": "marowak",
+  "name_en": "Marowak",
+  "genera_en": [
+    "Bone Keeper Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+      "version": "red"
+    },
+    {
+      "text": "Small and weak, this POKéMON is adept with its bone club. It has grown more vicious over the ages.",
+      "version": "yellow"
+    },
+    {
+      "text": "It has been seen pounding boulders with the bone it carries in order to tap out mes­ sages to others.",
+      "version": "gold"
+    },
+    {
+      "text": "It collects bones from an unknown place. A MAROWAK graveyard exists somewhere in the world, rumors say.",
+      "version": "silver"
+    },
+    {
+      "text": "Somewhere in the world is a ceme­ tery just for MAROWAK. It gets its bones from those graves.",
+      "version": "crystal"
+    },
+    {
+      "text": "MAROWAK is the evolved form of a CUBONE that has overcome its sadness at the loss of its mother and grown tough. This POKéMON’s tempered and hardened spirit is not easily broken.",
+      "version": "ruby"
+    },
+    {
+      "text": "A MAROWAK is the evolved form of a CUBONE that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is small and was originally very weak. Its temperament turned ferocious when it began using bones.",
+      "version": "firered"
+    },
+    {
+      "text": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+      "version": "diamond"
+    },
+    {
+      "text": "It has been seen pounding boulders with the bone it carries in order to tap out messages to others.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It collects bones from an unknown place. Some whisper that a MAROWAK graveyard exists somewhere in the world.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon’s tempered and hardened spirit is not easily broken.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Originally, it was weak and timid. After evolution, its temperament becomes violent, and it begins to wield bones as weapons.",
+      "version": "sun"
+    },
+    {
+      "text": "This Pokémon is out for vengeance on its natural enemy, Mandibuzz. It throws bones like boomerangs to try to take it down.",
+      "version": "moon"
+    },
+    {
+      "text": "It throws bones at Mandibuzz to knock it down. It’s thought that Marowak is trying to avenge its parent.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "They thump their bones rhythmically to communicate among themselves. There are nearly 50 different rhythmic patterns.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",
+      "version": "sword"
+    },
+    {
+      "text": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ground"
+  ],
+  "abilities": [
+    "rock-head",
+    "lightning-rod",
+    "battle-armor"
+  ],
+  "height_dm": 10,
+  "weight_hg": 450,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/46/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/105/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/105/"
+  }
+}

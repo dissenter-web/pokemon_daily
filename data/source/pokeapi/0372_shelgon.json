@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 372,
+  "slug": "shelgon",
+  "name_en": "Shelgon",
+  "genera_en": [
+    "Endurance Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Inside SHELGON’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This POKéMON’s shell is extremely heavy, making its movements sluggish.",
+      "version": "ruby"
+    },
+    {
+      "text": "Covering SHELGON’s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this POKéMON hides away in a cavern.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.",
+      "version": "firered"
+    },
+    {
+      "text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+      "version": "diamond"
+    },
+    {
+      "text": "It surrounds its body in an iron-hard shell to accumulate enough power to evolve.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Inside Shelgon’s armor-like shell, cells are in the midst of transformation to create an entirely new body. This Pokémon’s shell is extremely heavy, making its movements sluggish.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Covering Shelgon’s body are outgrowths much like bones. The shell is very hard and bounces off enemy attacks. When awaiting evolution, this Pokémon hides away in a cavern.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "The cells within its shell transform with explosive speed, preparing it for evolution.",
+      "version": "sun"
+    },
+    {
+      "text": "They lurk deep within caves—motionless, neither eating nor drinking. Why they don’t die is not known.",
+      "version": "moon"
+    },
+    {
+      "text": "The cells within its body are changing at a bewildering pace. Its hard shell is made from the same substance as bone.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.",
+      "version": "sword"
+    },
+    {
+      "text": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    "rock-head",
+    "overcoat"
+  ],
+  "height_dm": 11,
+  "weight_hg": 1105,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/191/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/372/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/372/"
+  }
+}

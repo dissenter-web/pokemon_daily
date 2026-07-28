@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 175,
+  "slug": "togepi",
+  "name_en": "Togepi",
+  "genera_en": [
+    "Spike Ball Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+      "version": "gold"
+    },
+    {
+      "text": "A proverb claims that happiness will come to any­ one who can make a sleeping TOGEPI stand up.",
+      "version": "silver"
+    },
+    {
+      "text": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+      "version": "crystal"
+    },
+    {
+      "text": "As its energy, TOGEPI uses the positive emotions of compassion and pleasure exuded by people and POKéMON. This POKéMON stores up feelings of happiness inside its shell, then shares them with others.",
+      "version": "ruby"
+    },
+    {
+      "text": "As its energy, it uses the feelings of compassion and pleasure exuded by people and POKéMON. It stores up happy feelings in its shell, then shares them out.",
+      "version": "emerald"
+    },
+    {
+      "text": "A proverb claims that happiness will come to anyone who can make a sleeping TOGEPI stand up.",
+      "version": "firered"
+    },
+    {
+      "text": "Its shell is said to be stuffed with happiness that it shares with kindhearted people.",
+      "version": "diamond"
+    },
+    {
+      "text": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+      "version": "platinum"
+    },
+    {
+      "text": "A proverb claims that happiness will come to anyone who can make a sleeping Togepi stand up.",
+      "version": "y"
+    },
+    {
+      "text": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fairy"
+  ],
+  "abilities": [
+    "hustle",
+    "serene-grace",
+    "super-luck"
+  ],
+  "height_dm": 3,
+  "weight_hg": 15,
+  "generation": "generation-ii",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/87/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/175/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/175/"
+  }
+}

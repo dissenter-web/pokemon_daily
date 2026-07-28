@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 272,
+  "slug": "ludicolo",
+  "name_en": "Ludicolo",
+  "genera_en": [
+    "Carefree Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LUDICOLO begins dancing as soon as it hears cheerful, festive music. This POKéMON is said to appear when it hears the singing of children on hiking outings.",
+      "version": "ruby"
+    },
+    {
+      "text": "Upon hearing an upbeat and cheerful rhythm, the cells in LUDICOLO’s body become very energetic and active. Even in battle, this POKéMON will exhibit an amazing amount of power.",
+      "version": "sapphire"
+    },
+    {
+      "text": "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+      "version": "emerald"
+    },
+    {
+      "text": "The rhythm of bright, festive music activates LUDICOLO’s cells, making it more powerful.",
+      "version": "firered"
+    },
+    {
+      "text": "If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.",
+      "version": "diamond"
+    },
+    {
+      "text": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The rhythm of bright, festive music activates Ludicolo’s cells, making it more powerful.",
+      "version": "y"
+    },
+    {
+      "text": "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo’s body become very energetic and active. Even in battle, this Pokémon will exhibit an amazing amount of power.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "water",
+    "grass"
+  ],
+  "abilities": [
+    "swift-swim",
+    "rain-dish",
+    "own-tempo"
+  ],
+  "height_dm": 15,
+  "weight_hg": 550,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/136/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/272/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/272/"
+  }
+}

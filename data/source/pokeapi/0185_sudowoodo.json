@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 185,
+  "slug": "sudowoodo",
+  "name_en": "Sudowoodo",
+  "genera_en": [
+    "Imitation Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water.",
+      "version": "diamond"
+    },
+    {
+      "text": "Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant.",
+      "version": "gold"
+    },
+    {
+      "text": "It disguises it­ self as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+      "version": "silver"
+    },
+    {
+      "text": "If a tree branch shakes when there is no wind, it's a SUDOWOODO, not a tree. It hides from the rain.",
+      "version": "crystal"
+    },
+    {
+      "text": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
+      "version": "ruby"
+    },
+    {
+      "text": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+      "version": "emerald"
+    },
+    {
+      "text": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+      "version": "firered"
+    },
+    {
+      "text": "Although it always pretends to be a tree, its composition appears to be closer to a rock than a plant.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It stands along paths pretending to be a tree. If it starts raining, it seems to disappear.",
+      "version": "pearl"
+    },
+    {
+      "text": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+      "version": "platinum"
+    },
+    {
+      "text": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Sudowoodo camouflages itself as a tree to avoid being attacked by enemies. However, because its hands remain green throughout the year, the Pokémon is easily identified as a fake during the winter.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "To avoid attack, it mimics a tree. It will run off if splashed with water, which it hates.",
+      "version": "sun"
+    },
+    {
+      "text": "Apparently, the larger the green parts of this Pokémon, the more collectors value it. It’s a particular favorite among elderly people.",
+      "version": "moon"
+    },
+    {
+      "text": "It’s so popular with the elderly that there’s a magazine devoted to this Pokémon. Fans obsess over the particular length and angle of its arms.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The result of its holding the same pose all the time is arms that have become supple yet strong.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "If a tree branch shakes when there is no wind, it’s a Sudowoodo, not a tree. It hides from the rain.",
+      "version": "sword"
+    },
+    {
+      "text": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    "sturdy",
+    "rock-head",
+    "rattled"
+  ],
+  "height_dm": 12,
+  "weight_hg": 380,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/91/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/185/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/185/"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 479,
+  "slug": "rotom",
+  "name_en": "Rotom",
+  "genera_en": [
+    "Plasma Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Research continues on this Pokémon, which could be the power source of a unique motor.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+      "version": "platinum"
+    },
+    {
+      "text": "One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities.",
+      "version": "sword"
+    },
+    {
+      "text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "version": "shield"
+    },
+    {
+      "text": "This bizarre Pokémon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "electric",
+    "ghost"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 3,
+  "weight_hg": 3,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/240/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/479/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/479/"
+  }
+}

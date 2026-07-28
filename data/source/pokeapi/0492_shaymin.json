@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 492,
+  "slug": "shaymin",
+  "name_en": "Shaymin",
+  "genera_en": [
+    "Gratitude Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+      "version": "diamond"
+    },
+    {
+      "text": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+      "version": "pearl"
+    },
+    {
+      "text": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+      "version": "platinum"
+    },
+    {
+      "text": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "version": "heartgold"
+    },
+    {
+      "text": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "natural-cure"
+  ],
+  "height_dm": 2,
+  "weight_hg": 21,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": true,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/253/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/492/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/492/"
+  }
+}

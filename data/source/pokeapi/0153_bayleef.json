@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 153,
+  "slug": "bayleef",
+  "name_en": "Bayleef",
+  "genera_en": [
+    "Leaf Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight.",
+      "version": "gold"
+    },
+    {
+      "text": "A spicy aroma ema­ nates from around its neck. The aroma acts as a stimulant to re­ store health.",
+      "version": "silver"
+    },
+    {
+      "text": "The scent that wafts from the leaves on its neck causes anyone who smells it to become energetic.",
+      "version": "crystal"
+    },
+    {
+      "text": "BAYLEEF’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+      "version": "ruby"
+    },
+    {
+      "text": "A BAYLEEF’s neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+      "version": "emerald"
+    },
+    {
+      "text": "A spicy aroma emanates from around its neck. The aroma acts as a stimulant to restore health.",
+      "version": "firered"
+    },
+    {
+      "text": "The buds that ring its neck give off a spicy aroma that perks people up.",
+      "version": "diamond"
+    },
+    {
+      "text": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "overgrow",
+    "leaf-guard"
+  ],
+  "height_dm": 12,
+  "weight_hg": 158,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/79/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/153/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/153/"
+  }
+}

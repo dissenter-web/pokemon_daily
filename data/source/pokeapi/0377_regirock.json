@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 377,
+  "slug": "regirock",
+  "name_en": "Regirock",
+  "genera_en": [
+    "Rock Peak Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "REGIROCK was sealed away by people long ago. If this POKéMON’s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
+      "version": "ruby"
+    },
+    {
+      "text": "REGIROCK’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A POKéMON that is made entirely of rocks and boulders. If parts of its body chip off in battle, REGIROCK repairs itself by adding new rocks.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is entirely composed of rocks with no sign of a brain or heart. It is a mystery even to modern scientists.",
+      "version": "firered"
+    },
+    {
+      "text": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
+      "version": "diamond"
+    },
+    {
+      "text": "The same rocks that form its body have been found in ground layers around the world.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Regirock was sealed away by people long ago. If this Pokémon’s body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Every bit of Regirock’s body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what’s been lost.",
+      "version": "sword"
+    },
+    {
+      "text": "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    "clear-body",
+    "sturdy"
+  ],
+  "height_dm": 17,
+  "weight_hg": 2300,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/193/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/377/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/377/"
+  }
+}

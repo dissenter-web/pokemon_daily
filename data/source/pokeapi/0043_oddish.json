@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 43,
+  "slug": "oddish",
+  "name_en": "Oddish",
+  "genera_en": [
+    "Weed Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "version": "red"
+    },
+    {
+      "text": "It may be mistaken for a clump of weeds. If you try to yank it out of the ground, it shrieks horribly.",
+      "version": "yellow"
+    },
+    {
+      "text": "Awakened by moon­ light, it roams actively at night. In the day, it stays quietly underground.",
+      "version": "gold"
+    },
+    {
+      "text": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+      "version": "silver"
+    },
+    {
+      "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bath­ ing in moonlight.",
+      "version": "crystal"
+    },
+    {
+      "text": "During the daytime, ODDISH buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+      "version": "ruby"
+    },
+    {
+      "text": "ODDISH searches for fertile, nutrient- rich soil, then plants itself. During the daytime, while it is planted, this POKéMON’s feet are thought to change shape and become similar to the roots of trees.",
+      "version": "sapphire"
+    },
+    {
+      "text": "This POKéMON grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots.",
+      "version": "firered"
+    },
+    {
+      "text": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+      "version": "diamond"
+    },
+    {
+      "text": "Awakened by moonlight, it roams actively at night. In the day, it stays quietly underground.",
+      "version": "heartgold"
+    },
+    {
+      "text": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+      "version": "x"
+    },
+    {
+      "text": "During the daytime, Oddish buries itself in soil to absorb nutrients from the ground using its entire body. The more fertile the soil, the glossier its leaves become.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon’s feet are thought to change shape and become similar to the roots of trees.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "run-away"
+  ],
+  "height_dm": 5,
+  "weight_hg": 54,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/18/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/43/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/43/"
+  }
+}

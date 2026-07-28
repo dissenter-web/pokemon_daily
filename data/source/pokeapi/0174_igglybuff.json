@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 174,
+  "slug": "igglybuff",
+  "name_en": "Igglybuff",
+  "genera_en": [
+    "Balloon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+      "version": "gold"
+    },
+    {
+      "text": "Its extremely flexible and elas­ tic body makes it bounce continuous­ ly--anytime, any­ where.",
+      "version": "silver"
+    },
+    {
+      "text": "Instead of walking with its short legs, it moves around by bouncing on its soft, tender body.",
+      "version": "crystal"
+    },
+    {
+      "text": "IGGLYBUFF’s vocal chords are not sufficiently developed. It would hurt its throat if it were to sing too much. This POKéMON gargles with freshwater from a clean stream.",
+      "version": "ruby"
+    },
+    {
+      "text": "IGGLYBUFF has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its extremely flexible and elastic body makes it bounce continuously--anytime, anywhere.",
+      "version": "firered"
+    },
+    {
+      "text": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.",
+      "version": "black-2"
+    },
+    {
+      "text": "Igglybuff’s vocal cords are not sufficiently developed. It would hurt its throat if it were to sing too much. This Pokémon gargles with freshwater from a clean stream.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It likes to sing but is not yet good at it. With praise and encouragement, it will get better little by little.",
+      "version": "sun"
+    },
+    {
+      "text": "It moves by bouncing along. As it moves a lot, it sweats, and its body gives off a sweet aroma.",
+      "version": "moon"
+    },
+    {
+      "text": "It’s always practicing its singing because it wants to improve. Even when it’s asleep, it keeps singing in its dreams!",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn’t hurt its throat.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Igglybuff loves to sing. Its marshmallow-like body gives off a faint sweet smell.",
+      "version": "sword"
+    },
+    {
+      "text": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "abilities": [
+    "cute-charm",
+    "competitive",
+    "friend-guard"
+  ],
+  "height_dm": 3,
+  "weight_hg": 10,
+  "generation": "generation-ii",
+  "is_baby": true,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/16/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/174/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/174/"
+  }
+}

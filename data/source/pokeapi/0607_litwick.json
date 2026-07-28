@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 607,
+  "slug": "litwick",
+  "name_en": "Litwick",
+  "genera_en": [
+    "Candle Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+      "version": "black"
+    },
+    {
+      "text": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+      "version": "white"
+    },
+    {
+      "text": "Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon.",
+      "version": "black-2"
+    },
+    {
+      "text": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
+      "version": "sword"
+    },
+    {
+      "text": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "ghost",
+    "fire"
+  ],
+  "abilities": [
+    "flash-fire",
+    "flame-body",
+    "infiltrator"
+  ],
+  "height_dm": 3,
+  "weight_hg": 31,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/308/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/607/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/607/"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 17,
+  "slug": "pidgeotto",
+  "name_en": "Pidgeotto",
+  "genera_en": [
+    "Bird Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
+      "version": "red"
+    },
+    {
+      "text": "This POKéMON is full of vitality. It constantly flies around its large territory in search of prey.",
+      "version": "yellow"
+    },
+    {
+      "text": "It has outstanding vision. However high it flies, it is able to distin­ guish the move­ ments of its prey.",
+      "version": "gold"
+    },
+    {
+      "text": "It immobilizes its prey using well- developed claws, then carries the prey more than 60 miles to its nest.",
+      "version": "silver"
+    },
+    {
+      "text": "It slowly flies in a circular pat­ tern, all the while keeping a sharp lookout for prey.",
+      "version": "crystal"
+    },
+    {
+      "text": "PIDGEOTTO claims a large area as its own territory. This POKéMON flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+      "version": "emerald"
+    },
+    {
+      "text": "The claws on its feet are well developed. It can carry prey such as an EXEGGCUTE to its nest over 60 miles away.",
+      "version": "firered"
+    },
+    {
+      "text": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+      "version": "diamond"
+    },
+    {
+      "text": "It has outstanding vision. However high it flies, it is able to distinguish the movements of its prey.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It renders its prey immobile using well-developed claws, then carries the prey more than 60 miles to its nest.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+      "version": "x"
+    },
+    {
+      "text": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+      "version": "y"
+    },
+    {
+      "text": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "abilities": [
+    "keen-eye",
+    "tangled-feet",
+    "big-pecks"
+  ],
+  "height_dm": 11,
+  "weight_hg": 300,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/6/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/17/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/17/"
+  }
+}

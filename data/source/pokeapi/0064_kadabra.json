@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 64,
+  "slug": "kadabra",
+  "name_en": "Kadabra",
+  "genera_en": [
+    "Psi Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It emits special alpha waves from its body that induce headaches just by being close by.",
+      "version": "red"
+    },
+    {
+      "text": "Many odd things happen if this POKéMON is close by. For example, it makes clocks run backwards.",
+      "version": "yellow"
+    },
+    {
+      "text": "It possesses strong spiritual power. The more danger it faces, the stronger its psychic power.",
+      "version": "gold"
+    },
+    {
+      "text": "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+      "version": "silver"
+    },
+    {
+      "text": "When it closes its eyes, twice as many alpha parti­ cles come out of the surface of its body.",
+      "version": "crystal"
+    },
+    {
+      "text": "KADABRA emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a TRAINER of this POKéMON.",
+      "version": "ruby"
+    },
+    {
+      "text": "KADABRA holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the POKéMON is said to be limited to half the usual amount of its telekinetic powers.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is rumored that a boy with psychic abilities suddenly transformed into KADABRA while he was assisting research into extrasensory powers.",
+      "version": "emerald"
+    },
+    {
+      "text": "It happened one morning - a boy with extrasensory powers awoke in bed transformed into KADABRA.",
+      "version": "firered"
+    },
+    {
+      "text": "It emits special alpha waves from its body that induce headaches just by being close.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "If one is nearby, an eerie shadow appears on TV screens. Seeing the shadow is said to bring bad luck.",
+      "version": "diamond"
+    },
+    {
+      "text": "When it uses its psychic power, it emits strong ha waves that can ruin precision devices.",
+      "version": "pearl"
+    },
+    {
+      "text": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+      "version": "platinum"
+    },
+    {
+      "text": "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+      "version": "x"
+    },
+    {
+      "text": "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "A theory exists that this Pokémon was a young boy who couldn’t control his psychic powers and ended up transformed into this Pokémon.",
+      "version": "sun"
+    },
+    {
+      "text": "Kadabra’s presence infests televisions and monitors with creepy shadows that bring bad luck.",
+      "version": "moon"
+    },
+    {
+      "text": "It stares at a silver spoon to amplify its psychic powers before it lets loose. Apparently, gold spoons are no good.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It possesses strong mental capabilities, but its psychic powers are halved when it’s not holding a silver spoon.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Many odd things happen if this Pokémon is close by. For example, it makes clocks run backward.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon’s telekinesis is immensely powerful. To prepare for evolution, Kadabra stores up psychic energy in the star on its forehead.",
+      "version": "shield"
+    },
+    {
+      "text": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "synchronize",
+    "inner-focus",
+    "magic-guard"
+  ],
+  "height_dm": 13,
+  "weight_hg": 565,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/27/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/64/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/64/"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 364,
+  "slug": "sealeo",
+  "name_en": "Sealeo",
+  "genera_en": [
+    "Ball Roll Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has a very sensitive nose. It touches new things with its nose to examine them.",
+      "version": "heartgold"
+    },
+    {
+      "text": "SEALEO has the habit of always juggling on the tip of its nose anything it sees for the first time. This POKéMON occasionally entertains itself by balancing and rolling a SPHEAL on its nose.",
+      "version": "ruby"
+    },
+    {
+      "text": "SEALEO often balances and rolls things on the tip of its nose. While the POKéMON is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
+      "version": "sapphire"
+    },
+    {
+      "text": "SEALEO live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+      "version": "emerald"
+    },
+    {
+      "text": "It touches new things with its nose to test for smell and feel. It plays by spinning SPHEAL on its nose.",
+      "version": "firered"
+    },
+    {
+      "text": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+      "version": "diamond"
+    },
+    {
+      "text": "Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease.",
+      "version": "black-2"
+    },
+    {
+      "text": "Sealeo has the habit of always juggling on the tip of its nose anything it sees for the first time. This Pokémon occasionally entertains itself by balancing and rolling a Spheal on its nose.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Sealeo live on top of drift ice. They go swimming when they’re on the hunt, seeking out their prey by scent.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon has a habit of spinning round things on its nose, whether those things are Poké Balls or Spheal.",
+      "version": "shield"
+    },
+    {
+      "text": "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "ice",
+    "water"
+  ],
+  "abilities": [
+    "thick-fat",
+    "ice-body",
+    "oblivious"
+  ],
+  "height_dm": 11,
+  "weight_hg": 876,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/187/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/364/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/364/"
+  }
+}

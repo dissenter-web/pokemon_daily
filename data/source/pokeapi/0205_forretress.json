@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 205,
+  "slug": "forretress",
+  "name_en": "Forretress",
+  "genera_en": [
+    "Bagworm Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+      "version": "gold"
+    },
+    {
+      "text": "It remains immova­ bly rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+      "version": "silver"
+    },
+    {
+      "text": "Usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
+      "version": "crystal"
+    },
+    {
+      "text": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell’s inside cannot be seen.",
+      "version": "ruby"
+    },
+    {
+      "text": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell’s inside cannot be seen.",
+      "version": "emerald"
+    },
+    {
+      "text": "It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.",
+      "version": "firered"
+    },
+    {
+      "text": "Its entire body is shielded by a steel- hard shell. What lurks inside the armor is a total mystery.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell’s inside cannot be seen.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "When something approaches it, it fires off fragments of its steel shell in attack. This is not a conscious action but a conditioned reflex.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "abilities": [
+    "sturdy",
+    "overcoat"
+  ],
+  "height_dm": 12,
+  "weight_hg": 1258,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/102/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/205/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/205/"
+  }
+}

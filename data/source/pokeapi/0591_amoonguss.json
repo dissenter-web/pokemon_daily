@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 591,
+  "slug": "amoonguss",
+  "name_en": "Amoonguss",
+  "genera_en": [
+    "Mushroom Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+      "version": "black"
+    },
+    {
+      "text": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+      "version": "white"
+    },
+    {
+      "text": "It moves the caps on both arms and does a dance to lure prey. It prefers damp places.",
+      "version": "black-2"
+    },
+    {
+      "text": "This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land.",
+      "version": "sword"
+    },
+    {
+      "text": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "abilities": [
+    "effect-spore",
+    "regenerator"
+  ],
+  "height_dm": 6,
+  "weight_hg": 105,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/300/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/591/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/591/"
+  }
+}

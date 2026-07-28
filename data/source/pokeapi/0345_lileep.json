@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 345,
+  "slug": "lileep",
+  "name_en": "Lileep",
+  "genera_en": [
+    "Sea Lily Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+      "version": "black-2"
+    },
+    {
+      "text": "LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+      "version": "ruby"
+    },
+    {
+      "text": "LILEEP is an ancient POKéMON that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this POKéMON intently scans for prey with its two eyes.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
+      "version": "emerald"
+    },
+    {
+      "text": "It became extinct roughly 100 million years ago. It was regenerated from a fossil using advanced techniques.",
+      "version": "firered"
+    },
+    {
+      "text": "It disguises its tentacles as flowers to attract and catch prey. It became extinct in ancient times.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Lileep became extinct approximately a hundred million years ago. This ancient Pokémon attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Lileep is an ancient Pokémon that was regenerated from a fossil. It remains permanently anchored to a rock. From its immobile perch, this Pokémon intently scans for prey with its two eyes.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "In ancient times, it lived in warm seas. It disguised itself as seaweed to ambush its prey and devoured them whole when they got close.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It sticks to rocks with its powerful suckers and can’t be washed away no matter how rough the surf gets.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
+      "version": "sword"
+    },
+    {
+      "text": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "grass"
+  ],
+  "abilities": [
+    "suction-cups",
+    "storm-drain"
+  ],
+  "height_dm": 10,
+  "weight_hg": 238,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/176/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/345/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/345/"
+  }
+}

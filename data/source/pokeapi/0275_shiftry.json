@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 275,
+  "slug": "shiftry",
+  "name_en": "Shiftry",
+  "genera_en": [
+    "Wicked Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SHIFTRY is a mysterious POKéMON that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+      "version": "ruby"
+    },
+    {
+      "text": "SHIFTRY’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It is said to arrive on chilly, wintry winds. Feared from long ago as the guardian of forests, this POKéMON lives in a deep forest where people do not venture.",
+      "version": "emerald"
+    },
+    {
+      "text": "A POKéMON that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
+      "version": "firered"
+    },
+    {
+      "text": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+      "version": "heartgold"
+    },
+    {
+      "text": "A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.",
+      "version": "x"
+    },
+    {
+      "text": "By flapping its leafy fan, it can whip up gusts of 100 feet per second that can level houses.",
+      "version": "y"
+    },
+    {
+      "text": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Shiftry’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass",
+    "dark"
+  ],
+  "abilities": [
+    "chlorophyll",
+    "wind-rider",
+    "pickpocket"
+  ],
+  "height_dm": 13,
+  "weight_hg": 596,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/137/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/275/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/275/"
+  }
+}

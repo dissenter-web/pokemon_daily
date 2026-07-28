@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 339,
+  "slug": "barboach",
+  "name_en": "Barboach",
+  "genera_en": [
+    "Whiskers Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "BARBOACH’s sensitive whiskers serve as a superb radar system. This POKéMON hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+      "version": "ruby"
+    },
+    {
+      "text": "BARBOACH’s body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy’s grip. This POKéMON grows weak if the slimy coating dries up.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the BARBOACH’s body.",
+      "version": "emerald"
+    },
+    {
+      "text": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+      "version": "firered"
+    },
+    {
+      "text": "It coats its entire body with a slimy fluid so it can squirm and slip away if grabbed.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its whiskers make a superb radar. They are used to locate prey, even in the murkiest of water.",
+      "version": "pearl"
+    },
+    {
+      "text": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+      "version": "platinum"
+    },
+    {
+      "text": "BARBOACH uses its whiskers to taste things just as a person uses his or her tongue to taste things.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Barboach’s sensitive whiskers serve as a superb radar system. This Pokémon hides in mud, leaving only its two whiskers exposed while it waits for prey to come along.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Barboach’s body is covered with a slimy film. If a foe grabs it, this Pokémon just slips out of the enemy’s grip. This Pokémon grows weak if the slimy coating dries up.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
+      "version": "sun"
+    },
+    {
+      "text": "Its slippery body is hard to grasp, so much so that there are festivals where people compete to see how many they can catch barehanded.",
+      "version": "moon"
+    },
+    {
+      "text": "Its entire body is gooey. When pecked at by bird Pokémon, it slips and slides its way to freedom.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its whiskers are filled with nerves. They can sense smells and flavors just as a person’s nose or tongue would.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "ground"
+  ],
+  "abilities": [
+    "oblivious",
+    "anticipation",
+    "hydration"
+  ],
+  "height_dm": 4,
+  "weight_hg": 19,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/173/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/339/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/339/"
+  }
+}

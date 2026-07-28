@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 611,
+  "slug": "fraxure",
+  "name_en": "Fraxure",
+  "genera_en": [
+    "Axe Jaw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting.",
+      "version": "black"
+    },
+    {
+      "text": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+      "version": "white"
+    },
+    {
+      "text": "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
+      "version": "black-2"
+    },
+    {
+      "text": "After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.",
+      "version": "sword"
+    },
+    {
+      "text": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    "rivalry",
+    "mold-breaker",
+    "unnerve"
+  ],
+  "height_dm": 10,
+  "weight_hg": 360,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/309/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/611/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/611/"
+  }
+}

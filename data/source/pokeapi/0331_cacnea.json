@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 331,
+  "slug": "cacnea",
+  "name_en": "Cacnea",
+  "genera_en": [
+    "Cactus Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
+      "version": "ruby"
+    },
+    {
+      "text": "The more arid and harsh the environment, the more pretty and fragrant a flower CACNEA grows. This POKéMON battles by wildly swinging its thorny arms.",
+      "version": "sapphire"
+    },
+    {
+      "text": "CACNEA live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
+      "version": "emerald"
+    },
+    {
+      "text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+      "version": "firered"
+    },
+    {
+      "text": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+      "version": "diamond"
+    },
+    {
+      "text": "It lives in arid locations. Its yellow flowers bloom once a year.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "grass"
+  ],
+  "abilities": [
+    "sand-veil",
+    "water-absorb"
+  ],
+  "height_dm": 4,
+  "weight_hg": 513,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/167/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/331/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/331/"
+  }
+}

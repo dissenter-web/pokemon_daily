@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 632,
+  "slug": "durant",
+  "name_en": "Durant",
+  "genera_en": [
+    "Iron Ant Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+      "version": "black"
+    },
+    {
+      "text": "Durant dig nests in mountains. They build their complicated, interconnected tunnels into mazes.",
+      "version": "white"
+    },
+    {
+      "text": "Individuals each play different roles in driving Heatmor, their natural predator, away from their colony.",
+      "version": "black-2"
+    },
+    {
+      "text": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+      "version": "sword"
+    },
+    {
+      "text": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "bug",
+    "steel"
+  ],
+  "abilities": [
+    "swarm",
+    "hustle",
+    "truant"
+  ],
+  "height_dm": 3,
+  "weight_hg": 330,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/322/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/632/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/632/"
+  }
+}

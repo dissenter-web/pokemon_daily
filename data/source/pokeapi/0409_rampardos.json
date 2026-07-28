@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 409,
+  "slug": "rampardos",
+  "name_en": "Rampardos",
+  "genera_en": [
+    "Head Butt Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its skull is as hard as iron. It is a brute that tears down jungle trees while catching prey.",
+      "version": "pearl"
+    },
+    {
+      "text": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+      "version": "platinum"
+    },
+    {
+      "text": "Its skull withstands impacts of any magnitude. As a result, its brain never gets the chance to grow.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The result of repeated headbutts is a skull grown thick and hard. However, its brain has shrunk in size compared with Cranidos’s.",
+      "version": "sun"
+    },
+    {
+      "text": "Records exist of a revived fossil that evolved into Rampardos. It proceeded to escape and then destroy a skyscraper with a headbutt.",
+      "version": "moon"
+    },
+    {
+      "text": "In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "rock"
+  ],
+  "abilities": [
+    "mold-breaker",
+    "sheer-force"
+  ],
+  "height_dm": 16,
+  "weight_hg": 1025,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/211/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/409/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/409/"
+  }
+}

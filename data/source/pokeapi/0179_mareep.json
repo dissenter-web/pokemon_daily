@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 179,
+  "slug": "mareep",
+  "name_en": "Mareep",
+  "genera_en": [
+    "Wool Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+      "version": "gold"
+    },
+    {
+      "text": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+      "version": "silver"
+    },
+    {
+      "text": "It stores lots of air in its soft fur, allowing it to stay cool in summer and warm in winter.",
+      "version": "crystal"
+    },
+    {
+      "text": "MAREEP’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows.",
+      "version": "ruby"
+    },
+    {
+      "text": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
+      "version": "emerald"
+    },
+    {
+      "text": "If static electricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+      "version": "diamond"
+    },
+    {
+      "text": "When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly.",
+      "version": "black-2"
+    },
+    {
+      "text": "Mareep’s fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail glows.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Clothing made from Mareep’s fleece is easily charged with static electricity, so a special process is used on it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "electric"
+  ],
+  "abilities": [
+    "static",
+    "plus"
+  ],
+  "height_dm": 6,
+  "weight_hg": 78,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/89/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/179/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/179/"
+  }
+}

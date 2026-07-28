@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 47,
+  "slug": "parasect",
+  "name_en": "Parasect",
+  "genera_en": [
+    "Mushroom Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mush­ rooms on its back.",
+      "version": "gold"
+    },
+    {
+      "text": "The larger the mushroom on its back grows, the stronger the mush­ room spores it scatters.",
+      "version": "silver"
+    },
+    {
+      "text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "version": "red"
+    },
+    {
+      "text": "The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.",
+      "version": "yellow"
+    },
+    {
+      "text": "When nothing's left to extract from the bug, the mushrooms on its back leave spores on the bug's egg.",
+      "version": "crystal"
+    },
+    {
+      "text": "PARASECT is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "version": "ruby"
+    },
+    {
+      "text": "PARASECT are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+      "version": "emerald"
+    },
+    {
+      "text": "It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.",
+      "version": "firered"
+    },
+    {
+      "text": "A mushroom grown larger than the host’s body controls PARASECT. It scatters poisonous spores.",
+      "version": "diamond"
+    },
+    {
+      "text": "It is controlled by a mushroom grown larger than the bug body. It is said to prefer damp places.",
+      "version": "pearl"
+    },
+    {
+      "text": "It stays mostly in dark, damp places, the preference not of the bug, but of the big mushroom on its back.",
+      "version": "heartgold"
+    },
+    {
+      "text": "The larger the mushroom on its back grows, the stronger the mushroom spores it scatters.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+      "version": "black"
+    },
+    {
+      "text": "Parasect is known to infest large trees en masse and drain nutrients from the lower trunk and roots. When an infested tree dies, they move onto another tree all at once.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "The large mushroom on its back controls it. It often fights over territory with Shiinotic.",
+      "version": "sun"
+    },
+    {
+      "text": "It scatters toxic spores from its mushroom cap. Once harvested, these spores can be steeped and boiled down to prepare herbal medicines.",
+      "version": "moon"
+    },
+    {
+      "text": "The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "abilities": [
+    "effect-spore",
+    "dry-skin",
+    "damp"
+  ],
+  "height_dm": 10,
+  "weight_hg": 295,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/19/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/47/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/47/"
+  }
+}

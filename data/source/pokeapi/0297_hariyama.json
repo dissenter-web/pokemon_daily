@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 297,
+  "slug": "hariyama",
+  "name_en": "Hariyama",
+  "genera_en": [
+    "Arm Thrust Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "HARIYAMA practices its straight-arm slaps in any number of locations. One hit of this POKéMON’s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+      "version": "ruby"
+    },
+    {
+      "text": "HARIYAMA’s thick body may appear fat, but it is actually a hunk of solid muscle. If this POKéMON bears down and tightens all its muscles, its body becomes as hard as a rock.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It has the habit of challenging others without hesitation to tests of strength. It’s been known to stand on train tracks and stop trains using forearm thrusts.",
+      "version": "emerald"
+    },
+    {
+      "text": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+      "version": "firered"
+    },
+    {
+      "text": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+      "version": "diamond"
+    },
+    {
+      "text": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Hariyama practices its straight-arm slaps in any number of locations. One hit of this Pokémon’s powerful, openhanded, straight-arm punches could snap a telephone pole in two.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Hariyama’s thick body may appear fat, but it is actually a hunk of solid muscle. If this Pokémon bears down and tightens all its muscles, its body becomes as hard as a rock.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "It is known for its fantastic strength, but as it grows older, it focuses more on training Makuhita.",
+      "version": "sun"
+    },
+    {
+      "text": "They love to compare their freakish strength— strength enough to send a truck flying with a single slap.",
+      "version": "moon"
+    },
+    {
+      "text": "Although they enjoy comparing their strength, they’re also kind. They value etiquette, praising opponents they battle.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Hariyama that are big and fat aren’t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
+      "version": "ultra-moon"
+    }
+  ],
+  "types": [
+    "fighting"
+  ],
+  "abilities": [
+    "thick-fat",
+    "guts",
+    "sheer-force"
+  ],
+  "height_dm": 23,
+  "weight_hg": 2538,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/146/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/297/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/297/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 612,
+  "slug": "haxorus",
+  "name_en": "Haxorus",
+  "genera_en": [
+    "Axe Jaw Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+      "version": "black"
+    },
+    {
+      "text": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+      "version": "white"
+    },
+    {
+      "text": "Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.",
+      "version": "sword"
+    },
+    {
+      "text": "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dragon"
+  ],
+  "abilities": [
+    "rivalry",
+    "mold-breaker",
+    "unnerve"
+  ],
+  "height_dm": 18,
+  "weight_hg": 1055,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/309/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/612/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/612/"
+  }
+}

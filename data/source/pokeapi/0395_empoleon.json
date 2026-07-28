@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 395,
+  "slug": "empoleon",
+  "name_en": "Empoleon",
+  "genera_en": [
+    "Emperor Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+      "version": "diamond"
+    },
+    {
+      "text": "It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.",
+      "version": "pearl"
+    },
+    {
+      "text": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+      "version": "platinum"
+    },
+    {
+      "text": "It avoids unnecessary disputes, but it will decimate anything that threatens its pride.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water",
+    "steel"
+  ],
+  "abilities": [
+    "torrent",
+    "competitive"
+  ],
+  "height_dm": 17,
+  "weight_hg": 845,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/205/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/395/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/395/"
+  }
+}

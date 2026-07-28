@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 138,
+  "slug": "omanyte",
+  "name_en": "Omanyte",
+  "genera_en": [
+    "Spiral Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Although long extinct, in rare cases, it can be genetically resurrected from fossils.",
+      "version": "red"
+    },
+    {
+      "text": "An ancient POKéMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.",
+      "version": "yellow"
+    },
+    {
+      "text": "Revived from an ancient fossil, this POKéMON uses air stored in its shell to sink and rise in water.",
+      "version": "gold"
+    },
+    {
+      "text": "This POKéMON from ancient times is said to have navi­ gated the sea by adeptly twisting its 10 tentacles.",
+      "version": "silver"
+    },
+    {
+      "text": "In prehistoric times, it swam on the sea floor, eating plankton. Its fossils are sometimes found.",
+      "version": "crystal"
+    },
+    {
+      "text": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+      "version": "ruby"
+    },
+    {
+      "text": "One of the ancient and long-since-extinct POKéMON that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+      "version": "emerald"
+    },
+    {
+      "text": "A prehistoric POKéMON that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+      "version": "firered"
+    },
+    {
+      "text": "Although long extinct, in rare cases, it can be genetically regenerated from fossils.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+      "version": "diamond"
+    },
+    {
+      "text": "Revived from an ancient fossil, this Pokémon uses air stored in its shell to sink and rise in water.",
+      "version": "heartgold"
+    },
+    {
+      "text": "This Pokémon from ancient times is said to have navigated the sea by adeptly twisting its 10 tentacles.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "A prehistoric Pokémon that lived in the primordial sea, it swims by twisting its 10 tentacles about.",
+      "version": "x"
+    },
+    {
+      "text": "Omanyte is one of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Omanyte lived in the seas of antiquity. Its fossils have been found bearing bite marks from Archeops, so apparently Archeops preyed on it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+      "version": "lets-go-pikachu"
+    },
+    {
+      "text": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "rock",
+    "water"
+  ],
+  "abilities": [
+    "swift-swim",
+    "shell-armor",
+    "weak-armor"
+  ],
+  "height_dm": 4,
+  "weight_hg": 75,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/69/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/138/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/138/"
+  }
+}

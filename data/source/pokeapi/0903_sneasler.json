@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 903,
+  "slug": "sneasler",
+  "name_en": "Sneasler",
+  "genera_en": [
+    "Free Climb Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Because of Sneasler's virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fighting",
+    "poison"
+  ],
+  "abilities": [
+    "pressure",
+    "unburden",
+    "poison-touch"
+  ],
+  "height_dm": 13,
+  "weight_hg": 430,
+  "generation": "generation-viii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/109/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/903/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/903/"
+  }
+}

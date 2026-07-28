@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 381,
+  "slug": "latios",
+  "name_en": "Latios",
+  "genera_en": [
+    "Eon Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "LATIOS has the ability to make its foe see an image of what it has seen or imagines in its head. This POKéMON is intelligent and understands human speech.",
+      "version": "ruby"
+    },
+    {
+      "text": "LATIOS will only open its heart to a TRAINER with a compassionate spirit. This POKéMON can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "version": "sapphire"
+    },
+    {
+      "text": "Even in hiding, it can detect the locations of others and sense their emotions since it has telepathy. Its intelligence allows it to understand human languages.",
+      "version": "emerald"
+    },
+    {
+      "text": "It has a docile temperament and dislikes fighting. Tucking in its forelegs, it can fly faster than a jet plane.",
+      "version": "firered"
+    },
+    {
+      "text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+      "version": "diamond"
+    },
+    {
+      "text": "It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.",
+      "version": "heartgold"
+    },
+    {
+      "text": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "dragon",
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 20,
+  "weight_hg": 600,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": true,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/197/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/381/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/381/"
+  }
+}

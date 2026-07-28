@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 300,
+  "slug": "skitty",
+  "name_en": "Skitty",
+  "genera_en": [
+    "Kitten Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "SKITTY has the habit of becoming fascinated by moving objects and chasing them around. This POKéMON is known to chase after its own tail and become dizzy.",
+      "version": "ruby"
+    },
+    {
+      "text": "SKITTY is known to chase around playfully after its own tail. In the wild, this POKéMON lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+      "version": "sapphire"
+    },
+    {
+      "text": "A SKITTY’s adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
+      "version": "emerald"
+    },
+    {
+      "text": "It is said to be difficult to earn its trust. However, it is extremely popular for its cute looks and behavior.",
+      "version": "firered"
+    },
+    {
+      "text": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+      "version": "diamond"
+    },
+    {
+      "text": "It’s adorable when it chases its own tail. It’s difficult to earn its trust.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It shows its cute side by chasing its own tail until it gets dizzy.",
+      "version": "black-2"
+    },
+    {
+      "text": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+      "version": "alpha-sapphire"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "cute-charm",
+    "normalize",
+    "wonder-skin"
+  ],
+  "height_dm": 6,
+  "weight_hg": 110,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/148/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/300/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/300/"
+  }
+}

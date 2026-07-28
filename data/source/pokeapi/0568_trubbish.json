@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 568,
+  "slug": "trubbish",
+  "name_en": "Trubbish",
+  "genera_en": [
+    "Trash Bag Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+      "version": "black"
+    },
+    {
+      "text": "The combination of garbage bags and industrial waste caused the chemical reaction that created this Pokémon.",
+      "version": "white"
+    },
+    {
+      "text": "Wanting more garbage, they follow people who litter. They always belch poison gas.",
+      "version": "black-2"
+    },
+    {
+      "text": "Unsanitary places are what they like best. They can be spotted in Alola, often with Grimer in hot pursuit.",
+      "version": "sun"
+    },
+    {
+      "text": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
+      "version": "moon"
+    },
+    {
+      "text": "Poisonous gas leaks out of it when it breathes. Muk that catch a whiff of that stench will come drooling.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+      "version": "sword"
+    },
+    {
+      "text": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "poison"
+  ],
+  "abilities": [
+    "stench",
+    "sticky-hold",
+    "aftermath"
+  ],
+  "height_dm": 6,
+  "weight_hg": 310,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/290/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/568/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/568/"
+  }
+}

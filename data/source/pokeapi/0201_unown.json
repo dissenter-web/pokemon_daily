@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 201,
+  "slug": "unown",
+  "name_en": "Unown",
+  "genera_en": [
+    "Symbol Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Their shapes look like hieroglyphs on ancient tab­ lets. It is said that the two are somehow related.",
+      "version": "gold"
+    },
+    {
+      "text": "Its flat, thin body is always stuck on walls. Its shape appears to have some mean­ ing.",
+      "version": "silver"
+    },
+    {
+      "text": "Because different types of UNOWN exist, it is said that they must have a variety of abilities.",
+      "version": "crystal"
+    },
+    {
+      "text": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
+      "version": "ruby"
+    },
+    {
+      "text": "This POKéMON is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various UNOWN.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+      "version": "firered"
+    },
+    {
+      "text": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or UNOWN came first.",
+      "version": "diamond"
+    },
+    {
+      "text": "They seem to communicate among each other telepathically. They are always found stuck on walls.",
+      "version": "pearl"
+    },
+    {
+      "text": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+      "version": "platinum"
+    },
+    {
+      "text": "Shaped like ancient writing, it is a huge mystery whether language or Unown came first.",
+      "version": "y"
+    },
+    {
+      "text": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "psychic"
+  ],
+  "abilities": [
+    "levitate"
+  ],
+  "height_dm": 5,
+  "weight_hg": 50,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/99/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/201/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/201/"
+  }
+}

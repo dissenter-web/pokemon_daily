@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 162,
+  "slug": "furret",
+  "name_en": "Furret",
+  "genera_en": [
+    "Long Body Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other POKéMON to enter.",
+      "version": "gold"
+    },
+    {
+      "text": "There is no tell­ ing where the tail begins. Despite its short legs, it is quick at hunt­ ing RATTATA.",
+      "version": "silver"
+    },
+    {
+      "text": "It lives in narrow burrows that fit its slim body. The deeper the nests go, the more maze­ like they become.",
+      "version": "crystal"
+    },
+    {
+      "text": "FURRET has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this POKéMON is very nimble and fleet.",
+      "version": "ruby"
+    },
+    {
+      "text": "A FURRET has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+      "version": "emerald"
+    },
+    {
+      "text": "There is no telling where its tail begins. Despite its short legs, it is quick at hunting RATTATA.",
+      "version": "firered"
+    },
+    {
+      "text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+      "version": "diamond"
+    },
+    {
+      "text": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter.",
+      "version": "heartgold"
+    },
+    {
+      "text": "There is no telling where the tail begins. Despite its short legs, it is quick and likes to chase RATTATA.",
+      "version": "soulsilver"
+    },
+    {
+      "text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
+      "version": "omega-ruby"
+    }
+  ],
+  "types": [
+    "normal"
+  ],
+  "abilities": [
+    "run-away",
+    "keen-eye",
+    "frisk"
+  ],
+  "height_dm": 18,
+  "weight_hg": 325,
+  "generation": "generation-ii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/82/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/162/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/162/"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 448,
+  "slug": "lucario",
+  "name_en": "Lucario",
+  "genera_en": [
+    "Aura Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "It has the ability to sense the auras of all things. It understands human speech.",
+      "version": "diamond"
+    },
+    {
+      "text": "By catching the aura emanating from others, it can read their thoughts and movements.",
+      "version": "pearl"
+    },
+    {
+      "text": "A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.",
+      "version": "platinum"
+    },
+    {
+      "text": "It’s said that no foe can remain invisible to LUCARIO, since it can detect auras. Even foes it could not otherwise see.",
+      "version": "heartgold"
+    },
+    {
+      "text": "By reading the auras of all things, it can tell how others are feeling from over half a mile away.",
+      "version": "black-2"
+    },
+    {
+      "text": "Not only does it perceive auras, but it has also gained the power to control them. It employs them in battle.",
+      "version": "sun"
+    },
+    {
+      "text": "They can detect the species of a living being— and its emotions—from over half a mile away. They control auras and hunt their prey in packs.",
+      "version": "moon"
+    },
+    {
+      "text": "It concentrates its mental energy and fires off mysterious waves called auras, which can crush boulders of large size to dust.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "Lucario reads its opponent’s feelings with its aura waves. It finds out things it would rather not know, so it gets stressed out easily.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "It controls waves known as auras, which are powerful enough to pulverize huge rocks. It uses these waves to take down its prey.",
+      "version": "sword"
+    },
+    {
+      "text": "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust.",
+      "version": "shield"
+    },
+    {
+      "text": "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "fighting",
+    "steel"
+  ],
+  "abilities": [
+    "steadfast",
+    "inner-focus",
+    "justified"
+  ],
+  "height_dm": 12,
+  "weight_hg": 540,
+  "generation": "generation-iv",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/232/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/448/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/448/"
+  }
+}

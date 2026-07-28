@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 359,
+  "slug": "absol",
+  "name_en": "Absol",
+  "genera_en": [
+    "Disaster Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Every time ABSOL appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster POKéMON.",
+      "version": "ruby"
+    },
+    {
+      "text": "ABSOL has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This POKéMON very rarely ventures down from the mountains.",
+      "version": "sapphire"
+    },
+    {
+      "text": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived POKéMON that has a life-span of 100 years.",
+      "version": "emerald"
+    },
+    {
+      "text": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom-bringer.",
+      "version": "firered"
+    },
+    {
+      "text": "It senses coming disasters and appears before people only to warn them of impending danger.",
+      "version": "diamond"
+    },
+    {
+      "text": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+      "version": "platinum"
+    },
+    {
+      "text": "It has the ability to foretell natural disasters. Its life span is over a hundred years.",
+      "version": "heartgold"
+    },
+    {
+      "text": "It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.",
+      "version": "black-2"
+    },
+    {
+      "text": "It appears when it senses an impending natural disaster. As a result, it was mistaken as a doom bringer.",
+      "version": "y"
+    },
+    {
+      "text": "Every time Absol appears before people, it is followed by a disaster such as an earthquake or a tidal wave. As a result, it came to be known as the disaster Pokémon.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "Absol has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This Pokémon very rarely ventures down from the mountains.",
+      "version": "alpha-sapphire"
+    },
+    {
+      "text": "Long ago, superstitions were spread about it, saying it brought disaster. This fed a hatred of it, and it was driven deep into the mountains.",
+      "version": "sun"
+    },
+    {
+      "text": "Although it’s said to bring disaster, in actuality, this Pokémon possesses a calm disposition and warns people of any crises that loom.",
+      "version": "moon"
+    },
+    {
+      "text": "The only thing unlucky about Absol is its appearance. It protects fields and warns people of disaster, so one ought to be grateful for it.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
+      "version": "sword"
+    },
+    {
+      "text": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
+      "version": "shield"
+    }
+  ],
+  "types": [
+    "dark"
+  ],
+  "abilities": [
+    "pressure",
+    "super-luck",
+    "justified"
+  ],
+  "height_dm": 12,
+  "weight_hg": 470,
+  "generation": "generation-iii",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/185/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/359/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/359/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 502,
+  "slug": "dewott",
+  "name_en": "Dewott",
+  "genera_en": [
+    "Discipline Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Strict training is how it learns its flowing double-scalchop technique.",
+      "version": "black"
+    },
+    {
+      "text": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
+      "version": "white"
+    },
+    {
+      "text": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+      "version": "black-2"
+    },
+    {
+      "text": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.",
+      "version": "legends-arceus"
+    }
+  ],
+  "types": [
+    "water"
+  ],
+  "abilities": [
+    "torrent",
+    "shell-armor"
+  ],
+  "height_dm": 8,
+  "weight_hg": 245,
+  "generation": "generation-v",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/258/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/502/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/502/"
+  }
+}

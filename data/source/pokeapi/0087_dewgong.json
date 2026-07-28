@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pokeapi_id": 87,
+  "slug": "dewgong",
+  "name_en": "Dewgong",
+  "genera_en": [
+    "Sea Lion Pokémon"
+  ],
+  "flavor_texts_en": [
+    {
+      "text": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+      "version": "red"
+    },
+    {
+      "text": "Its entire body is a snowy-white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+      "version": "yellow"
+    },
+    {
+      "text": "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+      "version": "gold"
+    },
+    {
+      "text": "It loves frigid seas with ice floes. It uses its long tail to change swimming direction quickly.",
+      "version": "silver"
+    },
+    {
+      "text": "It sleeps under shallow ocean waters during the day, then looks for food at night when it's cold.",
+      "version": "crystal"
+    },
+    {
+      "text": "DEWGONG loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+      "version": "ruby"
+    },
+    {
+      "text": "It loves to snooze on bitterly cold ice. The sight of this POKéMON sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+      "version": "emerald"
+    },
+    {
+      "text": "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+      "version": "firered"
+    },
+    {
+      "text": "It stores thermal energy in the body. It swims at a steady eight knots even in intensely cold waters.",
+      "version": "leafgreen"
+    },
+    {
+      "text": "In snow, the pure white coat covering its body obscures it from predators.",
+      "version": "diamond"
+    },
+    {
+      "text": "Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots.",
+      "version": "black-2"
+    },
+    {
+      "text": "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+      "version": "omega-ruby"
+    },
+    {
+      "text": "It swims through the ocean at a speed of eight knots, searching for Pokémon that will become its prey. It’s especially fond of Wishiwashi.",
+      "version": "ultra-sun"
+    },
+    {
+      "text": "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
+      "version": "ultra-moon"
+    },
+    {
+      "text": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+      "version": "lets-go-pikachu"
+    }
+  ],
+  "types": [
+    "water",
+    "ice"
+  ],
+  "abilities": [
+    "thick-fat",
+    "hydration",
+    "ice-body"
+  ],
+  "height_dm": 17,
+  "weight_hg": 1200,
+  "generation": "generation-i",
+  "is_baby": false,
+  "is_legendary": false,
+  "is_mythical": false,
+  "evolution_chain_url": "https://pokeapi.co/api/v2/evolution-chain/37/",
+  "sources": {
+    "species": "https://pokeapi.co/api/v2/pokemon-species/87/",
+    "pokemon": "https://pokeapi.co/api/v2/pokemon/87/"
+  }
+}
