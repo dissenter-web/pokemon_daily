@@ -13,19 +13,38 @@ def format_main_menu() -> str:
 
 def format_card(card: PokemonCard) -> str:
     evolution = []
+
     for index, name in enumerate(card.evolution_names):
-        escaped = escape(name)
-        evolution.append(f"<b>{escaped}</b>" if index == card.evolution_index else escaped)
-    types = ", ".join(escape(value) for value in card.types) or "не указаны"
-    abilities = ", ".join(escape(value) for value in card.abilities) or "не указаны"
+        escaped_name = escape(name)
+
+        if index == card.evolution_index:
+            evolution.append(f"<b>{escaped_name}</b>")
+        else:
+            evolution.append(escaped_name)
+
+    types = ", ".join(
+        escape(value) for value in card.types
+    ) or "не указаны"
+
+    abilities = ", ".join(
+        escape(value) for value in card.abilities
+    ) or "не указаны"
+
     return (
-        f"<b>#{card.pokedex_number:04d} {escape(card.name_ru)}</b>\n"
-        f"<i>{escape(card.name_en)}</i>\n\n"
-        f"<b>Тип:</b> {types}\n"
-        f"<b>Способности:</b> {abilities}\n\n"
+        f"✨ <b>{escape(card.name_ru)}</b>\n"
+        f"<i>{escape(card.name_en)} · #{card.pokedex_number:04d}</i>\n\n"
+
+        f"🔹 <b>Тип:</b> {types}\n"
+        f"⚡ <b>Способности:</b> {abilities}\n\n"
+
+        f"📖 <b>Описание</b>\n"
         f"{escape(card.description_ru)}\n\n"
-        f"<b>Интересный факт:</b> {escape(card.fact_ru)}\n\n"
-        f"<b>Эволюционная цепочка:</b>\n{' → '.join(evolution)}"
+
+        f"💡 <b>Интересный факт</b>\n"
+        f"{escape(card.fact_ru)}\n\n"
+
+        f"🧬 <b>Эволюция</b>\n"
+        f"{' → '.join(evolution)}"
     )
 
 
