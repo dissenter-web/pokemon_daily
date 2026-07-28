@@ -64,7 +64,7 @@ docker compose exec app python -m app.cli sync-catalog
 
 Покемоны без заполненных `description_ru` и `fact_ru` сохраняются в каталоге,
 но не попадают в выдачу. Поэтому расширение коллекции безопасно выполняется через
-`data/editorial_content.ru.json` и повторную синхронизацию.
+`data/editorial` и повторную синхронизацию.
 
 ## Production-запуск
 
