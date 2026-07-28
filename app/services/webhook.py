@@ -148,7 +148,7 @@ class WebhookService:
                 max_user_id=user.max_user_id,
                 text=format_collection(
                     collection_page,
-                    "Избранное" if favorites_only else "Моя коллекция",
+                    "Избранное" if favorites_only else "Коллекция",
                 ),
                 buttons=pagination_buttons(
                     prefix=action,

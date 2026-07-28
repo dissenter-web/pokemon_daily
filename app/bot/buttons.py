@@ -12,11 +12,10 @@ def callback_button(text: str, payload: str) -> dict[str, str]:
 
 def main_menu_buttons() -> list[list[dict[str, str]]]:
     return [
-        [callback_button("Покемон дня", "daily:get")],
-        [callback_button("Моя коллекция", "collection:0")],
-        [callback_button("Избранное", "favorites:0")],
-        [callback_button("Статистика", "stats")],
-        [callback_button("О проекте", "about")],
+        [callback_button("🎁 Получить покемона", "daily:get")],
+        [callback_button("📚 Коллекция", "collection:0")],
+        [callback_button("📊 Статистика", "stats")],
+        [callback_button("ℹ️ О проекте", "about")],
     ]
 
 
