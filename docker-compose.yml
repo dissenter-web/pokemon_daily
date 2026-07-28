@@ -48,6 +48,8 @@ services:
     build: .
     env_file: .env
     command: ["python", "-m", "app.worker"]
+    healthcheck:
+      disable: true
     depends_on:
       migrate:
         condition: service_completed_successfully

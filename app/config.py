@@ -42,7 +42,7 @@ class Settings(BaseSettings):
     pokeapi_base_url: str = "https://pokeapi.co/api/v2"
     pokeapi_timeout_seconds: float = Field(default=20.0, ge=2, le=120)
     pokeapi_request_delay_seconds: float = Field(default=0.05, ge=0, le=5)
-    editorial_content_path: Path = Path("data/editorial_content.ru.json")
+    editorial_content_path: Path = Path("data/editorial")
 
     @field_validator("daily_delivery_time")
     @classmethod

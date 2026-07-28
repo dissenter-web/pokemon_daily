@@ -99,7 +99,7 @@ class UserRepository:
             )
             .correlate(User)
         )
-        
+
         result = await self.session.execute(
             select(User)
             .outerjoin(

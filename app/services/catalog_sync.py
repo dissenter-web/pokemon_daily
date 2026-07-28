@@ -108,10 +108,32 @@ class CatalogSyncService:
 
     @staticmethod
     def _load_editorial(path: Path) -> dict[str, dict[str, str]]:
-        payload = json.loads(path.read_text(encoding="utf-8"))
-        entries = payload.get("entries")
-        if not isinstance(entries, dict):
-            raise ValueError("editorial content must contain an entries object")
+        if not path.exists():
+            raise FileNotFoundError(f"Editorial directory not found: {path}")
+
+        if not path.is_dir():
+            raise ValueError(f"Expected directory, got file: {path}")
+
+        entries: dict[str, dict[str, str]] = {}
+
+        for json_file in sorted(path.glob("*.json")):
+            payload = json.loads(json_file.read_text(encoding="utf-8"))
+
+            file_entries = payload.get("entries")
+            if not isinstance(file_entries, dict):
+                raise ValueError(
+                    f"{json_file.name} must contain an 'entries' object"
+                )
+
+            for slug, content in file_entries.items():
+                if slug in entries:
+                    raise ValueError(
+                        f"Duplicate editorial entry '{slug}' "
+                  	      f"found in {json_file.name}"
+                    )
+
+                entries[slug] = content
+
         return entries
 
     async def run(self, max_chains: int = 0) -> tuple[int, int]:
