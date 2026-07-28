@@ -253,11 +253,19 @@ class CatalogSyncService:
         self, payload: dict[str, Any], chain_db_id: int
     ) -> int:
         slug = payload["name"]
-        editorial = self.editorial.get(slug, {})
-        name_ru = editorial.get("name_ru")
-        description = editorial.get("description_ru")
-        fact = editorial.get("fact_ru")
-        content_ready = bool(name_ru and description and fact)
+        editorial = self.editorial.get(slug)
+        if editorial:
+            name_ru = editorial.get("name_ru")
+            description = editorial.get("description_ru")
+            fact = editorial.get("fact_ru")
+            source_url = editorial.get("source_url")
+            content_ready = bool(name_ru and description and fact)
+        else:
+            name_ru = None
+            description = None
+            fact = None
+            source_url = None
+            content_ready = False
         values = {
             "pokeapi_id": int(payload["id"]),
             "slug": slug,
@@ -266,7 +274,7 @@ class CatalogSyncService:
             "pokedex_number": int(payload["id"]),
             "description_ru": description,
             "fact_ru": fact,
-            "content_source_url": editorial.get("source_url"),
+            "content_source_url": source_url,
             "content_ready": content_ready,
             "evolution_chain_id": chain_db_id,
         }
