@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 6,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 135,
@@ -12,10 +12,10 @@
       "name_ru": "Джолтеон",
       "description_source_en": "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales.",
       "fact_source_en": "JOLTEON’s cells generate a low level of electricity. This power is amplified by the static electricity of its fur, enabling the POKéMON to drop thunderbolts. The bristling fur is made of electrically charged needles.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрическая эволюция Эви, покрытая шерстью, которая при возбуждении превращается в острые иглы.",
+      "fact_ru": "Клетки Джолтеона вырабатывают электричество, а его шерсть усиливает заряд и позволяет вызывать молнии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/135/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 136,
@@ -24,10 +24,10 @@
       "name_ru": "Флареон",
       "description_source_en": "Flames burn within a saclike organ inside this Pokémon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit.",
       "fact_source_en": "Flareon’s fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot. This Pokémon’s body temperature can rise to a maximum of 1,650 degrees Fahrenheit.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненная эволюция Эви с внутренним органом, в котором постоянно горит мощное пламя.",
+      "fact_ru": "Пушистая шерсть Флареона рассеивает излишки тепла и помогает телу не перегреваться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/136/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 137,
@@ -36,10 +36,10 @@
       "name_ru": "Поригон",
       "description_source_en": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.",
       "fact_source_en": "PORYGON is capable of reverting itself entirely back to program data and entering cyberspace. This POKéMON is copy-protected so it cannot be duplicated by copying.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Искусственно созданный покемон, существующий словно живая цифровая программа.",
+      "fact_ru": "Поригон способен превратиться в программный код и путешествовать по киберпространству.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/137/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 138,
@@ -48,10 +48,10 @@
       "name_ru": "Оманайт",
       "description_source_en": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
       "fact_source_en": "OMANYTE is one of the ancient and long- since-extinct POKéMON that have been regenerated from fossils by people. If attacked by an enemy, it withdraws itself inside its hard shell.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний покемон, возрождённый из окаменелости и защищающийся прочной раковиной.",
+      "fact_ru": "Иногда восстановленные Оманайты сбегают в дикую природу, из-за чего их численность постепенно растёт.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/138/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 139,
@@ -60,10 +60,10 @@
       "name_ru": "Омастар",
       "description_source_en": "Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food.",
       "fact_source_en": "OMASTAR uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large and heavy, causing its movements to become too slow and ponderous.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний морской покемон с тяжёлой раковиной, из-за которой он двигался очень медленно.",
+      "fact_ru": "Считается, что Омастар вымер, потому что потерял способность догонять добычу.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/139/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 140,
@@ -72,10 +72,10 @@
       "name_ru": "Кабуто",
       "description_source_en": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
       "fact_source_en": "KABUTO is a POKéMON that has been regenerated from a fossil. However, in extremely rare cases, living examples have been discovered. The POKéMON has not changed at all for 300 million years.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Почти исчезнувший древний покемон, регулярно сбрасывающий панцирь по мере роста.",
+      "fact_ru": "Живые Кабуто почти не изменились за сотни миллионов лет по сравнению со своими древними предками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/140/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 141,
@@ -84,10 +84,10 @@
       "name_ru": "Кабутопс",
       "description_source_en": "Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.",
       "fact_source_en": "KABUTOPS swam underwater to hunt for its prey in ancient times. The POKéMON was apparently evolving from being a water-dweller to living on land as evident from the beginnings of change in its gills and legs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний хищный покемон, разрезающий добычу острыми конечностями и высасывающий её жидкости.",
+      "fact_ru": "Предки Кабутопса постепенно переходили от жизни в воде к существованию на суше.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/141/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 142,
@@ -96,10 +96,10 @@
       "name_ru": "Аэродактиль",
       "description_source_en": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
       "fact_source_en": "AERODACTYL is a POKéMON from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый древний покемон, восстановленный из генетического материала, найденного в янтаре.",
+      "fact_ru": "Аэродактиля считают одним из величайших воздушных хищников доисторической эпохи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/142/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 143,
@@ -108,10 +108,10 @@
       "name_ru": "Снорлакс",
       "description_source_en": "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters.",
       "fact_source_en": "SNORLAX’s typical day consists of nothing more than eating and sleeping. It is such a docile POKéMON that there are children who use its expansive belly as a place to play.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добродушный великан, который большую часть жизни проводит за едой и сном.",
+      "fact_ru": "Живот Снорлакса настолько мягкий, что дети иногда используют его как место для игр.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/143/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 144,
@@ -120,10 +120,10 @@
       "name_ru": "Артикьюно",
       "description_source_en": "It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",
       "fact_source_en": "ARTICUNO is a legendary bird POKéMON that can control ice. The flapping of its wings chills the air. As a result, it is said that when this POKéMON flies, snow will fall.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарная ледяная птица с крыльями, похожими на сверкающий лёд.",
+      "fact_ru": "Говорят, что после полёта Артикьюно в небе начинает идти снег.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/144/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 145,
@@ -132,10 +132,10 @@
       "name_ru": "Запдос",
       "description_source_en": "This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.",
       "fact_source_en": "ZAPDOS is a legendary bird POKéMON that has the ability to control electricity. It usually lives in thunderclouds. The POKéMON gains power if it is stricken by lightning bolts.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарная птица, полностью управляющая электричеством и грозовыми облаками.",
+      "fact_ru": "Запдос становится сильнее, если в него ударяет молния.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/145/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 146,
@@ -144,10 +144,10 @@
       "name_ru": "Молтрес",
       "description_source_en": "It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",
       "fact_source_en": "MOLTRES is a legendary bird POKéMON that has the ability to control fire. If this POKéMON is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарная огненная птица, озаряющая небо пламенем своих крыльев.",
+      "fact_ru": "Получив ранения, Молтрес восстанавливает силы, погружаясь в раскалённую вулканическую магму.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/146/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 147,
@@ -156,10 +156,10 @@
       "name_ru": "Дратини",
       "description_source_en": "Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.",
       "fact_source_en": "A DRATINI continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Молодой драконий покемон, живущий возле быстрых рек и водопадов.",
+      "fact_ru": "По мере роста Дратини многократно сбрасывает старую кожу.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/147/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 148,
@@ -168,10 +168,10 @@
       "name_ru": "Драгонаир",
       "description_source_en": "This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",
       "fact_source_en": "DRAGONAIR stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Изящный драконий покемон, обитающий в чистых озёрах и морях и способный влиять на погоду.",
+      "fact_ru": "Кристаллы на теле Драгонаира высвобождают огромную энергию, изменяя состояние атмосферы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/148/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 149,
@@ -180,10 +180,10 @@
       "name_ru": "Драгонайт",
       "description_source_en": "It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",
       "fact_source_en": "DRAGONITE is capable of circling the globe in just sixteen hours. It is a kindhearted POKéMON that leads lost and foundering ships in a storm to the safety of land.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый драконий покемон, всегда приходящий на помощь тем, кто оказался в беде.",
+      "fact_ru": "Драгонайт способен облететь весь земной шар примерно за шестнадцать часов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/149/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 150,
@@ -192,10 +192,10 @@
       "name_ru": "Мьюту",
       "description_source_en": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.",
       "fact_source_en": "MEWTWO is a POKéMON that was created by genetic manipulation. However, even though the scientific power of humans created this POKéMON’s body, they failed to endow MEWTWO with a compassionate heart.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Искусственно созданный с помощью генной инженерии покемон с колоссальными психическими способностями.",
+      "fact_ru": "Несмотря на совершенное тело, Мьюту так и не получил доброго и сострадательного сердца.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/150/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 151,
@@ -204,10 +204,10 @@
       "name_ru": "Мью",
       "description_source_en": "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
       "fact_source_en": "MEW is said to possess the genetic composition of all POKéMON. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мифический покемон, в генах которого, как считается, содержится наследие всех остальных покемонов.",
+      "fact_ru": "Мью способен становиться полностью невидимым даже рядом с людьми.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/151/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 152,
@@ -216,10 +216,10 @@
       "name_ru": "Чикорита",
       "description_source_en": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
       "fact_source_en": "In battle, CHIKORITA waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling POKéMON and creating a cozy, friendly atmosphere all around.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Небольшой травяной покемон, лист которого источает сладкий успокаивающий аромат.",
+      "fact_ru": "Во время боя Чикорита не только защищается листом, но и успокаивает противников своим запахом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/152/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 153,
@@ -228,10 +228,10 @@
       "name_ru": "Бэйлиф",
       "description_source_en": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
       "fact_source_en": "BAYLEEF’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Травяной покемон с кольцом из листьев вокруг шеи.",
+      "fact_ru": "Внутри каждого листа Бэйлифа растёт молодой побег, аромат которого придаёт окружающим бодрость.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/153/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 154,
@@ -240,10 +240,10 @@
       "name_ru": "Меганиум",
       "description_source_en": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
       "fact_source_en": "The fragrance of MEGANIUM’s flower soothes and calms emotions. In battle, this POKéMON gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крупный травяной покемон, цветок которого распространяет умиротворяющий аромат.",
+      "fact_ru": "Во время сражения Меганиум усиливает свой аромат, ослабляя желание противника продолжать бой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/154/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 155,
@@ -252,10 +252,10 @@
       "name_ru": "Синдаквил",
       "description_source_en": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.",
       "fact_source_en": "CYNDAQUIL protects itself by flaring up the flames on its back. The flames are vigorous if the POKéMON is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Застенчивый огненный покемон, который обычно сворачивается в клубок.",
+      "fact_ru": "При опасности Синдаквил выпускает пламя из спины, а усталость делает его огонь слабее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/155/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 156,
@@ -264,10 +264,10 @@
       "name_ru": "Квилава",
       "description_source_en": "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.",
       "fact_source_en": "QUILAVA keeps its foes at bay with the intensity of its flames and gusts of superheated air. This POKéMON applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкий огненный покемон, чья шерсть совершенно не боится собственного пламени.",
+      "fact_ru": "Если Квилава поворачивается к противнику спиной, это означает подготовку к атаке.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/156/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 157,
@@ -276,10 +276,10 @@
       "name_ru": "Тифложн",
       "description_source_en": "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center.",
       "fact_source_en": "TYPHLOSION obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This POKéMON creates blazing explosive blasts that burn everything to cinders.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный огненный покемон, окутанный раскалённым маревом и разрушительным пламенем.",
+      "fact_ru": "Тифложн создаёт взрывные огненные вспышки, превращающие всё вокруг в пепел.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/157/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 158,
@@ -288,10 +288,10 @@
       "name_ru": "Тотодил",
       "description_source_en": "Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
       "fact_source_en": "Despite the smallness of its body, TOTODILE’s jaws are very powerful. While the POKéMON may think it is just playfully nipping, its bite has enough power to cause serious injury.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Небольшой крокодил с чрезвычайно сильными челюстями для своего размера.",
+      "fact_ru": "Даже играючи Тотодил способен нанести серьёзную травму своим укусом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/158/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 159,
@@ -300,10 +300,10 @@
       "name_ru": "Кроконав",
       "description_source_en": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
       "fact_source_en": "Once CROCONAW has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый водный покемон, который после укуса почти никогда не отпускает добычу.",
+      "fact_ru": "Зазубренные клыки Кроконава работают как рыболовные крючки, поэтому вырваться из его пасти крайне трудно.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/159/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

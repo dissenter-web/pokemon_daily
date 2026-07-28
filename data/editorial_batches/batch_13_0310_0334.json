@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 13,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 310,
@@ -12,10 +12,10 @@
       "name_ru": "Манектрик",
       "description_source_en": "Manectric can be found beneath unnatural thunderclouds. People say it can run at the same speed as lightning striking.",
       "fact_source_en": "MANECTRIC discharges strong electricity from its mane. The mane is used for collecting electricity in the atmosphere. This POKéMON creates thunderclouds above its head.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрический покемон, появляющийся под необычными грозовыми облаками.",
+      "fact_ru": "Манектрик собирает электричество гривой и способен создавать грозовые тучи над собой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/310/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 311,
@@ -24,10 +24,10 @@
       "name_ru": "Пласл",
       "description_source_en": "Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy.",
       "fact_source_en": "PLUSLE always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this POKéMON shorts out its body to create the crackling noises of sparks to show its joy.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Жизнерадостный покемон, всегда поддерживающий своих союзников.",
+      "fact_ru": "Пласл искрит от радости, когда его напарник успешно сражается.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/311/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 312,
@@ -36,10 +36,10 @@
       "name_ru": "Майнун",
       "description_source_en": "Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.",
       "fact_source_en": "MINUN loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this POKéMON gives off increasing amounts of sparks.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добродушный покемон, ставящий успех товарищей выше собственной безопасности.",
+      "fact_ru": "Чем тяжелее положение союзника, тем больше искр испускает Майнун.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/312/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 313,
@@ -48,10 +48,10 @@
       "name_ru": "Волбит",
       "description_source_en": "With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise.",
       "fact_source_en": "With the arrival of night, VOLBEAT emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This POKéMON is attracted by the sweet aroma of ILLUMISE.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Светящийся ночью покемон, общающийся вспышками на хвосте.",
+      "fact_ru": "Волбит особенно сильно привлекается сладким ароматом Иллюмайз.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/313/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 314,
@@ -60,10 +60,10 @@
       "name_ru": "Иллюмайз",
       "description_source_en": "Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
       "fact_source_en": "ILLUMISE attracts a swarm of VOLBEAT using a sweet fragrance. Once the VOLBEAT have gathered, this POKéMON leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, собирающий Волбитов с помощью приятного аромата.",
+      "fact_ru": "Иллюмайз руководит роем светлячков, создавая светящиеся узоры в ночном небе.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/314/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 315,
@@ -72,10 +72,10 @@
       "name_ru": "Розелия",
       "description_source_en": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel.",
       "fact_source_en": "ROSELIA shoots sharp thorns as projectiles at any opponent that tries to steal the flowers on its arms. The aroma of this POKéMON brings serenity to living things.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Красивый цветочный покемон с очень ядовитыми шипами.",
+      "fact_ru": "Аромат Розелии успокаивает живых существ, несмотря на её опасные колючки.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/315/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 316,
@@ -84,10 +84,10 @@
       "name_ru": "Гальпин",
       "description_source_en": "Virtually all of Gulpin’s body is its stomach. As a result, it can swallow something its own size. This Pokémon’s stomach contains a special fluid that digests anything.",
       "fact_source_en": "Most of GULPIN’s body is made up of its stomach - its heart and brain are very small in comparison. This POKéMON’s stomach contains special enzymes that dissolve anything.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, почти полностью состоящий из огромного желудка.",
+      "fact_ru": "Особые ферменты в желудке Гальпина способны растворить практически всё.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/316/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 317,
@@ -96,10 +96,10 @@
       "name_ru": "Свалот",
       "description_source_en": "When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",
       "fact_source_en": "When SWALOT spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this POKéMON gulps it down whole with its cavernous mouth.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Прожорливый покемон, ослабляющий добычу токсичной жидкостью.",
+      "fact_ru": "После атаки ядом Свалот заглатывает жертву целиком.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/317/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 318,
@@ -108,10 +108,10 @@
       "name_ru": "Карванья",
       "description_source_en": "It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
       "fact_source_en": "CARVANHA’s strongly developed jaws and its sharply pointed fangs pack the destructive power to rip out boat hulls. Many boats have been attacked and sunk by this POKéMON.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Хищная рыба, предпочитающая охотиться стаями.",
+      "fact_ru": "Челюсти Карваньи настолько сильны, что могут прогрызать корпуса лодок.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/318/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 319,
@@ -120,10 +120,10 @@
       "name_ru": "Шарпедо",
       "description_source_en": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
       "fact_source_en": "Nicknamed “the bully of the sea,” SHARPEDO is widely feared. Its cruel fangs grow back immediately if they snap off. Just one of these POKéMON can thoroughly tear apart a supertanker.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стремительная акула-покемон, атакующая добычу с огромной скоростью.",
+      "fact_ru": "Потерянные зубы Шарпедо быстро вырастают заново.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/319/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 320,
@@ -132,10 +132,10 @@
       "name_ru": "Вэйлмер",
       "description_source_en": "It swims along with its mouth open and swallows down seawater along with its food. It sprays excess water out of its nostrils.",
       "fact_source_en": "WAILMER can store water inside its body to transform itself into a ball for bouncing around on the ground. By filling itself up with more water, this POKéMON can elevate the height of its bounces.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огромный китёнок, заглатывающий вместе с пищей большое количество морской воды.",
+      "fact_ru": "Вэйлмер может превращаться в упругий шар, накопив воду внутри тела.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/320/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 321,
@@ -144,10 +144,10 @@
       "name_ru": "Вэйлорд",
       "description_source_en": "They eat so many fish Pokémon that when Wailord become too numerous, fishermen have to chase them off.",
       "fact_source_en": "WAILORD is the largest of all identified POKéMON up to now. This giant POKéMON swims languorously in the vast open sea, eating massive amounts of food at once with its enormous mouth.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Гигантский кит-покемон, поглощающий огромное количество рыбы.",
+      "fact_ru": "Вэйлорд считается одним из крупнейших известных покемонов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/321/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 322,
@@ -156,10 +156,10 @@
       "name_ru": "Намел",
       "description_source_en": "Numel is extremely dull witted—it doesn’t notice being hit. However, it can’t stand hunger for even a second. This Pokémon’s body is a seething cauldron of boiling magma.",
       "fact_source_en": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон с запасом раскалённой магмы внутри тела.",
+      "fact_ru": "Если Намел намокает, магма остывает, а его движения становятся медленнее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/322/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 323,
@@ -168,10 +168,10 @@
       "name_ru": "Камерапт",
       "description_source_en": "Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. Occasionally, the humps on this Pokémon’s back erupt, spewing the superheated magma.",
       "fact_source_en": "CAMERUPT has a volcano inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this POKéMON’s back erupt, spewing the superheated magma.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с настоящим вулканом внутри тела.",
+      "fact_ru": "Иногда горбы Камерапта извергают перегретую магму.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/323/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 324,
@@ -180,10 +180,10 @@
       "name_ru": "Торкол",
       "description_source_en": "You can tell how it’s feeling by the smoke spouting from its shell. Tremendous velocity is a sign of good health.",
       "fact_source_en": "TORKOAL digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this POKéMON spouts thick black smoke to beat a retreat.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненная черепаха, настроение которой легко определить по дыму из панциря.",
+      "fact_ru": "Торкол сжигает найденный уголь внутри своего панциря и при опасности выпускает густой чёрный дым.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/324/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 325,
@@ -192,10 +192,10 @@
       "name_ru": "Споинк",
       "description_source_en": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
       "fact_source_en": "SPOINK bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this POKéMON cannot afford to stop bouncing - if it stops, its heart will stop.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Прыгающий покемон, сердце которого работает благодаря постоянным подпрыгиваниям.",
+      "fact_ru": "Если Споинк перестанет подпрыгивать, его сердце остановится.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/325/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 326,
@@ -204,10 +204,10 @@
       "name_ru": "Грампиг",
       "description_source_en": "Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pokémon uses its special power, its snorting breath grows labored.",
       "fact_source_en": "GRUMPIG uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this POKéMON uses its special power, its snorting breath grows labored.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Психический покемон, управляющий противниками силой чёрных жемчужин.",
+      "fact_ru": "Использование психической силы заставляет Грампига тяжело сопеть.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/326/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 327,
@@ -216,10 +216,10 @@
       "name_ru": "Спинда",
       "description_source_en": "Its steps are shaky and stumbling. Walking for a long time makes it feel sick.",
       "fact_source_en": "No two SPINDA are said to have identical spot patterns on their hides. This POKéMON moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Необычный покемон с шаткой походкой и уникальным рисунком пятен.",
+      "fact_ru": "Не существует двух Спинд с одинаковым узором на теле.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/327/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 328,
@@ -228,10 +228,10 @@
       "name_ru": "Трапинч",
       "description_source_en": "Its jaws are strong enough to crush rocks but so heavy that it can’t get up if it flips over. Sandile seize those moments as their chance.",
       "fact_source_en": "TRAPINCH’s nest is a sloped, bowl-like pit dug in sand. This POKéMON patiently waits for prey to tumble down the pit. Its giant jaws have enough strength to crush even boulders.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Пустынный покемон с невероятно мощными челюстями.",
+      "fact_ru": "Трапинч роет песчаные ловушки и терпеливо ждёт, пока добыча сама не упадёт внутрь.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/328/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 329,
@@ -240,10 +240,10 @@
       "name_ru": "Вибрава",
       "description_source_en": "It vibrates its wings to generate ultrasonic waves, causing its prey to faint. Then it buries the prey alive in the sand to preserve it.",
       "fact_source_en": "To make prey faint, VIBRAVA generates ultrasonic waves by vigorously making its two wings vibrate. This POKéMON’s ultrasonic waves are so powerful, they can bring on headaches in people.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, оглушающий добычу мощными ультразвуковыми волнами.",
+      "fact_ru": "Ультразвук Вибравы настолько силён, что способен вызвать у людей головную боль.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/329/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 330,
@@ -252,10 +252,10 @@
       "name_ru": "Флайгон",
       "description_source_en": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
       "fact_source_en": "FLYGON whips up a sandstorm by flapping its wings. The wings create a series of notes that sound like singing. Because the “singing” is the only thing that can be heard in a sandstorm, this POKéMON is said to be the desert spirit.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный обитатель пустынь, известный как Дух пустыни.",
+      "fact_ru": "Шум крыльев Флайгона напоминает загадочное человеческое пение среди песчаной бури.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/330/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 331,
@@ -264,10 +264,10 @@
       "name_ru": "Какнея",
       "description_source_en": "Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down.",
       "fact_source_en": "CACNEA lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this POKéMON shoots sharp thorns from its body to bring the victim down.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Кактус-покемон, приманивающий добычу ароматом цветка.",
+      "fact_ru": "Какнея выпускает острые иглы, когда жертва подходит слишком близко.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/331/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 332,
@@ -276,10 +276,10 @@
       "name_ru": "Кактурн",
       "description_source_en": "During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",
       "fact_source_en": "If a traveler is going through a desert in the thick of night, CACTURNE will follow in a ragtag group. The POKéMON are biding their time, waiting for the traveler to tire and become incapable of moving.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ночной пустынный хищник, днём неподвижно сохраняющий влагу.",
+      "fact_ru": "Кактурны могут долго преследовать путников, ожидая, пока те полностью выбьются из сил.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/332/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 333,
@@ -288,10 +288,10 @@
       "name_ru": "Сваблу",
       "description_source_en": "Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",
       "fact_source_en": "SWABLU loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this POKéMON finds a stream and showers itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленькая птица с мягкими хлопковыми крыльями.",
+      "fact_ru": "Сваблу обожает чистоту и тщательно ухаживает за своими крыльями.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/333/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 334,
@@ -300,10 +300,10 @@
       "name_ru": "Алтария",
       "description_source_en": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
       "fact_source_en": "ALTARIA dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this POKéMON makes its listeners experience dreamy wonderment.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Грациозный дракон-покемон, исполняющий чарующие мелодии во время полёта.",
+      "fact_ru": "Пение Алтарии погружает слушателей в мечтательное и спокойное состояние.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/334/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

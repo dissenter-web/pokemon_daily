@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 27,
   "total": 6,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 904,
@@ -12,10 +12,10 @@
       "name_ru": "Оверквил",
       "description_source_en": "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself.",
       "fact_source_en": "Its lancelike spikes and savage temperament have earned it the nickname ”sea fiend.” It slurps up poison to nourish itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепая рыба, прозванная «морским демоном» за копьевидные шипы.",
+      "fact_ru": "Оверквил питается ядом, используя его как источник сил.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/904/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 979,
@@ -24,10 +24,10 @@
       "name_ru": "Аннаялейп",
       "description_source_en": "When its anger rose beyond a critical point, this Pokémon gained power that is unfettered by the limits of its physical body.",
       "fact_source_en": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ярость Аннаялейпа превзошла пределы тела и обрела новую силу.",
+      "fact_ru": "Он насыщает кулаки скрытым гневом, сокрушая противников до самого основания.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/979/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 980,
@@ -36,10 +36,10 @@
       "name_ru": "Клодсайр",
       "description_source_en": "When attacked, this Pokémon will retaliate by sticking thick spines out from its body. It’s a risky move that puts everything on the line.",
       "fact_source_en": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Спокойный обитатель болот, защищающийся толстыми ядовитыми шипами.",
+      "fact_ru": "Клодсайр перевозит Вуперов на своей спине через пруды и болота.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/980/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 981,
@@ -48,10 +48,10 @@
       "name_ru": "Фарижираф",
       "description_source_en": "Now that the brain waves from the head and tail are synced up, the psychic power of this Pokémon is 10 times stronger than Girafarig’s.",
       "fact_source_en": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Синхронизация двух мозгов сделала этого покемона невероятно сильным экстрасенсом.",
+      "fact_ru": "Хвостовая голова защищает основную, пока Фарижираф наносит мощные удары шеей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/981/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 982,
@@ -60,10 +60,10 @@
       "name_ru": "Даданспарс",
       "description_source_en": "This Pokémon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
       "fact_source_en": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Подземный покемон, создающий гигантские норы своим твёрдым хвостом.",
+      "fact_ru": "Даданспарс изгоняет врагов из логова мощным потоком воздуха из своих длинных лёгких.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/982/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 983,
@@ -72,10 +72,10 @@
       "name_ru": "Кингамбит",
       "description_source_en": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
       "fact_source_en": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лишь сильнейший Бишарп может стать предводителем и эволюционировать в Кингамбита.",
+      "fact_ru": "Хотя Кингамбит командует огромной армией, он предпочитает побеждать грубой силой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/983/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

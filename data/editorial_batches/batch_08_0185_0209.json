@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 8,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 185,
@@ -12,10 +12,10 @@
       "name_ru": "Судовудо",
       "description_source_en": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note.",
       "fact_source_en": "SUDOWOODO camouflages itself as a tree to avoid being attacked by enemies. However, because the forelegs remain green throughout the year, the POKéMON is easily identified as a fake during the winter.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, маскирующийся под дерево, хотя его тело больше напоминает камень.",
+      "fact_ru": "Судовудо особенно боится воды, а зимой его зелёные руки легко выдают маскировку.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/185/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 186,
@@ -24,10 +24,10 @@
       "name_ru": "Политоид",
       "description_source_en": "At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",
       "fact_source_en": "The curled hair on POLITOED’s head is proof of its status as a king. It is said that the longer and more curled the hair, the more respect this POKéMON earns from its peers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лягушачий покемон, по вечерам объявляющий о своих владениях громкими криками.",
+      "fact_ru": "Чем длиннее и сильнее закручен локон на голове Политоида, тем большим уважением он пользуется.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/186/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 187,
@@ -36,10 +36,10 @@
       "name_ru": "Хоппип",
       "description_source_en": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
       "fact_source_en": "This POKéMON drifts and floats with the wind. If it senses the approach of strong winds, HOPPIP links its leaves with other HOPPIP to prepare against being blown away.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лёгкий травяной покемон, путешествующий вместе с потоками ветра.",
+      "fact_ru": "Перед сильным ветром Хоппипы сцепляются листьями, чтобы их не унесло.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/187/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 188,
@@ -48,10 +48,10 @@
       "name_ru": "Скиплум",
       "description_source_en": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
       "fact_source_en": "SKIPLOOM’s flower blossoms when the temperature rises above 64 degrees F. How much the flower opens depends on the temperature. For that reason, this POKéMON is sometimes used as a thermometer.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Травяной покемон, цветок которого раскрывается в зависимости от температуры воздуха.",
+      "fact_ru": "Иногда Скиплума используют как природный термометр.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/188/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 189,
@@ -60,10 +60,10 @@
       "name_ru": "Джамплуф",
       "description_source_en": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
       "fact_source_en": "JUMPLUFF rides warm southern winds to cross the sea and fly to foreign lands. The POKéMON descends to the ground when it encounters cold air while it is floating.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Воздушный покемон, перелетающий через моря на тёплых южных ветрах.",
+      "fact_ru": "Столкнувшись с холодным воздухом, Джамплуф опускается на землю.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/189/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 190,
@@ -72,10 +72,10 @@
       "name_ru": "Эйпом",
       "description_source_en": "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity.",
       "fact_source_en": "AIPOM’s tail ends in a hand-like appendage that can be cleverly manipulated. However, because the POKéMON uses its tail so much, its real hands have become rather clumsy.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкая древесная обезьянка, использующая хвост почти как настоящую руку.",
+      "fact_ru": "Из-за постоянного использования хвоста настоящие руки Эйпома стали менее ловкими.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/190/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 191,
@@ -84,10 +84,10 @@
       "name_ru": "Санкерн",
       "description_source_en": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
       "fact_source_en": "SUNKERN tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький травяной покемон, старающийся почти не двигаться ради сохранения энергии.",
+      "fact_ru": "Санкерн питается практически только утренней росой, готовясь к будущей эволюции.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/191/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 192,
@@ -96,10 +96,10 @@
       "name_ru": "Санфлора",
       "description_source_en": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
       "fact_source_en": "SUNFLORA converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Подсолнечный покемон, превращающий солнечный свет в источник питания.",
+      "fact_ru": "С наступлением ночи Санфлора почти полностью перестаёт двигаться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/192/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 193,
@@ -108,10 +108,10 @@
       "name_ru": "Янма",
       "description_source_en": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward.",
       "fact_source_en": "YANMA is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This POKéMON uses its flying ability to quickly chase down targeted prey.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стрекоза-покемон с тончайшими крыльями и превосходной манёвренностью.",
+      "fact_ru": "Янма видит почти на 360 градусов и способна мгновенно менять направление полёта.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/193/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 194,
@@ -120,10 +120,10 @@
       "name_ru": "Вупер",
       "description_source_en": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
       "fact_source_en": "WOOPER usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водный покемон, который иногда выходит на сушу в поисках пищи.",
+      "fact_ru": "На суше Вупер покрывает тело ядовитой слизистой плёнкой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/194/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 195,
@@ -132,10 +132,10 @@
       "name_ru": "Квагсайр",
       "description_source_en": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
       "fact_source_en": "QUAGSIRE hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the POKéMON does not move, it does not get very hungry.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Спокойный покемон, охотящийся, просто ожидая добычу с открытой пастью.",
+      "fact_ru": "Из-за своей неподвижности Квагсайр расходует очень мало энергии и редко испытывает голод.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/195/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 196,
@@ -144,10 +144,10 @@
       "name_ru": "Эспеон",
       "description_source_en": "Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy.",
       "fact_source_en": "ESPEON is extremely loyal to any TRAINER it considers to be worthy. It is said that this POKéMON developed its precognitive powers to protect its TRAINER from harm.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Психическая эволюция Эви, способная чувствовать мысли людей и предсказывать погоду.",
+      "fact_ru": "Считается, что Эспеон развил дар предвидения, чтобы защищать своего тренера.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/196/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 197,
@@ -156,10 +156,10 @@
       "name_ru": "Умбреон",
       "description_source_en": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
       "fact_source_en": "UMBREON evolved as a result of exposure to the moon’s waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ночной покемон, прекрасно видящий даже при слабом лунном свете.",
+      "fact_ru": "Во время прыжка кольца на теле Умбреона начинают ярко светиться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/197/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 198,
@@ -168,10 +168,10 @@
       "name_ru": "Муркроу",
       "description_source_en": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation.",
       "fact_source_en": "MURKROW was feared and loathed as the alleged bearer of ill fortune. This POKéMON shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Тёмный покемон, которого многие считают предвестником несчастья.",
+      "fact_ru": "Муркроу обожает всё блестящее и нередко пытается украсть украшения.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/198/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 199,
@@ -180,10 +180,10 @@
       "name_ru": "Слоукинг",
       "description_source_en": "Miraculously, this former Slowpoke’s latent intelligence was drawn out when Shellder poison raced through its brain.",
       "fact_source_en": "SLOWKING undertakes research every day in an effort to solve the mysteries of the world. However, this POKéMON apparently forgets everything it has learned if the SHELLDER on its head comes off.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Развитая форма Слоупока, чей интеллект резко вырос благодаря воздействию Шелдера.",
+      "fact_ru": "Если Шелдер покидает голову Слоукинга, тот быстро забывает всё, что успел изучить.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/199/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 200,
@@ -192,10 +192,10 @@
       "name_ru": "Мисдривус",
       "description_source_en": "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light.",
       "fact_source_en": "MISDREAVUS frightens people with a creepy, sobbing cry. The POKéMON apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-призрак, пугающий путников жалобным детским плачем.",
+      "fact_ru": "Красные сферы на груди Мисдривуса поглощают чужой страх и превращают его в источник энергии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/200/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 201,
@@ -204,10 +204,10 @@
       "name_ru": "Аноун",
       "description_source_en": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously.",
       "fact_source_en": "This POKéMON is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various UNOWN. Research into this topic is ongoing but nothing is known.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, напоминающий древние письменные символы.",
+      "fact_ru": "До сих пор неизвестно, что появилось раньше: письменность или многочисленные формы Аноуна.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/201/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 202,
@@ -216,10 +216,10 @@
       "name_ru": "Воббуффет",
       "description_source_en": "If two or more Wobbuffet meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.",
       "fact_source_en": "If two or more WOBBUFFET meet, they will turn competitive and try to outdo each other’s endurance. However, they may try to see which one can endure the longest without food. TRAINERS need to beware of this habit.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Необычный покемон, известный своим невероятным терпением и выносливостью.",
+      "fact_ru": "Встретившись, Воббуффеты могут соревноваться, кто дольше выдержит без еды.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/202/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 203,
@@ -228,10 +228,10 @@
       "name_ru": "Жирафариж",
       "description_source_en": "Girafarig’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",
       "fact_source_en": "GIRAFARIG’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this POKéMON from behind can cause the rear head to suddenly lash out and bite.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Необычный покемон-жираф с двумя головами, каждая из которых обладает собственным мозгом.",
+      "fact_ru": "Задняя голова Жирафарижа может внезапно укусить любого, кто подойдёт слишком близко сзади.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/203/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 204,
@@ -240,10 +240,10 @@
       "name_ru": "Пинеко",
       "description_source_en": "Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly.",
       "fact_source_en": "PINECO hangs from a tree branch and patiently waits for prey to come along. If the POKéMON is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, висящий на деревьях в ожидании добычи.",
+      "fact_ru": "Если потревожить Пинеко во время еды, он может неожиданно взорваться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/204/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 205,
@@ -252,10 +252,10 @@
       "name_ru": "Форретресс",
       "description_source_en": "When something approaches it, it fires off fragments of its steel shell in attack. This is not a conscious action but a conditioned reflex.",
       "fact_source_en": "FORRETRESS conceals itself inside its hardened steel shell. The shell is opened when the POKéMON is catching prey, but it does so at such a quick pace that the shell’s inside cannot be seen.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стальной покемон, защищённый чрезвычайно прочным панцирем.",
+      "fact_ru": "Форретресс раскрывает панцирь настолько быстро, что почти невозможно увидеть его внутреннюю часть.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/205/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 206,
@@ -264,10 +264,10 @@
       "name_ru": "Дунспарс",
       "description_source_en": "This Pokémon’s tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.",
       "fact_source_en": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Редкий покемон с маленькими крыльями и хвостом, похожим на сверло.",
+      "fact_ru": "Дунспарс роет сложные подземные тоннели, двигаясь хвостом вперёд.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/206/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 207,
@@ -276,10 +276,10 @@
       "name_ru": "Глигар",
       "description_source_en": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom.",
       "fact_source_en": "GLIGAR glides through the air without a sound as if it were sliding. This POKéMON hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Летающий покемон с ядовитым жалом на хвосте и мощными клешнями.",
+      "fact_ru": "Глигар бесшумно планирует, цепляется за добычу и вводит ей яд.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/207/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 208,
@@ -288,10 +288,10 @@
       "name_ru": "Стиликс",
       "description_source_en": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
       "fact_source_en": "STEELIX lives even further underground than ONIX. This POKéMON is known to dig towards the earth’s core. There are records of this POKéMON reaching a depth of over six-tenths of a mile underground.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стальной покемон, тело которого настолько твёрдое, что его почти невозможно поцарапать.",
+      "fact_ru": "Стиликс роет тоннели глубже Оникса и способен уходить почти к самому ядру Земли.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/208/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 209,
@@ -300,10 +300,10 @@
       "name_ru": "Снуббуль",
       "description_source_en": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
       "fact_source_en": "By baring its fangs and making a scary face, SNUBBULL sends smaller POKéMON scurrying away in terror. However, this POKéMON seems a little sad at making its foes flee.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Дружелюбный покемон с грозной внешностью, которого легко избаловать.",
+      "fact_ru": "Хотя Снуббуль легко пугает других своим видом, ему самому становится грустно, когда противники убегают.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/209/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

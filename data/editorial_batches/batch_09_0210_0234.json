@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 9,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 210,
@@ -12,10 +12,10 @@
       "name_ru": "Гранбуль",
       "description_source_en": "While it has powerful jaws, it doesn’t care for disputes, so it rarely has a chance to display their might.",
       "fact_source_en": "GRANBULL has a particularly well- developed lower jaw. The enormous fangs are heavy, causing the POKéMON to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с невероятно сильными челюстями, который, несмотря на свою силу, не любит драки.",
+      "fact_ru": "Гранбуль редко кусает без причины, а тяжёлые клыки заставляют его слегка запрокидывать голову.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/210/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 211,
@@ -24,10 +24,10 @@
       "name_ru": "Квильфиш",
       "description_source_en": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.",
       "fact_source_en": "QWILFISH sucks in water, inflating itself. This POKéMON uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ядовитая рыба, покрытая острыми шипами, из которых она распыляет токсин.",
+      "fact_ru": "Раздуваясь водой, Квильфиш одновременно выпускает во все стороны ядовитые иглы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/211/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 212,
@@ -36,10 +36,10 @@
       "name_ru": "Сизор",
       "description_source_en": "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
       "fact_source_en": "SCIZOR has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This POKéMON flaps its wings to regulate its body temperature.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стальной покемон с панцирем, прочнее кованой стали.",
+      "fact_ru": "Сизор машет крыльями не только для полёта, но и чтобы поддерживать температуру тела.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/212/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 213,
@@ -48,10 +48,10 @@
       "name_ru": "Шакль",
       "description_source_en": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
       "fact_source_en": "SHUCKLE quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Спокойный покемон, прячущийся под камнями и хранящий ягоды внутри своего панциря.",
+      "fact_ru": "Ягоды смешиваются с жидкостями организма Шакля и постепенно превращаются в особый сок.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/213/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 214,
@@ -60,10 +60,10 @@
       "name_ru": "Хиракросс",
       "description_source_en": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
       "fact_source_en": "HERACROSS charges in a straight line at its foe, slips beneath the foe’s grasp, and then scoops up and hurls the opponent with its mighty horn. This POKéMON even has enough power to topple a massive tree.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Жук с огромным рогом и поразительной физической силой.",
+      "fact_ru": "Херакросс способен поднять и отбросить противника своим рогом и даже повалить большое дерево.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/214/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 215,
@@ -72,10 +72,10 @@
       "name_ru": "Снизель",
       "description_source_en": "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.",
       "fact_source_en": "SNEASEL scales trees by punching its hooked claws into the bark. This POKéMON seeks out unguarded nests and steals eggs for food while the parents are away.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкий хищник с острыми когтями, отлично лазящий по отвесным скалам.",
+      "fact_ru": "Снизель часто крадёт яйца из чужих гнёзд, пока родители отсутствуют.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/215/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 216,
@@ -84,10 +84,10 @@
       "name_ru": "Теддиурса",
       "description_source_en": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
       "fact_source_en": "This POKéMON likes to lick its palms that are sweetened by being soaked in honey. TEDDIURSA concocts its own honey by blending fruits and pollen collected by BEEDRILL.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Медвежонок-покемон, обожающий сладкий мёд.",
+      "fact_ru": "Теддиурса готов пробраться в ульи Комби, чтобы украсть накопленный ими мёд.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/216/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 217,
@@ -96,10 +96,10 @@
       "name_ru": "Урсаринг",
       "description_source_en": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger.",
       "fact_source_en": "In the forests inhabited by URSARING, it is said that there are many streams and towering trees where they gather food. This POKéMON walks through its forest gathering food every day.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могучий медведь, зимой особенно яростно разыскивающий любимые ягоды.",
+      "fact_ru": "Урсаринг ежедневно обходит свои владения в поисках пищи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/217/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 218,
@@ -108,10 +108,10 @@
       "name_ru": "Слагма",
       "description_source_en": "Molten magma courses throughout Slugma’s circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
       "fact_source_en": "Molten magma courses throughout SLUGMA’s circulatory system. If this POKéMON is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон, по жилам которого течёт расплавленная магма.",
+      "fact_ru": "Если Слагма сильно остывает, его тело твердеет и начинает крошиться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/218/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 219,
@@ -120,10 +120,10 @@
       "name_ru": "Магкарго",
       "description_source_en": "Magcargo’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.",
       "fact_source_en": "MAGCARGO’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile - just touching it causes it to crumble apart. This POKéMON returns to its original size by dipping itself in magma.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненная улитка, панцирь которой представляет собой затвердевшую кожу.",
+      "fact_ru": "Разрушенный панцирь Магкарго восстанавливается после погружения в магму.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/219/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 220,
@@ -132,10 +132,10 @@
       "name_ru": "Свинуб",
       "description_source_en": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill.",
       "fact_source_en": "SWINUB roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This POKéMON occasionally roots out hot springs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Небольшой ледяной покемон с отличным нюхом.",
+      "fact_ru": "Свинуб легко находит грибы под снегом и иногда случайно выкапывает горячие источники.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/220/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 221,
@@ -144,10 +144,10 @@
       "name_ru": "Пилосвайн",
       "description_source_en": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies.",
       "fact_source_en": "PILOSWINE is covered by a thick coat of long hair that enables it to endure the freezing cold. This POKéMON uses its tusks to dig up food that has been buried under ice.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, покрытый длинной шерстью, защищающей его от сильнейших морозов.",
+      "fact_ru": "Пилосвайн добывает пищу, раскапывая лёд своими мощными бивнями.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/221/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 222,
@@ -156,10 +156,10 @@
       "name_ru": "Корсола",
       "description_source_en": "It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.",
       "fact_source_en": "Clusters of CORSOLA congregate in warm seas where they serve as ideal hiding places for smaller POKéMON. When the water temperature falls, this POKéMON migrates to the southern seas.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Коралловый покемон, способный заново отращивать сломанные ветви.",
+      "fact_ru": "Красивые ветви Корсолы издавна считались талисманами для благополучных родов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/222/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 223,
@@ -168,10 +168,10 @@
       "name_ru": "Реморайд",
       "description_source_en": "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle.",
       "fact_source_en": "REMORAID sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this POKéMON travels downstream from rivers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Меткий водный покемон, поражающий добычу мощной струёй воды.",
+      "fact_ru": "Перед эволюцией Реморайд покидает реки и отправляется вниз по течению.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/223/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 224,
@@ -180,10 +180,10 @@
       "name_ru": "Октиллерия",
       "description_source_en": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
       "fact_source_en": "OCTILLERY grabs onto its foe using its tentacles. This POKéMON tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, OCTILLERY spews ink to escape.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Осьминог-покемон, удерживающий добычу щупальцами перед решающим ударом.",
+      "fact_ru": "Если противник оказывается слишком силён, Октиллерия выпускает чернила и скрывается.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/224/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 225,
@@ -192,10 +192,10 @@
       "name_ru": "Делиберд",
       "description_source_en": "It shares its food with people who are stranded. Because Delibird is omnivorous, sometimes it gives those people bug Pokémon.",
       "fact_source_en": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world’s highest mountain, thanks to one of these Pokémon sharing its food.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый покемон, делящийся запасами пищи с заблудившимися путниками.",
+      "fact_ru": "Иногда Делиберд приносит людям вместо еды покемонов-насекомых, ведь он всеяден.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/225/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 226,
@@ -204,10 +204,10 @@
       "name_ru": "Мантин",
       "description_source_en": "This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior.",
       "fact_source_en": "On sunny days, schools of MANTINE can be seen elegantly leaping over the sea’s waves. This POKéMON is not bothered by the REMORAID that hitches rides.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Спокойный морской покемон, плавно скользящий по волнам.",
+      "fact_ru": "Разогнавшись, Мантин выпрыгивает из воды так высоко, что его принимают за птицу.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/226/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 227,
@@ -216,10 +216,10 @@
       "name_ru": "Скармори",
       "description_source_en": "The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.",
       "fact_source_en": "SKARMORY’s steel wings become tattered and bashed in from repeated battles. Once a year, the battered wings grow back completely, restoring the cutting edges to their pristine state.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стальной покемон с перьями острее мечей.",
+      "fact_ru": "Раз в год крылья Скармори полностью обновляются, вновь становясь идеально острыми.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/227/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 228,
@@ -228,10 +228,10 @@
       "name_ru": "Хаундур",
       "description_source_en": "It cooperates with others skillfully. When it becomes your partner, it’s very loyal to you as its Trainer and will obey your orders.",
       "fact_source_en": "HOUNDOUR hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This POKéMON’s remarkable teamwork is unparalleled.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Верный покемон-пёс, превосходно работающий в стае.",
+      "fact_ru": "Хаундур координирует охоту с сородичами с помощью разнообразных сигналов и воя.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/228/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 229,
@@ -240,10 +240,10 @@
       "name_ru": "Хаундум",
       "description_source_en": "They spew flames mixed with poison to finish off their opponents. They divvy up their prey evenly among the members of their pack.",
       "fact_source_en": "In a HOUNDOOM pack, the one with its horns raked sharply towards the back serves a leadership role. These POKéMON choose their leader by fighting amongst themselves.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Опасный огненный покемон, использующий ядовитое пламя против врагов.",
+      "fact_ru": "Вожаком стаи Хаундумов становится обладатель самых загнутых назад рогов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/229/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 230,
@@ -252,10 +252,10 @@
       "name_ru": "Кингдра",
       "description_source_en": "With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",
       "fact_source_en": "KINGDRA lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this POKéMON creates spiraling ocean currents.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской дракон, появляющийся на поверхности перед сильными штормами.",
+      "fact_ru": "По легенде, зевок Кингдры способен создавать огромные океанские водовороты.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/230/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 231,
@@ -264,10 +264,10 @@
       "name_ru": "Фанпи",
       "description_source_en": "For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",
       "fact_source_en": "PHANPY uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These POKéMON can be seen drying their soaking-wet bodies at the edge of water.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький слонёнок, роющий глубокие норы у берегов рек.",
+      "fact_ru": "Фанпи любит обливать себя и друзей водой с помощью длинного хобота.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/231/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 232,
@@ -276,10 +276,10 @@
       "name_ru": "Донфан",
       "description_source_en": "Donphan’s favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can’t stop very easily.",
       "fact_source_en": "If DONPHAN were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the POKéMON helps clear rock and mud slides that block mountain trails.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Тяжёлый покемон, сворачивающийся в шар и сокрушающий всё на своём пути.",
+      "fact_ru": "Донфан настолько силён, что помогает расчищать горные завалы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/232/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 233,
@@ -288,10 +288,10 @@
       "name_ru": "Поригон 2",
       "description_source_en": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable.",
       "fact_source_en": "PORYGON2 was created by humans using the power of science. The man-made POKéMON has been endowed with artificial intelligence that enables it to learn new gestures and emotions on its own.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Усовершенствованная цифровая форма Поригона с искусственным интеллектом.",
+      "fact_ru": "Поригон2 самостоятельно учится новым жестам и даже проявляет эмоции.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/233/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 234,
@@ -300,10 +300,10 @@
       "name_ru": "Стантлер",
       "description_source_en": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia.",
       "fact_source_en": "STANTLER’s magnificent antlers were traded at high prices as works of art. As a result, this POKéMON was hunted close to extinction by those who were after the priceless antlers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-олень с необычными рогами, способными завораживать окружающих.",
+      "fact_ru": "Измельчённые чёрные шарики с опавших рогов Стантлера использовали как средство от бессонницы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/234/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

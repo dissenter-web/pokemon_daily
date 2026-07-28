@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 14,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 335,
@@ -12,10 +12,10 @@
       "name_ru": "Зангус",
       "description_source_en": "Memories of battling its archrival Seviper are etched into every cell of Zangoose’s body. This Pokémon adroitly dodges attacks with incredible agility.",
       "fact_source_en": "ZANGOOSE usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This POKéMON shares a bitter rivalry with SEVIPER that dates back over generations.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкий покемон, чьё тело хранит память о бесчисленных схватках с Севайпером.",
+      "fact_ru": "Зангус встаёт на задние лапы и выпускает когти, когда приходит в ярость.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/335/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 336,
@@ -24,10 +24,10 @@
       "name_ru": "Севайпер",
       "description_source_en": "Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail.",
       "fact_source_en": "SEVIPER’s swordlike tail serves two purposes - it slashes foes and douses them with secreted poison. This POKéMON will not give up its long- running blood feud with ZANGOOSE.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ядовитая змея, веками враждующая с Зангусом.",
+      "fact_ru": "Севайпер использует хвост-клинок не только для ударов, но и для впрыскивания яда.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/336/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 337,
@@ -36,10 +36,10 @@
       "name_ru": "Лунатон",
       "description_source_en": "Lunatone was discovered at a location where a meteoroid fell. As a result, some people theorize that this Pokémon came from space. However, no one has been able to prove this theory so far.",
       "fact_source_en": "LUNATONE becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The POKéMON’s intimidating red eyes cause all those who see it to become transfixed with fear.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, найденный на месте падения метеорита.",
+      "fact_ru": "Лунатон особенно активен в полнолуние и парит над землёй вместо ходьбы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/337/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 338,
@@ -48,10 +48,10 @@
       "name_ru": "Солрок",
       "description_source_en": "Solrock is a new species of Pokémon that is said to have fallen from space. It floats in air and moves silently. In battle, this Pokémon releases intensely bright light.",
       "fact_source_en": "SOLROCK is a new species of POKéMON that is said to have fallen from space. It floats in air and moves silently. In battle, this POKéMON releases intensely bright light.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, предположительно прилетевший из космоса.",
+      "fact_ru": "Во время боя Солрок испускает ослепительно яркий свет.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/338/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 339,
@@ -60,10 +60,10 @@
       "name_ru": "Барбоч",
       "description_source_en": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
       "fact_source_en": "BARBOACH’s body is covered with a slimy film. If a foe grabs it, this POKéMON just slips out of the enemy’s grip. This POKéMON grows weak if the slimy coating dries up.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Речной покемон, живущий в мутных болотистых водах.",
+      "fact_ru": "Слизь на теле Барбоча делает его практически невозможным для удержания.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/339/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 340,
@@ -72,10 +72,10 @@
       "name_ru": "Вискаш",
       "description_source_en": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
       "fact_source_en": "WHISCASH is extremely territorial. Just one of these POKéMON will claim a large pond as its exclusive territory. If a foe approaches it, it thrashes about and triggers a massive earthquake.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крупный сом-покемон, охотящийся, сотрясая дно болот.",
+      "fact_ru": "Из-за силы Вискаша люди когда-то считали его причиной землетрясений.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/340/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 341,
@@ -84,10 +84,10 @@
       "name_ru": "Корфиш",
       "description_source_en": "Individuals that have been set free by Trainers who could no longer raise them have become common, and they can now be found in Alola.",
       "fact_source_en": "CORPHISH were originally foreign POKéMON that were imported as pets. They eventually turned up in the wild. This POKéMON is very hardy and has greatly increased its population.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Выносливый рак-покемон, широко распространившийся в дикой природе.",
+      "fact_ru": "Корфиш был завезён как домашний питомец, но успешно освоился в природе.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/341/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 342,
@@ -96,10 +96,10 @@
       "name_ru": "Крадонт",
       "description_source_en": "Its temperament is rough and it loves to fight, but as soon as its pincers break off, it turns cowardly. It stays timid until they grow back.",
       "fact_source_en": "CRAWDAUNT molts (sheds) its shell regularly. Immediately after molting, its shell is soft and tender. Until the shell hardens, this POKéMON hides in its streambed burrow to avoid attack from its foes.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Задиристый покемон, уверенный в себе лишь пока его клешни целы.",
+      "fact_ru": "После линьки Крадонт скрывается до полного затвердевания панциря.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/342/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 343,
@@ -108,10 +108,10 @@
       "name_ru": "Балтой",
       "description_source_en": "Depictions of Pokémon similar to Baltoy have been found on the walls of caves where primitive humans lived.",
       "fact_source_en": "As soon as it spots others of its kind, BALTOY congregates with them and then begins crying noisily in unison. This POKéMON sleeps while cleverly balancing itself on its one foot.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний покемон, напоминающий глиняную фигурку.",
+      "fact_ru": "Балтой спит, искусно удерживая равновесие на одной ноге.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/343/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 344,
@@ -120,10 +120,10 @@
       "name_ru": "Клэйдол",
       "description_source_en": "If it gets wet, its body melts. When rain starts to fall, it wraps its whole body up with its psychic powers to protect itself.",
       "fact_source_en": "CLAYDOL is an enigma that appeared from a clay statue made by an ancient civilization dating back 20,000 years. This POKéMON shoots beams from both its hands.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Загадочный глиняный покемон, защищающийся психической силой от дождя.",
+      "fact_ru": "По легенде, Клэйдол возник из статуи древней цивилизации возрастом около 20 тысяч лет.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/344/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 345,
@@ -132,10 +132,10 @@
       "name_ru": "Лилип",
       "description_source_en": "This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
       "fact_source_en": "LILEEP became extinct approximately a hundred million years ago. This ancient POKéMON attaches itself to a rock on the seafloor and catches approaching prey using tentacles shaped like flower petals.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний покемон, восстановленный по ископаемым останкам.",
+      "fact_ru": "Лилип цепляется за морские скалы и ловит добычу щупальцами в форме лепестков.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/345/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 346,
@@ -144,10 +144,10 @@
       "name_ru": "Крадили",
       "description_source_en": "It has short legs and can’t walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
       "fact_source_en": "CRADILY roams around the ocean floor in search of food. This POKéMON freely extends its tree trunk-like neck and captures unwary prey using its eight tentacles.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской охотник с длинной шеей и восемью цепкими щупальцами.",
+      "fact_ru": "Крадили способен вытягивать шею более чем втрое от обычной длины.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/346/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 347,
@@ -156,10 +156,10 @@
       "name_ru": "Анорит",
       "description_source_en": "This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",
       "fact_source_en": "ANORITH is said to be a type of POKéMON predecessor, with eight wings at the sides of its body. This POKéMON swam in the primordial sea by undulating these eight wings.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний покемон, воскрешённый из окаменелости.",
+      "fact_ru": "Анорит плавал в древних морях, используя восемь боковых плавников.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/347/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 348,
@@ -168,10 +168,10 @@
       "name_ru": "Армальдо",
       "description_source_en": "After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
       "fact_source_en": "ARMALDO’s tough armor makes all attacks bounce off. This POKéMON’s two enormous claws can be freely extended or contracted. They have the power to punch right through a steel slab.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Бронированный покемон с сокрушительными клешнями.",
+      "fact_ru": "Клешни Армальдо способны пробивать даже толстые стальные плиты.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/348/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 349,
@@ -180,10 +180,10 @@
       "name_ru": "Фибас",
       "description_source_en": "They look ragged, so no one catches them. They look like they’d taste bad, so predators won’t eat them. And their numbers continue to grow.",
       "fact_source_en": "FEEBAS’s fins are ragged and tattered from the start of its life. Because of its shoddy appearance, this POKéMON is largely ignored. It is capable of living in both the sea and in rivers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Неприметная рыба, которую редко кто хочет ловить.",
+      "fact_ru": "Несмотря на невзрачный вид, Фибас одинаково хорошо живёт в реках и морях.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/349/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 350,
@@ -192,10 +192,10 @@
       "name_ru": "Майлотик",
       "description_source_en": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
       "fact_source_en": "MILOTIC live at the bottom of large lakes. When this POKéMON’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Прославленный своей красотой покемон, успокаивающий сердца окружающих.",
+      "fact_ru": "Когда тело Майлотика начинает светиться розовым, он испускает волну умиротворяющей энергии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/350/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 351,
@@ -204,10 +204,10 @@
       "name_ru": "Кастформ",
       "description_source_en": "Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.",
       "fact_source_en": "CASTFORM borrows the power of nature to transform itself into the guises of the sun, rain clouds, and snow clouds. This POKéMON’s feelings change with the weather.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, меняющий облик в зависимости от погоды.",
+      "fact_ru": "Настроение Кастформа также меняется вместе с погодными условиями.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/351/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 352,
@@ -216,10 +216,10 @@
       "name_ru": "Кеклеон",
       "description_source_en": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
       "fact_source_en": "KECLEON alters its body coloration to blend in with its surroundings, allowing it to sneak up on its prey unnoticed. Then it lashes out with its long, stretchy tongue to instantly ensnare the unsuspecting target.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мастер маскировки, меняющий окраску под окружающую среду.",
+      "fact_ru": "Если Кеклеона слишком долго никто не замечает, он начинает обижаться и прятаться ещё сильнее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/352/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 353,
@@ -228,10 +228,10 @@
       "name_ru": "Шаппет",
       "description_source_en": "It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",
       "fact_source_en": "SHUPPET is attracted by feelings of jealousy and vindictiveness. If someone develops strong feelings of vengeance, this POKéMON will appear in a swarm and line up beneath the eaves of that person’s home.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачный покемон, питающийся злобой, завистью и обидами.",
+      "fact_ru": "Сильная жажда мести способна привлечь целую стаю Шаппетов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/353/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 354,
@@ -240,10 +240,10 @@
       "name_ru": "Банетт",
       "description_source_en": "It’s a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge.",
       "fact_source_en": "A cursed energy permeated the stuffing of a discarded and forgotten plush doll, giving it new life as BANETTE. The POKéMON’s energy would escape if it were to ever open its mouth.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ожившая проклятая игрушка, ищущая бросившего её хозяина.",
+      "fact_ru": "Если Банетт широко откроет рот, удерживающая его проклятая энергия начнёт рассеиваться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/354/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 355,
@@ -252,10 +252,10 @@
       "name_ru": "Даскалл",
       "description_source_en": "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children.",
       "fact_source_en": "DUSKULL wanders lost among the deep darkness of midnight. There is an oft- told admonishment given to misbehaving children that this POKéMON will spirit away bad children who earn scoldings from their mothers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачный покемон, которым пугают непослушных детей.",
+      "fact_ru": "По старым поверьям, Даскалл появляется перед полуночью и уводит непослушных детей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/355/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 356,
@@ -264,10 +264,10 @@
       "name_ru": "Дасклопс",
       "description_source_en": "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify.",
       "fact_source_en": "DUSCLOPS absorbs anything, however large the object may be. This POKéMON hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do DUSCLOPS’s bidding.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, способный поглощать предметы любого размера.",
+      "fact_ru": "Дасклопс гипнотизирует врагов единственным глазом и заставляет их выполнять свои приказы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/356/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 357,
@@ -276,10 +276,10 @@
       "name_ru": "Тропиус",
       "description_source_en": "The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.",
       "fact_source_en": "The bunches of fruit around TROPIUS’s neck are very popular with children. This POKéMON loves fruit, and eats it continuously. Apparently, its love for fruit resulted in its own outgrowth of fruit.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Тропический покемон, на шее которого растут сладкие плоды.",
+      "fact_ru": "Тропиус настолько любит фрукты, что они начали расти прямо на его теле.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/357/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 358,
@@ -288,10 +288,10 @@
       "name_ru": "Чаймеко",
       "description_source_en": "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body.",
       "fact_source_en": "In high winds, CHIMECHO cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This POKéMON plucks berries with its long tail and eats them.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, усиливающий звук ветра внутри своего тела.",
+      "fact_ru": "Чаймеко цепляется за ветви присоской на голове и поёт на сильном ветру.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/358/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 359,
@@ -300,10 +300,10 @@
       "name_ru": "Абсол",
       "description_source_en": "Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",
       "fact_source_en": "ABSOL has the ability to foretell the coming of natural disasters. It lives in a harsh, rugged mountain environment. This POKéMON very rarely ventures down from the mountains.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Быстрый покемон, чувствующий приближение природных катастроф.",
+      "fact_ru": "Абсол редко покидает суровые горные районы, где обычно живёт в одиночестве.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/359/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

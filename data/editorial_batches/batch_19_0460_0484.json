@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 19,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 460,
@@ -12,10 +12,10 @@
       "name_ru": "Абомасноу",
       "description_source_en": "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow.",
       "fact_source_en": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могучий снежный покемон, предпочитающий уединение высоко в горах.",
+      "fact_ru": "Абомасноу скрывается от посторонних, поднимая снежные бураны.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/460/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 461,
@@ -24,10 +24,10 @@
       "name_ru": "Вивайл",
       "description_source_en": "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development.",
       "fact_source_en": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Хитрый хищник, охотящийся слаженной стаей.",
+      "fact_ru": "Вивайлы оставляют друг другу метки на деревьях и скалах для координации охоты.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/461/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 462,
@@ -36,10 +36,10 @@
       "name_ru": "Магнезон",
       "description_source_en": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.",
       "fact_source_en": "It’s thought that a special magnetic field changed the molecular structure of this Pokémon’s body, and that’s what caused the Pokémon’s evolution.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, эволюционировавший под воздействием особого магнитного поля.",
+      "fact_ru": "Магнезон испускает в космос загадочные радиоволны через свои антенны.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/462/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 463,
@@ -48,10 +48,10 @@
       "name_ru": "Ликилики",
       "description_source_en": "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky's height. Beware of the saliva, as it contains corrosive elements.",
       "fact_source_en": "Lickilicky can do just about anything with its tongue, which is as dexterous as the human hand. In contrast, Lickilicky’s use of its fingers is clumsy.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с невероятно длинным и ловким языком.",
+      "fact_ru": "Слюна Ликилики содержит едкие вещества, способные разъедать поверхность.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/463/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 464,
@@ -60,10 +60,10 @@
       "name_ru": "Райпериор",
       "description_source_en": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.",
       "fact_source_en": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Бронированный покемон с каменной шкурой необычайной прочности.",
+      "fact_ru": "Райпериор отражает удары панцирем, а затем атакует мощным буром.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/464/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 465,
@@ -72,10 +72,10 @@
       "name_ru": "Тэнгроут",
       "description_source_en": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
       "fact_source_en": "Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, скрытый под густыми переплетёнными лианами.",
+      "fact_ru": "В тёплом климате Тэнгроут укорачивает слишком длинные лианы, обрывая их.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/465/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 466,
@@ -84,10 +84,10 @@
       "name_ru": "Элективайр",
       "description_source_en": "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts.",
       "fact_source_en": "In terms of electrical-energy output, Electivire is one of the best among all Electric Pokémon. It discharges high-voltage currents from its tails.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Один из сильнейших электрических покемонов по мощности разрядов.",
+      "fact_ru": "Элективайр способен выпускать из хвостов ток напряжением до 20 000 вольт.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/466/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 467,
@@ -96,10 +96,10 @@
       "name_ru": "Магмортар",
       "description_source_en": "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant.",
       "fact_source_en": "Living in the crater of a volcano has caused this Pokémon’s body to resemble its environment— it has an organ similar to a magma chamber.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон, стреляющий раскалёнными шарами из пушек на руках.",
+      "fact_ru": "Тело Магмортара содержит орган, напоминающий магматическую камеру вулкана.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/467/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 468,
@@ -108,10 +108,10 @@
       "name_ru": "Тогекисс",
       "description_source_en": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.",
       "fact_source_en": "These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Редкий покемон, появляющийся лишь во времена мира и спокойствия.",
+      "fact_ru": "Тогекисс почти никогда не встречается рядом с местами конфликтов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/468/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 469,
@@ -120,10 +120,10 @@
       "name_ru": "Янмега",
       "description_source_en": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
       "fact_source_en": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый воздушный хищник, атакующий самые уязвимые места добычи.",
+      "fact_ru": "Янмега способен переносить в полёте взрослого человека.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/469/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 470,
@@ -132,10 +132,10 @@
       "name_ru": "Лифеон",
       "description_source_en": "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master.",
       "fact_source_en": "Its cellular composition is closer to that of a plant than an animal. It uses photosynthesis to produce its energy supply without eating food.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, чья шерсть по строению напоминает растения.",
+      "fact_ru": "Лифеон получает часть энергии благодаря фотосинтезу.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/470/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 471,
@@ -144,10 +144,10 @@
       "name_ru": "Глейсеон",
       "description_source_en": "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around.",
       "fact_source_en": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ледяной покемон, создающий сверкающую алмазную пыль.",
+      "fact_ru": "Глейсеон свободно управляет температурой собственного тела.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/471/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 472,
@@ -156,10 +156,10 @@
       "name_ru": "Глайскор",
       "description_source_en": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.",
       "fact_source_en": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ночной охотник, бесшумно парящий в темноте.",
+      "fact_ru": "Глайскор хватает добычу длинным хвостом и поражает её острыми клыками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/472/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 473,
@@ -168,10 +168,10 @@
       "name_ru": "Мамосвайн",
       "description_source_en": "This species reached its zenith during the period known as the ice age. I suspect that Hisui's frigid climate is in harmony with Mamoswine's constitution, thus awakening hidden potential.",
       "fact_source_en": "This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могучий мамонт, идеально приспособленный к ледниковому климату.",
+      "fact_ru": "Изображения Мамосвайна встречаются на наскальных рисунках возрастом более 10 тысяч лет.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/473/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 474,
@@ -180,10 +180,10 @@
       "name_ru": "Поригон-Z",
       "description_source_en": "A curious item induced this evolution. The Pokémon's offensive capabilities have greatly increased, but the strangeness of its behavior has magnified in equal measure. This worries me.",
       "fact_source_en": "In order to create a more advanced Pokémon, an additional program was installed, but apparently it contained a defect that makes it move oddly.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, чья сила выросла вместе со странностями поведения.",
+      "fact_ru": "Дополнительная программа сделала Поригон-Z значительно мощнее, но менее стабильным.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/474/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 475,
@@ -192,10 +192,10 @@
       "name_ru": "Галлейд",
       "description_source_en": "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.",
       "fact_source_en": "True to its honorable-warrior image, it uses the blades on its elbows only in defense of something or someone.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Благородный воин с клинками вместо локтей.",
+      "fact_ru": "Галлейд использует свои лезвия только для защиты других.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/475/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 476,
@@ -204,10 +204,10 @@
       "name_ru": "Пробопасс",
       "description_source_en": "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey.",
       "fact_source_en": "It controls three units called Mini-Noses using magnetic force. With them, it can attack the foe from three directions.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, управляющий железным песком при помощи магнетизма.",
+      "fact_ru": "Пробопасс командует тремя Мини-Носами, атакуя сразу с нескольких сторон.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/476/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 477,
@@ -216,10 +216,10 @@
       "name_ru": "Даскнуар",
       "description_source_en": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely.",
       "fact_source_en": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Проводник душ, сопровождающий умерших в загробный мир.",
+      "fact_ru": "Даскнуар поглощает лишь душу, после чего оставляет тело нетронутым.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/477/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 478,
@@ -228,10 +228,10 @@
       "name_ru": "Фросласс",
       "description_source_en": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine.",
       "fact_source_en": "It spits out cold air of nearly −60 degrees Fahrenheit to freeze its quarry. It brings frozen prey back to its lair and neatly lines them up.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ледяной призрак, окружённый мрачными легендами.",
+      "fact_ru": "Фросласс хранит замороженную добычу аккуратно разложенной в своём логове.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/478/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 479,
@@ -240,10 +240,10 @@
       "name_ru": "Ротом",
       "description_source_en": "This bizarre Pokémon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.",
       "fact_source_en": "One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Озорной электрический дух, способный вселяться в различные устройства.",
+      "fact_ru": "Необычные способности Ротома легли в основу создания множества машин.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/479/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 480,
@@ -252,10 +252,10 @@
       "name_ru": "Юкси",
       "description_source_en": "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge.",
       "fact_source_en": "According to some sources, this Pokémon provided people with the intelligence necessary to solve various problems.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный хранитель знаний, лишающий злодеев памяти.",
+      "fact_ru": "Считается, что Юкси даровал людям мудрость и способность решать сложные задачи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/480/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 481,
@@ -264,10 +264,10 @@
       "name_ru": "Месприт",
       "description_source_en": "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray.",
       "fact_source_en": "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон, воплощающий человеческие эмоции.",
+      "fact_ru": "По легендам, дух Месприта покидает тело и парит над гладью озера.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/481/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 482,
@@ -276,10 +276,10 @@
       "name_ru": "Азелф",
       "description_source_en": "The dreaded Being of Willpower. Legends tell of this Pokémon manipulating the will of its adversaries and turning them into puppets of its own.",
       "fact_source_en": "This Pokémon is said to have endowed humans with the determination needed to face any of life’s difficulties.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон силы воли.",
+      "fact_ru": "Говорят, Азелф подарил людям решимость преодолевать любые жизненные испытания.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/482/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 483,
@@ -288,10 +288,10 @@
       "name_ru": "Диалга",
       "description_source_en": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
       "fact_source_en": "This Pokémon completely controls the flow of time. It uses its power to travel at will through the past and future.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный властелин времени, почитаемый как божество.",
+      "fact_ru": "Диалга способен свободно путешествовать между прошлым и будущим.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/483/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 484,
@@ -300,10 +300,10 @@
       "name_ru": "Палкия",
       "description_source_en": "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity.",
       "fact_source_en": "Its total control over the boundaries of space enable it to transport itself to faraway places or even other dimensions.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный повелитель пространства.",
+      "fact_ru": "Палкия управляет границами пространства и может перемещаться между измерениями.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/484/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

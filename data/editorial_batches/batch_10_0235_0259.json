@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 10,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 235,
@@ -12,10 +12,10 @@
       "name_ru": "Смиргл",
       "description_source_en": "The fluid of Smeargle’s tail secretions changes in the intensity of its hue as the Pokémon’s emotions change.",
       "fact_source_en": "SMEARGLE marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this POKéMON have been found.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-художник, использующий выделения своего хвоста вместо краски.",
+      "fact_ru": "Цвет следов Смиргла меняется вместе с его эмоциями, а учёные насчитали более пяти тысяч различных рисунков.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/235/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 236,
@@ -24,10 +24,10 @@
       "name_ru": "Тирог",
       "description_source_en": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
       "fact_source_en": "TYROGUE becomes stressed out if it does not get to train every day. When raising this POKéMON, the TRAINER must establish and uphold various training methods.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Юный боец, который обязан тренироваться каждый день, чтобы не испытывать стресс.",
+      "fact_ru": "Тренеру Тирога приходится поддерживать строгий режим тренировок с самого детства.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/236/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 237,
@@ -36,10 +36,10 @@
       "name_ru": "Хитмонтоп",
       "description_source_en": "After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves.",
       "fact_source_en": "HITMONTOP spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The POKéMON travels faster spinning than it does walking.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Боевой покемон, атакующий стремительными ударами ног после стойки на голове.",
+      "fact_ru": "Хитмонтоп вращается на голове быстрее, чем способен бегать обычным способом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/237/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 238,
@@ -48,10 +48,10 @@
       "name_ru": "Смучум",
       "description_source_en": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn’t really seem to care.",
       "fact_source_en": "SMOOCHUM actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn’t become dirty.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький покемон, тщательно следящий за чистотой своего лица.",
+      "fact_ru": "Смучум постоянно ищет своё отражение, чтобы убедиться, что не испачкался.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/238/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 239,
@@ -60,10 +60,10 @@
       "name_ru": "Элекид",
       "description_source_en": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.",
       "fact_source_en": "ELEKID stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this POKéMON begins swinging its arms in circles to recharge itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрический покемон, вырабатывающий заряд вращением рук.",
+      "fact_ru": "Если Элекид случайно полностью разрядится, он начинает быстро вращать руками, восстанавливая энергию.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/239/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 240,
@@ -72,10 +72,10 @@
       "name_ru": "Магби",
       "description_source_en": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.",
       "fact_source_en": "MAGBY’s state of health is determined by observing the fire it breathes. If the POKéMON is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон, обитающий возле вулканов и выпускающий искры при каждом вдохе.",
+      "fact_ru": "По цвету пламени Магби легко определить его состояние здоровья: жёлтое означает отличную форму.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/240/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 241,
@@ -84,10 +84,10 @@
       "name_ru": "Милтанк",
       "description_source_en": "Miltank produces highly nutritious milk, so it’s been supporting the lives of people and other Pokémon since ancient times.",
       "fact_source_en": "MILTANK gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can’t drink milk turn it into yogurt and eat it instead.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый покемон, ежедневно дающий очень питательное молоко.",
+      "fact_ru": "За день Милтанк способен произвести более двадцати литров молока.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/241/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 242,
@@ -96,10 +96,10 @@
       "name_ru": "Блисси",
       "description_source_en": "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them.",
       "fact_source_en": "BLISSEY senses sadness with its fluffy coat of fur. If it does so, this POKéMON will rush over to the sad person, however far they may be, to share an egg of happiness that brings a smile to any face.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Заботливый покемон, ухаживающий за больными людьми и покемонами.",
+      "fact_ru": "Блисси чувствует чужую печаль и приносит счастливые яйца, чтобы поднять настроение.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/242/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 243,
@@ -108,10 +108,10 @@
       "name_ru": "Райко",
       "description_source_en": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
       "fact_source_en": "RAIKOU embodies the speed of lightning. The roars of this POKéMON send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон, воплощающий стремительность молнии.",
+      "fact_ru": "Рык Райко напоминает удар молнии и сотрясает землю ударной волной.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/243/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 244,
@@ -120,10 +120,10 @@
       "name_ru": "Энтей",
       "description_source_en": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
       "fact_source_en": "ENTEI embodies the passion of magma. This POKéMON is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон, рождённый, как считается, во время извержения вулкана.",
+      "fact_ru": "Энтей испускает гигантские столбы пламени, уничтожающие всё на своём пути.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/244/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 245,
@@ -132,10 +132,10 @@
       "name_ru": "Суикун",
       "description_source_en": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
       "fact_source_en": "SUICUNE embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This POKéMON has the power to purify dirty water.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон, символизирующий чистоту родниковой воды.",
+      "fact_ru": "Суикун способен очищать загрязнённые водоёмы одним своим присутствием.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/245/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 246,
@@ -144,10 +144,10 @@
       "name_ru": "Ларвитар",
       "description_source_en": "Born underground, it eats its way through dirt to the surface, where its parents are. It doesn’t deal well with the bright light it finds there.",
       "fact_source_en": "LARVITAR is born deep under the ground. To come up to the surface, this POKéMON must eat its way through the soil above. Until it does so, LARVITAR cannot see its parent’s face.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Молодой покемон, пробивающийся к поверхности земли через толщу почвы.",
+      "fact_ru": "До выхода наружу Ларвитар ни разу не видит своих родителей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/246/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 247,
@@ -156,10 +156,10 @@
       "name_ru": "Пупитар",
       "description_source_en": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
       "fact_source_en": "PUPITAR creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable - it avoids damage even if it hits solid steel.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-куколка, который постоянно находится в движении даже во время развития.",
+      "fact_ru": "Пупитар передвигается реактивными выбросами газа и выдерживает столкновения со сталью.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/247/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 248,
@@ -168,10 +168,10 @@
       "name_ru": "Тиранитар",
       "description_source_en": "It wanders through the mountains seeking opponents to fight. If it finds an opponent that’s not worthy, Tyranitar ignores it and wanders on.",
       "fact_source_en": "TYRANITAR is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This POKéMON wanders about in mountains seeking new opponents to fight.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могущественный покемон, ищущий лишь достойных соперников.",
+      "fact_ru": "Тиранитар способен разрушить целую гору, чтобы устроить себе логово.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/248/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 249,
@@ -180,10 +180,10 @@
       "name_ru": "Лугия",
       "description_source_en": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
       "fact_source_en": "LUGIA’s wings pack devastating power - a light fluttering of its wings can blow apart regular houses. As a result, this POKéMON chooses to live out of sight deep under the sea.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный хранитель морей с невероятной силой крыльев.",
+      "fact_ru": "Даже лёгкий взмах крыльев Лугии способен разрушить обычный дом, поэтому она скрывается в океанских глубинах.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/249/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 250,
@@ -192,10 +192,10 @@
       "name_ru": "Хо-о",
       "description_source_en": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
       "fact_source_en": "HO-OH’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This POKéMON is said to live at the foot of a rainbow.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарная птица, чьи перья переливаются всеми цветами радуги.",
+      "fact_ru": "Считается, что перья Хо-о приносят счастье тем, кто ими обладает.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/250/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 251,
@@ -204,10 +204,10 @@
       "name_ru": "Целеби",
       "description_source_en": "This Pokémon has the ability to move through time. Records describing it as a forest deity can be found from many different eras.",
       "fact_source_en": "This POKéMON came from the future by crossing over time. It is thought that so long as CELEBI appears, a bright and shining future awaits us.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мифический покемон, умеющий путешествовать сквозь время.",
+      "fact_ru": "Легенды гласят, что появление Целеби всегда предвещает светлое будущее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/251/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 252,
@@ -216,10 +216,10 @@
       "name_ru": "Трико",
       "description_source_en": "Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.",
       "fact_source_en": "TREECKO is cool, calm, and collected - it never panics under any situation. If a bigger foe were to glare at this POKéMON, it would glare right back without conceding an inch of ground.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лесной покемон, легко взбирающийся на отвесные стены благодаря крючкам на лапах.",
+      "fact_ru": "Трико сохраняет спокойствие даже перед гораздо более сильными противниками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/252/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 253,
@@ -228,10 +228,10 @@
       "name_ru": "Гровайл",
       "description_source_en": "The leaves growing out of Grovyle’s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.",
       "fact_source_en": "The leaves growing out of GROVYLE’s body are convenient for camouflaging it from enemies in the forest. This POKéMON is a master at climbing trees in jungles.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкий лесной покемон, мастерски скрывающийся среди листвы.",
+      "fact_ru": "Листья на теле Гровайла служат отличной маскировкой в густых джунглях.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/253/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 254,
@@ -240,10 +240,10 @@
       "name_ru": "Септайл",
       "description_source_en": "The leaves growing on Sceptile’s body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.",
       "fact_source_en": "The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Быстрый покемон с острыми листьями, использующий их как оружие.",
+      "fact_ru": "Септайл молниеносно перемещается по деревьям и атакует врагов сверху или со спины.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/254/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 255,
@@ -252,10 +252,10 @@
       "name_ru": "Торчик",
       "description_source_en": "Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",
       "fact_source_en": "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This POKéMON breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький огненный покемон, неотступно следующий за своим тренером.",
+      "fact_ru": "Торчик выдыхает раскалённые огненные шары, способные оставить сильные ожоги.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/255/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 256,
@@ -264,10 +264,10 @@
       "name_ru": "Комбаскен",
       "description_source_en": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon’s legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
       "fact_source_en": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This POKéMON’s legs possess both speed and power, enabling it to dole out ten kicks in one second.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Боевой огненный покемон с невероятно сильными и быстрыми ногами.",
+      "fact_ru": "Комбаскен способен нанести до десяти ударов ногами всего за одну секунду.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/256/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 257,
@@ -276,10 +276,10 @@
       "name_ru": "Блейзикен",
       "description_source_en": "In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon’s wrists burn.",
       "fact_source_en": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this POKéMON’s wrists burn.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могучий воин, атакующий противников пламенем, вырывающимся из запястий.",
+      "fact_ru": "Чем сильнее противник, тем жарче разгорается огонь на запястьях Блейзикена.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/257/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 258,
@@ -288,10 +288,10 @@
       "name_ru": "Мадкип",
       "description_source_en": "The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",
       "fact_source_en": "The fin on MUDKIP’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this POKéMON can determine what is taking place around it without using its eyes.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водный покемон, чувствующий окружающий мир чувствительным плавником на голове.",
+      "fact_ru": "Плавник Мадкипа позволяет ему обнаруживать движения воды и воздуха даже с закрытыми глазами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/258/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 259,
@@ -300,10 +300,10 @@
       "name_ru": "Марштомп",
       "description_source_en": "The surface of Marshtomp’s body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",
       "fact_source_en": "MARSHTOMP is much faster at traveling through mud than it is at swimming. This POKéMON’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Земноводный покемон, одинаково уверенно чувствующий себя на суше и в грязи.",
+      "fact_ru": "Марштомп быстрее передвигается по грязи, чем плавает, а сильные задние лапы позволяют ему ходить на двух ногах.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/259/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

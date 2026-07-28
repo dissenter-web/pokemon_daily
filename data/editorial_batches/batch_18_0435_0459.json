@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 18,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 435,
@@ -12,10 +12,10 @@
       "name_ru": "Скантанк",
       "description_source_en": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
       "fact_source_en": "In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon’s diet varies, so does the stench of its fluid.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крупный скунс-покемон, побеждающий добычу ядовитой жидкостью.",
+      "fact_ru": "Запах выделений Скантанка зависит от его рациона.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/435/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 436,
@@ -24,10 +24,10 @@
       "name_ru": "Бронзор",
       "description_source_en": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
       "fact_source_en": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный бронзовый покемон, парящий благодаря неизвестной силе.",
+      "fact_ru": "По поверьям, отполированный Бронзор отражает истину, хотя сам ненавидит полировку.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/436/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 437,
@@ -36,10 +36,10 @@
       "name_ru": "Бронзонг",
       "description_source_en": "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times.",
       "fact_source_en": "Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний покемон-колокол, почитаемый как божество.",
+      "fact_ru": "Разгневанный Бронзонг издаёт звон, похожий на удар огромного колокола.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/437/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 438,
@@ -48,10 +48,10 @@
       "name_ru": "Бонслай",
       "description_source_en": "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health.",
       "fact_source_en": "It discharges moisture from its eyes, making it look like it’s crying—apparently an effective way of getting enemies to let down their guard.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький покемон, чьи слёзы лишь помогают поддерживать здоровье.",
+      "fact_ru": "Плач Бонслая нередко заставляет врагов потерять бдительность.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/438/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 439,
@@ -60,10 +60,10 @@
       "name_ru": "Майм-Джуниор",
       "description_source_en": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
       "fact_source_en": "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Юный мастер пантомимы, внимательно наблюдающий за реакцией людей.",
+      "fact_ru": "Когда Майм-Джуниор слишком радуется удачной имитации, он забывает, что копировал.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/439/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 440,
@@ -72,10 +72,10 @@
       "name_ru": "Хаппини",
       "description_source_en": "In imitation of Chansey, it keeps a round stone tucked into its belly pouch and cherishes it dearly. It gets along well with children and will sometimes play house with them for fun.",
       "fact_source_en": "Happiny’s willing to lend its precious round stone to those it’s friendly with, but if the stone isn’t returned, Happiny will cry and throw a tantrum.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый покемон, бережно носящий круглый камень в сумке.",
+      "fact_ru": "Хаппини с радостью делится любимым камнем с друзьями, но очень расстраивается, если его не возвращают.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/440/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 441,
@@ -84,10 +84,10 @@
       "name_ru": "Чатот",
       "description_source_en": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic.",
       "fact_source_en": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Талантливая птица, умеющая подражать человеческой речи.",
+      "fact_ru": "Опытные Чатоты способны понимать смысл слов, которые повторяют.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/441/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 442,
@@ -96,10 +96,10 @@
       "name_ru": "Спиритум",
       "description_source_en": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits.",
       "fact_source_en": "All Spiritomb’s mischief and misdeeds compelled a traveler to use a mysterious spell to bind Spiritomb to an odd keystone.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Проклятый покемон, состоящий из 108 злых духов.",
+      "fact_ru": "Спиритум был запечатан в странном краеугольном камне древним заклинанием.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/442/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 443,
@@ -108,10 +108,10 @@
       "name_ru": "Гибл",
       "description_source_en": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
       "fact_source_en": "Gible attacks anything that moves, and it drags whatever it catches into the crevice that is its lair. Despite the big mouth, Gible’s stomach is small.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Молодой дракон, живущий в тёмных пещерах.",
+      "fact_ru": "Потерянные зубы Гибла полностью отрастают всего за несколько дней.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/443/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 444,
@@ -120,10 +120,10 @@
       "name_ru": "Габайт",
       "description_source_en": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
       "fact_source_en": "Shiny objects are its passion. It can be found in its cave, scarcely moving, its gaze fixed on the jewels it’s amassed or Carbink it has caught.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый дракон, обожающий блестящие сокровища.",
+      "fact_ru": "Получив понравившуюся безделушку, Габайт становится удивительно спокойным.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/444/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 445,
@@ -132,10 +132,10 @@
       "name_ru": "Гарчомп",
       "description_source_en": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
       "fact_source_en": "Garchomp is fast both underground and above. It can bring down prey and return to its den before its body has chilled from being outside.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стремительный дракон, одинаково быстрый в воздухе и под землёй.",
+      "fact_ru": "Гарчомп способен схватить добычу и вернуться в логово раньше, чем остынет после полёта.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/445/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 446,
@@ -144,10 +144,10 @@
       "name_ru": "Манчлакс",
       "description_source_en": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
       "fact_source_en": "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Невероятно прожорливый покемон с очень крепким желудком.",
+      "fact_ru": "Манчлакс без вреда проглатывает даже испорченную пищу.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/446/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 447,
@@ -156,10 +156,10 @@
       "name_ru": "Риолу",
       "description_source_en": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing.",
       "fact_source_en": "It uses waves called auras to communicate with others of its kind. It doesn’t make any noise during this time, so its enemies can’t detect it.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Юный покемон, чувствующий человеческие сердца через ауру.",
+      "fact_ru": "Риолу общается с сородичами при помощи бесшумных волн ауры.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/447/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 448,
@@ -168,10 +168,10 @@
       "name_ru": "Лукарио",
       "description_source_en": "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power.",
       "fact_source_en": "They can detect the species of a living being— and its emotions—from over half a mile away. They control auras and hunt their prey in packs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Благородный воин, мастерски управляющий силой ауры.",
+      "fact_ru": "Лукарио распознаёт эмоции и присутствие существ на расстоянии более километра.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/448/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 449,
@@ -180,10 +180,10 @@
       "name_ru": "Гиппопотас",
       "description_source_en": "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils.",
       "fact_source_en": "It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крупный пустынный покемон, скрывающийся под песком.",
+      "fact_ru": "Когда Гиппопотас волнуется, он с силой выпускает песок из ноздрей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/449/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 450,
@@ -192,10 +192,10 @@
       "name_ru": "Гипподон",
       "description_source_en": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
       "fact_source_en": "Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Вспыльчивый покемон, поднимающий разрушительные песчаные вихри.",
+      "fact_ru": "Двебблы помогают Гипподону очищать отверстия в его теле от застрявших камней.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/450/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 451,
@@ -204,10 +204,10 @@
       "name_ru": "Скорупи",
       "description_source_en": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
       "fact_source_en": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pokémon’s poison seeps in.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ядовитый скорпион с острыми клешнями.",
+      "fact_ru": "Добыча, схваченная хвостовыми клешнями Скорупи, быстро слабеет от яда.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/451/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 452,
@@ -216,10 +216,10 @@
       "name_ru": "Драпион",
       "description_source_en": "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc.",
       "fact_source_en": "Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный бронированный скорпион с огромной физической силой.",
+      "fact_ru": "Хотя яд Драпиона очень силён, он предпочитает побеждать грубой силой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/452/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 453,
@@ -228,10 +228,10 @@
       "name_ru": "Кроганк",
       "description_source_en": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
       "fact_source_en": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Хитрый ядовитый покемон с озорным характером.",
+      "fact_ru": "В разбавленном виде яд Кроганка используют для изготовления лекарств.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/453/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 454,
@@ -240,10 +240,10 @@
       "name_ru": "Токсикроук",
       "description_source_en": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
       "fact_source_en": "It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Опасный боец с ядовитыми алыми когтями.",
+      "fact_ru": "Даже небольшая царапина когтей Токсикроука способна вывести противника из строя.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/454/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 455,
@@ -252,10 +252,10 @@
       "name_ru": "Карнивайн",
       "description_source_en": "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.",
       "fact_source_en": "Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Хищное растение с ненасытным аппетитом.",
+      "fact_ru": "Карнивайн приманивает добычу сладко пахнущей слюной.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/455/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 456,
@@ -264,10 +264,10 @@
       "name_ru": "Финнеон",
       "description_source_en": "What a gorgeous sight this Pokémon is as it swims with its long, pink-painted caudal fins fluttering behind it. Finneon's beautiful appearance has led to its nickname: ”finery fish.”",
       "fact_source_en": "When night falls, their pink patterns begin to shine. They’re popular with divers, so there are resorts that feed them to keep them close.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Изящная рыба с длинными розовыми плавниками.",
+      "fact_ru": "Ночью узоры Финнеона начинают мягко светиться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/456/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 457,
@@ -276,10 +276,10 @@
       "name_ru": "Люминеон",
       "description_source_en": "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking— it's as though there were shining stars right there.",
       "fact_source_en": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Светящаяся морская рыба, охотящаяся с помощью сияния плавников.",
+      "fact_ru": "Свет Люминеона привлекает не только добычу, но и опасных хищников.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/457/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 458,
@@ -288,10 +288,10 @@
       "name_ru": "Мантайк",
       "description_source_en": "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution.",
       "fact_source_en": "Mantyke are friendly toward people and will approach boats closely. The patterns on their backs differ depending on their habitat.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленький скат, прекрасно чувствующий себя в воде.",
+      "fact_ru": "Если Мантайк долго плавает с Реморейдами, он со временем эволюционирует.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/458/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 459,
@@ -300,10 +300,10 @@
       "name_ru": "Сноувер",
       "description_source_en": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children.",
       "fact_source_en": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Снежный покемон, часто встречающийся в заснеженных горах.",
+      "fact_ru": "Зимой Сноувер спускается ниже в горы, а весной возвращается к заснеженным вершинам.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/459/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

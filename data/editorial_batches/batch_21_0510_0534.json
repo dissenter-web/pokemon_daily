@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 21,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 510,
@@ -12,10 +12,10 @@
       "name_ru": "Лайпард",
       "description_source_en": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
       "fact_source_en": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Грациозный, но очень свирепый хищник с роскошной шерстью.",
+      "fact_ru": "Лайпард бесшумно подкрадывается к добыче и соперничает с Тивулом за территорию.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/510/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 511,
@@ -24,10 +24,10 @@
       "name_ru": "Пансейдж",
       "description_source_en": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
       "fact_source_en": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрая обезьянка, собирающая ягоды по всему лесу.",
+      "fact_ru": "Лист на голове Пансейджа помогает прогнать усталость.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/511/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 512,
@@ -36,10 +36,10 @@
       "name_ru": "Симисейдж",
       "description_source_en": "It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.",
       "fact_source_en": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Вспыльчивый покемон, атакующий колючим хвостом.",
+      "fact_ru": "Горький лист на голове Симисейджа считается его отличительной особенностью.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/512/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 513,
@@ -48,10 +48,10 @@
       "name_ru": "Пансир",
       "description_source_en": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
       "fact_source_en": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон, живущий в вулканических пещерах.",
+      "fact_ru": "Пансир запекает ягоды жаром своего огненного хохолка.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/513/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 514,
@@ -60,10 +60,10 @@
       "name_ru": "Симисир",
       "description_source_en": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
       "fact_source_en": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Любитель сладостей, разбрасывающий искры при возбуждении.",
+      "fact_ru": "Пламя внутри тела Симисира вырывается через голову и хвост.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/514/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 515,
@@ -72,10 +72,10 @@
       "name_ru": "Панпур",
       "description_source_en": "The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.",
       "fact_source_en": "It does not thrive in dry environments. It keeps itself damp by shooting water stored in its head tuft from its tail.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водный покемон, поливающий растения питательной водой.",
+      "fact_ru": "Панпур поддерживает влажность тела, выпуская воду через хвост.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/515/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 516,
@@ -84,10 +84,10 @@
       "name_ru": "Симипур",
       "description_source_en": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
       "fact_source_en": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, предпочитающий чистые водоёмы.",
+      "fact_ru": "Симипур пополняет запас воды в хохолке, всасывая её хвостом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/516/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 517,
@@ -96,10 +96,10 @@
       "name_ru": "Мунна",
       "description_source_en": "Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
       "fact_source_en": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, питающийся человеческими снами.",
+      "fact_ru": "Во время хороших снов узоры Мунны светятся мягким розовым светом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/517/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 518,
@@ -108,10 +108,10 @@
       "name_ru": "Мушарна",
       "description_source_en": "When dark mists emanate from its body, don’t get too near. If you do, your nightmares will become reality.",
       "fact_source_en": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, способный превращать кошмары в реальность.",
+      "fact_ru": "Мушарна постоянно дремлет и очень раздражительна сразу после пробуждения.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/518/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 519,
@@ -120,10 +120,10 @@
       "name_ru": "Пидав",
       "description_source_en": "Where people go, these Pokémon follow. If you’re scattering food for them, be careful— several hundred of them can gather at once.",
       "fact_source_en": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Небольшой голубь, часто следующий за людьми.",
+      "fact_ru": "Если рассыпать корм, вокруг Пидава быстро собираются целые стаи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/519/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 520,
@@ -132,10 +132,10 @@
       "name_ru": "Транквилл",
       "description_source_en": "It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",
       "fact_source_en": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Птица, всегда находящая дорогу домой.",
+      "fact_ru": "Существует легенда о мирном лесу, где живут только Транквиллы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/520/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 521,
@@ -144,10 +144,10 @@
       "name_ru": "Унфезант",
       "description_source_en": "Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",
       "fact_source_en": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Великолепный летун с выдающейся выносливостью и скоростью.",
+      "fact_ru": "Унфезант славится высоким интеллектом и гордым нравом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/521/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 522,
@@ -156,10 +156,10 @@
       "name_ru": "Блитцл",
       "description_source_en": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
       "fact_source_en": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрическая зебра, общающаяся вспышками гривы.",
+      "fact_ru": "Блитцл способен накапливать молнии прямо в своей гриве.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/522/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 523,
@@ -168,10 +168,10 @@
       "name_ru": "Зебстрика",
       "description_source_en": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
       "fact_source_en": "This ill-tempered Pokémon is dangerous because when it’s angry, it shoots lightning from its mane in all directions.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Неукротимая зебра, разящая врагов молниями.",
+      "fact_ru": "Разгневанная Зебстрика выпускает электрические разряды во все стороны.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/523/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 524,
@@ -180,10 +180,10 @@
       "name_ru": "Роггенрола",
       "description_source_en": "It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
       "fact_source_en": "Born deep within the ground, it compares itself with similar species, such as Geodude and Carbink, to settle which has the hardest body.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Каменный покемон с телом прочнее стали.",
+      "fact_ru": "Роггенрола любит сравнивать прочность своего тела с другими каменными покемонами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/524/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 525,
@@ -192,10 +192,10 @@
       "name_ru": "Болдор",
       "description_source_en": "If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy.",
       "fact_source_en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с энергетическими кристаллами в теле.",
+      "fact_ru": "Когда кристаллы Болдора начинают светиться, он готовится к мощной атаке.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/525/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 526,
@@ -204,10 +204,10 @@
       "name_ru": "Гигалит",
       "description_source_en": "This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",
       "fact_source_en": "The blasts of energy it makes from sunbeams have terrifying power. However, it’s not able to fire its blasts at night or on rainy days.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный каменный покемон, часто работающий рядом с людьми.",
+      "fact_ru": "Гигалит стреляет разрушительными солнечными энергетическими лучами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/526/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 527,
@@ -216,10 +216,10 @@
       "name_ru": "Вубат",
       "description_source_en": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.",
       "fact_source_en": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Летучая мышь, ориентирующаяся с помощью ультразвука.",
+      "fact_ru": "Следы в форме сердечек на стенах пещер выдают жилища Вубата.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/527/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 528,
@@ -228,10 +228,10 @@
       "name_ru": "Свубат",
       "description_source_en": "Emitting powerful sound waves tires it out. Afterward, it won’t be able to fly for a little while.",
       "fact_source_en": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, использующий сильные звуковые волны.",
+      "fact_ru": "Ультразвук ухаживающего Свубата способен улучшить настроение окружающих.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/528/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 529,
@@ -240,10 +240,10 @@
       "name_ru": "Дрилбур",
       "description_source_en": "It brings its claws together and whirls around at high speed before rushing toward its prey.",
       "fact_source_en": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Подземный покемон, стремительно ввинчивающийся в землю.",
+      "fact_ru": "Дрилбур нередко портит фермерские поля своими раскопками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/529/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 530,
@@ -252,10 +252,10 @@
       "name_ru": "Экскадрилл",
       "description_source_en": "It’s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill’s rampant digging.",
       "fact_source_en": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мастер подземных тоннелей с мощными буровыми когтями.",
+      "fact_ru": "Лабиринты Экскадрилла иногда принимают за естественные пещеры.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/530/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 531,
@@ -264,10 +264,10 @@
       "name_ru": "Одино",
       "description_source_en": "Audino’s sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino’s ears.",
       "fact_source_en": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый покемон с невероятно острым слухом.",
+      "fact_ru": "Одино чувствует эмоции и состояние здоровья прикосновением своих усиков.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/531/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 532,
@@ -276,10 +276,10 @@
       "name_ru": "Тимбёрр",
       "description_source_en": "It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",
       "fact_source_en": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Сильный строитель, обожающий работать с брёвнами.",
+      "fact_ru": "Если стройка останавливается из-за дождя, Тимбёрр сердится и размахивает бревном.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/532/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 533,
@@ -288,10 +288,10 @@
       "name_ru": "Гурдурр",
       "description_source_en": "It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",
       "fact_source_en": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мускулистый покемон, виртуозно владеющий стальной балкой.",
+      "fact_ru": "Гурдурр лучше разрушает здания, чем строит их.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/533/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 534,
@@ -300,10 +300,10 @@
       "name_ru": "Конкельдурр",
       "description_source_en": "Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",
       "fact_source_en": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Невероятно сильный строитель, создающий особо прочный бетон.",
+      "fact_ru": "В серьёзной схватке Конкельдурр отбрасывает бетонные колонны и бьёт врага кулаками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/534/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

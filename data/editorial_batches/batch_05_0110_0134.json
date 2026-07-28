@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 5,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 110,
@@ -12,10 +12,10 @@
       "name_ru": "Визинг",
       "description_source_en": "It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.",
       "fact_source_en": "WEEZING loves the gases given off by rotted kitchen garbage. This POKéMON will find a dirty, unkempt house and make it its home. At night, when the people in the house are asleep, it will go through the trash.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ядовитый покемон, состоящий из двух соединённых тел, которые непрерывно смешивают между собой токсичные газы.",
+      "fact_ru": "Визинг любит испарения гниющих отходов и по ночам часто роется в мусоре возле грязных домов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/110/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 111,
@@ -24,10 +24,10 @@
       "name_ru": "Райхорн",
       "description_source_en": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.",
       "fact_source_en": "RHYHORN runs in a straight line, smashing everything in its path. It is not bothered even if it rushes headlong into a block of steel. This POKéMON may feel some pain from the collision the next day, however.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Невероятно сильный покемон, который способен разбить даже скалу, если разгонится в лобовую атаку.",
+      "fact_ru": "Из-за коротких ног Райхорн почти не умеет поворачивать и обычно останавливается только после столкновения.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/111/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 112,
@@ -36,10 +36,10 @@
       "name_ru": "Райдон",
       "description_source_en": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
       "fact_source_en": "RHYDON has a horn that serves as a drill. It is used for destroying rocks and boulders. This POKéMON occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный покемон с рогом, похожим на бур, легко пробивающим даже твёрдые горные породы.",
+      "fact_ru": "Броня Райдона защищает его настолько хорошо, что он может проходить через потоки лавы почти не ощущая жара.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/112/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 113,
@@ -48,10 +48,10 @@
       "name_ru": "Ченси",
       "description_source_en": "This purehearted Pokémon shares its eggs with the injured.",
       "fact_source_en": "CHANSEY lays nutritionally excellent eggs on an everyday basis. The eggs are so delicious, they are easily and eagerly devoured by even those people who have lost their appetite.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добросердечный покемон, который делится своими питательными яйцами с ранеными и ослабевшими.",
+      "fact_ru": "Яйца Ченси настолько вкусны и полезны, что их с аппетитом едят даже потерявшие желание есть люди.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/113/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 114,
@@ -60,10 +60,10 @@
       "name_ru": "Тангела",
       "description_source_en": "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice.",
       "fact_source_en": "TANGELA’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, полностью скрытый под переплетением синих лиан.",
+      "fact_ru": "Если схватить Тангелу за лианы, он без боли сбросит их и убежит, а уже на следующий день вырастут новые.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/114/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 115,
@@ -72,10 +72,10 @@
       "name_ru": "Кангасхан",
       "description_source_en": "Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",
       "fact_source_en": "If you come across a young KANGASKHAN playing by itself, you must never disturb it or attempt to catch it. The baby POKéMON’s parent is sure to be in the area, and it will become violently enraged at you.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Заботливый покемон, который носит детёныша в сумке на животе и при этом остаётся очень быстрым.",
+      "fact_ru": "Если малыш Кангасхана оказался один, его родитель почти наверняка находится неподалёку и яростно защитит его.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/115/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 116,
@@ -84,10 +84,10 @@
       "name_ru": "Хорси",
       "description_source_en": "Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",
       "fact_source_en": "HORSEA eats small insects and moss off of rocks. If the ocean current turns fast, this POKéMON anchors itself by wrapping its tail around rocks or coral to prevent being washed away.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской конёк, живущий в спокойных водах и защищающийся облаком чёрных чернил.",
+      "fact_ru": "Во время сильного течения Хорси цепляется хвостом за кораллы или камни, чтобы его не унесло.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/116/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 117,
@@ -96,10 +96,10 @@
       "name_ru": "Сидра",
       "description_source_en": "It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",
       "fact_source_en": "SEADRA generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This POKéMON weakens prey with these currents, then swallows it whole.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской покемон, у которого именно самцы заботятся о потомстве.",
+      "fact_ru": "Сидра создаёт мощные водовороты, способные затянуть даже небольшую рыбацкую лодку.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/117/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 118,
@@ -108,10 +108,10 @@
       "name_ru": "Голдин",
       "description_source_en": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
       "fact_source_en": "GOLDEEN loves swimming wild and free in rivers and ponds. If one of these POKéMON is placed in an aquarium, it will shatter even the thickest glass with one ram of its horn and make its escape.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Изящный водный покемон, известный как «танцор воды» благодаря плавным движениям плавников.",
+      "fact_ru": "Если Голдин посадить в аквариум, он способен разбить даже толстое стекло ударом своего рога.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/118/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 119,
@@ -120,10 +120,10 @@
       "name_ru": "Сикинг",
       "description_source_en": "Its horn spins like a drill to steadily hollow out rocks—even harder ones. The coloration of the male is more vivid.",
       "fact_source_en": "SEAKING is very protective of its eggs. The male and female will take turns patrolling around their nest and eggs. The guarding of eggs by these POKéMON goes on for over a month.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крупная рыба с рогом-буром, способным постепенно высверливать даже очень твёрдые камни.",
+      "fact_ru": "Самец и самка Сикинга больше месяца по очереди охраняют икру от любых угроз.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/119/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 120,
@@ -132,10 +132,10 @@
       "name_ru": "Старю",
       "description_source_en": "If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.",
       "fact_source_en": "STARYU apparently communicates with the stars in the night sky by flashing the red core at the center of its body. If parts of its body are torn, this POKéMON simply regenerates the missing pieces and limbs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской покемон в форме морской звезды, которого в конце лета можно увидеть светящимся на пляжах.",
+      "fact_ru": "Старю общается со звёздами, мигая красным ядром, а потерянные лучи способен полностью восстановить.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/120/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 121,
@@ -144,10 +144,10 @@
       "name_ru": "Старми",
       "description_source_en": "This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.",
       "fact_source_en": "STARMIE swims through water by spinning its star-shaped body as if it were a propeller on a ship. The core at the center of this POKéMON’s body glows in seven colors.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морской покемон с ярким центральным ядром, усиливающим его психические способности.",
+      "fact_ru": "Во время плавания Старми вращает своё тело словно корабельный винт.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/121/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 122,
@@ -156,10 +156,10 @@
       "name_ru": "Майм",
       "description_source_en": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
       "fact_source_en": "Mr. Mime is a master of pantomime. Its gestures and motions convince watchers that something unseeable actually exists. Once the watchers are convinced, the unseeable thing exists as if it were real.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-мим, создающий невидимые стены силой, исходящей из кончиков пальцев.",
+      "fact_ru": "Если зрители поверят пантомиме Майма, созданные им невидимые объекты становятся почти реальными.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/122/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 123,
@@ -168,10 +168,10 @@
       "name_ru": "Скайтер",
       "description_source_en": "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pokémon's nimble motions.",
       "fact_source_en": "SCYTHER is blindingly fast. Its blazing speed enhances the effectiveness of the twin scythes on its forearms. This POKéMON’s scythes are so effective, they can slice through thick logs in one wicked stroke.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Быстрый покемон-богомол с острыми лезвиями вместо передних лап.",
+      "fact_ru": "Косы Скайтера настолько остры, что одним ударом способны разрубить толстое бревно.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/123/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 124,
@@ -180,10 +180,10 @@
       "name_ru": "Джинкс",
       "description_source_en": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
       "fact_source_en": "JYNX walks rhythmically, swaying and shaking its hips as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without giving any thought to what they are doing.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, которого в некоторых регионах когда-то почитали как Ледяную королеву.",
+      "fact_ru": "Танцующие движения Джинкс настолько завораживают, что окружающие невольно начинают повторять их.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/124/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 125,
@@ -192,10 +192,10 @@
       "name_ru": "Электабуз",
       "description_source_en": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
       "fact_source_en": "When a storm arrives, gangs of this POKéMON compete with each other to scale heights that are likely to be stricken by lightning bolts. Some towns use ELECTABUZZ in place of lightning rods.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрический покемон, питающийся энергией молний и электрических разрядов.",
+      "fact_ru": "Во время грозы Электабузы соревнуются, кто первым заберётся на самое высокое дерево и встретит удар молнии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/125/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 126,
@@ -204,10 +204,10 @@
       "name_ru": "Магмар",
       "description_source_en": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.",
       "fact_source_en": "In battle, MAGMAR blows out intensely hot flames from all over its body to intimidate its opponent. This POKéMON’s fiery bursts create heat waves that ignite grass and trees in its surroundings.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огненный покемон, который, по легендам, появился из кратера вулкана.",
+      "fact_ru": "Получив раны, Магмар погружается в лаву, чтобы быстрее восстановить силы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/126/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 127,
@@ -216,10 +216,10 @@
       "name_ru": "Пинсир",
       "description_source_en": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
       "fact_source_en": "Pinsir has a pair of massive horns. Protruding from the surface of these horns are thorns. These thorns are driven deeply into the foe’s body when the pincer closes, making it tough for the foe to escape.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-жук с огромными клешнями, по размеру которых сородичи оценивают друг друга.",
+      "fact_ru": "Шипы на клешнях Пинсира глубоко впиваются в добычу, почти не оставляя ей шансов вырваться.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/127/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 128,
@@ -228,10 +228,10 @@
       "name_ru": "Торос",
       "description_source_en": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",
       "fact_source_en": "This POKéMON is not satisfied unless it is rampaging at all times. If there is no opponent for TAUROS to battle, it will charge at thick trees and knock them down to calm itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый покемон-бык, предупреждающий о скорой атаке быстрыми ударами хвостов по бокам.",
+      "fact_ru": "Если Торосу не с кем сражаться, он начинает таранить деревья, чтобы выплеснуть накопившуюся энергию.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/128/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 129,
@@ -240,10 +240,10 @@
       "name_ru": "Маджикарп",
       "description_source_en": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
       "fact_source_en": "MAGIKARP is virtually useless in battle as it can only splash around. As a result, it is considered to be weak. However, it is actually a very hardy POKéMON that can survive in any body of water no matter how polluted it is.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Слабый на вид, но исключительно живучий покемон, способный выживать почти в любом водоёме.",
+      "fact_ru": "Хотя Маджикарп почти бесполезен в бою, он легко переносит даже сильно загрязнённую воду.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/129/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 130,
@@ -252,10 +252,10 @@
       "name_ru": "Гайрадос",
       "description_source_en": "I suspect this Pokémon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw.",
       "fact_source_en": "Once GYARADOS goes on a rampage, its ferociously violent blood doesn’t calm until it has burned everything down. There are records of this POKéMON’s rampages lasting a whole month.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Грозный морской покемон, чья разрушительная ярость легла в основу древних легенд о драконах.",
+      "fact_ru": "Если Гайрадос приходит в бешенство, его разрушения могут продолжаться целый месяц.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/130/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 131,
@@ -264,10 +264,10 @@
       "name_ru": "Лапрас",
       "description_source_en": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
       "fact_source_en": "People have driven LAPRAS almost to the point of extinction. In the evenings, this POKéMON is said to sing plaintively as it seeks what few others of its kind still remain.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый и очень умный морской покемон, спокойно перевозящий людей по воде под своё красивое пение.",
+      "fact_ru": "Когда численность Лапрасов резко сократилась, они стали петь печальные песни в поисках своих сородичей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/131/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 132,
@@ -276,10 +276,10 @@
       "name_ru": "Дитто",
       "description_source_en": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
       "fact_source_en": "DITTO rearranges its cell structure to transform itself into other shapes. However, if it tries to transform itself into something by relying on its memory, this POKéMON manages to get details wrong.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Необычный покемон, способный полностью менять форму, копируя других существ.",
+      "fact_ru": "Если Дитто полагается только на память при превращении, он часто ошибается в мелких деталях.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/132/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 133,
@@ -288,10 +288,10 @@
       "name_ru": "Эви",
       "description_source_en": "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pokémon evolution—I'm certain of it.",
       "fact_source_en": "EEVEE has an unstable genetic makeup that suddenly mutates due to the environment in which it lives. Radiation from various STONES causes this POKéMON to evolve.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с нестабильной генетикой, способный эволюционировать во множество разных форм.",
+      "fact_ru": "Различные эволюционные камни вызывают изменения в организме Эви и запускают его превращение.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/133/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 134,
@@ -300,10 +300,10 @@
       "name_ru": "Вапореон",
       "description_source_en": "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon.",
       "fact_source_en": "VAPOREON underwent a spontaneous mutation and grew fins and gills that allow it to live underwater. This POKéMON has the ability to freely control water.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водная эволюция Эви, способная почти полностью сливаться с водой.",
+      "fact_ru": "Клетки Вапореона напоминают молекулы воды, благодаря чему он способен скрываться под её поверхностью.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/134/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

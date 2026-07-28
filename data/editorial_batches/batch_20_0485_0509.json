@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 20,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 485,
@@ -12,10 +12,10 @@
       "name_ru": "Хитран",
       "description_source_en": "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries.",
       "fact_source_en": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный покемон, рождённый в раскалённой магме горы Коронет.",
+      "fact_ru": "В жилах Хитрана течёт кровь, напоминающая жидкую магму.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/485/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 486,
@@ -24,10 +24,10 @@
       "name_ru": "Реджигигас",
       "description_source_en": "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth.",
       "fact_source_en": "It’s said that Regigigas created other Pokémon from many different materials before it moved the continents to where they are today.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Легендарный гигант, которому приписывают создание континентов.",
+      "fact_ru": "По легенде, Реджигигас создал других легендарных титанов из разных материалов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/486/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 487,
@@ -36,10 +36,10 @@
       "name_ru": "Гиратина",
       "description_source_en": "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina.",
       "fact_source_en": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, обитающий в Искажённом мире.",
+      "fact_ru": "Гиратина живёт в мире, где привычные законы реальности полностью нарушены.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/487/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 488,
@@ -48,10 +48,10 @@
       "name_ru": "Кресселия",
       "description_source_en": "Cresselia is reminiscent of the crescent moon. It leaves a brilliant line of light in its wake as it flies across the night sky. I daresay it resembles the heavenly maiden who created the Milky Way.",
       "fact_source_en": "Those who sleep holding CRESSELIA’s feather are assured of joyful dreams. It is said to represent the crescent moon.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лунный покемон, приносящий спокойствие и счастливые сны.",
+      "fact_ru": "Перо Кресселии защищает спящих от кошмаров.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/488/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 489,
@@ -60,10 +60,10 @@
       "name_ru": "Фиона",
       "description_source_en": "Can be seen floating offshore during seasons when the seas are warm. Its azure body blends in with the ocean waters—logic suggests this is a defense mechanism against natural predators.",
       "fact_source_en": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Редкий морской покемон, дрейфующий по тёплым океанам.",
+      "fact_ru": "Фиона собирается в стаи и плавает, надувая воздушный мешок на голове.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/489/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 490,
@@ -72,10 +72,10 @@
       "name_ru": "Манафи",
       "description_source_en": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
       "fact_source_en": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мифический покемон, странствующий по морям.",
+      "fact_ru": "Манафи обладает силой устанавливать связь с любым покемоном.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/490/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 491,
@@ -84,10 +84,10 @@
       "name_ru": "Даркрай",
       "description_source_en": "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares.",
       "fact_source_en": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, насылающий ужасные кошмары.",
+      "fact_ru": "Даркрай изгоняет чужаков со своей территории, погружая их в глубокий сон.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/491/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 492,
@@ -96,10 +96,10 @@
       "name_ru": "Шеймин",
       "description_source_en": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.",
       "fact_source_en": "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон благодарности, покрывающий землю цветами после зимы.",
+      "fact_ru": "Цветы Грацидея дарят Шеймину способность летать.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/492/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 493,
@@ -108,10 +108,10 @@
       "name_ru": "Аркеус",
       "description_source_en": "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokémon. Hisuian mythology states that Arceus is the creator of all things.",
       "fact_source_en": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Создатель мира и верховное божество мира покемонов.",
+      "fact_ru": "По легендам, Аркеус появился из яйца и сотворил всё сущее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/493/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 494,
@@ -120,10 +120,10 @@
       "name_ru": "Виктини",
       "description_source_en": "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
       "fact_source_en": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мифический покемон, несущий победу своим союзникам.",
+      "fact_ru": "Говорят, тренеры с Виктини всегда добиваются успеха.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/494/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 495,
@@ -132,10 +132,10 @@
       "name_ru": "Снайви",
       "description_source_en": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.",
       "fact_source_en": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ловкий травяной покемон, любящий солнечный свет.",
+      "fact_ru": "Снайви получает энергию с помощью фотосинтеза, используя свой хвост.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/495/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 496,
@@ -144,10 +144,10 @@
       "name_ru": "Сервайн",
       "description_source_en": "When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean.",
       "fact_source_en": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Элегантный покемон, тщательно следящий за чистотой листьев.",
+      "fact_ru": "Сервайн стремительно скользит по земле и атакует лозами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/496/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 497,
@@ -156,10 +156,10 @@
       "name_ru": "Серпериор",
       "description_source_en": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes.",
       "fact_source_en": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Гордый покемон, признающий лишь достойных соперников.",
+      "fact_ru": "Серпериор сражается в полную силу только против сильных противников.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/497/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 498,
@@ -168,10 +168,10 @@
       "name_ru": "Тепиг",
       "description_source_en": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
       "fact_source_en": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Весёлый огненный поросёнок, обожающий жареные ягоды.",
+      "fact_ru": "Тепиг выпускает огненные шары прямо через нос.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/498/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 499,
@@ -180,10 +180,10 @@
       "name_ru": "Пигнайт",
       "description_source_en": "The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",
       "fact_source_en": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Сильный огненный покемон, черпающий мощь из своего аппетита.",
+      "fact_ru": "Чем больше ест Пигнайт, тем ярче разгорается пламя в его желудке.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/499/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 500,
@@ -192,10 +192,10 @@
       "name_ru": "Эмбор",
       "description_source_en": "A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.",
       "fact_source_en": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могучий воин с пылающей бородой.",
+      "fact_ru": "Эмбор покрывает кулаки огнём перед сокрушительными ударами и предан друзьям.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/500/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 501,
@@ -204,10 +204,10 @@
       "name_ru": "Ошавотт",
       "description_source_en": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”.",
       "fact_source_en": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водный покемон, владеющий раковиной-клинком на животе.",
+      "fact_ru": "Ошавотт снимает скалчоп и использует его как настоящий меч.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/501/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 502,
@@ -216,10 +216,10 @@
       "name_ru": "Девотт",
       "description_source_en": "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat.",
       "fact_source_en": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Искусный фехтовальщик, ежедневно совершенствующий технику двух скалчопов.",
+      "fact_ru": "Каждый Девотт обладает собственным стилем владения клинками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/502/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 503,
@@ -228,10 +228,10 @@
       "name_ru": "Самуротт",
       "description_source_en": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
       "fact_source_en": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Суровый самурай-покемон из региона Хисуи.",
+      "fact_ru": "Одного взгляда Самуротта достаточно, чтобы заставить окружающих замолчать.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/503/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 504,
@@ -240,10 +240,10 @@
       "name_ru": "Патрат",
       "description_source_en": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind.",
       "fact_source_en": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Очень осторожный покемон, постоянно выставляющий дозорных.",
+      "fact_ru": "Патраты чувствуют себя неуверенно, если рядом нет наблюдателя.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/504/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 505,
@@ -252,10 +252,10 @@
       "name_ru": "Уочхог",
       "description_source_en": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
       "fact_source_en": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Бдительный покемон с ярко светящимися глазами.",
+      "fact_ru": "Уочхог ослепляет врагов свечением своего тела и прекрасно видит в темноте.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/505/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 506,
@@ -264,10 +264,10 @@
       "name_ru": "Лиллипап",
       "description_source_en": "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
       "fact_source_en": "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Храбрый, но осторожный щенок с очень чутким нюхом.",
+      "fact_ru": "Лиллипап навсегда запоминает как доброту, так и плохое обращение.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/506/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 507,
@@ -276,10 +276,10 @@
       "name_ru": "Хардиер",
       "description_source_en": "Herdier is a very smart and friendly Pokémon. So much so that there’s a theory that Herdier was the first Pokémon to partner with people.",
       "fact_source_en": "Its dense black fur grows continuously. The high cost of keeping its hard fur properly groomed makes this a troublesome Pokémon to train.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Умный и дружелюбный пёс, давно живущий рядом с людьми.",
+      "fact_ru": "Густая шерсть Хардиера требует постоянного ухода.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/507/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 508,
@@ -288,10 +288,10 @@
       "name_ru": "Стаутлэнд",
       "description_source_en": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
       "fact_source_en": "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Верный пёс с роскошными усами.",
+      "fact_ru": "Длина усов Стаутлэнда считается признаком высокого положения среди сородичей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/508/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 509,
@@ -300,10 +300,10 @@
       "name_ru": "Пуррлойн",
       "description_source_en": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
       "fact_source_en": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Хитрый котёнок, любящий красть вещи ради развлечения.",
+      "fact_ru": "Пуррлойн сначала очаровывает противника, а затем оставляет болезненные царапины.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/509/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

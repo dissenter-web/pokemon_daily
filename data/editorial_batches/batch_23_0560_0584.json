@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 23,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 560,
@@ -12,10 +12,10 @@
       "name_ru": "Скрафти",
       "description_source_en": "As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars.",
       "fact_source_en": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Задиристый боец, чьи небрежные удары невероятно сильны.",
+      "fact_ru": "Несмотря на суровый нрав, Скрафти предан семье, друзьям и своей территории.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/560/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 561,
@@ -24,10 +24,10 @@
       "name_ru": "Сигилиф",
       "description_source_en": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.",
       "fact_source_en": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, парящий благодаря психической силе.",
+      "fact_ru": "Считается, что Сигилиф охранял древний город, скрытый под песками.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/561/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 562,
@@ -36,10 +36,10 @@
       "name_ru": "Ямаск",
       "description_source_en": "It wanders through ruins by night, carrying a mask that’s said to have been the face it had when it was still human.",
       "fact_source_en": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Дух, блуждающий по руинам с маской своего прежнего лица.",
+      "fact_ru": "Ямаск ищет того, кто помнит его человеческий облик.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/562/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 563,
@@ -48,10 +48,10 @@
       "name_ru": "Кофагригус",
       "description_source_en": "This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.",
       "fact_source_en": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Золотой покемон-саркофаг, утративший воспоминания о прошлой жизни.",
+      "fact_ru": "Изображения Кофагригуса украшали гробницы древних царей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/563/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 564,
@@ -60,10 +60,10 @@
       "name_ru": "Тиртуга",
       "description_source_en": "This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
       "fact_source_en": "Reputed to be the ancestor of most turtle Pokémon, it lived in warm seas approximately a hundred million years ago.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древняя морская черепаха, восстановленная из окаменелости.",
+      "fact_ru": "Тиртуга считается предком большинства черепашьих покемонов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/564/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 565,
@@ -72,10 +72,10 @@
       "name_ru": "Карракоста",
       "description_source_en": "Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta’s own shell grows thick and sturdy.",
       "fact_source_en": "Its jaws are terrifyingly powerful. It could eat Omastar and Omanyte whole and not be bothered in the slightest by their shells.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощная древняя черепаха, разгрызающая добычу вместе с панцирем.",
+      "fact_ru": "Челюсти Карракосты легко дробят даже самые прочные раковины.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/565/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 566,
@@ -84,10 +84,10 @@
       "name_ru": "Аркен",
       "description_source_en": "This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it’s very good at jumping.",
       "fact_source_en": "It is the ancestor of all bird Pokémon. Archen itself could not actually fly but moved by hopping from treetop to treetop.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Древний предок птиц, прекрасно прыгающий, но не умеющий летать.",
+      "fact_ru": "Аркен перемещался прыжками с дерева на дерево.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/566/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 567,
@@ -96,10 +96,10 @@
       "name_ru": "Аркеопс",
       "description_source_en": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
       "fact_source_en": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Первобытная птица, которой для взлёта нужен долгий разбег.",
+      "fact_ru": "Слабые мышцы крыльев заставляют Аркеопса долго разгоняться перед полётом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/567/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 568,
@@ -108,10 +108,10 @@
       "name_ru": "Траббиш",
       "description_source_en": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
       "fact_source_en": "It gorges on trash until its stomach is full. Then it belches toxic gas. An unlucky whiff of gas will put a person in the hospital.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, обожающий жить среди мусора.",
+      "fact_ru": "Наевшись отходов, Траббиш выпускает ядовитый газ.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/568/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 569,
@@ -120,10 +120,10 @@
       "name_ru": "Гарбодор",
       "description_source_en": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
       "fact_source_en": "Beware the poisonous liquid it shoots from its right arm. If even a little of it gets on you, you’ll experience the effects of the unidentified toxin.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мусорный покемон, превращающий отходы в сильный яд.",
+      "fact_ru": "Ядовитая жидкость из правой руки Гарбодора крайне опасна.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/569/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 570,
@@ -132,10 +132,10 @@
       "name_ru": "Зоруа",
       "description_source_en": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
       "fact_source_en": "Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачная лисица, питающаяся злобой и обидами.",
+      "fact_ru": "Зоруа иногда принимает облик ребёнка, чтобы добыть еду в городах.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/570/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 571,
@@ -144,10 +144,10 @@
       "name_ru": "Зороарк",
       "description_source_en": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.",
       "fact_source_en": "This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мрачный мастер иллюзий с огромной силой.",
+      "fact_ru": "Зороарк создаёт пугающие миражи, защищая свою стаю.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/571/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 572,
@@ -156,10 +156,10 @@
       "name_ru": "Минччино",
       "description_source_en": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
       "fact_source_en": "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Чистюля, постоянно наводящий порядок пушистым хвостом.",
+      "fact_ru": "Минччино может целый день мыть хвост в родниковой воде.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/572/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 573,
@@ -168,10 +168,10 @@
       "name_ru": "Чинччино",
       "description_source_en": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won’t tolerate even a speck of the stuff.",
       "fact_source_en": "The white parts of its coat are covered in an oil secreted from its body, so this Pokémon can slide right away from its enemies’ attacks.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Безупречно ухоженный покемон, не терпящий ни пылинки.",
+      "fact_ru": "Маслянистая шерсть Чинччино помогает легко ускользать от атак.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/573/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 574,
@@ -180,10 +180,10 @@
       "name_ru": "Гофита",
       "description_source_en": "Though they’re still only babies, there’s psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",
       "fact_source_en": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Юный покемон с врождёнными психическими способностями.",
+      "fact_ru": "Гофита порой разговаривает с тем, кого видит только она.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/574/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 575,
@@ -192,10 +192,10 @@
       "name_ru": "Гофорита",
       "description_source_en": "It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",
       "fact_source_en": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, связанный с ночным небом и звёздами.",
+      "fact_ru": "В ясные звёздные ночи психическая сила Гофориты достигает максимума.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/575/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 576,
@@ -204,10 +204,10 @@
       "name_ru": "Гофителль",
       "description_source_en": "It has tremendous psychic power, but it dislikes conflict. It’s also able to predict the future based on the movement of the stars.",
       "fact_source_en": "It can see the future from the movement of the stars. When it learns its Trainer’s life span, it cries in sadness.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могущественный предсказатель, избегающий сражений.",
+      "fact_ru": "Гофителль умеет видеть срок жизни своего тренера и печалится, узнав его.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/576/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 577,
@@ -216,10 +216,10 @@
       "name_ru": "Солосис",
       "description_source_en": "It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",
       "fact_source_en": "Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Психический покемон, заключённый в особую жидкость.",
+      "fact_ru": "Солосис общается с другими при помощи телепатии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/577/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 578,
@@ -228,10 +228,10 @@
       "name_ru": "Дуожн",
       "description_source_en": "Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.",
       "fact_source_en": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Два разума в одном теле, объединённые психической силой.",
+      "fact_ru": "Максимальную мощь Дуожн проявляет, когда оба его мозга думают одинаково.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/578/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 579,
@@ -240,10 +240,10 @@
       "name_ru": "Реюниклюс",
       "description_source_en": "While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",
       "fact_source_en": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный экстрасенс, предпочитающий побеждать физической силой.",
+      "fact_ru": "Жидкость вокруг Реюниклюса смертельно ядовита для большинства существ.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/579/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 580,
@@ -252,10 +252,10 @@
       "name_ru": "Даклетт",
       "description_source_en": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
       "fact_source_en": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Утёнок, превосходно чувствующий себя под водой.",
+      "fact_ru": "Даклетт добывает любимый торфяной мох, ныряя на глубину.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/580/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 581,
@@ -264,10 +264,10 @@
       "name_ru": "Суанна",
       "description_source_en": "Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",
       "fact_source_en": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Изящный лебедь, способный преодолевать огромные расстояния.",
+      "fact_ru": "Суанна атакует сильными ударами клюва и длинной шеи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/581/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 582,
@@ -276,10 +276,10 @@
       "name_ru": "Ваниллайт",
       "description_source_en": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
       "fact_source_en": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ледяной покемон, прячущийся в снегу от жары.",
+      "fact_ru": "Ваниллайт выдыхает ледяной воздух, чтобы поддерживать комфортную температуру.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/582/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 583,
@@ -288,10 +288,10 @@
       "name_ru": "Ваниллиш",
       "description_source_en": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
       "fact_source_en": "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добрый ледяной покемон, выращивающий своё тело на чистой воде.",
+      "fact_ru": "Ваниллиш замораживает врагов, но обычно оставляет их в живых.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/583/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 584,
@@ -300,10 +300,10 @@
       "name_ru": "Ваниллюкс",
       "description_source_en": "When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.",
       "fact_source_en": "Vanilluxe is born when two Vanillish, half-melted by the day’s light, stick to each other and freeze together in the cold return of night.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, вызывающий яростные метели в приступе гнева.",
+      "fact_ru": "Ваниллюкс появляется, когда два Ваниллиша слипаются и снова замерзают ночью.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/584/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

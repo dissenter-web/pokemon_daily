@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 11,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 260,
@@ -12,10 +12,10 @@
       "name_ru": "Свамперт",
       "description_source_en": "Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.",
       "fact_source_en": "SWAMPERT predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный водный покемон, способный без труда сдвигать огромные валуны.",
+      "fact_ru": "Свамперт чувствует приближение шторма плавниками и заранее строит защиту из камней.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/260/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 261,
@@ -24,10 +24,10 @@
       "name_ru": "Пучиена",
       "description_source_en": "At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",
       "fact_source_en": "POOCHYENA is an omnivore - it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This POKéMON tries to intimidate its foes by making the hair on its tail bristle out.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Любопытный покемон, который кусает всё, что движется, чтобы проверить это на прочность.",
+      "fact_ru": "Пучиена всеядна и пытается запугать врагов, вздыбливая шерсть на хвосте.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/261/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 262,
@@ -36,10 +36,10 @@
       "name_ru": "Майтиена",
       "description_source_en": "Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs.",
       "fact_source_en": "MIGHTYENA gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This POKéMON will bite savagely with its sharply pointed fangs.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свирепый хищник, заранее предупреждающий о своей атаке глухим рычанием.",
+      "fact_ru": "Перед броском Майтиена прижимается к земле и наносит мощный укус.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/262/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 263,
@@ -48,10 +48,10 @@
       "name_ru": "Зигзагун",
       "description_source_en": "It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.",
       "fact_source_en": "The hair on ZIGZAGOON’s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This POKéMON may play dead to fool foes in battle.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Небольшой покемон, помечающий территорию жёсткой шерстью на спине.",
+      "fact_ru": "Зигзагун иногда притворяется мёртвым, чтобы обмануть противника.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/263/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 264,
@@ -60,10 +60,10 @@
       "name_ru": "Лайнун",
       "description_source_en": "Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.",
       "fact_source_en": "When hunting, LINOONE will make a beeline straight for the prey at a full run. While this POKéMON is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Быстрый покемон с прочной и гибкой шерстью.",
+      "fact_ru": "Лайнун способен развивать огромную скорость, но почти не умеет резко поворачивать.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/264/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 265,
@@ -72,10 +72,10 @@
       "name_ru": "Вурмпл",
       "description_source_en": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves.",
       "fact_source_en": "Using the spikes on its rear end, WURMPLE peels the bark off trees and feeds on the sap that oozes out. This POKéMON’s feet are tipped with suction pads that allow it to cling to glass without slipping.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Гусеница-покемон, питающаяся древесным соком.",
+      "fact_ru": "Невозможно определить заранее, в какую форму эволюционирует Вурмпл.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/265/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 266,
@@ -84,10 +84,10 @@
       "name_ru": "Силкун",
       "description_source_en": "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard.",
       "fact_source_en": "SILCOON was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this POKéMON slakes its thirst by drinking rainwater that collects on its silk.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-кокон, терпеливо накапливающий энергию для эволюции.",
+      "fact_ru": "Силкун почти не ест и утоляет жажду дождевой водой, собирающейся на его шелке.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/266/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 267,
@@ -96,10 +96,10 @@
       "name_ru": "Бьютифлай",
       "description_source_en": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar.",
       "fact_source_en": "BEAUTIFLY’s favorite food is the sweet pollen of flowers. If you want to see this POKéMON, just leave a potted flower by an open window. BEAUTIFLY is sure to come looking for pollen.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Яркая бабочка, обожающая сладкую цветочную пыльцу.",
+      "fact_ru": "Несмотря на красоту, Бьютифлай ревностно прогоняет соперников от любимых цветов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/267/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 268,
@@ -108,10 +108,10 @@
       "name_ru": "Каскун",
       "description_source_en": "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch.",
       "fact_source_en": "If it is attacked, CASCOON remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This POKéMON will also not forget the pain it endured.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Кокон с прочной шелковой оболочкой высокого качества.",
+      "fact_ru": "Даже получив серьёзные повреждения, Каскун старается не двигаться до завершения эволюции.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/268/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 269,
@@ -120,10 +120,10 @@
       "name_ru": "Дастокс",
       "description_source_en": "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales.",
       "fact_source_en": "When DUSTOX flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This POKéMON searches for food using its antennae like radar.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ночная бабочка, распространяющая ядовитую пыльцу.",
+      "fact_ru": "Дастокс использует усики как радар для поиска пищи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/269/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 270,
@@ -132,10 +132,10 @@
       "name_ru": "Лотад",
       "description_source_en": "Lotad live in ponds and lakes, where they float on the surface. It grows weak if its broad leaf dies. On rare occasions, this Pokémon travels on land in search of clean water.",
       "fact_source_en": "LOTAD is said to have dwelled on land before. However, this POKéMON is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Водный покемон, плавающий на поверхности прудов и озёр.",
+      "fact_ru": "Если лист на голове Лотада погибает, покемон быстро слабеет.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/270/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 271,
@@ -144,10 +144,10 @@
       "name_ru": "Ломбрэ",
       "description_source_en": "Lombre is nocturnal—it will get active after dusk. It is also a mischief maker. When this Pokémon spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
       "fact_source_en": "LOMBRE is nocturnal - it will get active after dusk. It is also a mischief-maker. When this POKéMON spots anglers, it tugs on their fishing lines from beneath the surface and enjoys their consternation.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ночной проказник, любящий подшучивать над рыбаками.",
+      "fact_ru": "Ломбрэ дёргает лески из-под воды, наслаждаясь удивлением людей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/271/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 272,
@@ -156,10 +156,10 @@
       "name_ru": "Лудиколо",
       "description_source_en": "Ludicolo begins dancing as soon as it hears cheerful, festive music. This Pokémon is said to appear when it hears the singing of children on hiking outings.",
       "fact_source_en": "Upon hearing an upbeat and cheerful rhythm, the cells in LUDICOLO’s body become very energetic and active. Even in battle, this POKéMON will exhibit an amazing amount of power.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Весёлый покемон, начинающий танцевать под любую праздничную музыку.",
+      "fact_ru": "Жизнерадостный ритм мгновенно наполняет клетки Лудиколо энергией.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/272/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 273,
@@ -168,10 +168,10 @@
       "name_ru": "Сидот",
       "description_source_en": "If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",
       "fact_source_en": "SEEDOT attaches itself to a tree branch using the top of its head. It sucks moisture from the tree while hanging off the branch. The more water it drinks, the glossier this POKéMON’s body becomes.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, напоминающий желудь и мастерски маскирующийся под настоящий орех.",
+      "fact_ru": "Сидот висит на ветках деревьев и впитывает влагу через макушку.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/273/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 274,
@@ -180,10 +180,10 @@
       "name_ru": "Назлиф",
       "description_source_en": "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.",
       "fact_source_en": "This POKéMON pulls out the leaf on its head and makes a flute with it. The sound of NUZLEAF’s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Лесной покемон, живущий в дуплах старых деревьев.",
+      "fact_ru": "Назлиф играет на листе как на флейте, пугая заблудившихся путников.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/274/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 275,
@@ -192,10 +192,10 @@
       "name_ru": "Шифтри",
       "description_source_en": "Shiftry is a mysterious Pokémon that is said to live atop towering trees dating back over a thousand years. It creates terrific windstorms with the fans it holds.",
       "fact_source_en": "SHIFTRY’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This POKéMON chooses to live quietly deep in forests.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный покемон, способный поднимать разрушительные ветры.",
+      "fact_ru": "Шифтри предпочитает жить в глубине древних лесов вдали от людей.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/275/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 276,
@@ -204,10 +204,10 @@
       "name_ru": "Тэйллоу",
       "description_source_en": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
       "fact_source_en": "TAILLOW courageously stands its ground against foes, however strong they may be. This gutsy POKéMON will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Смелая птица, не боящаяся даже более сильных противников.",
+      "fact_ru": "Если Тэйллоу голоден, он начинает громко кричать.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/276/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 277,
@@ -216,10 +216,10 @@
       "name_ru": "Свеллоу",
       "description_source_en": "Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape.",
       "fact_source_en": "SWELLOW flies high above our heads, making graceful arcs in the sky. This POKéMON dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by SWELLOW’s clawed feet, preventing escape.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стремительная ласточка, пикирующая на добычу с большой высоты.",
+      "fact_ru": "Свеллоу крепко хватает жертву когтями, практически не оставляя ей шансов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/277/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 278,
@@ -228,10 +228,10 @@
       "name_ru": "Вингалл",
       "description_source_en": "With its long, thin wings, it catches updrafts and flies like a glider high up into the sky.",
       "fact_source_en": "WINGULL has the habit of carrying prey and valuables in its beak and hiding them in all sorts of locations. This POKéMON rides the winds and flies as if it were skating across the sky.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Морская птица, парящая в потоках воздуха словно планёр.",
+      "fact_ru": "Вингалл прячет найденные ценности и добычу в самых неожиданных местах.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/278/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 279,
@@ -240,10 +240,10 @@
       "name_ru": "Пелиппер",
       "description_source_en": "It places small Pokémon into its spacious beak and carries them around. No one knows where it’s taking them.",
       "fact_source_en": "PELIPPER searches for food while in flight by skimming the wave tops. This POKéMON dips its large bill in the sea to scoop up food, then swallows everything in one big gulp.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с огромным клювом, в котором переносит других маленьких покемонов.",
+      "fact_ru": "Пелиппер добывает пищу, зачерпывая её прямо из моря своим клювом.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/279/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 280,
@@ -252,10 +252,10 @@
       "name_ru": "Ролтс",
       "description_source_en": "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research.",
       "fact_source_en": "RALTS senses the emotions of people using the horns on its head. This POKéMON rarely appears before people. But when it does, it draws closer if it senses that the person has a positive disposition.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Психический покемон, чувствующий эмоции окружающих.",
+      "fact_ru": "Ролтс охотнее подходит к людям с добрым и позитивным характером.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/280/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 281,
@@ -264,10 +264,10 @@
       "name_ru": "Кирлия",
       "description_source_en": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
       "fact_source_en": "KIRLIA uses the horns on its head to amplify its psychokinetic power. When the POKéMON uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Изящный покемон, создающий миражи силой психокинеза.",
+      "fact_ru": "Рога Кирлии усиливают её способности и искажают пространство вокруг.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/281/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 282,
@@ -276,10 +276,10 @@
       "name_ru": "Гардевойр",
       "description_source_en": "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life.",
       "fact_source_en": "GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This POKéMON will try to protect its TRAINER even at the risk of its own life.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Преданный покемон, готовый пожертвовать собой ради любимого тренера.",
+      "fact_ru": "Гардевойр способен искривлять пространство и создавать небольшие чёрные дыры.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/282/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 283,
@@ -288,10 +288,10 @@
       "name_ru": "Сурскит",
       "description_source_en": "If it’s in a pinch, it will secrete a sweet liquid from the tip of its head. Syrup made from gathering that liquid is tasty on bread.",
       "fact_source_en": "From the tips of its feet, SURSKIT secretes an oil that enables it to walk on water as if it were skating. This POKéMON feeds on microscopic organisms in ponds and lakes.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон, легко скользящий по воде благодаря особому маслу на лапках.",
+      "fact_ru": "При опасности Сурскит выделяет сладкую жидкость с кончика головы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/283/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 284,
@@ -300,10 +300,10 @@
       "name_ru": "Маскерейн",
       "description_source_en": "Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn’t work, it deftly makes its escape on its set of four wings.",
       "fact_source_en": "MASQUERAIN intimidates enemies with the eyelike patterns on its antennas. This POKéMON flaps its four wings to freely fly in any direction - even sideways and backwards - as if it were a helicopter.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон с узорами, напоминающими огромные глаза, которыми он отпугивает врагов.",
+      "fact_ru": "Маскерейн свободно летает вперёд, назад и вбок, словно маленький вертолёт.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/284/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }

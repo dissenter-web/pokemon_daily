@@ -3,7 +3,7 @@
   "language": "ru",
   "batch_number": 24,
   "total": 25,
-  "status": "translation_pending",
+  "status": "ready",
   "entries": [
     {
       "pokeapi_id": 585,
@@ -12,10 +12,10 @@
       "name_ru": "Дирлинг",
       "description_source_en": "Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.",
       "fact_source_en": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Покемон-оленёнок, меняющий окраску вместе со сменой времён года.",
+      "fact_ru": "Цвет и запах шерсти Дирлинга помогают ему скрываться среди сезонной растительности.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/585/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 586,
@@ -24,10 +24,10 @@
       "name_ru": "Сосбак",
       "description_source_en": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
       "fact_source_en": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Благородный олень, кочующий вслед за сменой сезонов.",
+      "fact_ru": "Растения на рогах Сосбака меняются в течение года, а самые роскошные рога принадлежат вожакам.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/586/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 587,
@@ -36,10 +36,10 @@
       "name_ru": "Эмолга",
       "description_source_en": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
       "fact_source_en": "They store up electricity to fly through the air. When thunder cracks at night, sometimes there are almost enough of them to blot out the sky.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленькая белка-летяга, окружённая электрическими искрами.",
+      "fact_ru": "Эмолга накапливает электричество для полёта, а во время гроз собирается огромными стаями.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/587/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 588,
@@ -48,10 +48,10 @@
       "name_ru": "Каррабласт",
       "description_source_en": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.",
       "fact_source_en": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Жук с необычной реакцией на электрическую энергию.",
+      "fact_ru": "Каррабласт растворяет панцирь Шелмета особой жидкостью и поедает содержимое.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/588/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 589,
@@ -60,10 +60,10 @@
       "name_ru": "Эскавальер",
       "description_source_en": "They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region.",
       "fact_source_en": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Рыцарь в украденном панцире, вооружённый длинными копьями.",
+      "fact_ru": "Эскавальер прославился своими поединками, один из которых запечатлён на знаменитой картине.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/589/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 590,
@@ -72,10 +72,10 @@
       "name_ru": "Фунгус",
       "description_source_en": "No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.",
       "fact_source_en": "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Грибной покемон с загадочным рисунком, похожим на Поке Бол.",
+      "fact_ru": "Высушенные ядовитые споры Фунгуса используют как средство от желудочных недугов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/590/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 591,
@@ -84,10 +84,10 @@
       "name_ru": "Амунгус",
       "description_source_en": "This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land.",
       "fact_source_en": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Ядовитый гриб, выпускающий облака опасных спор.",
+      "fact_ru": "Амунгус любит неподвижно ждать рядом с брошенными Поке Болами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/591/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 592,
@@ -96,10 +96,10 @@
       "name_ru": "Фриллиш",
       "description_source_en": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface.",
       "fact_source_en": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачная медуза, утаскивающая добычу в морские глубины.",
+      "fact_ru": "Фриллиш парализует жертву невидимыми ядовитыми шипами.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/592/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 593,
@@ -108,10 +108,10 @@
       "name_ru": "Джеллисент",
       "description_source_en": "Most of this Pokémon’s body composition is identical to sea water. It makes sunken ships its lair.",
       "fact_source_en": "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачный владыка затонувших кораблей.",
+      "fact_ru": "В полнолуние Джеллисенты собираются у поверхности моря в ожидании добычи.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/593/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 594,
@@ -120,10 +120,10 @@
       "name_ru": "Аломомола",
       "description_source_en": "Fishermen take them along on long voyages, because if you have an Alomomola with you, there’ll be no need for a doctor or medicine.",
       "fact_source_en": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Добросердечная рыба, известная своими целебными способностями.",
+      "fact_ru": "Моряки брали Аломомолу в плавания как живой символ удачи и исцеления.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/594/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 595,
@@ -132,10 +132,10 @@
       "name_ru": "Джолтик",
       "description_source_en": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.",
       "fact_source_en": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Крошечный паук, питающийся статическим электричеством.",
+      "fact_ru": "Джолтик часто цепляется к другим покемонам, чтобы зарядиться энергией.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/595/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 596,
@@ -144,10 +144,10 @@
       "name_ru": "Галвантула",
       "description_source_en": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
       "fact_source_en": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрический паук, расставляющий смертельные ловушки.",
+      "fact_ru": "Галвантула охотится на птенцов, используя наэлектризованные нити.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/596/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 597,
@@ -156,10 +156,10 @@
       "name_ru": "Ферросид",
       "description_source_en": "It defends itself by launching spikes, but its aim isn’t very good at first. Only after a lot of practice will it improve.",
       "fact_source_en": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Стальной семенной покемон с растущими шипами.",
+      "fact_ru": "Мох помогает шипам Ферросида становиться крепче и длиннее.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/597/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 598,
@@ -168,10 +168,10 @@
       "name_ru": "Ферроторн",
       "description_source_en": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
       "fact_source_en": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Бронированный покемон, добывающий питательные вещества из камней.",
+      "fact_ru": "Шипы Ферроторна прочнее стали и помогают ему ползать по скалам.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/598/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 599,
@@ -180,10 +180,10 @@
       "name_ru": "Клинк",
       "description_source_en": "The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.",
       "fact_source_en": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Две идеально подходящие друг другу шестерёнки образуют единое целое.",
+      "fact_ru": "Клинк может соединяться только со своей парной шестерёнкой.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/599/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 600,
@@ -192,10 +192,10 @@
       "name_ru": "Кланг",
       "description_source_en": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon’s rotation speed increases sharply.",
       "fact_source_en": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Механический покемон, резко ускоряющий вращение при полной синхронизации.",
+      "fact_ru": "Кланг стал символом промышленности во многих регионах Галара.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/600/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 601,
@@ -204,10 +204,10 @@
       "name_ru": "Клинкланг",
       "description_source_en": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
       "fact_source_en": "The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Мощный механизм, выпускающий разрушительные электрические разряды.",
+      "fact_ru": "Красное ядро Клинкланга накапливает огромный запас энергии.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/601/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 602,
@@ -216,10 +216,10 @@
       "name_ru": "Тинамо",
       "description_source_en": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
       "fact_source_en": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Маленькая электрическая рыбка, усиливающая разряды вместе со стаей.",
+      "fact_ru": "Один Тинамо слаб, но целая группа способна нанести мощный электрический удар.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/602/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 603,
@@ -228,10 +228,10 @@
       "name_ru": "Электрик",
       "description_source_en": "It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.",
       "fact_source_en": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Электрический угорь, парализующий добычу перед укусом.",
+      "fact_ru": "Электрик обвивает противника и поражает его током через боковые органы.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/603/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 604,
@@ -240,10 +240,10 @@
       "name_ru": "Электросс",
       "description_source_en": "It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity.",
       "fact_source_en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Огромный угорь, атакующий добычу на суше и в воде.",
+      "fact_ru": "Электросс выползает из океана, хватает жертву и утаскивает её обратно.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/604/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 605,
@@ -252,10 +252,10 @@
       "name_ru": "Элгием",
       "description_source_en": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
       "fact_source_en": "It controls tremendous psychic power. Most reports of alien sightings are actually just people mistaking Elgyem for an alien.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Таинственный психический покемон, напоминающий пришельца.",
+      "fact_ru": "Появление Элгиема рядом с телевизором вызывает странные изображения на экране.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/605/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 606,
@@ -264,10 +264,10 @@
       "name_ru": "Бехийем",
       "description_source_en": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
       "fact_source_en": "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Могущественный экстрасенс, способный изменять память.",
+      "fact_ru": "Бехийем управляет противниками с помощью светящихся разноцветных пальцев.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/606/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 607,
@@ -276,10 +276,10 @@
       "name_ru": "Литвик",
       "description_source_en": "The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.",
       "fact_source_en": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Свеча-проводник, ведущая заблудившихся детей в мир духов.",
+      "fact_ru": "Пламя Литвика питается жизненной энергией людей и покемонов.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/607/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 608,
@@ -288,10 +288,10 @@
       "name_ru": "Лампент",
       "description_source_en": "This Pokémon appears just before someone passes away, so it’s feared as an emissary of death.",
       "fact_source_en": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачный фонарь, появляющийся перед чьей-либо смертью.",
+      "fact_ru": "Лампент скрывается под видом обычного фонаря и незаметно следует за обречёнными.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/608/",
-      "status": "translation_pending"
+      "status": "ready"
     },
     {
       "pokeapi_id": 609,
@@ -300,10 +300,10 @@
       "name_ru": "Шанделюр",
       "description_source_en": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
       "fact_source_en": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
-      "description_ru": "",
-      "fact_ru": "",
+      "description_ru": "Призрачная люстра, гипнотизирующая врагов танцем синего пламени.",
+      "fact_ru": "Шанделюр поглощает души и сжигает их своим мистическим огнём.",
       "source_url": "https://pokeapi.co/api/v2/pokemon-species/609/",
-      "status": "translation_pending"
+      "status": "ready"
     }
   ]
 }
