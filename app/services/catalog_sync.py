@@ -117,6 +117,8 @@ class CatalogSyncService:
         entries: dict[str, dict[str, str]] = {}
 
         for json_file in sorted(path.glob("*.json")):
+            if json_file.name.startswith("."):
+                continue
             payload = json.loads(json_file.read_text(encoding="utf-8"))
 
             file_entries = payload.get("entries")
