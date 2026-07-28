@@ -69,7 +69,7 @@ async def delivery_run() -> None:
         result = await DeliveryService(session, client, settings).run_due_batch()
     print(json.dumps({"planned": result.planned, "attempted": result.attempted}))
 
-async def send_test_card(max_user_id: int) -> None:
+async def send_test_card(max_user_id: int, count: int) -> None:
     settings = get_settings()
 
     async with (
@@ -82,31 +82,44 @@ async def send_test_card(max_user_id: int) -> None:
     ):
         catalog = CatalogRepository(session)
 
-        pokemon = await catalog.first_available()
+        pokemon_list = await catalog.first_available_many(count)
 
-        if pokemon is None:
+        if not pokemon_list:
             raise SystemExit(
                 "В каталоге нет готовых карточек. "
                 "Сначала выполни sync-catalog."
             )
 
-        card = await catalog.card(pokemon.id)
+        sent_cards = []
 
-        message_id = await client.send_message(
-            max_user_id=max_user_id,
-            text=format_card(card),
-            buttons=card_buttons(card.pokemon_id, False),
-            image_url=card.image_url,
-        )
+        for index, pokemon in enumerate(pokemon_list, start=1):
+            card = await catalog.card(pokemon.id)
+
+            message_id = await client.send_message(
+                max_user_id=max_user_id,
+                text=format_card(card),
+                buttons=card_buttons(card.pokemon_id, False),
+                image_url=card.image_url,
+            )
+
+            sent_cards.append(
+                {
+                    "pokemon_id": card.pokemon_id,
+                    "pokemon": card.name_en,
+                    "message_id": message_id,
+                }
+            )
+
+            if index < len(pokemon_list):
+                await asyncio.sleep(2)
 
     print(
         json.dumps(
             {
                 "status": "sent",
                 "max_user_id": max_user_id,
-                "pokemon_id": card.pokemon_id,
-                "pokemon": card.name_en,
-                "message_id": message_id,
+                "count": len(sent_cards),
+                "cards": sent_cards,
             },
             ensure_ascii=False,
         )
@@ -136,6 +149,13 @@ def parser() -> argparse.ArgumentParser:
         help="Идентификатор пользователя в MAX",
     )
 
+    test_card.add_argument(
+    "--count",
+    type=int,
+    default=1,
+    help="Количество разных карточек для отправки",
+    )
+
     return root
 
 
@@ -151,7 +171,10 @@ async def async_main() -> None:
         elif arguments.command == "delivery-run":
             await delivery_run()
         elif arguments.command == "send-test-card":
-            await send_test_card(arguments.max_user_id)
+            await send_test_card(
+            arguments.max_user_id,
+            max(arguments.count, 1),
+            )
     finally:
         await engine.dispose()
 

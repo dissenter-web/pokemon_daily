@@ -43,6 +43,12 @@ class CatalogRepository:
         )
         return result.scalar_one_or_none()
 
+    async def first_available_many(self, limit: int) -> list[Pokemon]:
+        result = await self.session.execute(
+            self._ordered_catalog().limit(limit)
+        )
+        return list(result.scalars().all())
+
     async def next_for_user(self, user_id: int) -> Pokemon | None:
         statement = (
             self._ordered_catalog()
