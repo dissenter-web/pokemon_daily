@@ -14,3 +14,5 @@ certs/*.pem
 certs/*.cer
 certs/*.crt
 secrets/
+# Editorial generator checkpoint
+data/editorial/.editorial_checkpoint.json
