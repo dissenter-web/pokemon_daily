@@ -116,7 +116,7 @@ def format_about() -> str:
         "Версия: 1.0.0-alpha\n"
         "Статус: MVP\n\n"
         "Разработчик: Dissenter\n\n"
-        "GitHub:\n"
-        "https://github.com/dissenter-web\n\n"
+        "Сайт:\n"
+        "https://dissenter.top\n\n"
         "© 2026 Pokémon Daily"
     )
